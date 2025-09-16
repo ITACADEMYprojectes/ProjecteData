@@ -8,6 +8,7 @@ Módulos incluidos:
 - cleaning_functions: Funciones para limpieza de datos
 - transformation_functions: Funciones para transformación de datos  
 - reduction_functions: Funciones para reducción de datos
+- eda_utils: Utilidades para análisis exploratorio de datos (EDA)
 - visualization_utils: Utilidades para visualización
 - marketing_utils: Utilidades para análisis de marketing
 - operations_utils: Utilidades para análisis de operaciones
@@ -37,6 +38,19 @@ from .reduction_functions import (
     aggregate_data,
     reduce_dimensionality,
     optimize_memory_usage
+)
+
+# Importar funciones de EDA
+from .eda_utils import (
+    set_plot_style,
+    generate_summary_statistics,
+    plot_numeric_distributions,
+    plot_categorical_distributions,
+    plot_correlation_matrix,
+    plot_boxplots_by_category,
+    plot_scatterplots,
+    plot_missing_values,
+    analyze_price_relationships
 )
 
 # from .visualization_utils import (
@@ -91,6 +105,17 @@ __all__ = [
     'aggregate_data',
     'reduce_dimensionality',
     'optimize_memory_usage',
+    
+    # Funciones de EDA
+    'set_plot_style',
+    'generate_summary_statistics',
+    'plot_numeric_distributions',
+    'plot_categorical_distributions',
+    'plot_correlation_matrix',
+    'plot_boxplots_by_category',
+    'plot_scatterplots',
+    'plot_missing_values',
+    'analyze_price_relationships',
     
     # # Funciones de visualización
     # 'set_plot_style',

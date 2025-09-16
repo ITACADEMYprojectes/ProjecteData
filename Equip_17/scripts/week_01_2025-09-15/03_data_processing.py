@@ -25,6 +25,7 @@ spec.loader.exec_module(data_processing_functions)
 handle_duplicates = data_processing_functions.handle_duplicates
 correct_data_types_str_to_date = data_processing_functions.correct_data_types_str_to_date
 correct_data_types_str_to_int = data_processing_functions.correct_data_types_str_to_int
+reviews_format = data_processing_functions.reviews_format
 
 def main():
     # Configurar rutas
@@ -44,6 +45,8 @@ def main():
     df_clean = handle_duplicates(df, 'apartment_id', 'insert_date')
     df_clean = correct_data_types_str_to_date(df_clean)
     df_clean = correct_data_types_str_to_int(df_clean)
+    df_clean = correct_data_types_str_to_int(df_clean)
+    df_clean = reviews_format(df)
 
     # Aplicar funciones de transformación
     print("Aplicando transformación de datos...")

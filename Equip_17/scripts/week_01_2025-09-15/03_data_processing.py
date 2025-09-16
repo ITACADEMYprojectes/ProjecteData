@@ -23,9 +23,14 @@ spec.loader.exec_module(data_processing_functions)
 
 # Ahora puedes usar las funciones del módulo
 handle_duplicates = data_processing_functions.handle_duplicates
+input_price = data_processing_functions.input_price
 correct_data_types_str_to_date = data_processing_functions.correct_data_types_str_to_date
 correct_data_types_str_to_int = data_processing_functions.correct_data_types_str_to_int
+fill_name = data_processing_functions.fill_name
+fill_descriptions = data_processing_functions.fill_descriptions
 reviews_format = data_processing_functions.reviews_format
+extract_amenities_features = data_processing_functions.extract_amenities_features
+
 
 def main():
     # Configurar rutas
@@ -46,10 +51,10 @@ def main():
     df_clean = correct_data_types_str_to_date(df_clean)
     df_clean = correct_data_types_str_to_int(df_clean)
     df_clean = correct_data_types_str_to_int(df_clean)
-    df_clean = reviews_format(df)
 
     # Aplicar funciones de transformación
     print("Aplicando transformación de datos...")
+    df_clean = reviews_format(df)
 
     # Aplicar funciones de reducción
     print("Aplicando reducción de datos...")

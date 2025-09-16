@@ -70,7 +70,7 @@ def fill_descriptions(df):
     
     return df_clean
 
-<<<<<<< HEAD:Equip_17/scripts/utilities/cleaning_functions.py
+#Data Transformation Functions
 def reviews_format(df):
     """Formatear las variables de review'"""
     df_clean = df.copy()
@@ -84,8 +84,7 @@ def reviews_format(df):
     df_clean['review_scores_value'] = df_clean['review_scores_value'] / 10
 
     return df_clean
-=======
-#Data Transformation Functions
+
 def extract_amenities_features(df, amenities_to_check):
     """Extracción de características de amenities.
     Es necesario Definir tu lista de amenities externamente. Por ejemplo:
@@ -102,4 +101,3 @@ def extract_amenities_features(df, amenities_to_check):
 
 
 #Data Reduction Functions
->>>>>>> 2e46a2d27e294594d05ffc9c08eb271dd22e6892:Equip_17/scripts/utilities/data_processing_functions.py

@@ -34,6 +34,7 @@ from .data_processing_functions import (
     fill_descriptions,
 
     #Data Transformation Functions
+    reviews_format,
     extract_amenities_features,
 
     #Data Reduction Functions
@@ -63,7 +64,8 @@ __all__ = [
     'fill_descriptions',
     
     #Data Transformation Functions
-   'extract_amenities_features'
+    'reviews_format',
+    'extract_amenities_features'
 
     #Data Reduction Functions
 

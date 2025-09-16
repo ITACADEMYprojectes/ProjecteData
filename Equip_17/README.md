@@ -18,8 +18,6 @@ staySpain-analysis/
 │
 ├── results/                           # Todos los resultados generados
 │   └── week_01_2025-09-15/            # Resultados de la semana 1
-│   │   ├── data_understanding/        # Resultados del entendimiento de datos
-│   │   │   └── data_summary.txt
 │   │   ├── eda/                       # Análisis exploratorio
 │   │   │   ├── numerical_summary.txt
 │   │   │   ├── categorical_summary.txt
@@ -54,6 +52,7 @@ staySpain-analysis/
 │   │   ├── eda_utils.py               # Utilidades para EDA
 │   │
 │   └── week_01_2025-09-15/            # Scripts de la semana 1
+│   │   ├── 01_data_understanding.ipynb  # Resultados del entendimiento de datos
 │   │   ├── 02_data_cleaning.py        # Limpieza de datos
 │   │   ├── 03_data_transformation.py  # Transformación de datos
 │   │   ├── 04_data_reduction.py       # Reducción de datos

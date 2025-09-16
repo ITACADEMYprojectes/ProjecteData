@@ -1,46 +1,70 @@
 import pandas as pd
 import numpy as np
 
-def handle_missing_values(df):
-    """Manejo de valores faltantes"""
+def handle_duplicates(df, apartment_id, insert_date):
+    """Eliminación de duplicados según insert_date"""
     df_clean = df.copy()
     
-    # Ejemplo: Imputar precios faltantes con la mediana por ciudad
-    df_clean['price'] = df_clean.groupby('city')['price'].transform(
-        lambda x: x.fillna(x.median())
-    )
+    # Encontrar duplicados
+    duplicados = df_clean[df_clean.duplicated(apartment_id, keep=False)]
     
-    # Otras imputaciones...
+    if duplicados.empty:
+        print("No se encontraron registros duplicados.")
+        return None
+    
+    # Ordenar duplicados por fecha (más reciente primero)
+    duplicados_ordenados = duplicados.sort_values(by=[apartment_id, insert_date], ascending=[True, False])
+    
+    # Mantener solo el registro más reciente de cada duplicado
+    df_clean = df_clean.sort_values(insert_date, ascending=False)\
+                     .drop_duplicates(apartment_id, keep='first')\
+                     .sort_index()
+       
     return df_clean
 
-def correct_data_types(df):
-    """Corrección de tipos de datos"""
+def impute_price(df, price, room_type, accommodates, neighbourhood_name):
+    """Imputación de precios"""
+    df_clean = df.copy()
+    
+    # Calcular la media según alojamiento, capacidad y localización
+    avgs = df_clean.groupby([room_type, accommodates, neighbourhood_name])[price].transform('mean')
+    df_clean[price] = df_clean[price].fillna(avgs)
+    
+    return df_clean
+
+def correct_data_types_str_to_date(df):
+    """Corrección de tipos de datos de str a date"""
     df_clean = df.copy()
     
     # Conversión de tipos
-    df_clean['price'] = df_clean['price'].astype(float)
-    df_clean['last_review_date'] = pd.to_datetime(df_clean['last_review_date'])
+    df_clean['first_review_date'] = pd.to_datetime(df_clean['first_review_date'], errors='coerce', format='%d/%m/%Y')
+    df_clean['last_review_date'] = pd.to_datetime(df_clean['last_review_date'], errors='coerce', format='%d/%m/%Y')
+    df_clean['insert_date'] = pd.to_datetime(df_clean['insert_date'], errors='coerce', format='%d/%m/%Y')
+
+    return df_clean
+
+def correct_data_types_str_to_int(df):
+    """Corrección de tipos de datos de str a int"""
+    df_clean = df.copy()
+    
+    # Conversión de tipos
+    df_clean['bedrooms'] = pd.to_numeric(df_clean['bedrooms'], errors='coerce').astype('Int64')
+    df_clean['bathrooms'] = pd.to_numeric(df_clean['bathrooms'], errors='coerce').astype('Int64')
     
     return df_clean
 
-def remove_duplicates(df):
-    """Eliminación de duplicados"""
-    return df.drop_duplicates(subset=['apartment_id'])
-
-def handle_outliers(df):
-    """Manejo de valores atípicos"""
+def fill_name(df):
+    """Gestión de registros sin datos en 'name'"""
     df_clean = df.copy()
     
-    # Ejemplo: Eliminar precios extremos
-    Q1 = df_clean['price'].quantile(0.05)
-    Q3 = df_clean['price'].quantile(0.95)
-    IQR = Q3 - Q1
-    lower_bound = Q1 - 1.5 * IQR
-    upper_bound = Q3 + 1.5 * IQR
+    df_clean['name'] = df_clean['name'].fillna(df_clean['room_type'] + ' ' + df_clean['neighbourhood_name'])
     
-    df_clean = df_clean[
-        (df_clean['price'] >= lower_bound) & 
-        (df_clean['price'] <= upper_bound)
-    ]
+    return df_clean
+
+def fill_descriptions(df):
+    """Gestión de registros sin datos en 'name'"""
+    df_clean = df.copy()
+    
+    df_clean['description'] = df_clean['description'].fillna(df_clean['name'])
     
     return df_clean

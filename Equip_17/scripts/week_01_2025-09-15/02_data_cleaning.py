@@ -30,7 +30,7 @@ def main():
     # Configurar rutas
     current_week = "week_01_2025-09-15"
     input_path = project_root / "data" / "raw" / current_week / "staySpain_raw.csv"
-    output_path = project_root / "data" / "processed" / current_week / "staySpain_cleaned.csv"
+    output_path = project_root / "data" / "processed" / current_week / "staySpain_cleaned.pkl"
     
     # Crear directorio si no existe
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -46,7 +46,7 @@ def main():
     df_clean = correct_data_types_str_to_int(df_clean)
     
     # Guardar datos limpios
-    df_clean.to_csv(output_path, index=False)
+    df_clean.to_pickle(output_path)
     print(f"Datos limpios guardados en: {output_path}")
     
     return df_clean

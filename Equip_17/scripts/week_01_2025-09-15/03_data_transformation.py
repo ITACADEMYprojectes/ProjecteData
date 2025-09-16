@@ -44,8 +44,8 @@ normalize_data = transformation_functions.normalize_data
 def main():
     # Configurar rutas
     current_week = "week_01_2025-09-15"
-    input_path = project_root / "data" / "processed" / current_week / "staySpain_cleaned.csv"
-    output_path = project_root / "data" / "processed" / current_week / "staySpain_transformed.csv"
+    input_path = project_root / "data" / "processed" / current_week / "staySpain_cleaned.pkl"
+    output_path = project_root / "data" / "processed" / current_week / "staySpain_transformed.pkl"
     
     # Verificar si el archivo de entrada existe
     if not input_path.exists():
@@ -68,7 +68,7 @@ def main():
     df_transformed = normalize_data(df_transformed)
     
     # Guardar datos transformados
-    df_transformed.to_csv(output_path, index=False)
+    df_transformed.to_pickle(output_path, index=False)
     print(f"Datos transformados guardados en: {output_path}")
     print(f"Datos finales: {df_transformed.shape[0]} filas, {df_transformed.shape[1]} columnas")
     

@@ -62,9 +62,23 @@ def fill_name(df):
     return df_clean
 
 def fill_descriptions(df):
-    """Gestión de registros sin datos en 'name'"""
+    """Gestión de registros sin datos en 'descriptions'"""
     df_clean = df.copy()
     
     df_clean['description'] = df_clean['description'].fillna(df_clean['name'])
     
+    return df_clean
+
+def reviews_format(df):
+    """Formatear las variables de review'"""
+    df_clean = df.copy()
+    
+    df_clean['review_scores_rating'] = df_clean['review_scores_rating'] / 10
+    df_clean['review_scores_accuracy'] = df_clean['review_scores_accuracy'] / 10
+    df_clean['review_scores_cleanliness'] = df_clean['review_scores_cleanliness'] / 10
+    df_clean['review_scores_checkin'] = df_clean['review_scores_checkin'] / 10
+    df_clean['review_scores_communication'] = df_clean['review_scores_communication'] / 10
+    df_clean['review_scores_location'] = df_clean['review_scores_location'] / 10
+    df_clean['review_scores_value'] = df_clean['review_scores_value'] / 10
+
     return df_clean

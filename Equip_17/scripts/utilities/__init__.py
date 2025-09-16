@@ -37,12 +37,7 @@ from .data_processing_functions import (
     extract_amenities_features,
 
     #Data Reduction Functions
-
 )
-
-
-
-
 
 # Lista de lo que se exporta con "from utilities import *"
 __all__ = [

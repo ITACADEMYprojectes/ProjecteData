@@ -48,20 +48,18 @@ staySpain-analysis/
 ├── scripts/                           # Todos los scripts de análisis
 │   ├── utilities/                     # Funciones y utilidades compartidas
 │   │   ├── __init__.py               # Hace que utilities sea un paquete Python
-│   │   ├── processing_functions.py      # Funciones de limpieza, transformación y reducción
 │   │   ├── eda_utils.py               # Utilidades para EDA
+│   │   └── processing_functions.py      # Funciones de limpieza, transformación y reducción
 │   │
 │   └── week_01_2025-09-15/            # Scripts de la semana 1
 │   │   ├── 01_data_understanding.ipynb  # Resultados del entendimiento de datos
-│   │   ├── 02_data_cleaning.py        # Limpieza de datos
-│   │   ├── 03_data_transformation.py  # Transformación de datos
-│   │   ├── 04_data_reduction.py       # Reducción de datos
-│   │   ├── 05_eda.py                  # EDA
-│   │   ├── 06_kpi.py                  # KPI 
-│   │   ├── 07a_marketing_analysis.py  # Análisis de marketing
-│   │   ├── 07b_operations_analysis.py # Análisis de operaciones
-│   │   ├── 07c_customer_analysis.py   # Análisis de experiencia
-│   │   └── 08_consolidated_report.py  # Reporte integrado
+│   │   ├── 02_eda.py                  # EDA
+│   │   ├── 03_data_processing.py      # Limpieza, transformación y reducciónLimpieza de datos
+│   │   ├── 04_kpi.py                  # KPI 
+│   │   ├── 05a_marketing_analysis.py  # Análisis de marketing
+│   │   ├── 05b_operations_analysis.py # Análisis de operaciones
+│   │   ├── 05c_customer_analysis.py   # Análisis de experiencia
+│   │   └── 06_consolidated_report.py  # Reporte integrado
 │   │
 │   ├──  week_02_2025-09-22/            # Scripts de la semana 2
 │   └── ...                            # Semanas posteriores

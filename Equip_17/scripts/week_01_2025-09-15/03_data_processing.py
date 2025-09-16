@@ -8,23 +8,23 @@ import importlib.util
 project_root = Path(__file__).resolve().parent.parent.parent
 utilities_path = project_root / "scripts" / "utilities"
 
-# Ruta al archivo cleaning_functions.py
-cleaning_functions_file = utilities_path / "cleaning_functions.py"
+# Ruta al archivo data_processing_functions.py
+data_processing_functions_file = utilities_path / "data_processing_functions.py"
 
 # Verificar si el archivo existe
-if not cleaning_functions_file.exists():
-    print(f"ERROR: No se encuentra el archivo {cleaning_functions_file}")
+if not data_processing_functions_file.exists():
+    print(f"ERROR: No se encuentra el archivo {data_processing_functions_file}")
     sys.exit(1)
 
 # Cargar el módulo manualmente
-spec = importlib.util.spec_from_file_location("cleaning_functions", cleaning_functions_file)
-cleaning_functions = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(cleaning_functions)
+spec = importlib.util.spec_from_file_location("data_processing_functions", data_processing_functions_file)
+data_processing_functions = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(data_processing_functions)
 
 # Ahora puedes usar las funciones del módulo
-handle_duplicates = cleaning_functions.handle_duplicates
-correct_data_types_str_to_date = cleaning_functions.correct_data_types_str_to_date
-correct_data_types_str_to_int = cleaning_functions.correct_data_types_str_to_int
+handle_duplicates = data_processing_functions.handle_duplicates
+correct_data_types_str_to_date = data_processing_functions.correct_data_types_str_to_date
+correct_data_types_str_to_int = data_processing_functions.correct_data_types_str_to_int
 
 def main():
     # Configurar rutas
@@ -44,6 +44,15 @@ def main():
     df_clean = handle_duplicates(df, 'apartment_id', 'insert_date')
     df_clean = correct_data_types_str_to_date(df_clean)
     df_clean = correct_data_types_str_to_int(df_clean)
+
+    # Aplicar funciones de transformación
+    print("Aplicando transformación de datos...")
+
+    # Aplicar funciones de reducción
+    print("Aplicando reducción de datos...")
+
+
+
     
     # Guardar datos limpios
     df_clean.to_pickle(output_path)

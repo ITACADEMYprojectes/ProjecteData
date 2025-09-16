@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+#Data Cleaning Functions
 def handle_duplicates(df, apartment_id, insert_date):
     """Eliminación de duplicados según insert_date"""
     df_clean = df.copy()
@@ -22,7 +23,7 @@ def handle_duplicates(df, apartment_id, insert_date):
        
     return df_clean
 
-def impute_price(df, price, room_type, accommodates, neighbourhood_name):
+def input_price(df, price, room_type, accommodates, neighbourhood_name):
     """Imputación de precios"""
     df_clean = df.copy()
     
@@ -69,6 +70,7 @@ def fill_descriptions(df):
     
     return df_clean
 
+<<<<<<< HEAD:Equip_17/scripts/utilities/cleaning_functions.py
 def reviews_format(df):
     """Formatear las variables de review'"""
     df_clean = df.copy()
@@ -82,3 +84,22 @@ def reviews_format(df):
     df_clean['review_scores_value'] = df_clean['review_scores_value'] / 10
 
     return df_clean
+=======
+#Data Transformation Functions
+def extract_amenities_features(df, amenities_to_check):
+    """Extracción de características de amenities.
+    Es necesario Definir tu lista de amenities externamente. Por ejemplo:
+    my_amenities = ['WiFi', 'Air Conditioning', 'Pool', 'Kitchen', 'Washer', 'TV', 'Parking', 'Elevator']"""
+    df_transformed = df.copy()
+    
+    # Verificar si la columna amenities_list existe
+    if 'amenities_list' in df_transformed.columns:
+        for amenity in amenities_to_check:
+            col_name = f'has_{amenity.lower().replace(" ", "_")}'
+            df_transformed[col_name] = df_transformed['amenities_list'].str.contains(amenity, na=False).astype(int)
+    
+    return df_transformed
+
+
+#Data Reduction Functions
+>>>>>>> 2e46a2d27e294594d05ffc9c08eb271dd22e6892:Equip_17/scripts/utilities/data_processing_functions.py

@@ -22,10 +22,9 @@ cleaning_functions = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(cleaning_functions)
 
 # Ahora puedes usar las funciones del módulo
-handle_missing_values = cleaning_functions.handle_missing_values
-correct_data_types = cleaning_functions.correct_data_types
-remove_duplicates = cleaning_functions.remove_duplicates
-handle_outliers = cleaning_functions.handle_outliers
+handle_duplicates = cleaning_functions.handle_duplicates
+correct_data_types_str_to_date = cleaning_functions.correct_data_types_str_to_date
+correct_data_types_str_to_int = cleaning_functions.correct_data_types_str_to_int
 
 def main():
     # Configurar rutas
@@ -42,10 +41,9 @@ def main():
     
     # Aplicar funciones de limpieza
     print("Aplicando limpieza de datos...")
-    df_clean = handle_missing_values(df)
-    df_clean = correct_data_types(df_clean)
-    df_clean = remove_duplicates(df_clean)
-    df_clean = handle_outliers(df_clean)
+    df_clean = handle_duplicates(df)
+    df_clean = correct_data_types_str_to_date(df_clean)
+    df_clean = correct_data_types_str_to_int(df_clean)
     
     # Guardar datos limpios
     df_clean.to_csv(output_path, index=False)

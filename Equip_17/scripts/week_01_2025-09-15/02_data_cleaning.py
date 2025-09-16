@@ -41,7 +41,7 @@ def main():
     
     # Aplicar funciones de limpieza
     print("Aplicando limpieza de datos...")
-    df_clean = handle_duplicates(df)
+    df_clean = handle_duplicates(df, 'apartment_id', 'insert_date')
     df_clean = correct_data_types_str_to_date(df_clean)
     df_clean = correct_data_types_str_to_int(df_clean)
     

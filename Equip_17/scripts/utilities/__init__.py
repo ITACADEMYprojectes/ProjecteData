@@ -10,17 +10,9 @@ Módulos incluidos:
 """
 
 # Importar funciones de EDA
-# from .eda_utils import (
-#     set_plot_style,
-#     generate_summary_statistics,
-#     plot_numeric_distributions,
-#     plot_categorical_distributions,
-#     plot_correlation_matrix,
-#     plot_boxplots_by_category,
-#     plot_scatterplots,
-#     plot_missing_values,
-#     analyze_price_relationships
-# )
+from .eda_utils import (
+    EDA
+)
 
 
 # Importaciones principales de cada módulo
@@ -44,15 +36,7 @@ from .data_processing_functions import (
 __all__ = [
 
     # Funciones de EDA
-    # 'set_plot_style',
-    # 'generate_summary_statistics',
-    # 'plot_numeric_distributions',
-    # 'plot_categorical_distributions',
-    # 'plot_correlation_matrix',
-    # 'plot_boxplots_by_category',
-    # 'plot_scatterplots',
-    # 'plot_missing_values',
-    # 'analyze_price_relationships'
+    'EDA',
 
 
     #Data Cleaning Functions

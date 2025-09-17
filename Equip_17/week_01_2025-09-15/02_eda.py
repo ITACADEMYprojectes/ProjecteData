@@ -53,3 +53,4 @@ def EDA(df, show_plots=True):
             plt.show()
         else:
             print("\n No se puede calcular una matriz de correlación útil (muy pocas columnas numéricas).")
+            

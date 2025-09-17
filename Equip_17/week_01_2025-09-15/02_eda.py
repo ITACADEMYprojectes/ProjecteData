@@ -1,55 +1,55 @@
 import pandas as pd
-import sys
-import os
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 from pathlib import Path
-import importlib.util
+import json
 
-# Obtener la ruta absoluta al directorio del proyecto
-project_root = Path(__file__).resolve().parent.parent.parent
-utilities_path = project_root / "scripts" / "utilities"
+def EDA(df, show_plots=True):
+    # Estadísticas por columna numérica
+    columnas_num = df.select_dtypes(include=[np.number]).columns
+    if len(columnas_num) == 0:
+        print("\n No se encontraron columnas numéricas.")
+    else:
+        for col in columnas_num:
+            serie = df[col].dropna()
+            modos = serie.mode()
+            modos_list = modos.tolist() if not modos.empty else []
+            print(f"\n🔎 Estadísticas para la columna: {col}")
+            print(f"  ▸ Media: {serie.mean():.4f}" if not serie.empty else "  ▸ Media: n/a")
+            print(f"  ▸ Mediana: {serie.median():.4f}" if not serie.empty else "  ▸ Mediana: n/a")
+            print(f"  ▸ Desviación estándar: {serie.std():.4f}" if not serie.empty else "  ▸ Desv. estándar: n/a")
+            print(f"  ▸ Mínimo: {serie.min() if not serie.empty else 'n/a'}")
+            print(f"  ▸ Máximo: {serie.max() if not serie.empty else 'n/a'}")
+            print(f"  ▸ Moda(s): {modos_list if modos_list else 'n/a'}")
 
-# Ruta al archivo eda_utils.py
-eda_utils_file = utilities_path / "eda_utils.py"
+    # Visualizaciones
+    if show_plots and len(columnas_num) > 0:
+        # Boxplots
+        for col in columnas_num:
+            plt.figure()
+            df.boxplot(column=col)
+            plt.title(f"Boxplot de {col}")
+            plt.tight_layout()
+            plt.show()
 
-# Verificar si el archivo existe
-if not eda_utils_file.exists():
-    print(f"ERROR: No se encuentra el archivo {eda_utils_file}")
-    sys.exit(1)
+        # Histogramas
+        plt.figure()
+        df[columnas_num].hist(figsize=(20, 15))
+        plt.tight_layout()
+        plt.show()
 
-# Cargar el módulo manualmente
-spec = importlib.util.spec_from_file_location("eda_utils", eda_utils_file)
-eda_utils = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(eda_utils)
-
-# Ahora puedes usar las funciones del módulo
-EDA = eda_utils.EDA
-
-
-def main():
-    # Configurar rutas
-    current_week = "week_01_2025-09-15"
-    input_path = project_root / "data" / "raw" / current_week / "staySpain_raw.csv"
-    output_path = project_root / "data" / "processed" / current_week / "staySpain_cleaned.pkl"
-    
-    # Crear directorio si no existe
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    
-    # Cargar datos
-    print("Cargando datos crudos...")
-    df = pd.read_csv(input_path)
-    
- 
-    # EDA
-    print("Aplicando EDA...")
-    EDA(df)
-
-
-    
-    # # Guardar datos limpios
-    # df_clean.to_pickle(output_path)
-    # print(f"Datos limpios guardados en: {output_path}")
-    
-    # return df_clean
-
-if __name__ == "__main__":
-    main()
+        # Matriz de correlación
+        correlaciones = df.corr(numeric_only=True)
+        if correlaciones.shape[0] >= 2:
+            plt.figure(figsize=(14, 10))
+            annot_flag = correlaciones.shape[0] <= 12
+            sns.heatmap(correlaciones, cmap="coolwarm", annot=annot_flag, fmt=".2f",
+                        linewidths=0.5)
+            plt.title(" Matriz de correlación entre variables numéricas")
+            plt.xticks(rotation=45, ha="right")
+            plt.yticks(rotation=0)
+            plt.tight_layout()
+            plt.show()
+        else:
+            print("\n No se puede calcular una matriz de correlación útil (muy pocas columnas numéricas).")

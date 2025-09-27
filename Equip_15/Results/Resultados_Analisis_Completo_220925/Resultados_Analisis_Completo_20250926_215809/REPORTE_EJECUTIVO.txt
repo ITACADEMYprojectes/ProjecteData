@@ -1,9 +1,0 @@
-REPORTE EJECUTIVO - ANÁLISIS DE AUSENTISMO LABORAL\n==================================================\n\nVARIABLES SIGNIFICATIVAS QUE AUMENTAN AUSENTISMO:\n✓ Transportation_expense: ρ = 0.234 (Fuerza_Spearman    Débil
-Fuerza_Spearman    Débil
-Name: 0, dtype: object)\n✓ Son: ρ = 0.189 (Fuerza_Spearman    Débil
-Fuerza_Spearman    Débil
-Name: 7, dtype: object)\n✓ Social_drinker: ρ = 0.159 (Fuerza_Spearman    Débil
-Fuerza_Spearman    Débil
-Name: 8, dtype: object)\n\nVARIABLES SIGNIFICATIVAS QUE DISMINUYEN AUSENTISMO:\n✓ Day_week_order: ρ = -0.099 (Fuerza_Spearman    Muy débil
-Fuerza_Spearman    Muy débil
-Name: 16, dtype: object)\n

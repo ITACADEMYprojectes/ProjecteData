@@ -1,6 +1,0 @@
-﻿Variable,Test_Principal,p_value_Principal,Significativa_Principal,p_value_Chi2,Significativa_Chi2,n_Categorias
-Reason_absence,Kruskal-Wallis,0.0,True,0.0,True,27
-Month_absence,Kruskal-Wallis,0.001327,True,0.019123,True,12
-Day_week,Kruskal-Wallis,0.023609,True,0.003982,True,5
-Seasons,Kruskal-Wallis,0.011683,True,0.092736,False,4
-Education,Kruskal-Wallis,0.181912,False,0.069548,False,4

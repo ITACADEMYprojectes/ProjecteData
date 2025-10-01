@@ -1,0 +1,2455 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20252.25.0514.2217                               -->
+<workbook original-version='18.1' source-build='2025.2.0 (20252.25.0514.2217)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <MapboxVectorStylesAndLayers />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='staySpain_cleaned' inline='true' name='federated.00fr8021rcd6fw19fw6fs0v4ya4i' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='staySpain_cleaned' name='textscan.1vzmjs90r1vf3o0zlkqak0a3e2jp'>
+            <connection class='textscan' directory='C:/Users/Cristina/ProjecteData/Equip_17/week_01_2025-09-15/data' filename='staySpain_cleaned.csv' password='' server='' />
+          </named-connection>
+          <named-connection caption='staySpain_transformed' name='textscan.08m1cem17hgwsg1c5s3zn1im6uhb'>
+            <connection class='textscan' directory='C:/Users/Cristina/ProjecteData/Equip_17/week_02_2025-09-22/data' filename='staySpain_transformed.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.08m1cem17hgwsg1c5s3zn1im6uhb' name='staySpain_transformed.csv' table='[staySpain_transformed#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+            <column datatype='integer' name='F1' ordinal='0' />
+            <column datatype='integer' name='apartment_id' ordinal='1' />
+            <column datatype='string' name='name' ordinal='2' />
+            <column datatype='string' name='description' ordinal='3' />
+            <column datatype='integer' name='host_id' ordinal='4' />
+            <column datatype='string' name='neighbourhood_name' ordinal='5' />
+            <column datatype='string' name='neighbourhood_district' ordinal='6' />
+            <column datatype='string' name='room_type' ordinal='7' />
+            <column datatype='integer' name='accommodates' ordinal='8' />
+            <column datatype='integer' name='bathrooms' ordinal='9' />
+            <column datatype='integer' name='bedrooms' ordinal='10' />
+            <column datatype='integer' name='beds' ordinal='11' />
+            <column datatype='string' name='amenities_list' ordinal='12' />
+            <column datatype='real' name='price' ordinal='13' />
+            <column datatype='real' name='pricexperson' ordinal='14' />
+            <column datatype='integer' name='minimum_nights' ordinal='15' />
+            <column datatype='integer' name='maximum_nights' ordinal='16' />
+            <column datatype='boolean' name='has_availability' ordinal='17' />
+            <column datatype='integer' name='availability_30' ordinal='18' />
+            <column datatype='integer' name='ocupation30' ordinal='19' />
+            <column datatype='real' name='ocup%30' ordinal='20' />
+            <column datatype='integer' name='availability_60' ordinal='21' />
+            <column datatype='integer' name='ocupation60' ordinal='22' />
+            <column datatype='integer' name='availability_90' ordinal='23' />
+            <column datatype='integer' name='ocupation90' ordinal='24' />
+            <column datatype='integer' name='availability_365' ordinal='25' />
+            <column datatype='integer' name='ocupation365' ordinal='26' />
+            <column datatype='integer' name='number_of_reviews' ordinal='27' />
+            <column datatype='date' name='first_review_date' ordinal='28' />
+            <column datatype='date' name='last_review_date' ordinal='29' />
+            <column datatype='real' name='review_scores_rating' ordinal='30' />
+            <column datatype='real' name='review_scores_accuracy' ordinal='31' />
+            <column datatype='real' name='review_scores_cleanliness' ordinal='32' />
+            <column datatype='real' name='review_scores_checkin' ordinal='33' />
+            <column datatype='real' name='review_scores_communication' ordinal='34' />
+            <column datatype='real' name='review_scores_location' ordinal='35' />
+            <column datatype='real' name='review_scores_value' ordinal='36' />
+            <column datatype='real' name='general_satisf' ordinal='37' />
+            <column datatype='real' name='reviews_per_month' ordinal='38' />
+            <column datatype='string' name='country' ordinal='39' />
+            <column datatype='string' name='city' ordinal='40' />
+            <column datatype='date' name='insert_date' ordinal='41' />
+            <column datatype='boolean' name='is_instant_bookable' ordinal='42' />
+            <column datatype='real' name='amenities_score' ordinal='43' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;£&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>F1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[F1]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>F1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>apartment_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[apartment_id]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>apartment_id</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[name]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>name</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>description</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[description]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>description</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>host_id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[host_id]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>host_id</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>neighbourhood_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[neighbourhood_name]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>neighbourhood_name</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>neighbourhood_district</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[neighbourhood_district]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>neighbourhood_district</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>room_type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[room_type]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>room_type</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>accommodates</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[accommodates]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>accommodates</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>bathrooms</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[bathrooms]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>bathrooms</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>bedrooms</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[bedrooms]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>bedrooms</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>beds</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[beds]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>beds</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>amenities_list</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[amenities_list]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>amenities_list</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>price</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[price]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>price</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pricexperson</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pricexperson]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>pricexperson</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>minimum_nights</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[minimum_nights]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>minimum_nights</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>maximum_nights</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[maximum_nights]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>maximum_nights</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>has_availability</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[has_availability]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>has_availability</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>availability_30</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[availability_30]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>availability_30</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ocupation30</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[ocupation30]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>ocupation30</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ocup%30</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[ocup%30]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>ocup%30</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>availability_60</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[availability_60]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>availability_60</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ocupation60</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[ocupation60]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>ocupation60</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>availability_90</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[availability_90]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>availability_90</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ocupation90</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[ocupation90]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>ocupation90</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>availability_365</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[availability_365]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>availability_365</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>ocupation365</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[ocupation365]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>ocupation365</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>number_of_reviews</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[number_of_reviews]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>number_of_reviews</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>first_review_date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[first_review_date]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>first_review_date</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>last_review_date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[last_review_date]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>last_review_date</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>review_scores_rating</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[review_scores_rating]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>review_scores_rating</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>review_scores_accuracy</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[review_scores_accuracy]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>review_scores_accuracy</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>review_scores_cleanliness</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[review_scores_cleanliness]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>review_scores_cleanliness</remote-alias>
+            <ordinal>32</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>review_scores_checkin</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[review_scores_checkin]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>review_scores_checkin</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>review_scores_communication</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[review_scores_communication]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>review_scores_communication</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>review_scores_location</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[review_scores_location]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>review_scores_location</remote-alias>
+            <ordinal>35</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>review_scores_value</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[review_scores_value]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>review_scores_value</remote-alias>
+            <ordinal>36</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>general_satisf</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[general_satisf]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>general_satisf</remote-alias>
+            <ordinal>37</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>reviews_per_month</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[reviews_per_month]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>reviews_per_month</remote-alias>
+            <ordinal>38</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>country</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[country]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>country</remote-alias>
+            <ordinal>39</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>city</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[city]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>city</remote-alias>
+            <ordinal>40</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>insert_date</remote-name>
+            <remote-type>133</remote-type>
+            <local-name>[insert_date]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>insert_date</remote-alias>
+            <ordinal>41</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>is_instant_bookable</remote-name>
+            <remote-type>11</remote-type>
+            <local-name>[is_instant_bookable]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>is_instant_bookable</remote-alias>
+            <ordinal>42</ordinal>
+            <local-type>boolean</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>amenities_score</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[amenities_score]</local-name>
+            <parent-name>[staySpain_transformed.csv]</parent-name>
+            <remote-alias>amenities_score</remote-alias>
+            <ordinal>43</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='staySpain_transformed.csv' datatype='table' name='[__tableau_internal_object_id__].[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]' role='measure' type='quantitative' />
+      <column caption='Accommodates' datatype='integer' name='[accommodates]' role='measure' type='quantitative' />
+      <column caption='Amenities List' datatype='string' name='[amenities_list]' role='dimension' type='nominal' />
+      <column caption='Amenities Score' datatype='real' name='[amenities_score]' role='measure' type='quantitative' />
+      <column caption='Apartment Id' datatype='integer' name='[apartment_id]' role='dimension' type='ordinal' />
+      <column caption='Availability 30' datatype='integer' name='[availability_30]' role='measure' type='quantitative' />
+      <column caption='Availability 365' datatype='integer' name='[availability_365]' role='measure' type='quantitative' />
+      <column caption='Availability 60' datatype='integer' name='[availability_60]' role='measure' type='quantitative' />
+      <column caption='Availability 90' datatype='integer' name='[availability_90]' role='measure' type='quantitative' />
+      <column caption='Bathrooms' datatype='integer' name='[bathrooms]' role='measure' type='quantitative' />
+      <column caption='Bedrooms' datatype='integer' name='[bedrooms]' role='measure' type='quantitative' />
+      <column caption='Beds' datatype='integer' name='[beds]' role='measure' type='quantitative' />
+      <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+      <column caption='Country' datatype='string' name='[country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Description' datatype='string' name='[description]' role='dimension' type='nominal' />
+      <column caption='First Review Date' datatype='date' name='[first_review_date]' role='dimension' type='ordinal' />
+      <column caption='General Satisf' datatype='real' name='[general_satisf]' role='measure' type='quantitative' />
+      <column caption='Has Availability' datatype='boolean' name='[has_availability]' role='dimension' type='nominal' />
+      <column caption='Host Id' datatype='integer' name='[host_id]' role='dimension' type='ordinal' />
+      <column caption='Insert Date' datatype='date' name='[insert_date]' role='dimension' type='ordinal' />
+      <column caption='Is Instant Bookable' datatype='boolean' name='[is_instant_bookable]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='false' value='sin reserva' />
+          <alias key='true' value='con reserva' />
+        </aliases>
+      </column>
+      <column caption='Last Review Date' datatype='date' name='[last_review_date]' role='dimension' type='ordinal' />
+      <column caption='Maximum Nights' datatype='integer' name='[maximum_nights]' role='measure' type='quantitative' />
+      <column caption='Minimum Nights' datatype='integer' name='[minimum_nights]' role='measure' type='quantitative' />
+      <column caption='Name' datatype='string' name='[name]' role='dimension' type='nominal' />
+      <column caption='Neighbourhood District' datatype='string' name='[neighbourhood_district]' role='dimension' type='nominal' />
+      <column caption='Neighbourhood Name' datatype='string' name='[neighbourhood_name]' role='dimension' type='nominal' />
+      <column caption='Number Of Reviews' datatype='integer' name='[number_of_reviews]' role='measure' type='quantitative' />
+      <column caption='Ocup%30' datatype='real' name='[ocup%30]' role='measure' type='quantitative' />
+      <column caption='Ocupation30' datatype='integer' name='[ocupation30]' role='measure' type='quantitative' />
+      <column caption='Ocupation365' datatype='integer' name='[ocupation365]' role='measure' type='quantitative' />
+      <column caption='Ocupation60' datatype='integer' name='[ocupation60]' role='measure' type='quantitative' />
+      <column caption='Ocupation90' datatype='integer' name='[ocupation90]' role='measure' type='quantitative' />
+      <column caption='Price' datatype='real' name='[price]' role='measure' type='quantitative' />
+      <column caption='Pricexperson' datatype='real' name='[pricexperson]' role='measure' type='quantitative' />
+      <column caption='Review Scores Accuracy' datatype='real' name='[review_scores_accuracy]' role='measure' type='quantitative' />
+      <column caption='Review Scores Checkin' datatype='real' name='[review_scores_checkin]' role='measure' type='quantitative' />
+      <column caption='Review Scores Cleanliness' datatype='real' name='[review_scores_cleanliness]' role='measure' type='quantitative' />
+      <column caption='Review Scores Communication' datatype='real' name='[review_scores_communication]' role='measure' type='quantitative' />
+      <column caption='Review Scores Location' datatype='real' name='[review_scores_location]' role='measure' type='quantitative' />
+      <column caption='Review Scores Rating' datatype='real' name='[review_scores_rating]' role='measure' type='quantitative' />
+      <column caption='Review Scores Value' datatype='real' name='[review_scores_value]' role='measure' type='quantitative' />
+      <column caption='Reviews Per Month' datatype='real' name='[reviews_per_month]' role='dimension' type='quantitative' />
+      <column caption='Room Type' datatype='string' name='[room_type]' role='dimension' type='nominal' />
+      <drill-paths>
+        <drill-path name='country, city'>
+          <field>[country]</field>
+          <field>[city]</field>
+        </drill-path>
+      </drill-paths>
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='es_ES' class='hyper' dbname='C:/Users/Cristina/AppData/Local/Temp/TableauTemp/#TableauTemp_1e5gt5b0vjok4n14mva131q5i8l4.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='10/01/2025 12:09:43 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>F1</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[F1]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>F1</remote-alias>
+              <ordinal>0</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>7693</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>apartment_id</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[apartment_id]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>apartment_id</remote-alias>
+              <ordinal>1</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>7693</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>name</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[name]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>name</remote-alias>
+              <ordinal>2</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>7693</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>description</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[description]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>description</remote-alias>
+              <ordinal>3</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6831</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>host_id</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[host_id]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>host_id</remote-alias>
+              <ordinal>4</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>3105</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>neighbourhood_name</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[neighbourhood_name]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>neighbourhood_name</remote-alias>
+              <ordinal>5</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>450</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>neighbourhood_district</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[neighbourhood_district]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>neighbourhood_district</remote-alias>
+              <ordinal>6</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>63</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>room_type</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[room_type]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>room_type</remote-alias>
+              <ordinal>7</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>accommodates</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[accommodates]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>accommodates</remote-alias>
+              <ordinal>8</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>21</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>bathrooms</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[bathrooms]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>bathrooms</remote-alias>
+              <ordinal>9</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>14</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>bedrooms</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[bedrooms]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>bedrooms</remote-alias>
+              <ordinal>10</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>12</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>beds</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[beds]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>beds</remote-alias>
+              <ordinal>11</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>22</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>amenities_list</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[amenities_list]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>amenities_list</remote-alias>
+              <ordinal>12</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6255</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>price</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[price]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>price</remote-alias>
+              <ordinal>13</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>344</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pricexperson</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pricexperson]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pricexperson</remote-alias>
+              <ordinal>14</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>601</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>minimum_nights</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[minimum_nights]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>minimum_nights</remote-alias>
+              <ordinal>15</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>26</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>maximum_nights</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[maximum_nights]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>maximum_nights</remote-alias>
+              <ordinal>16</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>128</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>has_availability</remote-name>
+              <remote-type>11</remote-type>
+              <local-name>[has_availability]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>has_availability</remote-alias>
+              <ordinal>17</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>boolean</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>availability_30</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[availability_30]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>availability_30</remote-alias>
+              <ordinal>18</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>31</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>ocupation30</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[ocupation30]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>ocupation30</remote-alias>
+              <ordinal>19</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>31</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>ocup%30</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[ocup%30]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>ocup%30</remote-alias>
+              <ordinal>20</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>31</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>availability_60</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[availability_60]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>availability_60</remote-alias>
+              <ordinal>21</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>61</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>ocupation60</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[ocupation60]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>ocupation60</remote-alias>
+              <ordinal>22</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>61</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>availability_90</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[availability_90]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>availability_90</remote-alias>
+              <ordinal>23</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>94</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>ocupation90</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[ocupation90]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>ocupation90</remote-alias>
+              <ordinal>24</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>94</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>availability_365</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[availability_365]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>availability_365</remote-alias>
+              <ordinal>25</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>494</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>ocupation365</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[ocupation365]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>ocupation365</remote-alias>
+              <ordinal>26</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>494</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>number_of_reviews</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[number_of_reviews]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>number_of_reviews</remote-alias>
+              <ordinal>27</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>260</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>first_review_date</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[first_review_date]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>first_review_date</remote-alias>
+              <ordinal>28</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>1575</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>last_review_date</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[last_review_date]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>last_review_date</remote-alias>
+              <ordinal>29</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>1173</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>review_scores_rating</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[review_scores_rating]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>review_scores_rating</remote-alias>
+              <ordinal>30</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>46</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>review_scores_accuracy</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[review_scores_accuracy]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>review_scores_accuracy</remote-alias>
+              <ordinal>31</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>12</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>review_scores_cleanliness</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[review_scores_cleanliness]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>review_scores_cleanliness</remote-alias>
+              <ordinal>32</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>9</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>review_scores_checkin</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[review_scores_checkin]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>review_scores_checkin</remote-alias>
+              <ordinal>33</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>8</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>review_scores_communication</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[review_scores_communication]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>review_scores_communication</remote-alias>
+              <ordinal>34</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>9</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>review_scores_location</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[review_scores_location]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>review_scores_location</remote-alias>
+              <ordinal>35</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>8</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>review_scores_value</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[review_scores_value]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>review_scores_value</remote-alias>
+              <ordinal>36</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>10</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>general_satisf</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[general_satisf]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>general_satisf</remote-alias>
+              <ordinal>37</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>28</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>reviews_per_month</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[reviews_per_month]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>reviews_per_month</remote-alias>
+              <ordinal>38</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>567</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>country</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[country]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>country</remote-alias>
+              <ordinal>39</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>1</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>city</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[city]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>city</remote-alias>
+              <ordinal>40</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>8</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>insert_date</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[insert_date]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>insert_date</remote-alias>
+              <ordinal>41</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>178</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>is_instant_bookable</remote-name>
+              <remote-type>11</remote-type>
+              <local-name>[is_instant_bookable]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>is_instant_bookable</remote-alias>
+              <ordinal>42</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>boolean</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>amenities_score</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[amenities_score]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>amenities_score</remote-alias>
+              <ordinal>43</ordinal>
+              <family>staySpain_transformed.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>98</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;España&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <object-graph>
+        <objects>
+          <object caption='staySpain_transformed.csv' id='staySpain_transformed.csv_EAF09225D8B145AFA330A5B3B4415EDA'>
+            <properties context=''>
+              <relation connection='textscan.08m1cem17hgwsg1c5s3zn1im6uhb' name='staySpain_transformed.csv' table='[staySpain_transformed#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+                  <column datatype='integer' name='F1' ordinal='0' />
+                  <column datatype='integer' name='apartment_id' ordinal='1' />
+                  <column datatype='string' name='name' ordinal='2' />
+                  <column datatype='string' name='description' ordinal='3' />
+                  <column datatype='integer' name='host_id' ordinal='4' />
+                  <column datatype='string' name='neighbourhood_name' ordinal='5' />
+                  <column datatype='string' name='neighbourhood_district' ordinal='6' />
+                  <column datatype='string' name='room_type' ordinal='7' />
+                  <column datatype='integer' name='accommodates' ordinal='8' />
+                  <column datatype='integer' name='bathrooms' ordinal='9' />
+                  <column datatype='integer' name='bedrooms' ordinal='10' />
+                  <column datatype='integer' name='beds' ordinal='11' />
+                  <column datatype='string' name='amenities_list' ordinal='12' />
+                  <column datatype='real' name='price' ordinal='13' />
+                  <column datatype='real' name='pricexperson' ordinal='14' />
+                  <column datatype='integer' name='minimum_nights' ordinal='15' />
+                  <column datatype='integer' name='maximum_nights' ordinal='16' />
+                  <column datatype='boolean' name='has_availability' ordinal='17' />
+                  <column datatype='integer' name='availability_30' ordinal='18' />
+                  <column datatype='integer' name='ocupation30' ordinal='19' />
+                  <column datatype='real' name='ocup%30' ordinal='20' />
+                  <column datatype='integer' name='availability_60' ordinal='21' />
+                  <column datatype='integer' name='ocupation60' ordinal='22' />
+                  <column datatype='integer' name='availability_90' ordinal='23' />
+                  <column datatype='integer' name='ocupation90' ordinal='24' />
+                  <column datatype='integer' name='availability_365' ordinal='25' />
+                  <column datatype='integer' name='ocupation365' ordinal='26' />
+                  <column datatype='integer' name='number_of_reviews' ordinal='27' />
+                  <column datatype='date' name='first_review_date' ordinal='28' />
+                  <column datatype='date' name='last_review_date' ordinal='29' />
+                  <column datatype='real' name='review_scores_rating' ordinal='30' />
+                  <column datatype='real' name='review_scores_accuracy' ordinal='31' />
+                  <column datatype='real' name='review_scores_cleanliness' ordinal='32' />
+                  <column datatype='real' name='review_scores_checkin' ordinal='33' />
+                  <column datatype='real' name='review_scores_communication' ordinal='34' />
+                  <column datatype='real' name='review_scores_location' ordinal='35' />
+                  <column datatype='real' name='review_scores_value' ordinal='36' />
+                  <column datatype='real' name='general_satisf' ordinal='37' />
+                  <column datatype='real' name='reviews_per_month' ordinal='38' />
+                  <column datatype='string' name='country' ordinal='39' />
+                  <column datatype='string' name='city' ordinal='40' />
+                  <column datatype='date' name='insert_date' ordinal='41' />
+                  <column datatype='boolean' name='is_instant_bookable' ordinal='42' />
+                  <column datatype='real' name='amenities_score' ordinal='43' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <mapsources>
+    <mapsource name='Tableau' />
+  </mapsources>
+  <worksheets>
+    <worksheet name='Con/Sin reserva'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Total de alojamientos con /sin reserva instantánea</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='staySpain_cleaned' name='federated.00fr8021rcd6fw19fw6fs0v4ya4i' />
+          </datasources>
+          <datasource-dependencies datasource='federated.00fr8021rcd6fw19fw6fs0v4ya4i'>
+            <column caption='Apartment Id' datatype='integer' name='[apartment_id]' role='dimension' type='ordinal' />
+            <column-instance column='[apartment_id]' derivation='Count' name='[cnt:apartment_id:qk]' pivot='key' type='quantitative' />
+            <column caption='Is Instant Bookable' datatype='boolean' name='[is_instant_bookable]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='false' value='sin reserva' />
+                <alias key='true' value='con reserva' />
+              </aliases>
+            </column>
+            <column-instance column='[is_instant_bookable]' derivation='None' name='[none:is_instant_bookable:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[cnt:apartment_id:qk]' field-type='quantitative' major-origin='0' major-show='false' major-spacing='1000' max='4691' min='0' minor-origin='0' minor-show='false' minor-spacing='100' range-type='fixed' scope='rows' type='space' />
+            <format attr='auto-subtitle' class='0' field='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[cnt:apartment_id:qk]' scope='rows' value='false' />
+            <format attr='title' class='0' field='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[cnt:apartment_id:qk]' scope='rows' value='' />
+            <format attr='width' field='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[cnt:apartment_id:qk]' value='32' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk]' value='394' />
+            <format attr='color' data-class='subtotal' scope='cols' value='#fbc789' />
+            <format attr='color' data-class='total' scope='cols' value='#fbeccd' />
+          </style-rule>
+          <style-rule element='table'>
+            <format attr='band-size' scope='cols' value='0' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#fbc789' />
+                <format attr='has-stroke' value='false' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[cnt:apartment_id:qk]</rows>
+        <cols>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk]</cols>
+      </table>
+      <simple-id uuid='{B52AEECF-09AC-43B1-81AC-907BB3DA0762}' />
+    </worksheet>
+    <worksheet name='piecharts'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>% alojamientos x ciudad</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='staySpain_cleaned' name='federated.00fr8021rcd6fw19fw6fs0v4ya4i' />
+          </datasources>
+          <datasource-dependencies datasource='federated.00fr8021rcd6fw19fw6fs0v4ya4i'>
+            <column caption='Apartment Id' datatype='integer' name='[apartment_id]' role='dimension' type='ordinal' />
+            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+            <column-instance column='[apartment_id]' derivation='Count' name='[cnt:apartment_id:qk]' pivot='key' type='quantitative' />
+            <column caption='Is Instant Bookable' datatype='boolean' name='[is_instant_bookable]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='false' value='sin reserva' />
+                <alias key='true' value='con reserva' />
+              </aliases>
+            </column>
+            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
+            <column-instance column='[is_instant_bookable]' derivation='None' name='[none:is_instant_bookable:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <encodings>
+              <color column='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk]' />
+              <wedge-size column='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[cnt:apartment_id:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-mode' value='range' />
+                <format attr='mark-labels-range-min' value='false' />
+                <format attr='mark-labels-range-max' value='false' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:city:nk]</rows>
+        <cols />
+      </table>
+      <simple-id uuid='{1C73A66C-C20D-4ED5-9918-767EBB8C8977}' />
+    </worksheet>
+    <worksheet name='puntos disp.'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Dif. ocupación con/sin reserva inst.</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='staySpain_cleaned' name='federated.00fr8021rcd6fw19fw6fs0v4ya4i' />
+          </datasources>
+          <mapsources>
+            <mapsource name='Tableau' />
+          </mapsources>
+          <datasource-dependencies datasource='federated.00fr8021rcd6fw19fw6fs0v4ya4i'>
+            <column-instance column='[ocupation30]' derivation='Avg' name='[avg:ocupation30:qk]' pivot='key' type='quantitative' />
+            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+            <column caption='Is Instant Bookable' datatype='boolean' name='[is_instant_bookable]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='false' value='sin reserva' />
+                <alias key='true' value='con reserva' />
+              </aliases>
+            </column>
+            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
+            <column-instance column='[is_instant_bookable]' derivation='None' name='[none:is_instant_bookable:nk]' pivot='key' type='nominal' />
+            <column caption='Ocupation30' datatype='integer' name='[ocupation30]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:city:nk]' value='74' />
+          </style-rule>
+          <style-rule element='map'>
+            <format attr='washout' value='0.0' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Shape' />
+            <encodings>
+              <color column='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='0.60000002384185791' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[avg:ocupation30:qk]</rows>
+        <cols>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:city:nk]</cols>
+      </table>
+      <simple-id uuid='{E990AF4C-1269-4904-85BB-A0D7C280D325}' />
+    </worksheet>
+    <worksheet name='xCity'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Total con/sin reserva instantánea por ciudad</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='staySpain_cleaned' name='federated.00fr8021rcd6fw19fw6fs0v4ya4i' />
+          </datasources>
+          <datasource-dependencies datasource='federated.00fr8021rcd6fw19fw6fs0v4ya4i'>
+            <column caption='Apartment Id' datatype='integer' name='[apartment_id]' role='dimension' type='ordinal' />
+            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
+            <column-instance column='[apartment_id]' derivation='Count' name='[cnt:apartment_id:qk]' pivot='key' type='quantitative' />
+            <column caption='Is Instant Bookable' datatype='boolean' name='[is_instant_bookable]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='false' value='sin reserva' />
+                <alias key='true' value='con reserva' />
+              </aliases>
+            </column>
+            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
+            <column-instance column='[is_instant_bookable]' derivation='None' name='[none:is_instant_bookable:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[cnt:apartment_id:qk]</rows>
+        <cols>([federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:city:nk] / [federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk])</cols>
+      </table>
+      <simple-id uuid='{A7B05463-69E8-4125-954D-6FCBEEA9380A}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Operaciones'>
+      <style />
+      <size maxheight='860' maxwidth='650' minheight='560' minwidth='420' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='97736' id='7' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1132'>
+            <zone h='8204' id='8' type-v2='title' w='97538' x='1231' y='1132'>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone h='89532' id='5' type-v2='layout-basic' w='97538' x='1231' y='9336'>
+              <zone h='89532' id='3' name='Con/Sin reserva' w='97538' x='1231' y='9336'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='10' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97736' id='9' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1132'>
+                <zone h='8204' id='8' type-v2='title' w='97538' x='1231' y='1132'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='89532' id='3' is-fixed='true' name='Con/Sin reserva' w='97538' x='1231' y='9336'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{3DEFB5B2-B76C-47EC-862C-2AE5A031408E}' />
+    </dashboard>
+  </dashboards>
+  <windows saved-dpi-scale-factor='1.5' source-height='44'>
+    <window class='dashboard' name='Operaciones'>
+      <viewpoints>
+        <viewpoint name='Con/Sin reserva'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='-1' />
+      <device-preview visible='true' />
+      <simple-id uuid='{0944075C-06F0-401C-B2F9-F59F3855247F}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Con/Sin reserva'>
+      <cards>
+        <edge name='left'>
+          <strip size='174'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <selection-collection>
+          <node-selection select-tuples='false'>
+            <oriented-node-reference orientation='vertical'>
+              <node-reference>
+                <axis>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[cnt:apartment_id:qk]</axis>
+              </node-reference>
+              <page-reference />
+            </oriented-node-reference>
+          </node-selection>
+        </selection-collection>
+        <highlight>
+          <color-one-way>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:apartment_id:ok]</field>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:city:nk]</field>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{D63FC343-13B5-4C67-803E-E8E768A713BC}' />
+    </window>
+    <window class='worksheet' name='xCity'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:apartment_id:ok]</field>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:city:nk]</field>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{A9AC90BA-2701-4D2F-8FBB-67111C961A86}' />
+    </window>
+    <window class='worksheet' name='puntos disp.'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='174'>
+            <card pane-specification-id='0' param='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[cnt:apartment_id:qk]</field>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:apartment_id:ok]</field>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{D7A30260-3464-4D5E-A031-466F32AF582E}' />
+    </window>
+    <window class='worksheet' name='piecharts'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='174'>
+            <card pane-specification-id='0' param='[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:apartment_id:ok]</field>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:city:nk]</field>
+            <field>[federated.00fr8021rcd6fw19fw6fs0v4ya4i].[none:is_instant_bookable:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{09A9B5CE-9B05-49F0-A509-FD9E31E7719E}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Con/Sin reserva' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABYlAAAWJQFJUiTw
+      AAAHOUlEQVR4nO3dT08UaQLH8d/TNCj/RNFBBGdFYdX1T3aME3c2JPsG1psH34UXz74BX4Fe
+      NTEm/rlMNGti9rDuJONhY3bZWW1QUMaZFQcRsWnopqqeOYwaN5Nh2G60lN/3cyJNF/U0VV+q
+      qqF4QowxCjBVyHsAQJ6Krz+YX4qaqqxsoY0tUd2ttIOP35sApirSlw9XttDnWzIN9xMAPn7s
+      xbBGALBGALBGALBGALBGALBGALBGALBGALBGALBGALBGALBGALBGALBGALBW/PWnAO9e9vyB
+      su+/fu/rJQB8GJbmpZffvffVcgoEawQAawQAawQAawQAawQAawQAawQAa3X9IizGqKWlpdUe
+      C5ylmUIOq60rgBCCmpv5JTJWT9ZUUJbDejkFgjUCgDUCgDUCgDUCgDUCgDUCgDUCgDUCgDUC
+      gDUCgDUCgDUCgDUCWEa1WtXFixd1/vx53bhx438+NzExodOnTyvLMl2+fFkXLlzQlStXFGPU
+      wsKCTp06pfn5+ZxGjpXib5qX0dLSouPHj6tcLuvSpUtvHq/Varp165a6uroUQtCxY8dUrVZ1
+      7tw5SdK1a9fU19enNE3zGjpWiCPAMkIIunfvns6cOaOdO3dK+ulmoJs3b+rIkSNK01RJkmhy
+      clJnz55VT0+PSqWSOjo61NHRoVqtphhjzq8CyyGAZaRpqsHBQZ08eVKlUklJkqhWqynLMo2O
+      juru3buamJhQb2+vTpw4oampKU1PT6tarWpkZEQjIyN5vwT8Ck6BllEul3X9+nVJ0v79+3X7
+      9m21tbXp6NGjijFq8+bNGhgY0NWrVyVJAwMDGh4eVghB/f39OnDggELI40Y/rFSIr47R4y+i
+      vny4soU+35JquN+vnfv372twcJCd+h3Inv5L2fhf3vt6/fbiBgwNDeU9BKyy3AJIS1elmMdt
+      0PiZYquahv6c9yhykVsAcXZCirxN+EFo6ch7BLnhXSBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYq+/PoWPkPx6sJVH5b8+c/nlAfUcA7gjEGlHnDTFBTU1NDa04
+      aWhprKqghrdno7IQlMcxgGsAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMA
+      WCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMAWCMA
+      WCMAWCMAWCMAWCMAWKtzjjAp5jSrH94N1+3JNKn4MKZJzbJcVltfACGoWKz74CGJWSI/KEEN
+      b89GZYWC8kiAawBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYq3uWyCRhmrs1Iyr/7flxzRIpFQqNHTzyebn4JY1uz0bFUFAeMxXXOTdmIIC1
+      ZBV+oDUqC8olAK4BYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0A
+      YI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0AYI0A
+      YI0AYI0AYI0AYC3EGKMkLSZRM9WVLdQaEnW2hIZWHMvfSzGPadHwM4Umhfbehr5EjFEhNLBP
+      LFUUF583NIZ6vAng/5EkiYrFOieYxJr0se4TdQUArBVcA7wlZpmSNM17GHiPCCBGZWmqGKOS
+      allPfphVjFExy5Sm2VtPi4oxKotRMWZKklTx1ePpq+WlqDRJlMUovX5+lun1QTa+9ViWMVX4
+      h8D+FGhqclTj/53Vhk092tO/QY+ep2qef6xHz5aULJb1+z/8Sd3tRY39845mkqo+2Tqgmcfj
+      UlPQpr49qk3fV2WpSZ9s36mWhR80OTOvJA36Yl+f/nZnQuva29VRlPYdPKCJ0l319m/X2Nio
+      KpVF/e7QEXW3t+T9LbBmfwQIQVqqJero7FRManpZWdTiYlW7DxzS/l29eln56a2x2WdPtX33
+      Z9rWXtXkkznFGDQ2VpJiVC2N6uxo0zf3Sgox09OHE5pbrGguXacvDh3UelX17GVZ0y8Wtb65
+      oEKhoHRhTlMzL3N+9fj4LttXWfumbfpj3y7946uv1H1wzy8+r9jcpg2d69VUadfWbX06fHif
+      5soVFULQ7tai/v71HW3YsFF7D36mvb8d0vrshTZ1dysEadfQDt386y0NHh7Wd+Nj6v50tzY2
+      Z6o09k4yVoH9KdD8i2mNPnikrp5PNbB1g+YWMzWlC2pu36RQKysttqltXVGz09Pq2LJFRUU9
+      ffxQ3z6d1Y7BPcrKU/r2yXP9ZmivNrdGjfy7pObObu3d0aOZBWlLV5sk6eH4A/Xv2KWQVPTN
+      f0pq6+pW77Y+dbZyCpSnHwHeby0dtAAj1wAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Operaciones' width='192'>
+      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
+      YII=
+    </thumbnail>
+    <thumbnail height='192' name='piecharts' width='192'>
+      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
+      /wGURqoAAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='puntos disp.' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAABYlAAAWJQFJUiTw
+      AAAfdElEQVR4nO3dd3Rc133g8e970wvqoIMgCgtAgAUkUVhEFVORZUtusmXJ67VO3L1uOfbJ
+      lmR3c7zZONmNszn7h7UbJ7t27GQlS5ZlldhWtzo7CYIEQBSi10EZYHp77+4fAEGCBSCNATDg
+      3M85+kMD8N7fkO/33r333aIIIQSSlKLUtQ5AktaSTAAppckEkFKaca0DkFaQFuaffvRD+jxR
+      tu+7j9zoMCUH7iU8NsjWrVvXOrqkIJ8At7HBlvfxZ+/mP/7pn/DRe/agGA34Ry7yi6ee4uV3
+      T/Krnz+BN6zx2ovP4PZF1zrcNSET4DbmnZ4iJ68ARVFQVRX30CCWnHLuOXyYD95RR2Gaznun
+      mmjpmyHbaV7rcNeETIDbWGnlLlqOvkr/0BD9Q+75zyPhINO+ALsP3s3rP/8HynY0YFTWMNA1
+      JBPgNubI38znH7qTY++9h3s6wI6GA7gcZrKzMjl7oRdLRiGlxUU07K5c61DXjLIaL8J0XUdV
+      Za4lm/7Ocwz5DOzbU02KPgBWJwHi8ThGoxxwkpKPvC1LKU0mgJTSEp4AQgjk/DppvVhew1yP
+      0Xz6NCFNIExp7N1WwtHjZxCKQnVtAznp1gSFKUkrY3mdYKERjQuMquDIkRMU5VgheyvF1iBN
+      PR4ads0Or8lOsJSslndVKgb0iIcjZ85RWrWTyFgH6XYbJqNGNBpB13V0XUfTNNkskpLSsptA
+      p06dY9e+AzgtRka8NqY809jtQWx2J6qqzo//p8oTQAjB0ISP9871M+OPkJ1h486dpeRm2lGU
+      VB1tT17LuyrjURSjgQvnmjBb09lWtZWRU6do0k3U7tmToBDXlxMXhjnVPsx99ZvISrMxPh3g
+      56+f53BdBTVluWsdnnQV+SIsgTy+ED97uZmvf7wOo6KDFgWjhXBM8HfPn+KrH92L3Wpa6zCl
+      KyRdAghdAy0CqglU47pqNrx5pheLEfYqp9D6j4HBDHoM46YP8OpEGcX5mezalL/WYUpXSJrb
+      shACbeA4sZZfgaKCHsNQsAPTrkdRDOtjqq4/FCVj+DmUqs1Y7/9LFNWIiEeJnX0Ca387/rSP
+      r3WI0lWS4k2wEIJ41+tove9gPfxn2O7/S6wf+muU9GIib/1g9qmwDpS5THQrWzDWfAJFnb23
+      KEYzpj2P0RtxsdEl34skm6RIALQo8fZfY77jO3hjKm1944xO+VEr7kHNKEYbPLnWEd6UzeET
+      DHkidA1NzQ/7CiE42+VGC/vJD55f4wilqyVFE0if6kFkb+X/vdbClC9EaX4GHl+YSW+Iz9bt
+      JWvwTYwbG9c6zCWpisIfHirgqaY+Xjp2EVeGDbcnQE6Gnc805sgp4UkoKRIAReHpU9PU/IGL
+      +qri+Y89vhB/94s3+UalEcsahnezDCX1mM8+xZce+Lf4QzGmfGFyM+zYzCrh155B3fLttQ5R
+      ukpS3JKC9lKm9EzqthYs+DzTaeVQKZww3rlGkd0aQ1YZqjOX2Omf4bQobMxLx2aIEz3yOMbi
+      PaiOnLUOUbpKUjwBhqcCbMx1Ennj+1gOfRfF4pztGF/4F0oCZ/ldtGDpQpKEee/niXW9Tvil
+      PwWhg2rEtP0hjCXJ34RLRUmRAJlOC97M7Zi27yb8xl+AHgMhMJQeILTrK2T0T651iDdPUTBt
+      uRfj5sNXfLR+3mWkmqRIgNwMBx5fGK+jisz7/2r2zqkogMIrzx7nkXtq1jrEWyYv+vUhad4E
+      u6cD/PjXZ7irtozywkxm/GFeOdHNnq2FHNi+QV5Q0opYZgLodLWc5Xz3OA985D5C4/2cbOnD
+      omrkltewtWR28tfNJIAQgkhM471z/fS7vaTbLRzYXkJBtkNe/NKKWWYTSKFkczW+4DkAIsEg
+      WQUlFFjCuIOhWytJUbCajRzeW7G8kFKENxDhVMcI074QGwtm5xgZDUkxqLeuLDsBLBYLl27Q
+      Zrud4NAIA6pGdrFLLohZIed73Lzy6xdpsLRSkWal51SM19Pv5gufPEyGYz28MUkeCe0Ejw8P
+      UVJZS4HZz7G2UTaX5KbcgpiVNu0P8+qLz/LNu7Kwb/8LMJjZEZyk982f8ORvHHzj0cOoqmwy
+      3qzlPTP1GK3NTYRiMc41n6d46y5mBlpp7hiidkdVgkKUrvRecx+Ha4uw7/0sijUdxWRFzSim
+      /IE/xjTTxeRMcK1DXFeWd1tWTVTvrF3w0Y7avcsqUlrcuHuM3btrrxkYUIxW8suqGB93k5tV
+      vkbRrT+y17TOFNgiDPqvf98a9avk2WKrHNH6lloNcyHQJi8Sa3sRwh4wOzFt/SCGgp2wToZa
+      D2zJ5H+9cozqikKctssLhdr7J1BGTpKd/7WE1HNpcX/n4BQmo8q20hxc6faElJ1MkuZF2GqI
+      975L/OLvMO3+LKo9BxHxEmt+GtW1CVP1x9Y6vJsi9Dgdz/+AF0Y3UrWrnuw0Kz3DU8y0vMzn
+      7q0mbceDy35vEtd0fvlWG4FwlOrSXGJxjebuMarL8ri7tnTdvJcRQjAxE+S1k91MekNYzUYa
+      thWzoyJv/jukTAKIsJfwm/8N6+E/QzFdXpkl9DiRN76PueErqOmFaxjhzRPRIL5j/0hHZycz
+      MQvFjijldfdhrrwPRVl+q/bl410YDSof2FM+f6HENZ0nXjtHXWUR1Qna3UIPThFrfR4x3Q9G
+      C8bSAxhKD6KohoSU3z3s4bl3L/Cxg5XkZTkIR+O8fqoHu9XERw5sRVGU1EmAeP9RdE8v5l2P
+      XvuznrfRAxOYtz+0BpH9foQQEAshYkEUawaKITG7TUTjGj989jjf+kgNovMl9PEOUA0YNtTh
+      y23kqTfb+Tcfr192Pfr0AJEjj2Pa8UlU12aIR4h3vIyIBjA3fnXZSaDpOv/jqSN84xP1OKyX
+      m4pCCH7y2ybu2V1OeWFm6nSCRTSAYnZc/4cmB8TW1/ChoigoZjuqIydhFz9AOBLHqgfR3v7v
+      qI5czPu+hrnuC4jwNMaTjxOOLP8wPSEE0RP/B8uBb2HcUI9qy0JNK8C05zEUkw2t/+iy6xid
+      8lOQ7Vxw8cPs39tdu0o5cWEISKFRIEPuVrSxlmveSAsh0IZPo+ZvX6PIkovVbCQ0PYa681GM
+      m+5BdeSgpuVj2v4ponm7MRNZdh0iOAmqCSW9aMHniqJg3HIf8b73l11HKBLHbrn+jcFmMRGO
+      xoEUSgAlfQOKNYN4x0vzu0wIoaMNHEP43RgKd65xhMnBJMJsNg5wZCxtwc1CF4KXRwvYb2pe
+      fiXxMJhs1+9MGy2z+0ItU3FOGn1j09edgtPWN87m4uzZ6pZd0zqhKArm+i8Sa3qS8Cv/CcXu
+      QoQ8qGmFWO74TkI6j7cFLcYHSoK8MO7ln15pZnt5HtG4xpmOUTbl29mmjy27CsWZj/CPIeIR
+      FOPCuUv6RAdqVtmy67CajVRtzOGl4138Qd0mjAYVIQS9o9M0X3TzzYdm+zEp0wm+koiFEMGp
+      2c6jxbnW4SQVoWuEX/nPWO75E/o9Gh0Dk5gMKjXlebj0UWKtz2M99N1l1xO78BuEdxjTns+h
+      GC2zB6vMDBI5+jjWu/4Dii1z2XXoQvDqiYuc7xnHlW7DH4piMRt55AM1pNtnE2/ZCRCPhekf
+      GKWsogxVCEYHuxkYnWFLdQ2ZczMTky0BpMXF+4+i9b2Hed/XUUy22YszNEXk7b/BcuBbqFe1
+      3X8fQgji7b8l3v0mijN/dhBC1zA3fhk1vXjpAm5BNK4x5Q3hsJpw2swLml7LTACNC+fOMTA2
+      w9333kVkcpC2oRB7a8qJ6WAxzV70MgHWFyEEWu87xFpfREnLBy2GiHgx130eQ87WxNalxRD+
+      sdk+gS171V+yJaQJ1HTyJDV1dfSffY+LHjATo3JnHfmZ9vn1AHJTqHVIaOjeERSDCcWZB7fh
+      acIJvS0bzVYqt1dRkiE4erqLwsZauR5gXTNBzvqfWSqEDnocFAMo6oKnzLJPiGk930J3Tw9x
+      s5XK0jJOnDzOuNOMM2vjcuOWpGURQqCPNBE9+xQIASKOobgO086HL29enOhRIF2LE43rWC2X
+      38DJPoC02oQQaD1vE+97D8vBP0IxO2Y73p0vow2dwXLXv0dR1cS/CFMNxgUXvyStCT1OrOVX
+      sxf63BQYRVEwbb0fxZmPNnQKSKE3wVJq0ae6UXMrrzupzlhxF9rA7HwjmQBSSpMJIN2W1OwK
+      9PH2654uFO95C8PcZsUyAaTbk2rEVPMJIm/9NSIaAGY7xrGOlxG+MQzFs5s3pORcICl5xOIa
+      bk8Am8VEVpo1oW+ChRDow2eINj8NCNA1DMV7Me14GMWwQsOg1yMTQLqaEII3TvdyunOEgiwH
+      wUiccDTOp++pptCVluC6dNDioKqgGBI5F+jmyASQrva7Mz3M+CM8eGDr/FTlyZkQP3v5LF98
+      cM+qbfEo+wDSqovFNU53jPDA/i3zG/oqikJOpp176yp480zvqsUiE0BadZPeEK50OybjtWP0
+      G/MzGJn0rVosMgGkVWc1GwlFYtddrhiJxrGYErMtys1YdgKE/B7ONJ3n0mir0GKcOXGMwPI3
+      D5BuUxkOC7qY3bnhSkII3mnuZ8/W1dufaZkJoDE85Cbg86LPfdLf1cr45ARBuUWldAOKovDw
+      PdU8+fp5TneM4PGFGJ3088xbbQhgR0X+6sWSyAUxmm+ccxcncWrj5FQdwmXT5YIY6Yb8oShv
+      n+1jeNKPyWhg9+Z8tlfkoa7iqrCEjk0O9vYQDsHIYB8zlo3kbi9NqgUxQgiGxn282dTLTCCC
+      w2ri4I4SNhev/lI8CbJMJj52qHpNY0jIgpjB4WG05vPsqGlgswG6Ww1klpcmKMTEOXtxjPfP
+      D/DAvi1kp9vwBaO8fLyL4Qkfd9WWrXV40hpImRdhgVCUv/+X03z9Y3VYzJdjiWs6P3rhJI/c
+      s52czNtv+29pcSnTMO8a9lBZ4lpw8QMYDSoN2zbQ1DW6RpFJa2nR2/JgRxPPvPASU94gaZm5
+      PPipR9m2MTFbY6+2UDh2w70i7VbTqr58kZLHok+AXz77Ip/58h/xX/78z/na5z7Mc794bn64
+      c70pLciga2jqupvjXugbZ8vcXpFSaln0CVCSn86Lz/2KLKcF/9QQOSXV63ZnmIJsJ3ariSMt
+      gzRWF2NQVXQhaO0ZZ3w6SOWhnLUOUVoDi3aCw94JXnvzfVzZaTS19vHwZx4lJ816o1+/oWTo
+      BMPsJKwX3++gb3SG7HQrM/4IWWk2PnX3Nmw3aB5Jt7dFE+DH//P72HKLOXdhgDvvqKW1N8R3
+      vvrpW34KJEsCXBKOxvH4QqQ7LNccoCCllkX7ABHVzscfeZj8rFzuve8e1IBn3fYBrmQ1Gyl0
+      pcmLX1o8AQ7s309cs/CNb38JbWaGqr17Wb15epK08hZtl+yq38fwxfO8erYDgPyybasSlCSt
+      liUb5i/95jfsuPNB0q0GHBmu1YhJklbNkm+CC7OdNJ1vob29ncGxydWISZJWzZJzgfwzHnq7
+      OwnoVjZvrsCVceWRQgLv5AinW/o5dOc+4gEPZ862IRCUVtZS5JrdkzHZRoEk6ZIlr8rjr/+K
+      1ikz2UYf57rH+eLDh68YBtWZ9sVJsxrQAdVgYU/jftTQFKe6BihyVa1k7JK0bEsmQN/oDI88
+      9k2yjH5++Pe/RIcrRoIMbCzbyNSEGwCT1Y5vcpiTzV3sbtyHrl9eELMKk04l6ZYtmQAPPnAf
+      P338b4jqRh585LFFh0HDM25OXxji0F2HMKqzz4lkWhAjSVdbtA/gHhtFRWNy2g8oODJdbMi/
+      YiTo0oKYkTFchcXkOwx0jczgtBrJLS6jtHB2fo3sA0jJatEEeP+dt0l3GGnvGQGgoLyag3tu
+      /V2ATAApWS3+JvjQnQTDGh/+yCf45CcfJOadXq24JGlVLHpbbjn6Kv/3x09S/u5xzEoExVXN
+      3XevUmSStAoWbQJFQgHefedtqmsbsJpUHGnpmK+znd1SZBNISlaLXpUWm4NMY5gf/NfvYU6z
+      U1xzN9/67IdWKzZJWnFL3pZbe0Z5+MH7sVfXcuaN9xDcjueFS6lqyblAu3fuYkN1JW888VNM
+      2QWrEZMkrZolnwB2i+Cff/okutHKtspN8u4v3VaWTIB3j5ziC9/6d2Sqk/zvn73Gnq2PrUZc
+      krQqlmwCFWQ5eO7Zp3n2hZdxD/fy3G9/R/R2WBcpSdzEdOiRvk6GxmcAcGTkUFKUh8Nu51b2
+      kpXDoFKyWvIJ4PVMMDAwQF/HWV565yxOx8KLPxry09bWiQYIPU77+SZOnW0hGpePCSn5LZkA
+      ecVl7Ny5k9q6PUSnJ1j4uNDo6+lldGwUHZgY6CRsyaM810Jr1+BKxSxJCbNku2Skv4vzF0cA
+      hQc//uGrRoEMbKneTiB4EgCv10dh2RayTAHahvvlegAp6S2ZAKPuaT740YdIV/0898ppaipu
+      fH6TwWAgGouhqXEMBiOqqsr1AFJSW/KqHB/uZWhsiohhkv4h98Ifzq0H6OvvJ262UllaxomT
+      R+kxQMWOhpWKWZISZslRoMDUIE/94gXCWPnIJx+mJGfxY+y1eAwddcEZsHIUSEpWi3aCfRMD
+      PPHE03T3D6OrpmsOl7geg9F03QOQJSkZLfoE+NHffp87P/UVqkpyGOo4xpOv9fDH3/jMut8c
+      V5IuWXxz3BjkudIBcOUXoUeDyLEc6Xay6BNgoPUY//iL3xCLC1SLjU8/9mWqN976QRLyCSAl
+      q5Q5JVKSruemT4kUQqDLl1nSbeamE2Cq/zz/8MSvVzIWSVp1SzaB4rEYcU2b/WXVgNlskqNA
+      0m1jyavyhX9+nI4JDc3nxh2E8m2NfPuLD6XOCdvSbW3JBPCFdP71l76O3dPCMyensU5fJKKD
+      TWaAdBtYMgEeePBD/ORHf0tYN/GvPv8FBtttWOTFL90mlkyA9tZzGKxp1FbvItNuZ9PdB2/4
+      u7Gwj7PNrWhCYXPNLlxOS0KDlaREW/o9gBB43IM8//TPaI8U81d//Ic3/NXB9jOE0srZYA/R
+      3OulsbYSkJ1gKXktmQBHX3mG4xenqW/cz67qLdgXOVs34pvg9bePoyqC7Q13UZRtn18Qc2ld
+      gCQlkyUTQNM0vJOjnD51Ar+5kI8dbrzh73Y2H8VZuoc8c4Cj5wc4WL8TkE8AKXktelUeee15
+      jp3tQCWOx7SB737p/kULKyjawNnzp+hXNArLqhMaqCSthEUTYKivG8WWwdaidNq9Tpx266KF
+      peVs4KCrCCEUVFXuISclv8WbQELg93q4cL6JYyebyK3cx6fvP3DLlcgmkJSsbmk2qKZpGAzy
+      fADp9nFLQzO/z8UvSclMjk1KKU0mgJTSZAJIKU0mgJTSZAJIKU0mgJTSZAJIKS3hCRCPRvD5
+      /MR1eUCGlPwSmgCxkJejx04w0N/PtD+cyKIlaUUkdH7C2EA3aa58VKNKhsO64FAMeUCGlIwS
+      mgDhoJ+YKYM8S5TjTRfYv7tqdkMt2RySklRCEyC3oJCpcY3MrCwMExPzq8CEEHIynJSUErw3
+      qGCop5OR6TA1NTXYzLOT5+RsUClZyc1xpZQm3wNIKU0mgJTSZAJIKU0mgJTSZAJIKU0mgJTS
+      ZAJIKU0mgJTSZAJIKU0mgJTSViABBJ7JCeJyAqi0DiQ8Abzufl5//TU8oUSXLEmJl9AZano8
+      TFuPm8qKYmB2GvSl/7S5o1YlKZkk9AnQ09pE3GBh3D3OqHs8kUVL0opI6BOgePN2siMxuoIj
+      pDkdKIqCoijoui431pWS0oqsBwgH/RitToxzzxe5HkBKVnJBjJTS5HsAKaXJBJBSmkwAKaXJ
+      BJBSmkwAKaXJBJBSmkwAKaXJBJBSmkwAKaXJBJBSWkLnJ0QDHk43X0AInbKqWgqzHYksXpIS
+      LqFzgWLhILrJiiHk4VTXOI21VYCcCyQlr4RelSarHd/kCKfOdVLbsA9d19F1HU3T5AkxUlJK
+      7AkxXjen2wY5eOgOTIbZ7sWlQzLkE0BKRgntBHunJhHEOXvmNH0jE4ksWpJWhFwPIKU0OQwq
+      pTSZAFJKkwkgpTSZAFJKkwkgpTSZAFJKS3ACCKYn3YyOTyFf/ErrQUIH5/0TA5zrmiTbEsUX
+      3syWElcii5ekhEvoE8A9OsbmbTVsq6pk3D2ayKIlaUUkvA+gzu0HCrINJCW/hDaBXLm5tHa2
+      47NGyHKVJLJoSVoRiZ0LJATu4X4CupnSDYWoyuzHci6QlKzkZDgppa1oAlxaEKPr+vy6gJUi
+      hJjre8g61rL89VbHbfMEuB3qEEKs+GEiuj57euFK3pDW07/FqiSAJCWrVZ0KEQ76l3V8ajgU
+      QtdvPV81LY6+RnkeDYeIa5e/tND1Bf8fi4SIab9PbIJgMLiig83BYBB0nWAovIK1rB6ha2i6
+      TiQUQhOCUDC4ugnQc/4Mnog2fxELoaNpOoLLJ0rquj53qqQ+95lOfG5RfXfnBcKxmzttUggd
+      ba6sqbFhgtHL5c3Wo6FpOjBXr3YpLjHfb7lx2WIudu2q76DPxw2zzY2hvk48gdj8n4mGZhib
+      mJn/ubu/Hbcvdt06dE1DnzthUxdiwWcAra2t8+Xouj6XDJd/R4jZhLv8s+uUr18un7m/l0v/
+      Pq2trRAP0drRM1+upuswf/rn5e96o78nbf47xOd+V1y+IV06QTSuLfyZLm66Di595yv+za68
+      Zi79WSEEEe8E7pkwvR0XCMR1LrS2JvY9wFL0eISW5iYIBqg7eJCRrhZmAiEcrg1Y/ZNM6BEy
+      szYQdHcTUyyUba2i53wTqqqQVbb9puuJh70cO3EWk1HBnldBjiGEJjROHz9BOC6o3FJOW/tF
+      TKqgtGY3/eeOo1rs+OMG7mqspvl0K6FwgIra/eSnma8pP+Du5sgFN0p4Bke2C5/Hx4G772S4
+      oxlvIISzYAt5pgCtfW6CM1PsLtzE6WOnCGsKlVvLiWlGPKO9tHSPEvVNUJlbfU0dp468hTBY
+      mZzx4cpwolky2VWeQ0tXPwF/hP137p/7skGamtoIB/1s3r2f4FAbo94YgWCIQwfqaWtpJRgI
+      UFq9h6Ir9mlqPv4uIcXMtGcGV1Y6UdXB3qpiWtp7CIXC1DbsX/idp0Y41dqLEZ2q2r30XThL
+      MBSjZu9+Mu3Xv4yOv/sGmB1Mz/jIynCi2l2UZRm5ODKFpkH99nLeONpMpt2ALaeCfGuIi8Me
+      hC7Ys6eGc2fOERMGdtfVYTffuMMbC05z5MR5nGmZ1Oyqovn4MVSDQnZJDf7JQXZs305baysV
+      BU7CevqCP7uqTwDVaGF77V72VubRPeTBYFBRFIWhoSH8025cpdVsLjTiFznU1dWRERujeyKM
+      MBrpbGu96Xrcg31sqNrNjqoKwqEQoaCPmK7jHp+hYf8+fGO9bNq1j7o9Oxjo6SaKmfqGRtLM
+      gK5iMKqohBkYmrpu+fGwn4LyGnZWFFG8ZSebcpzMxGKoRhOqwcBQ/yC9A6PUNzawtWIDIHBP
+      zFC/bx8Og04gFKW7d4SGffuo2nT9F4YhzUB9YwM52dnU19cTC0yjqCoqEJkaZnKuVSJQMRoU
+      TCJI78g0o54gjfV1pFlAR8GoKphEmL6Rhd8lEoXahkZyXNnUN+xDD02jKCoGZXaDs4mZhSed
+      93b0sHP/AfbWbqGnq4+R0SkaDt5xw4sfII6Z+sZ9uLKzaGjcT2h6jPb2NnQBnpFBJnw+7K4N
+      NB7YS9Tro2/QTV1jA1uK0xkcm8I9HWbf/nrs5iUuUwW0eByz0wnTA/SMBdEx0tlxAT3gxR8N
+      4fXHEdEggcjCFsSqT4fWdY2RsSkyHOD2amyv2oxBUUCxkJXlAKOTaHBq9lFoclCQX8Ce3Xtp
+      3FMzX8a0Zwpd6ExNea5bh8NhZ6C3h+HBIaJXtGScGVmYVAVHmhPv9AwBrweTdeHudZ6BNoz5
+      lVRsLOCWBtmC44wFrWyrrMCogio0guHYbDt6rm6z4XKJRjT84SjBQPCmq7hw/gJbd+2mwHX5
+      LjbZ04KlqIpNGwtQFAURCTA8NoZ7cobpwYuQVcqW8uKb+i59nRco2rKD4rysa36WlmbF4/Hj
+      m5rE4kwjLSsbk6og9Bgej49YyI83GF2yjvT0LLZs28Hd936AbJtpwc9sJpVAKMrMtA+H3UJG
+      VhYGRSEWCeANRAj4pq/bBFZVM/V33IE9OMhg2EZRYRF79+6lobaa6m0befPXr1FUde1TFsDw
+      ve9973s38XeTEGaLmf6LnTjyyiktcBEPTDE8FWHzpo1ku1zY7XaMipEsh0pbezfp+WVkmkJ0
+      dPeR4conKyMNq9WKzzuN3eFgZtpLWprzmnoszkzSTDrhaBRNtVO6oRCb1U56mgO73YY93cXM
+      yEXGfLCjejNpDgd2ux2bzUZmXiFj3W1olkw2FORitVx7h1NNVhwOOw6nA5vNisPhwJGRg/CO
+      4vZpVJRuoGRjIZ1tbZjTcsnPySY9zYndbkM1GLHZbBQV5XOxrRVjWg4FOdmYDAsvUccVMdls
+      Nhx2B8XFubS1tJFZUEpOdgbpDjvZBUUMd7WiWTIpKsiloqyEqclpotEQm2t2MTXQSVh1UFKc
+      j81y+YKzzZXvuFS+w0F+fh4XO9pxuIrIc2WSkebANhdD/oYSxrpbmdYd1GwpwWm3Y7fbESLG
+      jDeC1aQR1gzYr6jDPleH/Yo6SstL6eloYzqokZ+Xh9PpwG61YrPZ2FBSREfrOUxZGygtzMFh
+      d2C3W9GiQYIxFSUeQjHaMBuvum8Lnc62ViIWF5XlG7EKPx3dA2Tk5ONIy8ZgMlBWmINqsmCz
+      2Uh3Oub+Tu38f+U37PxonxrKAAAAAElFTkSuQmCC
+    </thumbnail>
+    <thumbnail height='192' name='xCity' width='192'>
+      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
+      TkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>

@@ -805,3 +805,253 @@ ID,Reason_absence,Month_absence,Day_week,Seasons,Transportation_expense,Distance
 134,Consulta médica,Julio,Viernes,Invierno,179.0,51.0,18.0,38.0,239.554,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,23,1,7.0,6,1
 135,Consulta médica,Marzo,Lunes,Otono,248.0,25.0,14.0,47.0,222.196,99.0,0,High school,2,0,0,1,86.0,165.0,32.0,2.0,23,1,3.0,2,2
 136,Consulta médica,Mayo,Miercoles,Verano,155.0,12.0,14.0,34.0,237.656,99.0,0,High school,2,1,0,0,95.0,196.0,25.0,2.0,23,1,5.0,4,3
+137,Consulta médica,Febrero,Martes,Otono,246.0,25.0,16.0,41.0,251.818,96.0,0,High school,0,1,0,0,67.0,170.0,23.0,2.0,23,1,2.0,3,2
+138,Consulta médica,Julio,Viernes,Invierno,179.0,51.0,18.0,38.0,239.554,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,23,1,7.0,6,1
+139,Enfermedades de la sangre y órganos hematopoyéticos,Enero,Miercoles,Otono,291.0,31.0,12.0,40.0,330.061,100.0,0,High school,1,1,0,1,73.0,171.0,25.0,8.0,3,1,1.0,4,2
+140,Enfermedades del sistema musculoesquelético y tejido conectivo,Agosto,Lunes,Invierno,361.0,52.0,3.0,28.0,205.917,92.0,0,High school,1,1,0,4,80.0,172.0,27.0,40.0,13,1,8.0,2,1
+141,Enfermedades del sistema musculoesquelético y tejido conectivo,Abril,Lunes,Verano,225.0,26.0,9.0,28.0,246.288,91.0,0,High school,1,0,0,2,69.0,169.0,24.0,8.0,13,1,4.0,2,3
+142,Fisioterapia,Enero,Lunes,Otono,118.0,10.0,10.0,37.0,308.593,95.0,0,High school,0,0,0,0,83.0,172.0,28.0,2.0,27,1,1.0,2,2
+143,Enfermedades del sistema musculoesquelético y tejido conectivo,Marzo,Martes,Otono,179.0,51.0,18.0,38.0,222.196,99.0,0,High school,0,1,0,0,89.0,170.0,31.0,8.0,13,1,3.0,3,2
+144,Enfermedades del sistema respiratorio,Mayo,Miercoles,Verano,179.0,22.0,17.0,40.0,237.656,99.0,0,Graduate,2,0,1,0,63.0,170.0,22.0,8.0,10,2,5.0,4,3
+145,Síntomas y signos no clasificados,Enero,Viernes,Otono,179.0,22.0,17.0,40.0,313.532,96.0,0,Graduate,2,0,1,0,63.0,170.0,22.0,3.0,18,2,1.0,6,2
+146,Enfermedades del sistema musculoesquelético y tejido conectivo,Abril,Miercoles,Verano,118.0,13.0,18.0,50.0,239.409,98.0,0,High school,1,1,0,0,98.0,178.0,31.0,120.0,13,1,4.0,4,3
+147,Paciente en seguimiento,Junio,Lunes,Verano,361.0,52.0,3.0,28.0,377.55,94.0,0,High school,1,1,0,4,80.0,172.0,27.0,8.0,22,1,6.0,2,3
+148,Enfermedades infecciosas y parasitarias,Octubre,Miercoles,Primavera,228.0,14.0,16.0,58.0,284.853,91.0,0,High school,2,0,0,1,65.0,172.0,22.0,1.0,1,1,10.0,4,4
+149,"Enfermedades endocrinas, nutricionales y metabólicas",Diciembre,Jueves,Primavera,246.0,25.0,16.0,41.0,236.629,93.0,0,High school,0,1,0,0,67.0,170.0,23.0,8.0,4,1,12.0,5,4
+150,Fisioterapia,Febrero,Viernes,Otono,179.0,51.0,18.0,38.0,264.249,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,27,1,2.0,6,2
+151,Examen de laboratorio,Agosto,Lunes,Invierno,361.0,52.0,3.0,28.0,205.917,92.0,0,High school,1,1,0,4,80.0,172.0,27.0,7.0,25,1,8.0,2,1
+152,Consulta médica,Agosto,Viernes,Invierno,260.0,50.0,11.0,36.0,205.917,92.0,0,High school,4,1,0,0,65.0,168.0,23.0,4.0,23,1,8.0,6,1
+153,Consulta médica,Septiembre,Jueves,Invierno,291.0,31.0,12.0,40.0,241.476,92.0,0,High school,1,1,0,1,73.0,171.0,25.0,4.0,23,1,9.0,5,1
+154,Enfermedades del sistema digestivo,Marzo,Lunes,Otono,179.0,22.0,17.0,40.0,343.253,95.0,0,Graduate,2,0,1,0,63.0,170.0,22.0,40.0,11,2,3.0,2,2
+155,Factores que influyen en el estado de salud,Noviembre,Jueves,Primavera,179.0,22.0,17.0,40.0,306.345,93.0,0,Graduate,2,0,1,0,63.0,170.0,22.0,8.0,21,2,11.0,5,4
+156,Consulta médica,Agosto,Viernes,Invierno,179.0,51.0,18.0,38.0,205.917,92.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,23,1,8.0,6,1
+157,Consulta médica,Julio,Jueves,Invierno,289.0,36.0,13.0,33.0,239.554,97.0,0,High school,2,1,0,1,90.0,172.0,30.0,2.0,23,1,7.0,5,1
+158,Consulta dental,Diciembre,Martes,Primavera,118.0,13.0,18.0,50.0,236.629,93.0,0,High school,1,1,0,0,98.0,178.0,31.0,1.0,28,1,12.0,3,4
+159,Paciente en seguimiento,Julio,Lunes,Invierno,235.0,11.0,14.0,37.0,239.554,97.0,0,Postgraduate,1,0,0,1,88.0,172.0,29.0,8.0,22,3,7.0,2,1
+160,Síntomas y signos no clasificados,Enero,Martes,Otono,155.0,12.0,14.0,34.0,313.532,96.0,0,High school,2,1,0,0,95.0,196.0,25.0,8.0,18,1,1.0,3,2
+161,Fisioterapia,Marzo,Lunes,Otono,179.0,51.0,18.0,38.0,222.196,99.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,27,1,3.0,2,2
+162,Enfermedades del sistema genitourinario,Septiembre,Lunes,Primavera,291.0,31.0,12.0,40.0,241.476,92.0,0,High school,1,1,0,1,73.0,171.0,25.0,32.0,14,1,9.0,2,4
+163,Enfermedades del sistema circulatorio,Julio,Martes,Invierno,225.0,26.0,9.0,28.0,230.29,92.0,0,High school,1,0,0,2,69.0,169.0,24.0,112.0,9,1,7.0,3,1
+164,Síntomas y signos no clasificados,Agosto,Lunes,Invierno,289.0,36.0,13.0,33.0,205.917,92.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,18,1,8.0,2,1
+165,Consulta dental,Abril,Viernes,Verano,260.0,50.0,11.0,36.0,239.409,98.0,0,High school,4,1,0,0,65.0,168.0,23.0,4.0,28,1,4.0,6,3
+166,Enfermedades del sistema genitourinario,Noviembre,Jueves,Primavera,248.0,25.0,14.0,47.0,268.519,93.0,0,High school,2,0,0,1,86.0,165.0,32.0,4.0,14,1,11.0,5,4
+167,"Lesiones, envenenamientos y consecuencias de otras causas externas",Mayo,Martes,Verano,225.0,26.0,9.0,28.0,378.884,92.0,0,High school,1,0,0,2,69.0,169.0,24.0,8.0,19,1,5.0,3,3
+168,Paciente en seguimiento,Noviembre,Lunes,Primavera,189.0,29.0,13.0,33.0,306.345,93.0,0,High school,2,0,0,2,69.0,167.0,25.0,8.0,22,1,11.0,2,4
+169,Factores que influyen en el estado de salud,Julio,Lunes,Invierno,179.0,51.0,18.0,38.0,239.554,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,8.0,21,1,7.0,2,1
+170,Examen de laboratorio,Marzo,Martes,Otono,248.0,25.0,14.0,47.0,222.196,99.0,0,High school,2,0,0,1,86.0,165.0,32.0,3.0,25,1,3.0,3,2
+171,Paciente en seguimiento,Julio,Lunes,Invierno,289.0,36.0,13.0,33.0,230.29,92.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,22,1,7.0,2,1
+172,Consulta médica,Noviembre,Lunes,Primavera,248.0,25.0,14.0,47.0,284.031,97.0,0,High school,2,0,0,1,86.0,165.0,32.0,2.0,23,1,11.0,2,4
+173,Fisioterapia,Febrero,Miercoles,Otono,179.0,51.0,18.0,38.0,251.818,96.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,27,1,2.0,4,2
+174,Fisioterapia,Febrero,Viernes,Otono,179.0,51.0,18.0,38.0,251.818,96.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,27,1,2.0,6,2
+175,Enfermedades del sistema genitourinario,Octubre,Miercoles,Primavera,289.0,48.0,29.0,49.0,284.853,91.0,0,High school,0,0,0,2,108.0,172.0,36.0,3.0,14,1,10.0,4,4
+176,Consulta médica,Septiembre,Jueves,Invierno,179.0,51.0,18.0,38.0,294.217,81.0,0,High school,0,1,0,0,89.0,170.0,31.0,1.0,23,1,9.0,5,1
+177,"Lesiones, envenenamientos y consecuencias de otras causas externas",Mayo,Miercoles,Verano,225.0,15.0,15.0,41.0,237.656,99.0,0,Master/Doctor,2,1,0,2,94.0,182.0,28.0,3.0,19,4,5.0,4,3
+178,Fisioterapia,Marzo,Miercoles,Otono,179.0,51.0,18.0,38.0,222.196,99.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,27,1,3.0,4,2
+179,No corresponde,Marzo,Miercoles,Otono,369.0,17.0,12.0,31.0,244.387,98.0,1,High school,3,1,0,0,70.0,169.0,25.0,0.0,0,1,3.0,4,2
+180,Consulta dental,Febrero,Lunes,Otono,225.0,26.0,9.0,28.0,302.585,99.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,28,1,2.0,2,2
+181,Enfermedades del sistema musculoesquelético y tejido conectivo,Abril,Miercoles,Verano,246.0,25.0,16.0,41.0,326.452,96.0,0,High school,0,1,0,0,67.0,170.0,23.0,24.0,13,1,4.0,4,3
+182,Donación de sangre,Octubre,Lunes,Primavera,289.0,36.0,13.0,33.0,265.017,88.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,24,1,10.0,2,4
+183,Enfermedades del sistema genitourinario,Mayo,Jueves,Verano,225.0,15.0,15.0,41.0,237.656,99.0,0,Master/Doctor,2,1,0,2,94.0,182.0,28.0,8.0,14,4,5.0,5,3
+184,Síntomas y signos no clasificados,Septiembre,Miercoles,Primavera,225.0,26.0,9.0,28.0,241.476,92.0,0,High school,1,0,0,2,69.0,169.0,24.0,3.0,18,1,9.0,4,4
+185,Enfermedades del sistema musculoesquelético y tejido conectivo,Agosto,Jueves,Invierno,300.0,26.0,13.0,43.0,265.615,94.0,0,High school,2,1,1,1,77.0,175.0,25.0,1.0,13,1,8.0,5,1
+186,Enfermedades infecciosas y parasitarias,Julio,Lunes,Invierno,330.0,16.0,4.0,28.0,275.312,98.0,0,Graduate,0,0,0,0,84.0,182.0,25.0,8.0,1,2,7.0,2,1
+187,Enfermedades del sistema genitourinario,Agosto,Jueves,Invierno,300.0,26.0,13.0,43.0,265.615,94.0,0,High school,2,1,1,1,77.0,175.0,25.0,2.0,14,1,8.0,5,1
+188,Consulta médica,Agosto,Viernes,Invierno,260.0,50.0,11.0,36.0,205.917,92.0,0,High school,4,1,0,0,65.0,168.0,23.0,4.0,23,1,8.0,6,1
+189,Enfermedades del oído y la apófisis mastoides,Mayo,Miercoles,Verano,118.0,10.0,10.0,37.0,237.656,99.0,0,High school,0,0,0,0,83.0,172.0,28.0,3.0,8,1,5.0,4,3
+190,Enfermedades del sistema musculoesquelético y tejido conectivo,Marzo,Martes,Otono,155.0,12.0,14.0,34.0,343.253,95.0,0,High school,2,1,0,0,95.0,196.0,25.0,8.0,13,1,3.0,3,2
+191,Fisioterapia,Febrero,Lunes,Otono,179.0,51.0,18.0,38.0,264.249,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,27,1,2.0,2,2
+192,Consulta médica,Enero,Martes,Otono,225.0,26.0,9.0,28.0,308.593,95.0,0,High school,1,0,0,2,69.0,169.0,24.0,1.0,23,1,1.0,3,2
+193,Enfermedades del sistema respiratorio,Octubre,Lunes,Primavera,361.0,52.0,3.0,28.0,265.017,88.0,0,High school,1,1,0,4,80.0,172.0,27.0,8.0,10,1,10.0,2,4
+194,Consulta médica,Diciembre,Lunes,Primavera,235.0,11.0,14.0,37.0,236.629,93.0,0,Postgraduate,1,0,0,1,88.0,172.0,29.0,3.0,23,3,12.0,2,4
+195,Consulta médica,Julio,Viernes,Invierno,260.0,50.0,11.0,36.0,239.554,97.0,0,High school,4,1,0,0,65.0,168.0,23.0,4.0,23,1,7.0,6,1
+196,Consulta médica,Septiembre,Martes,Primavera,225.0,26.0,9.0,28.0,241.476,92.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,23,1,9.0,3,4
+197,Ausencia injustificada,Julio,Lunes,Invierno,235.0,20.0,13.0,43.0,230.29,92.0,0,High school,1,1,0,0,106.0,167.0,38.0,8.0,26,1,7.0,2,1
+198,"Lesiones, envenenamientos y consecuencias de otras causas externas",Abril,Viernes,Verano,260.0,50.0,11.0,36.0,326.452,96.0,0,High school,4,1,0,0,65.0,168.0,23.0,56.0,19,1,4.0,6,3
+199,Ausencia injustificada,Septiembre,Miercoles,Primavera,235.0,20.0,13.0,43.0,294.217,81.0,0,High school,1,1,0,0,106.0,167.0,38.0,8.0,26,1,9.0,4,4
+200,Consulta médica,Octubre,Miercoles,Primavera,225.0,26.0,9.0,28.0,253.465,93.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,23,1,10.0,4,4
+201,Examen de laboratorio,Mayo,Viernes,Verano,179.0,22.0,17.0,40.0,237.656,99.0,0,Graduate,2,0,1,0,63.0,170.0,22.0,8.0,25,2,5.0,6,3
+202,Fisioterapia,Marzo,Miercoles,Otono,179.0,51.0,18.0,38.0,222.196,99.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,27,1,3.0,4,2
+203,Consulta dental,Junio,Lunes,Verano,179.0,51.0,18.0,38.0,253.957,95.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,28,1,6.0,2,3
+204,Ausencia injustificada,Diciembre,Viernes,Primavera,260.0,50.0,11.0,36.0,261.306,97.0,0,High school,4,1,0,0,65.0,168.0,23.0,8.0,26,1,12.0,6,4
+205,"Lesiones, envenenamientos y consecuencias de otras causas externas",Junio,Viernes,Verano,233.0,51.0,1.0,31.0,275.089,96.0,0,Graduate,1,1,0,8,68.0,178.0,21.0,8.0,19,2,6.0,6,3
+206,Consulta médica,Diciembre,Martes,Primavera,248.0,25.0,14.0,47.0,261.306,97.0,0,High school,2,0,0,1,86.0,165.0,32.0,1.0,23,1,12.0,3,4
+207,Consulta dental,Septiembre,Viernes,Invierno,260.0,50.0,11.0,36.0,294.217,81.0,0,High school,4,1,0,0,65.0,168.0,23.0,4.0,28,1,9.0,6,1
+208,Consulta dental,Diciembre,Viernes,Primavera,260.0,50.0,11.0,36.0,236.629,93.0,0,High school,4,1,0,0,65.0,168.0,23.0,4.0,28,1,12.0,6,4
+209,Enfermedades del sistema respiratorio,Mayo,Lunes,Verano,369.0,17.0,12.0,31.0,246.074,99.0,0,High school,3,1,0,0,70.0,169.0,25.0,8.0,10,1,5.0,2,3
+210,Consulta médica,Septiembre,Martes,Primavera,118.0,10.0,10.0,37.0,241.476,92.0,0,High school,0,0,0,0,83.0,172.0,28.0,2.0,23,1,9.0,3,4
+211,Consulta médica,Febrero,Martes,Otono,291.0,31.0,12.0,40.0,251.818,96.0,0,High school,1,1,0,1,73.0,171.0,25.0,2.0,23,1,2.0,3,2
+212,No corresponde,,Martes,Invierno,118.0,14.0,13.0,40.0,271.219,95.0,0,High school,1,1,0,8,98.0,170.0,34.0,0.0,0,1,,3,1
+213,Fisioterapia,Febrero,Miercoles,Otono,179.0,51.0,18.0,38.0,264.249,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,27,1,2.0,4,2
+214,"Lesiones, envenenamientos y consecuencias de otras causas externas",Agosto,Jueves,Invierno,235.0,11.0,14.0,37.0,265.615,94.0,0,Postgraduate,1,0,0,1,88.0,172.0,29.0,8.0,19,3,8.0,5,1
+215,Consulta dental,Abril,Martes,Verano,155.0,12.0,14.0,34.0,246.288,91.0,0,High school,2,1,0,0,95.0,196.0,25.0,4.0,28,1,4.0,3,3
+216,Consulta dental,Junio,Martes,Verano,246.0,25.0,16.0,41.0,253.957,95.0,0,High school,0,1,0,0,67.0,170.0,23.0,3.0,28,1,6.0,3,3
+217,"Lesiones, envenenamientos y consecuencias de otras causas externas",Abril,Miercoles,Verano,248.0,25.0,14.0,47.0,246.288,91.0,0,High school,2,0,0,1,86.0,165.0,32.0,8.0,19,1,4.0,4,3
+218,Enfermedades del sistema musculoesquelético y tejido conectivo,Diciembre,Viernes,Primavera,179.0,26.0,9.0,30.0,280.549,98.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,1.0,13,3,12.0,6,4
+219,Consulta médica,Enero,Lunes,Otono,155.0,12.0,14.0,34.0,330.061,100.0,0,High school,2,1,0,0,95.0,196.0,25.0,2.0,23,1,1.0,2,2
+220,Enfermedades del sistema digestivo,Agosto,Jueves,Invierno,268.0,11.0,8.0,33.0,265.615,94.0,0,Graduate,0,0,0,0,79.0,178.0,25.0,8.0,11,2,8.0,5,1
+221,Paciente en seguimiento,Junio,Jueves,Verano,378.0,49.0,11.0,36.0,377.55,94.0,0,High school,2,0,1,4,65.0,174.0,21.0,8.0,22,1,6.0,5,3
+222,Paciente en seguimiento,Febrero,Viernes,Otono,289.0,36.0,13.0,33.0,302.585,99.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,22,1,2.0,6,2
+223,Consulta médica,Marzo,Miercoles,Verano,118.0,15.0,24.0,46.0,222.196,99.0,0,High school,2,1,1,0,75.0,175.0,25.0,8.0,23,1,3.0,4,3
+224,Consulta médica,Febrero,Viernes,Otono,179.0,51.0,18.0,38.0,251.818,96.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,23,1,2.0,6,2
+225,Consulta médica,Junio,Lunes,Verano,118.0,10.0,10.0,37.0,253.957,95.0,0,High school,0,0,0,0,83.0,172.0,28.0,3.0,23,1,6.0,2,3
+226,Consulta médica,Diciembre,Viernes,Otono,225.0,26.0,9.0,28.0,261.306,97.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,23,1,12.0,6,2
+227,Consulta médica,Septiembre,Miercoles,Primavera,179.0,51.0,18.0,38.0,241.476,92.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,23,1,9.0,4,4
+228,Enfermedades del sistema musculoesquelético y tejido conectivo,Julio,Lunes,Invierno,369.0,17.0,12.0,31.0,264.604,93.0,0,High school,3,1,0,0,70.0,169.0,25.0,80.0,13,1,7.0,2,1
+229,Enfermedades del sistema musculoesquelético y tejido conectivo,Febrero,Martes,Otono,179.0,51.0,18.0,38.0,264.249,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,8.0,13,1,2.0,3,2
+230,Enfermedades del sistema nervioso,Julio,Martes,Invierno,228.0,14.0,16.0,58.0,264.604,93.0,0,High school,2,0,0,1,65.0,172.0,22.0,120.0,6,1,7.0,3,1
+231,Consulta dental,Febrero,Viernes,Otono,225.0,15.0,15.0,41.0,264.249,97.0,0,Master/Doctor,2,1,0,2,94.0,182.0,28.0,2.0,28,4,2.0,6,2
+232,Enfermedades del ojo y sus anexos,Septiembre,Lunes,Primavera,291.0,31.0,12.0,40.0,294.217,81.0,0,High school,1,1,0,1,73.0,171.0,25.0,40.0,7,1,9.0,2,4
+233,Consulta médica,Octubre,Miercoles,Primavera,248.0,25.0,14.0,47.0,253.465,93.0,0,High school,2,0,0,1,86.0,165.0,32.0,2.0,23,1,10.0,4,4
+234,Consulta dental,Abril,Viernes,Verano,291.0,31.0,12.0,40.0,326.452,96.0,0,High school,1,1,0,1,73.0,171.0,25.0,1.0,28,1,4.0,6,3
+235,No corresponde,Marzo,Jueves,Verano,246.0,25.0,16.0,41.0,244.387,98.0,1,High school,0,1,0,0,67.0,170.0,23.0,0.0,0,1,3.0,5,3
+236,Enfermedades del sistema musculoesquelético y tejido conectivo,Diciembre,Martes,Primavera,179.0,26.0,9.0,30.0,280.549,98.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,16.0,13,3,12.0,3,4
+237,Consulta dental,Octubre,Jueves,Primavera,118.0,13.0,18.0,50.0,265.017,88.0,0,High school,1,1,0,0,98.0,178.0,31.0,1.0,28,1,10.0,5,4
+238,Consulta dental,Mayo,Lunes,Verano,118.0,10.0,10.0,37.0,246.074,99.0,0,High school,0,0,0,0,83.0,172.0,28.0,1.0,28,1,5.0,2,3
+239,Enfermedades del sistema genitourinario,Marzo,Jueves,Verano,279.0,5.0,14.0,39.0,343.253,95.0,0,High school,2,1,1,0,68.0,168.0,24.0,16.0,14,1,3.0,5,3
+240,Consulta médica,Octubre,Martes,Primavera,118.0,10.0,10.0,37.0,253.465,93.0,0,High school,0,0,0,0,83.0,172.0,28.0,3.0,23,1,10.0,3,4
+241,Enfermedades infecciosas y parasitarias,Mayo,Lunes,Verano,235.0,11.0,14.0,37.0,246.074,99.0,0,Postgraduate,1,0,0,1,88.0,172.0,29.0,8.0,1,3,5.0,2,3
+242,Consulta médica,Noviembre,Jueves,Primavera,179.0,51.0,18.0,38.0,284.031,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,1.0,23,1,11.0,5,4
+243,Consulta médica,Septiembre,Martes,Invierno,179.0,51.0,18.0,38.0,241.476,92.0,0,High school,0,1,0,0,89.0,170.0,31.0,4.0,23,1,9.0,3,1
+244,Fisioterapia,Enero,Martes,Otono,118.0,10.0,10.0,37.0,308.593,95.0,0,High school,0,0,0,0,83.0,172.0,28.0,2.0,27,1,1.0,3,2
+245,"Lesiones, envenenamientos y consecuencias de otras causas externas",Febrero,Jueves,Otono,189.0,29.0,13.0,33.0,302.585,99.0,0,High school,2,0,0,2,69.0,167.0,25.0,8.0,19,1,2.0,5,2
+246,Fisioterapia,Enero,Miercoles,Otono,225.0,26.0,9.0,28.0,308.593,95.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,27,1,1.0,4,2
+247,"Lesiones, envenenamientos y consecuencias de otras causas externas",Diciembre,Lunes,Otono,289.0,36.0,13.0,33.0,236.629,93.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,19,1,12.0,2,2
+248,Ausencia injustificada,Octubre,Martes,Primavera,369.0,17.0,12.0,31.0,284.853,91.0,0,High school,3,1,0,0,70.0,169.0,25.0,8.0,26,1,10.0,3,4
+249,Consulta médica,Enero,Martes,Otono,155.0,12.0,14.0,34.0,330.061,100.0,0,High school,2,1,0,0,95.0,196.0,25.0,4.0,23,1,1.0,3,2
+250,"Lesiones, envenenamientos y consecuencias de otras causas externas",Enero,Lunes,Otono,118.0,10.0,10.0,37.0,330.061,100.0,0,High school,0,0,0,0,83.0,172.0,28.0,32.0,19,1,1.0,2,2
+251,Consulta médica,Octubre,Martes,Primavera,225.0,26.0,9.0,28.0,284.853,91.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,23,1,10.0,3,4
+252,Factores que influyen en el estado de salud,Noviembre,Martes,Primavera,179.0,51.0,18.0,38.0,268.519,93.0,0,High school,0,1,0,0,89.0,170.0,31.0,1.0,21,1,11.0,3,4
+253,"Lesiones, envenenamientos y consecuencias de otras causas externas",Abril,Martes,Verano,289.0,36.0,13.0,33.0,326.452,96.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,19,1,4.0,3,3
+254,Ausencia injustificada,Octubre,Lunes,Primavera,289.0,36.0,13.0,33.0,265.017,88.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,26,1,10.0,2,4
+255,Examen de laboratorio,Marzo,Miercoles,Otono,228.0,14.0,16.0,58.0,222.196,99.0,0,High school,2,0,0,1,65.0,172.0,22.0,2.0,25,1,3.0,4,2
+256,Enfermedades del sistema digestivo,Agosto,Jueves,Invierno,291.0,50.0,12.0,32.0,205.917,92.0,0,High school,0,1,0,0,65.0,169.0,23.0,4.0,11,1,8.0,5,1
+257,Síntomas y signos no clasificados,Mayo,Martes,Verano,179.0,51.0,18.0,38.0,378.884,92.0,0,High school,0,1,0,0,89.0,170.0,31.0,8.0,18,1,5.0,3,3
+258,Fisioterapia,Enero,Viernes,Otono,225.0,26.0,9.0,28.0,308.593,95.0,0,High school,1,0,0,2,69.0,169.0,24.0,1.0,27,1,1.0,6,2
+259,Consulta dental,Junio,Viernes,Verano,260.0,50.0,11.0,36.0,253.957,95.0,0,High school,4,1,0,0,65.0,168.0,23.0,4.0,28,1,6.0,6,3
+260,"Lesiones, envenenamientos y consecuencias de otras causas externas",Abril,Lunes,Verano,225.0,26.0,9.0,28.0,246.288,91.0,0,High school,1,0,0,2,69.0,169.0,24.0,8.0,19,1,4.0,2,3
+261,Consulta dental,Marzo,Lunes,Otono,179.0,51.0,18.0,38.0,244.387,98.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,28,1,3.0,2,2
+262,Trastornos mentales y del comportamiento,Mayo,Martes,Verano,118.0,13.0,18.0,50.0,237.656,99.0,0,High school,1,1,0,0,98.0,178.0,31.0,3.0,5,1,5.0,3,3
+263,Paciente en seguimiento,Febrero,Lunes,Otono,189.0,29.0,13.0,33.0,251.818,96.0,0,High school,2,0,0,2,69.0,167.0,25.0,8.0,22,1,2.0,2,2
+264,Enfermedades del sistema respiratorio,Abril,Lunes,Verano,118.0,10.0,10.0,37.0,246.288,91.0,0,High school,0,0,0,0,83.0,172.0,28.0,8.0,10,1,4.0,2,3
+265,Consulta médica,Febrero,Martes,Otono,248.0,25.0,14.0,47.0,264.249,97.0,0,High school,2,0,0,1,86.0,165.0,32.0,2.0,23,1,2.0,3,2
+266,Consulta médica,Octubre,Jueves,Primavera,179.0,26.0,9.0,30.0,253.465,93.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,1.0,23,3,10.0,5,4
+267,Síntomas y signos no clasificados,Mayo,Miercoles,Verano,228.0,14.0,16.0,58.0,246.074,99.0,0,High school,2,0,0,1,65.0,172.0,22.0,8.0,18,1,5.0,4,3
+268,Enfermedades del sistema nervioso,Noviembre,Viernes,Primavera,155.0,12.0,14.0,34.0,306.345,93.0,0,High school,2,1,0,0,95.0,196.0,25.0,8.0,6,1,11.0,6,4
+269,Enfermedades del sistema respiratorio,Abril,Miercoles,Verano,118.0,10.0,10.0,37.0,246.288,91.0,0,High school,0,0,0,0,83.0,172.0,28.0,2.0,10,1,4.0,4,3
+270,Enfermedades del sistema musculoesquelético y tejido conectivo,Mayo,Miercoles,Verano,289.0,36.0,13.0,33.0,378.884,92.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,13,1,5.0,4,3
+271,Consulta médica,Marzo,Miercoles,Otono,289.0,36.0,13.0,33.0,222.196,99.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,23,1,3.0,4,2
+272,"Lesiones, envenenamientos y consecuencias de otras causas externas",Marzo,Martes,Otono,260.0,50.0,11.0,36.0,343.253,95.0,0,High school,4,1,0,0,65.0,168.0,23.0,8.0,19,1,3.0,3,2
+273,Enfermedades del sistema respiratorio,Octubre,Viernes,Primavera,225.0,26.0,9.0,28.0,284.853,91.0,0,High school,1,0,0,2,69.0,169.0,24.0,3.0,10,1,10.0,6,4
+274,Fisioterapia,Febrero,Miercoles,Otono,179.0,26.0,9.0,30.0,264.249,97.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,2.0,27,3,2.0,4,2
+275,Fisioterapia,Marzo,Jueves,Verano,179.0,51.0,18.0,38.0,222.196,99.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,27,1,3.0,5,3
+276,Enfermedades del sistema digestivo,Febrero,Miercoles,Otono,179.0,51.0,18.0,38.0,302.585,99.0,0,High school,0,1,0,0,89.0,170.0,31.0,8.0,11,1,2.0,4,2
+277,Consulta dental,Mayo,Martes,Verano,118.0,10.0,10.0,37.0,237.656,99.0,0,High school,0,0,0,0,83.0,172.0,28.0,1.0,28,1,5.0,3,3
+278,Enfermedades del sistema digestivo,Febrero,Miercoles,Otono,157.0,27.0,6.0,29.0,251.818,96.0,0,High school,0,1,1,0,75.0,185.0,22.0,16.0,11,1,2.0,4,2
+279,Consulta médica,Septiembre,Martes,Invierno,155.0,12.0,14.0,34.0,261.756,87.0,0,High school,2,1,0,0,95.0,196.0,25.0,2.0,23,1,9.0,3,1
+280,No corresponde,Marzo,Jueves,Verano,118.0,13.0,18.0,50.0,244.387,98.0,1,High school,1,1,0,0,98.0,178.0,31.0,0.0,0,1,3.0,5,3
+281,Examen de laboratorio,Febrero,Viernes,Otono,235.0,16.0,8.0,32.0,264.249,97.0,0,Postgraduate,0,0,0,0,75.0,178.0,25.0,2.0,25,3,2.0,6,2
+282,Enfermedades del ojo y sus anexos,Noviembre,Miercoles,Primavera,289.0,36.0,13.0,33.0,306.345,93.0,0,High school,2,1,0,1,90.0,172.0,30.0,24.0,7,1,11.0,4,4
+283,Enfermedades del sistema genitourinario,Marzo,Viernes,Otono,248.0,25.0,14.0,47.0,343.253,95.0,0,High school,2,0,0,1,86.0,165.0,32.0,3.0,14,1,3.0,6,2
+284,Enfermedades del sistema digestivo,Julio,Miercoles,Invierno,179.0,51.0,18.0,38.0,239.554,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,1.0,11,1,7.0,4,1
+285,Consulta médica,Abril,Martes,Verano,361.0,52.0,3.0,28.0,246.288,91.0,0,High school,1,1,0,4,80.0,172.0,27.0,2.0,23,1,4.0,3,3
+286,Consulta médica,Marzo,Lunes,Otono,248.0,25.0,14.0,47.0,222.196,99.0,0,High school,2,0,0,1,86.0,165.0,32.0,2.0,23,1,3.0,2,2
+287,Enfermedades del ojo y sus anexos,Julio,Jueves,Invierno,279.0,5.0,14.0,39.0,239.554,97.0,0,High school,2,1,1,0,68.0,168.0,24.0,4.0,7,1,7.0,5,1
+288,Síntomas y signos no clasificados,Diciembre,Martes,Otono,155.0,12.0,14.0,34.0,280.549,98.0,0,High school,2,1,0,0,95.0,196.0,25.0,80.0,18,1,12.0,3,2
+289,Consulta dental,Enero,Jueves,Otono,225.0,26.0,9.0,28.0,308.593,95.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,28,1,1.0,5,2
+290,Fisioterapia,Enero,Martes,Otono,118.0,10.0,10.0,37.0,308.593,95.0,0,High school,0,0,0,0,83.0,172.0,28.0,1.0,27,1,1.0,3,2
+291,No corresponde,Octubre,Lunes,Primavera,225.0,26.0,9.0,28.0,284.853,91.0,1,High school,1,0,0,2,69.0,169.0,24.0,0.0,0,1,10.0,2,4
+292,Ausencia injustificada,Julio,Jueves,Invierno,179.0,51.0,18.0,38.0,275.312,98.0,0,High school,0,1,0,0,89.0,170.0,31.0,8.0,26,1,7.0,5,1
+293,"Embarazo, parto y puerperio",Noviembre,Viernes,Primavera,260.0,50.0,11.0,36.0,284.031,97.0,0,High school,4,1,0,0,65.0,168.0,23.0,8.0,15,1,11.0,6,4
+294,Ausencia injustificada,Julio,Viernes,Invierno,118.0,10.0,10.0,37.0,230.29,92.0,0,High school,0,0,0,0,83.0,172.0,28.0,8.0,26,1,7.0,6,1
+295,No corresponde,Septiembre,Martes,Primavera,289.0,36.0,13.0,33.0,241.476,92.0,1,High school,2,1,0,1,90.0,172.0,30.0,0.0,0,1,9.0,3,4
+296,Consulta médica,Enero,Martes,Otono,225.0,26.0,9.0,28.0,308.593,95.0,0,High school,1,0,0,2,69.0,169.0,24.0,1.0,23,1,1.0,3,2
+297,Fisioterapia,Marzo,Jueves,Otono,179.0,51.0,18.0,38.0,222.196,99.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,27,1,3.0,5,2
+298,"Lesiones, envenenamientos y consecuencias de otras causas externas",Febrero,Lunes,Otono,233.0,51.0,1.0,31.0,264.249,97.0,0,Graduate,1,1,0,8,68.0,178.0,21.0,2.0,19,2,2.0,2,2
+299,Consulta médica,Diciembre,Lunes,Primavera,225.0,26.0,9.0,28.0,280.549,98.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,23,1,12.0,2,4
+300,Ausencia injustificada,Agosto,Martes,Invierno,289.0,36.0,13.0,33.0,249.797,93.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,26,1,8.0,3,1
+301,Enfermedades del sistema musculoesquelético y tejido conectivo,Octubre,Martes,Primavera,225.0,26.0,9.0,28.0,284.853,91.0,0,High school,1,0,0,2,69.0,169.0,24.0,3.0,13,1,10.0,3,4
+302,Consulta dental,Diciembre,Viernes,Primavera,179.0,51.0,18.0,38.0,236.629,93.0,0,High school,0,1,0,0,89.0,170.0,31.0,1.0,28,1,12.0,6,4
+303,Consulta médica,Junio,Miercoles,Invierno,118.0,13.0,18.0,50.0,253.957,95.0,0,High school,1,1,0,0,98.0,178.0,31.0,2.0,23,1,6.0,4,1
+304,Enfermedades del sistema musculoesquelético y tejido conectivo,Mayo,Miercoles,Verano,289.0,36.0,13.0,33.0,378.884,92.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,13,1,5.0,4,3
+305,Consulta médica,Octubre,Martes,Primavera,179.0,51.0,18.0,38.0,253.465,93.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,23,1,10.0,3,4
+306,Consulta médica,Julio,Jueves,Invierno,289.0,36.0,13.0,33.0,239.554,97.0,0,High school,2,1,0,1,90.0,172.0,30.0,2.0,23,1,7.0,5,1
+307,Consulta médica,Septiembre,Viernes,Invierno,179.0,51.0,18.0,38.0,294.217,81.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,23,1,9.0,6,1
+308,"Lesiones, envenenamientos y consecuencias de otras causas externas",Mayo,Viernes,Verano,300.0,26.0,13.0,43.0,237.656,99.0,0,High school,2,1,1,1,77.0,175.0,25.0,64.0,19,1,5.0,6,3
+309,Fisioterapia,Febrero,Miercoles,Otono,179.0,51.0,18.0,38.0,264.249,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,27,1,2.0,4,2
+310,Consulta dental,Agosto,Lunes,Invierno,260.0,50.0,11.0,36.0,249.797,93.0,0,High school,4,1,0,0,65.0,168.0,23.0,3.0,28,1,8.0,2,1
+311,Enfermedades del sistema digestivo,Noviembre,Lunes,Primavera,155.0,12.0,14.0,34.0,284.031,97.0,0,High school,2,1,0,0,95.0,196.0,25.0,120.0,11,1,11.0,2,4
+312,Fisioterapia,Enero,Jueves,Otono,118.0,10.0,10.0,37.0,308.593,95.0,0,High school,0,0,0,0,83.0,172.0,28.0,2.0,27,1,1.0,5,2
+313,Consulta dental,Marzo,Lunes,Otono,179.0,51.0,18.0,38.0,244.387,98.0,0,High school,0,1,0,0,89.0,170.0,31.0,16.0,28,1,3.0,2,2
+314,Consulta médica,Noviembre,Viernes,Primavera,225.0,26.0,9.0,28.0,268.519,93.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,23,1,11.0,6,4
+315,Fisioterapia,Junio,Viernes,Verano,179.0,26.0,9.0,30.0,275.089,96.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,2.0,27,3,6.0,6,3
+316,Consulta médica,Septiembre,Lunes,Invierno,118.0,10.0,10.0,37.0,241.476,92.0,0,High school,0,0,0,0,83.0,172.0,28.0,4.0,23,1,9.0,2,1
+317,Examen de laboratorio,Julio,Lunes,Invierno,157.0,27.0,6.0,29.0,275.312,98.0,0,High school,0,1,1,0,75.0,185.0,22.0,3.0,25,1,7.0,2,1
+318,Paciente en seguimiento,Junio,Jueves,Verano,378.0,49.0,11.0,36.0,275.089,96.0,0,High school,2,0,1,4,65.0,174.0,21.0,8.0,22,1,6.0,5,3
+319,Consulta dental,Noviembre,Lunes,Primavera,248.0,25.0,14.0,47.0,306.345,93.0,0,High school,2,0,0,1,86.0,165.0,32.0,1.0,28,1,11.0,2,4
+320,Consulta dental,Julio,Lunes,Invierno,118.0,10.0,10.0,37.0,264.604,93.0,0,High school,0,0,0,0,83.0,172.0,28.0,4.0,28,1,7.0,2,1
+321,Enfermedades infecciosas y parasitarias,Febrero,Martes,Otono,388.0,15.0,9.0,50.0,302.585,99.0,0,High school,0,0,0,0,76.0,178.0,24.0,8.0,1,1,2.0,3,2
+322,Enfermedades del sistema nervioso,Octubre,Lunes,Primavera,235.0,16.0,8.0,32.0,284.853,91.0,0,Postgraduate,0,0,0,0,75.0,178.0,25.0,8.0,6,3,10.0,2,4
+323,Fisioterapia,Enero,Miercoles,Otono,179.0,26.0,9.0,30.0,313.532,96.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,2.0,27,3,1.0,4,2
+324,Enfermedades del sistema respiratorio,Febrero,Viernes,Otono,246.0,25.0,16.0,41.0,251.818,96.0,0,High school,0,1,0,0,67.0,170.0,23.0,24.0,10,1,2.0,6,2
+325,No corresponde,Abril,Lunes,Verano,235.0,29.0,12.0,48.0,326.452,96.0,1,High school,1,0,1,5,88.0,163.0,33.0,0.0,0,1,4.0,2,3
+326,Examen de laboratorio,Mayo,Lunes,Verano,179.0,26.0,9.0,30.0,246.074,99.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,2.0,25,3,5.0,2,3
+327,Consulta médica,Diciembre,Miercoles,Primavera,225.0,26.0,9.0,28.0,280.549,98.0,0,High school,1,0,0,2,69.0,169.0,24.0,3.0,23,1,12.0,4,4
+328,"Lesiones, envenenamientos y consecuencias de otras causas externas",Junio,Jueves,Verano,118.0,13.0,18.0,50.0,275.089,96.0,0,High school,1,1,0,0,98.0,178.0,31.0,3.0,19,1,6.0,5,3
+329,Enfermedades del ojo y sus anexos,Marzo,Lunes,Otono,225.0,26.0,9.0,28.0,222.196,99.0,0,High school,1,0,0,2,69.0,169.0,24.0,8.0,7,1,3.0,2,2
+330,Consulta dental,Junio,Martes,Verano,118.0,10.0,10.0,37.0,253.957,95.0,0,High school,0,0,0,0,83.0,172.0,28.0,2.0,28,1,6.0,3,3
+331,Neoplasias (tumores),Noviembre,Miercoles,Primavera,330.0,16.0,4.0,28.0,268.519,93.0,0,Graduate,0,0,0,0,84.0,182.0,25.0,24.0,2,2,11.0,4,4
+332,Consulta médica,Agosto,Miercoles,Invierno,248.0,25.0,14.0,47.0,205.917,92.0,0,High school,2,0,0,1,86.0,165.0,32.0,2.0,23,1,8.0,4,1
+333,Factores que influyen en el estado de salud,Marzo,Jueves,Otono,235.0,11.0,14.0,37.0,244.387,98.0,0,Postgraduate,1,0,0,1,88.0,172.0,29.0,8.0,21,3,3.0,5,2
+334,Examen de laboratorio,Febrero,Jueves,Otono,225.0,26.0,9.0,28.0,264.249,97.0,0,High school,1,0,0,2,69.0,169.0,24.0,3.0,25,1,2.0,5,2
+335,Consulta médica,Septiembre,Lunes,Invierno,179.0,26.0,9.0,30.0,261.756,87.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,2.0,23,3,9.0,2,1
+336,Consulta dental,Enero,Viernes,Otono,179.0,51.0,18.0,38.0,330.061,100.0,0,High school,0,1,0,0,89.0,170.0,31.0,1.0,28,1,1.0,6,2
+337,Paciente en seguimiento,Abril,Viernes,Verano,235.0,11.0,14.0,37.0,246.288,91.0,0,Postgraduate,1,0,0,1,88.0,172.0,29.0,8.0,22,3,4.0,6,3
+338,"Lesiones, envenenamientos y consecuencias de otras causas externas",Enero,Lunes,Otono,118.0,10.0,10.0,37.0,308.593,95.0,0,High school,0,0,0,0,83.0,172.0,28.0,1.0,19,1,1.0,2,2
+339,Enfermedades del sistema musculoesquelético y tejido conectivo,Diciembre,Martes,Primavera,179.0,26.0,9.0,30.0,280.549,98.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,16.0,13,3,12.0,3,4
+340,Enfermedades del sistema respiratorio,Octubre,Jueves,Primavera,369.0,17.0,12.0,31.0,284.853,91.0,0,High school,3,1,0,0,70.0,169.0,25.0,8.0,10,1,10.0,5,4
+341,Fisioterapia,Abril,Viernes,Verano,179.0,26.0,9.0,30.0,246.288,91.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,2.0,27,3,4.0,6,3
+342,Enfermedades del sistema musculoesquelético y tejido conectivo,Marzo,Miercoles,Verano,118.0,13.0,18.0,50.0,244.387,98.0,0,High school,1,1,0,0,98.0,178.0,31.0,8.0,13,1,3.0,4,3
+343,Consulta dental,Junio,Jueves,Invierno,225.0,26.0,9.0,28.0,377.55,94.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,28,1,6.0,5,1
+344,Consulta dental,Marzo,Martes,Verano,246.0,25.0,16.0,41.0,244.387,98.0,0,High school,0,1,0,0,67.0,170.0,23.0,2.0,28,1,3.0,3,3
+345,Examen de laboratorio,Diciembre,Jueves,Primavera,235.0,11.0,14.0,37.0,236.629,93.0,0,Postgraduate,1,0,0,1,88.0,172.0,29.0,2.0,25,3,12.0,5,4
+346,Enfermedades del sistema genitourinario,Abril,Jueves,Verano,118.0,13.0,18.0,50.0,246.288,91.0,0,High school,1,1,0,0,98.0,178.0,31.0,2.0,14,1,4.0,5,3
+347,Consulta médica,Marzo,Viernes,Verano,118.0,13.0,18.0,50.0,244.387,98.0,0,High school,1,1,0,0,98.0,178.0,31.0,2.0,23,1,3.0,6,3
+348,"Lesiones, envenenamientos y consecuencias de otras causas externas",Marzo,Lunes,Otono,361.0,52.0,3.0,28.0,222.196,99.0,0,High school,1,1,0,4,80.0,172.0,27.0,8.0,19,1,3.0,2,2
+349,Consulta médica,Noviembre,Miercoles,Primavera,225.0,26.0,9.0,28.0,306.345,93.0,0,High school,1,0,0,2,69.0,169.0,24.0,1.0,23,1,11.0,4,4
+350,Fisioterapia,Febrero,Miercoles,Otono,179.0,51.0,18.0,38.0,251.818,96.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,27,1,2.0,4,2
+351,No corresponde,,Viernes,Verano,179.0,45.0,14.0,53.0,271.219,95.0,0,High school,1,0,0,1,77.0,175.0,25.0,0.0,0,1,,6,3
+352,Enfermedades de la piel y tejido subcutáneo,Diciembre,Lunes,Primavera,225.0,26.0,9.0,28.0,236.629,93.0,0,High school,1,0,0,2,69.0,169.0,24.0,3.0,12,1,12.0,2,4
+353,Consulta dental,Enero,Jueves,Otono,225.0,26.0,9.0,28.0,308.593,95.0,0,High school,1,0,0,2,69.0,169.0,24.0,2.0,28,1,1.0,5,2
+354,Enfermedades del sistema genitourinario,Diciembre,Martes,Otono,235.0,11.0,14.0,37.0,236.629,93.0,0,Postgraduate,1,0,0,1,88.0,172.0,29.0,4.0,14,3,12.0,3,2
+355,"Lesiones, envenenamientos y consecuencias de otras causas externas",Marzo,Lunes,Verano,289.0,36.0,13.0,33.0,222.196,99.0,0,High school,2,1,0,1,90.0,172.0,30.0,104.0,19,1,3.0,2,3
+356,Enfermedades del sistema musculoesquelético y tejido conectivo,Marzo,Miercoles,Verano,179.0,51.0,18.0,38.0,343.253,95.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,13,1,3.0,4,3
+357,Enfermedades del sistema digestivo,Octubre,Jueves,Primavera,235.0,16.0,8.0,32.0,284.853,91.0,0,Postgraduate,0,0,0,0,75.0,178.0,25.0,3.0,11,3,10.0,5,4
+358,Consulta médica,Julio,Viernes,Invierno,118.0,13.0,18.0,50.0,230.29,92.0,0,High school,1,1,0,0,98.0,178.0,31.0,1.0,23,1,7.0,6,1
+359,Fisioterapia,Enero,Lunes,Otono,118.0,10.0,10.0,37.0,308.593,95.0,0,High school,0,0,0,0,83.0,172.0,28.0,2.0,27,1,1.0,2,2
+360,Enfermedades infecciosas y parasitarias,Octubre,Lunes,Primavera,179.0,26.0,9.0,30.0,265.017,88.0,0,Postgraduate,0,0,0,0,56.0,171.0,19.0,8.0,1,3,10.0,2,4
+361,Fisioterapia,Marzo,Miercoles,Verano,179.0,51.0,18.0,38.0,222.196,99.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,27,1,3.0,4,3
+362,Consulta dental,Septiembre,Viernes,Invierno,291.0,31.0,12.0,40.0,294.217,81.0,0,High school,1,1,0,1,73.0,171.0,25.0,4.0,28,1,9.0,6,1
+363,Examen de laboratorio,Febrero,Lunes,Otono,155.0,12.0,14.0,34.0,264.249,97.0,0,High school,2,1,0,0,95.0,196.0,25.0,5.0,25,1,2.0,2,2
+364,Enfermedades del sistema musculoesquelético y tejido conectivo,Noviembre,Jueves,Primavera,118.0,10.0,10.0,37.0,268.519,93.0,0,High school,0,0,0,0,83.0,172.0,28.0,2.0,13,1,11.0,5,4
+365,Examen de laboratorio,Julio,Lunes,Invierno,157.0,27.0,6.0,29.0,275.312,98.0,0,High school,0,1,1,0,75.0,185.0,22.0,3.0,25,1,7.0,2,1
+366,Enfermedades del sistema digestivo,Septiembre,Lunes,Invierno,179.0,51.0,18.0,38.0,294.217,81.0,0,High school,0,1,0,0,89.0,170.0,31.0,8.0,11,1,9.0,2,1
+367,Donación de sangre,Noviembre,Miercoles,Primavera,289.0,36.0,13.0,33.0,268.519,93.0,0,High school,2,1,0,1,90.0,172.0,30.0,8.0,24,1,11.0,4,4
+368,Consulta médica,Diciembre,Miercoles,Primavera,118.0,13.0,18.0,50.0,261.306,97.0,0,High school,1,1,0,0,98.0,178.0,31.0,2.0,23,1,12.0,4,4
+369,Enfermedades del ojo y sus anexos,Febrero,Miercoles,Otono,225.0,26.0,9.0,28.0,251.818,96.0,0,High school,1,0,0,2,69.0,169.0,24.0,1.0,7,1,2.0,4,2
+370,Fisioterapia,Febrero,Miercoles,Otono,179.0,51.0,18.0,38.0,264.249,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,27,1,2.0,4,2
+371,Consulta dental,Mayo,Viernes,Verano,260.0,50.0,11.0,36.0,246.074,99.0,0,High school,4,1,0,0,65.0,168.0,23.0,3.0,28,1,5.0,6,3
+372,Enfermedades del sistema digestivo,Febrero,Miercoles,Otono,179.0,51.0,18.0,38.0,302.585,99.0,0,High school,0,1,0,0,89.0,170.0,31.0,8.0,11,1,2.0,4,2
+373,Consulta dental,Abril,Miercoles,Verano,291.0,31.0,12.0,40.0,326.452,96.0,0,High school,1,1,0,1,73.0,171.0,25.0,1.0,28,1,4.0,4,3
+374,No corresponde,Noviembre,Martes,Primavera,291.0,31.0,12.0,40.0,268.519,93.0,1,High school,1,1,0,1,73.0,171.0,25.0,0.0,0,1,11.0,3,4
+375,Consulta dental,Julio,Martes,Invierno,246.0,25.0,16.0,41.0,230.29,92.0,0,High school,0,1,0,0,67.0,170.0,23.0,2.0,28,1,7.0,3,1
+376,Consulta médica,Septiembre,Viernes,Primavera,179.0,51.0,18.0,38.0,241.476,92.0,0,High school,0,1,0,0,89.0,170.0,31.0,3.0,23,1,9.0,6,4
+377,Consulta médica,Marzo,Viernes,Otono,225.0,26.0,9.0,28.0,343.253,95.0,0,High school,1,0,0,2,69.0,169.0,24.0,1.0,23,1,3.0,6,2
+378,Fisioterapia,Febrero,Viernes,Otono,179.0,51.0,18.0,38.0,264.249,97.0,0,High school,0,1,0,0,89.0,170.0,31.0,2.0,27,1,2.0,6,2
+379,Enfermedades del sistema genitourinario,Julio,Viernes,Invierno,246.0,25.0,16.0,41.0,239.554,97.0,0,High school,0,1,0,0,67.0,170.0,23.0,8.0,14,1,7.0,6,1
+380,Paciente en seguimiento,Febrero,Viernes,Otono,289.0,36.0,13.0,33.0,251.818,96.0,0,High school,2,1,0,1,90.0,172.0,30.0,3.0,22,1,2.0,6,2
+381,Enfermedades del sistema digestivo,Marzo,Miercoles,Verano,225.0,26.0,9.0,28.0,343.253,95.0,0,High school,1,0,0,2,69.0,169.0,24.0,16.0,11,1,3.0,4,3
+382,Consulta médica,Octubre,Lunes,Primavera,235.0,20.0,13.0,43.0,265.017,88.0,0,High school,1,1,0,0,106.0,167.0,38.0,2.0,23,1,10.0,2,4
+383,Enfermedades del sistema digestivo,Julio,Jueves,Invierno,189.0,29.0,13.0,33.0,239.554,97.0,0,High school,2,0,0,2,69.0,167.0,25.0,8.0,11,1,7.0,5,1
+384,Enfermedades del sistema respiratorio,Noviembre,Miercoles,Primavera,260.0,50.0,11.0,36.0,284.031,97.0,0,High school,4,1,0,0,65.0,168.0,23.0,8.0,10,1,11.0,4,4
+385,Examen de laboratorio,Junio,Lunes,Invierno,118.0,10.0,10.0,37.0,275.089,96.0,0,High school,0,0,0,0,83.0,172.0,28.0,3.0,25,1,6.0,2,1
+386,"Lesiones, envenenamientos y consecuencias de otras causas externas",Marzo,Lunes,Verano,260.0,50.0,11.0,36.0,244.387,98.0,0,High school,4,1,0,0,65.0,168.0,23.0,8.0,19,1,3.0,2,3

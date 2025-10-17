@@ -1,0 +1,134 @@
+,provincia_simp,origen,viajeros
+0,Barcelona,andalucia,222947.1571
+1,Girona,andalucia,29689.6333
+2,Illes Balears,andalucia,136837.2243
+3,Madrid,andalucia,915035.6871
+4,Málaga,andalucia,1155910.3316
+5,Sevilla,andalucia,719325.1178
+6,Valencia,andalucia,234980.9386
+7,Barcelona,aragon,83515.87909999999
+8,Girona,aragon,21718.0404
+9,Illes Balears,aragon,20047.3872
+10,Madrid,aragon,160677.2919
+11,Málaga,aragon,16457.665399999998
+12,Sevilla,aragon,23515.346700000002
+13,Valencia,aragon,53851.896
+14,Barcelona,asturias,26247.9227
+15,Girona,asturias,5597.2789
+16,Illes Balears,asturias,22129.3726
+17,Madrid,asturias,176911.0126
+18,Málaga,asturias,17849.3827
+19,Sevilla,asturias,19788.7335
+20,Valencia,asturias,16748.7676
+21,Barcelona,balears,81666.7261
+22,Girona,balears,17275.8738
+23,Illes Balears,balears,559133.4065
+24,Madrid,balears,154030.1162
+25,Málaga,balears,64668.6369
+26,Sevilla,balears,23677.0497
+27,Valencia,balears,40699.9015
+28,Barcelona,canarias,51268.8378
+29,Girona,canarias,6996.5695
+30,Illes Balears,canarias,20503.6323
+31,Madrid,canarias,230362.0705
+32,Málaga,canarias,24023.9785
+33,Sevilla,canarias,37302.8824
+34,Valencia,canarias,17856.4366
+35,Barcelona,cantabria,20687.6346
+36,Girona,cantabria,4618.2889000000005
+37,Illes Balears,cantabria,12009.335799999999
+38,Madrid,cantabria,121076.1911
+39,Málaga,cantabria,11832.355
+40,Sevilla,cantabria,19589.3204
+41,Valencia,cantabria,9981.144
+42,Barcelona,castilla,57507.0175
+43,Girona,castilla,14342.4174
+44,Illes Balears,castilla,32745.5405
+45,Madrid,castilla,318864.3767
+46,Málaga,castilla,44106.568100000004
+47,Sevilla,castilla,57950.0208
+48,Valencia,castilla,63472.4768
+49,Barcelona,castilla,55234.8506
+50,Girona,castilla,13181.469799999999
+51,Illes Balears,castilla,22271.1177
+52,Madrid,castilla,227659.6011
+53,Málaga,castilla,66521.20360000001
+54,Sevilla,castilla,52795.4517
+55,Valencia,castilla,106718.04490000001
+56,Barcelona,cataluña,1492945.8117
+57,Girona,cataluña,1350140.675
+58,Illes Balears,cataluña,236115.2551
+59,Madrid,cataluña,904932.1536
+60,Málaga,cataluña,146028.5055
+61,Sevilla,cataluña,131540.6189
+62,Valencia,cataluña,230901.4275
+63,Barcelona,valencia,207743.6631
+64,Girona,valencia,49563.2376
+65,Illes Balears,valencia,109369.2887
+66,Madrid,valencia,589197.7479
+67,Málaga,valencia,70529.54860000001
+68,Sevilla,valencia,80601.0594
+69,Valencia,valencia,463005.5785
+70,Barcelona,extremadura,23535.0117
+71,Girona,extremadura,4832.6683
+72,Illes Balears,extremadura,11948.7927
+73,Madrid,extremadura,166989.8223
+74,Málaga,extremadura,48351.768299999996
+75,Sevilla,extremadura,70005.14289999999
+76,Valencia,extremadura,16944.493300000002
+77,Barcelona,galicia,81668.9801
+78,Girona,galicia,14603.15
+79,Illes Balears,galicia,44680.6412
+80,Madrid,galicia,324362.5365
+81,Málaga,galicia,45781.025799999996
+82,Sevilla,galicia,40618.7341
+83,Valencia,galicia,34556.4156
+84,Barcelona,madrid,737873.5392
+85,Girona,madrid,111421.1395
+86,Illes Balears,madrid,291422.547
+87,Madrid,madrid,1677174.3033
+88,Málaga,madrid,397946.5972
+89,Sevilla,madrid,355794.4089
+90,Valencia,madrid,562860.5476
+91,Barcelona,murcia,34945.5899
+92,Girona,murcia,8952.2191
+93,Illes Balears,murcia,17714.0603
+94,Madrid,murcia,191002.39059999998
+95,Málaga,murcia,31755.502099999998
+96,Sevilla,murcia,30112.7441
+97,Valencia,murcia,68321.64170000001
+98,Barcelona,navarra,36237.4779
+99,Girona,navarra,8337.6787
+100,Illes Balears,navarra,11706.5897
+101,Madrid,navarra,101960.8143
+102,Málaga,navarra,10627.2607
+103,Sevilla,navarra,12592.7699
+104,Valencia,navarra,15178.6882
+105,Barcelona,pais,122410.3941
+106,Girona,pais,36740.7343
+107,Illes Balears,pais,48574.7322
+108,Madrid,pais,292438.1117
+109,Málaga,pais,55282.3942
+110,Sevilla,pais,41190.0168
+111,Valencia,pais,52463.5418
+112,Barcelona,rioja,17487.595
+113,Girona,rioja,3413.9243
+114,Illes Balears,rioja,5280.0907
+115,Madrid,rioja,60295.9413
+116,Málaga,rioja,5093.0635999999995
+117,Sevilla,rioja,9269.6802
+118,Valencia,rioja,8777.722099999999
+119,Barcelona,ceuta,9679.3267
+120,Girona,ceuta,837.4679000000001
+121,Illes Balears,ceuta,5568.3658000000005
+122,Madrid,ceuta,28320.8763
+123,Málaga,ceuta,22965.2764
+124,Sevilla,ceuta,8664.8366
+125,Valencia,ceuta,12107.0712
+126,Barcelona,melilla,5106.424300000001
+127,Girona,melilla,610.5798
+128,Illes Balears,melilla,1316.644
+129,Madrid,melilla,13707.8207
+130,Málaga,melilla,24722.0916
+131,Sevilla,melilla,1493.3122
+132,Valencia,melilla,870.8568

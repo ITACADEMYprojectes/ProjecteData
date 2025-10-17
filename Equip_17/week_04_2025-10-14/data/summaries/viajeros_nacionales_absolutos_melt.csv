@@ -41,20 +41,20 @@
 39,Málaga,cantabria,11832.355
 40,Sevilla,cantabria,19589.3204
 41,Valencia,cantabria,9981.144
-42,Barcelona,castilla,57507.0175
-43,Girona,castilla,14342.4174
-44,Illes Balears,castilla,32745.5405
-45,Madrid,castilla,318864.3767
-46,Málaga,castilla,44106.568100000004
-47,Sevilla,castilla,57950.0208
-48,Valencia,castilla,63472.4768
-49,Barcelona,castilla,55234.8506
-50,Girona,castilla,13181.469799999999
-51,Illes Balears,castilla,22271.1177
-52,Madrid,castilla,227659.6011
-53,Málaga,castilla,66521.20360000001
-54,Sevilla,castilla,52795.4517
-55,Valencia,castilla,106718.04490000001
+42,Barcelona,castilla_leon,57507.0175
+43,Girona,castilla_leon,14342.4174
+44,Illes Balears,castilla_leon,32745.5405
+45,Madrid,castilla_leon,318864.3767
+46,Málaga,castilla_leon,44106.568100000004
+47,Sevilla,castilla_leon,57950.0208
+48,Valencia,castilla_leon,63472.4768
+49,Barcelona,castilla_mancha,55234.8506
+50,Girona,castilla_mancha,13181.469799999999
+51,Illes Balears,castilla_mancha,22271.1177
+52,Madrid,castilla_mancha,227659.6011
+53,Málaga,castilla_mancha,66521.20360000001
+54,Sevilla,castilla_mancha,52795.4517
+55,Valencia,castilla_mancha,106718.04490000001
 56,Barcelona,cataluña,1492945.8117
 57,Girona,cataluña,1350140.675
 58,Illes Balears,cataluña,236115.2551
@@ -104,13 +104,13 @@
 102,Málaga,navarra,10627.2607
 103,Sevilla,navarra,12592.7699
 104,Valencia,navarra,15178.6882
-105,Barcelona,pais,122410.3941
-106,Girona,pais,36740.7343
-107,Illes Balears,pais,48574.7322
-108,Madrid,pais,292438.1117
-109,Málaga,pais,55282.3942
-110,Sevilla,pais,41190.0168
-111,Valencia,pais,52463.5418
+105,Barcelona,pais_vasco,122410.3941
+106,Girona,pais_vasco,36740.7343
+107,Illes Balears,pais_vasco,48574.7322
+108,Madrid,pais_vasco,292438.1117
+109,Málaga,pais_vasco,55282.3942
+110,Sevilla,pais_vasco,41190.0168
+111,Valencia,pais_vasco,52463.5418
 112,Barcelona,rioja,17487.595
 113,Girona,rioja,3413.9243
 114,Illes Balears,rioja,5280.0907

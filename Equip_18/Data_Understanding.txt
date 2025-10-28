@@ -1,0 +1,31 @@
+Familiarización con la fuente de datos
+id: Identificador único de cada cliente o registro.
+age: Edad del cliente
+job: Profesión u ocupación del cliente
+marital: Estado civil (maried, single y divorced)
+education: Nivel educativo del cliente (secondary, tertiary, primary y unknown)
+default: Si el cliente tiene historial de impago de deudas (“yes” o “no”)
+balance: Saldo de la cuenta bancaria del cliente ( - es que esta en negativo, números rojos)
+housing: Si el cliente tiene un préstamo hipotecario (“yes” o “no”).
+loan: Si el cliente tiene otro tipo de préstamo (“yes” o “no”).
+contact: Tipo de comunicación usada para contactarlo (unknown, celular y telephone)
+day: Día del mes en que se contactó al cliente la última vez
+month: Mes del contacto de la última vez (si la duración es 0, deposit será NO)
+duration: Duración de la última llamada en segundos
+campaign: Número de veces contactado Campaña Actulal
+pdays: Número de días que ha pasado de la última vez que se le contacto de la anterior campaña (-1 significa que no se le contacto)
+poutcome: Resultado de la campaña anterior (unknown, others, failure y sucess)
+deposit: Éxito en la campaña actual (yes y no)
+
+Alcance:
+1 año
+clientes
+
+
+Limitaciones:
+Información de solo 1 año
+Solo tenemos información de dos tipos de productos (hipotecas y prestamos personales)
+No sabemos los montos, tasas, plazos, etc, de los productos
+Limitado a personas naturales
+Información geográfica del usuario 
+

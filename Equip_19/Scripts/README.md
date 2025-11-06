@@ -6,8 +6,8 @@
 ### - EDA_27102025: Contiene el Script del Análisis exploratorio inicial de los datos de la semana del 27.10.2025
 ### - EDA_0311025: Contiene el Script del Análisis exploratorio inicial de los datos de la semana del 03.11.2025
 
-## - Data_cleaning_27102025: Contiene el Script de limpieza de datos del dataset de la semana del 27.10.2025
-## - Data_cleaning_03112025: Contiene el Script de limpieza de datos del dataset de la semana del 03.11.2025
+### - Data_cleaning_27102025: Contiene el Script de limpieza de datos del dataset de la semana del 27.10.2025
+### - Data_cleaning_03112025: Contiene el Script de limpieza de datos del dataset de la semana del 03.11.2025
 
 ### - Operaciones_27102025: Contiene el código de la pregunta de negocio del equipo de Operaciones de la semana del 27.10.2025.
 ### - Operaciones_03112025: Contiene el código de la pregunta de negocio del equipo de Operaciones de la semana del 03.11.2025.

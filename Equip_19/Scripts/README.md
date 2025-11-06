@@ -10,6 +10,7 @@
 ## - Data_cleaning_03112025: Contiene el Script de limpieza de datos del dataset de la semana del 03.11.2025
 
 ### - Operaciones_27102025: Contiene el código de la pregunta de negocio del equipo de Operaciones de la semana del 27.10.2025.
+### - Operaciones_03112025: Contiene el código de la pregunta de negocio del equipo de Operaciones de la semana del 03.11.2025.
 ### - Experiencia_cliente_27102025: Contiene el código de la pregunta de negocio del equipo de Experiencia del cliente de la semana del 27.10.2025.
 ### - Experiencia_cliente_03112025: Contiene el código de la pregunta de negocio del equipo de Experiencia del cliente de la semana del 03.11.2025.
 ### - Marketing_27102025: Contiene el código de la pregunta de negocio del equipo de Marketing de la semana del 27.10.2025.

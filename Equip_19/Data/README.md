@@ -2,7 +2,13 @@
 
 ### - Data_Cleaning_27102025: Documento explicativo del proceso de Data Cleaning de la semana del 27.10.2025.
 ### - Data_Understanding_27102025: Contiene la explicación inicial de los datos.
+
 ### - tourist_accommodation_27102025_backup: Copia de seguridad de los datos en formato CSV de la semana del 27.10.2025.
 ### - tourist_accommodation_03112025_backup: Copia de seguridad de los datos en formato CSV de la semana del 03.11.2025.
+
 ### - tourist_accommodation_27102025_clean: Copia de seguridad de los datos limpios en formato CSV de la semana del 27.10.2025.
 ### - tourist_accommodation_03112025_clean: Copia de seguridad de los datos limpios en formato CSV de la semana del 03.11.2025.
+
+### - customer_experience_grupovaloracion_03112025: Archivo csv con datos para nueva columna de Power BI.
+### - customer_experience_saltoscalidad_03112025: Archivo csv con datos para nueva columna de Power BI.
+### - marketing_feature_importance_03112025: Archivo csv con datos para nueva columna de Power BI.

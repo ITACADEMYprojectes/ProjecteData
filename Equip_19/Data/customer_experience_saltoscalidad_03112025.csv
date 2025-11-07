@@ -1,0 +1,17 @@
+﻿comparacion;category;mean_top;mean_bottom;diff
+Excelentes (9-10) vs Notables (7-9);Cleanliness;966;874;93
+Excelentes (9-10) vs Notables (7-9);Accuracy;98;892;88
+Excelentes (9-10) vs Notables (7-9);Communication;988;926;61
+Excelentes (9-10) vs Notables (7-9);Checkin;986;926;6
+Insuficiente Alto (3-5) vs Insuficiente Bajo (0-3);Checkin;614;6;608
+Insuficiente Alto (3-5) vs Insuficiente Bajo (0-3);Communication;568;6;563
+Insuficiente Alto (3-5) vs Insuficiente Bajo (0-3);Cleanliness;514;4;51
+Insuficiente Alto (3-5) vs Insuficiente Bajo (0-3);Accuracy;477;3;474
+Notables (7-9) vs Suficientes (5-7);Accuracy;892;733;159
+Notables (7-9) vs Suficientes (5-7);Cleanliness;874;734;14
+Notables (7-9) vs Suficientes (5-7);Communication;926;812;115
+Notables (7-9) vs Suficientes (5-7);Checkin;926;813;113
+Suficientes (5-7) vs Insuficiente Alto (3-5);Accuracy;733;477;256
+Suficientes (5-7) vs Insuficiente Alto (3-5);Communication;812;568;244
+Suficientes (5-7) vs Insuficiente Alto (3-5);Cleanliness;734;514;22
+Suficientes (5-7) vs Insuficiente Alto (3-5);Checkin;813;614;20

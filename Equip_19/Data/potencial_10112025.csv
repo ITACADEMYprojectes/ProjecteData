@@ -1,0 +1,1385 @@
+city,neighborhood,criterion,total_listings,current_meeting,current_pct,below_target,avg_below_score,fixable_listings,potential_score,avg_current_min_nights,avg_current_max_nights,rank_in_city
+Málaga,Centro,Rating ≥ 80,324,310,0.9567901234567902,14,69.57142857142857,3,0.41249118165784837,,,2
+Málaga,Cruz De Humilladero,Rating ≥ 80,27,24,0.8888888888888888,3,71.66666666666667,0,0.3763888888888889,,,4
+Málaga,Este,Rating ≥ 80,61,59,0.9672131147540983,2,76.5,2,0.40875,,,3
+Málaga,Carretera De Cadiz,Rating ≥ 80,51,50,0.9803921568627451,1,60.0,0,0.442156862745098,,,1
+Málaga,Palma-Palmilla,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,6
+Málaga,Churriana,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,6
+Málaga,Teatinos-Universidad,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,6
+Málaga,Bailen-Miraflores,Rating ≥ 80,9,9,1.0,0,0.0,0,0.0,,,6
+Málaga,Ciudad Jardin,Rating ≥ 80,5,4,0.8,1,71.0,0,0.3425000000000001,,,5
+Málaga,Puerto De La Torre,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,6
+Madrid,Cármenes,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,30
+Madrid,Embajadores,Rating ≥ 80,273,262,0.9597069597069597,11,71.0,4,0.41224358974358977,,,13
+Madrid,Palacio,Rating ≥ 80,167,162,0.9700598802395209,5,70.0,1,0.4154191616766468,,,12
+Madrid,Palomeras Bajas,Rating ≥ 80,8,5,0.625,3,53.333333333333336,1,0.36666666666666664,,,25
+Madrid,Universidad,Rating ≥ 80,204,197,0.9656862745098039,7,69.28571428571429,4,0.4209033613445379,,,9
+Madrid,Justicia,Rating ≥ 80,121,117,0.9669421487603306,4,47.0,0,0.4692768595041323,,,2
+Madrid,Aluche,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,30
+Madrid,Cortes,Rating ≥ 80,97,95,0.979381443298969,2,69.0,0,0.4192525773195876,,,10
+Madrid,Ciudad Jardín,Rating ≥ 80,9,9,1.0,0,0.0,0,0.0,,,30
+Madrid,Sol,Rating ≥ 80,163,156,0.9570552147239264,7,72.28571428571429,3,0.40946976336546886,,,15
+Madrid,Comillas,Rating ≥ 80,9,9,1.0,0,0.0,0,0.0,,,30
+Madrid,Prosperidad,Rating ≥ 80,15,14,0.9333333333333333,1,67.0,0,0.4058333333333333,,,17
+Madrid,Acacias,Rating ≥ 80,26,26,1.0,0,0.0,0,0.0,,,30
+Madrid,Cuatro Caminos,Rating ≥ 80,16,14,0.875,2,72.0,0,0.37000000000000005,,,23
+Madrid,Pinar Del Rey,Rating ≥ 80,10,10,1.0,0,0.0,0,0.0,,,30
+Madrid,Los Angeles,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,30
+Madrid,Portazgo,Rating ≥ 80,9,9,1.0,0,0.0,0,0.0,,,30
+Madrid,Palos De Moguer,Rating ≥ 80,43,41,0.9534883720930233,2,73.5,0,0.3976453488372093,,,21
+Madrid,Recoletos,Rating ≥ 80,30,27,0.9,3,68.66666666666667,1,0.40166666666666667,,,20
+Madrid,Castilla,Rating ≥ 80,10,9,0.9,1,78.0,1,0.405,,,19
+Madrid,Legazpi,Rating ≥ 80,5,4,0.8,1,78.0,1,0.4050000000000001,,,18
+Madrid,Ciudad Universitaria,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,30
+Madrid,Valdeacederas,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,30
+Madrid,Argüelles,Rating ≥ 80,40,39,0.975,1,67.0,0,0.4225,,,8
+Madrid,Trafalgar,Rating ≥ 80,39,36,0.9230769230769231,3,55.666666666666664,1,0.4403205128205129,,,5
+Madrid,Pacífico,Rating ≥ 80,28,27,0.9642857142857143,1,70.0,0,0.41071428571428575,,,14
+Madrid,Vista Alegre,Rating ≥ 80,12,12,1.0,0,0.0,0,0.0,,,30
+Madrid,El Viso,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,30
+Madrid,Goya,Rating ≥ 80,30,28,0.9333333333333333,2,50.0,0,0.44833333333333336,,,3
+Madrid,Almenara,Rating ≥ 80,14,14,1.0,0,0.0,0,0.0,,,30
+Madrid,Lista,Rating ≥ 80,17,17,1.0,0,0.0,0,0.0,,,30
+Madrid,Rios Rosas,Rating ≥ 80,20,20,1.0,0,0.0,0,0.0,,,30
+Madrid,Hispanoamérica,Rating ≥ 80,13,13,1.0,0,0.0,0,0.0,,,30
+Madrid,Delicias,Rating ≥ 80,20,19,0.95,1,78.0,1,0.405,,,19
+Madrid,Castillejos,Rating ≥ 80,16,15,0.9375,1,60.0,0,0.425,,,7
+Madrid,Almagro,Rating ≥ 80,18,17,0.9444444444444444,1,60.0,0,0.42777777777777776,,,6
+Madrid,Imperial,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,30
+Madrid,Castellana,Rating ≥ 80,15,15,1.0,0,0.0,0,0.0,,,30
+Madrid,Ibiza,Rating ≥ 80,24,24,1.0,0,0.0,0,0.0,,,30
+Madrid,Simancas,Rating ≥ 80,11,11,1.0,0,0.0,0,0.0,,,30
+Madrid,Casco Histórico De Vallecas,Rating ≥ 80,6,5,0.8333333333333334,1,20.0,0,0.4833333333333334,,,1
+Madrid,Ventas,Rating ≥ 80,18,17,0.9444444444444444,1,60.0,0,0.42777777777777776,,,6
+Madrid,Pueblo Nuevo,Rating ≥ 80,16,16,1.0,0,0.0,0,0.0,,,30
+Madrid,Gaztambide,Rating ≥ 80,22,22,1.0,0,0.0,0,0.0,,,30
+Madrid,San Diego,Rating ≥ 80,24,22,0.9166666666666666,2,50.0,0,0.4416666666666667,,,4
+Madrid,Guindalera,Rating ≥ 80,34,33,0.9705882352941176,1,78.0,1,0.405,,,19
+Madrid,Valdefuentes,Rating ≥ 80,7,6,0.8571428571428571,1,78.0,1,0.405,,,19
+Madrid,Concepción,Rating ≥ 80,10,10,1.0,0,0.0,0,0.0,,,30
+Madrid,Jerónimos,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,30
+Madrid,Casa De Campo,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,30
+Madrid,Numancia,Rating ≥ 80,17,17,1.0,0,0.0,0,0.0,,,30
+Madrid,Moscardó,Rating ≥ 80,5,4,0.8,1,73.0,0,0.3375000000000001,,,28
+Madrid,Vallehermoso,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,30
+Madrid,Vinateros,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,30
+Madrid,Canillas,Rating ≥ 80,10,9,0.9,1,65.0,0,0.3975000000000001,,,22
+Madrid,Puerta Del Angel,Rating ≥ 80,23,23,1.0,0,0.0,0,0.0,,,30
+Madrid,Arapiles,Rating ≥ 80,17,16,0.9411764705882353,1,67.0,0,0.4089705882352941,,,16
+Madrid,Fontarrón,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,30
+Madrid,Chopera,Rating ≥ 80,13,12,0.9230769230769231,1,60.0,0,0.41923076923076924,,,11
+Madrid,Campamento,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,30
+Madrid,Pilar,Rating ≥ 80,8,7,0.875,1,78.0,1,0.405,,,19
+Madrid,Quintana,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,30
+Madrid,San Andrés,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,30
+Madrid,Alameda De Osuna,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,30
+Madrid,Valdezarza,Rating ≥ 80,4,3,0.75,1,60.0,0,0.35000000000000003,,,27
+Madrid,Fuente Del Berro,Rating ≥ 80,11,11,1.0,0,0.0,0,0.0,,,30
+Madrid,Puerta Bonita,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,30
+Madrid,Berruguete,Rating ≥ 80,14,14,1.0,0,0.0,0,0.0,,,30
+Madrid,Adelfas,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,30
+Madrid,Piovera,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,30
+Madrid,La Paz,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,30
+Madrid,Bellas Vistas,Rating ≥ 80,11,11,1.0,0,0.0,0,0.0,,,30
+Madrid,Palomeras Sureste,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,30
+Madrid,Almendrales,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,30
+Madrid,Buenavista,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,30
+Madrid,Nueva España,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,30
+Madrid,Costillares,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,30
+Madrid,Valverde,Rating ≥ 80,8,7,0.875,1,73.0,0,0.36750000000000005,,,24
+Madrid,Peñagrande,Rating ≥ 80,9,9,1.0,0,0.0,0,0.0,,,30
+Madrid,Casco Histórico De Barajas,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,30
+Madrid,Aguilas,Rating ≥ 80,9,7,0.7777777777777778,2,60.0,0,0.3611111111111111,,,26
+Madrid,Canillejas,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,30
+Madrid,Hellín,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,30
+Madrid,Opañel,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,30
+Madrid,Casco Histórico De Vicálvaro,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,30
+Madrid,Lucero,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,30
+Madrid,Rejas,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,30
+Madrid,Zofío,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,30
+Madrid,Niño Jesús,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,30
+Madrid,San Isidro,Rating ≥ 80,11,11,1.0,0,0.0,0,0.0,,,30
+Madrid,Estrella,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,30
+Madrid,Entrevías,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,30
+Madrid,Media Legua,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,30
+Madrid,San Cristobal,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,30
+Madrid,Rosas,Rating ≥ 80,8,6,0.75,2,65.0,0,0.3375,,,29
+Madrid,Orcasur,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,30
+Madrid,Los Rosales,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,30
+Madrid,Arcos,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,30
+Sevilla,San Vicente,Rating ≥ 80,19,19,1.0,0,0.0,0,0.0,,,6
+Sevilla,Arenal,Rating ≥ 80,35,35,1.0,0,0.0,0,0.0,,,6
+Sevilla,Alfalfa,Rating ≥ 80,52,50,0.9615384615384616,2,71.0,1,0.4148076923076924,,,3
+Sevilla,Los Remedios,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,6
+Sevilla,San Julián,Rating ≥ 80,15,15,1.0,0,0.0,0,0.0,,,6
+Sevilla,San Bartolomé,Rating ≥ 80,33,33,1.0,0,0.0,0,0.0,,,6
+Sevilla,An Roque,Rating ≥ 80,5,4,0.8,1,20.0,0,0.4700000000000001,,,1
+Sevilla,Santa Cruz,Rating ≥ 80,34,33,0.9705882352941176,1,76.0,1,0.41000000000000003,,,4
+Sevilla,Feria,Rating ≥ 80,34,34,1.0,0,0.0,0,0.0,,,6
+Sevilla,San Lorenzo,Rating ≥ 80,17,17,1.0,0,0.0,0,0.0,,,6
+Sevilla,Museo,Rating ≥ 80,18,18,1.0,0,0.0,0,0.0,,,6
+Sevilla,Encarnación Regina,Rating ≥ 80,36,35,0.9722222222222222,1,60.0,0,0.4388888888888889,,,2
+Sevilla,San Bernardo,Rating ≥ 80,12,12,1.0,0,0.0,0,0.0,,,6
+Sevilla,Triana Casco Antiguo,Rating ≥ 80,29,29,1.0,0,0.0,0,0.0,,,6
+Sevilla,San Gil,Rating ≥ 80,20,20,1.0,0,0.0,0,0.0,,,6
+Sevilla,León Xiii Los Naranjos,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,6
+Sevilla,San Pablo A Y B,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,6
+Sevilla,Carretera De Carmona María Auxiliadora Fontanal,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,6
+Sevilla,Triana Este,Rating ≥ 80,13,13,1.0,0,0.0,0,0.0,,,6
+Sevilla,Doctor Barraquer G Renfe Policlínico,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,6
+Sevilla,Santa Catalina,Rating ≥ 80,17,16,0.9411764705882353,1,73.0,0,0.39397058823529413,,,5
+Sevilla,Colores Entreparques,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,6
+Sevilla,Pio Xii,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,6
+Sevilla,La Florida,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,6
+Sevilla,Triana Oeste,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,6
+Sevilla,Nervión,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,6
+Sevilla,Tiro De Línea Santa Genoveva,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,6
+Sevilla,El Porvenir,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,6
+Sevilla,Sector Sur La Palmera Reina Mercedes,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,6
+Barcelona,L'Antiga Esquerra De L'Eixample,Rating ≥ 80,163,157,0.9631901840490797,6,71.66666666666667,2,0.41101738241308794,,,18
+Barcelona,El Camp De L'Arpa Del Clot,Rating ≥ 80,49,45,0.9183673469387755,4,73.5,2,0.3999234693877551,,,25
+Barcelona,La Dreta De L'Eixample,Rating ≥ 80,288,273,0.9479166666666666,15,58.0,2,0.4369444444444444,,,4
+Barcelona,El Camp D'En Grassot I Gràcia Nova,Rating ≥ 80,43,42,0.9767441860465116,1,60.0,0,0.44069767441860463,,,3
+Barcelona,El Raval,Rating ≥ 80,205,193,0.9414634146341463,12,70.83333333333333,6,0.411209349593496,,,17
+Barcelona,El Fort Pienc,Rating ≥ 80,84,82,0.9761904761904762,2,69.0,1,0.4227380952380952,,,9
+Barcelona,Vallvidrera El Tibidabo I Les Planes,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,37
+Barcelona,Sants,Rating ≥ 80,45,44,0.9777777777777777,1,60.0,0,0.4411111111111111,,,2
+Barcelona,Sant Antoni,Rating ≥ 80,145,138,0.9517241379310345,7,62.0,2,0.4312068965517242,,,6
+Barcelona,Les Corts,Rating ≥ 80,28,27,0.9642857142857143,1,60.0,0,0.4357142857142857,,,5
+Barcelona,Horta,Rating ≥ 80,10,10,1.0,0,0.0,0,0.0,,,37
+Barcelona,Sant Pere Santa Caterina I La Ribera,Rating ≥ 80,176,169,0.9602272727272727,7,74.71428571428571,4,0.4063961038961039,,,20
+Barcelona,El Poble Sec,Rating ≥ 80,141,137,0.9716312056737588,4,72.25,2,0.4137012411347518,,,14
+Barcelona,La Vila De Gràcia,Rating ≥ 80,138,125,0.9057971014492754,13,69.23076923076923,3,0.3979375696767002,,,27
+Barcelona,La Nova Esquerra De L'Eixample,Rating ≥ 80,114,104,0.9122807017543859,10,68.7,3,0.40368859649122807,,,23
+Barcelona,Vilapicina I La Torre Llobeta,Rating ≥ 80,10,10,1.0,0,0.0,0,0.0,,,37
+Barcelona,La Sagrada Família,Rating ≥ 80,132,122,0.9242424242424242,10,63.9,3,0.4190378787878788,,,11
+Barcelona,El Putxet I El Farró,Rating ≥ 80,34,31,0.9117647058823529,3,67.33333333333333,0,0.3963725490196079,,,29
+Barcelona,El Barri Gòtic,Rating ≥ 80,169,156,0.9230769230769231,13,70.6923076923077,6,0.40670118343195266,,,19
+Barcelona,El Poblenou,Rating ≥ 80,62,60,0.967741935483871,2,71.0,1,0.4160483870967743,,,13
+Barcelona,La Font De La Guatlla,Rating ≥ 80,14,14,1.0,0,0.0,0,0.0,,,37
+Barcelona,La Vila Olímpica Del Poblenou,Rating ≥ 80,21,20,0.9523809523809523,1,50.0,0,0.45595238095238094,,,1
+Barcelona,El Coll,Rating ≥ 80,9,8,0.8888888888888888,1,60.0,0,0.40555555555555556,,,21
+Barcelona,El Parc I La Llacuna Del Poblenou,Rating ≥ 80,41,38,0.926829268292683,3,65.33333333333333,1,0.4171544715447155,,,12
+Barcelona,La Prosperitat,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,37
+Barcelona,El Clot,Rating ≥ 80,20,20,1.0,0,0.0,0,0.0,,,37
+Barcelona,Les Tres Torres,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,37
+Barcelona,Vallcarca I Els Penitents,Rating ≥ 80,22,22,1.0,0,0.0,0,0.0,,,37
+Barcelona,La Salut,Rating ≥ 80,13,10,0.7692307692307693,3,68.33333333333333,1,0.36762820512820515,,,34
+Barcelona,La Barceloneta,Rating ≥ 80,57,56,0.9824561403508771,1,78.0,1,0.405,,,22
+Barcelona,Sarrià,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,37
+Barcelona,Can Baró,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,37
+Barcelona,Sant Gervasi - La Bonanova,Rating ≥ 80,10,10,1.0,0,0.0,0,0.0,,,37
+Barcelona,Provençals Del Poblenou,Rating ≥ 80,14,14,1.0,0,0.0,0,0.0,,,37
+Barcelona,Sants - Badal,Rating ≥ 80,20,19,0.95,1,60.0,0,0.43,,,7
+Barcelona,El Carmel,Rating ≥ 80,21,18,0.8571428571428571,3,59.333333333333336,1,0.4135714285714286,,,15
+Barcelona,Diagonal Mar I El Front Marítim Del Poblenou,Rating ≥ 80,24,24,1.0,0,0.0,0,0.0,,,37
+Barcelona,Sant Gervasi - Galvany,Rating ≥ 80,46,43,0.9347826086956522,3,73.33333333333333,1,0.39927536231884064,,,26
+Barcelona,La Bordeta,Rating ≥ 80,19,18,0.9473684210526315,1,60.0,0,0.42894736842105263,,,8
+Barcelona,La Marina De Port,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,37
+Barcelona,Pedralbes,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,37
+Barcelona,Sant Genís Dels Agudells,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,37
+Barcelona,El Baix Guinardó,Rating ≥ 80,13,12,0.9230769230769231,1,60.0,0,0.41923076923076924,,,10
+Barcelona,La Maternitat I Sant Ramon,Rating ≥ 80,29,26,0.896551724137931,3,75.33333333333333,2,0.39787356321839085,,,28
+Barcelona,La Verneda I La Pau,Rating ≥ 80,10,8,0.8,2,75.0,2,0.4125000000000001,,,16
+Barcelona,El Congrés I Els Indians,Rating ≥ 80,11,10,0.9090909090909091,1,70.0,0,0.38863636363636367,,,32
+Barcelona,El Besòs I El Maresme,Rating ≥ 80,31,28,0.9032258064516129,3,68.33333333333333,1,0.40336021505376346,,,24
+Barcelona,Montbau,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,37
+Barcelona,Hostafrancs,Rating ≥ 80,43,38,0.8837209302325582,5,71.6,2,0.393093023255814,,,30
+Barcelona,Navas,Rating ≥ 80,7,6,0.8571428571428571,1,73.0,0,0.3603571428571429,,,35
+Barcelona,Sant Martí De Provençals,Rating ≥ 80,15,15,1.0,0,0.0,0,0.0,,,37
+Barcelona,El Guinardó,Rating ≥ 80,18,15,0.8333333333333334,3,65.0,1,0.3930555555555556,,,31
+Barcelona,La Teixonera,Rating ≥ 80,6,5,0.8333333333333334,1,60.0,0,0.38333333333333336,,,33
+Barcelona,Verdun,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,37
+Barcelona,El Turó De La Peira,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,37
+Barcelona,La Guineueta,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,37
+Barcelona,Porta,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,37
+Barcelona,El Bon Pastor,Rating ≥ 80,4,3,0.75,1,65.0,0,0.3375,,,36
+Barcelona,La Sagrera,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,37
+Barcelona,Sant Andreu,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,37
+Barcelona,Les Roquetes,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,37
+Girona,Torroella De Fluvià,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,18
+Girona,Capmany,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,18
+Girona,Castelló D'Empúries,Rating ≥ 80,87,78,0.896551724137931,9,61.44444444444444,0,0.4050095785440614,,,14
+Girona,Begur,Rating ≥ 80,73,69,0.9452054794520548,4,60.75,0,0.4262071917808219,,,6
+Girona,Tossa De Mar,Rating ≥ 80,53,51,0.9622641509433962,2,40.0,0,0.4849056603773585,,,1
+Girona,Roses,Rating ≥ 80,150,140,0.9333333333333333,10,62.4,1,0.42,,,9
+Girona,Palafrugell,Rating ≥ 80,77,74,0.961038961038961,3,62.333333333333336,0,0.4285822510822511,,,5
+Girona,Girona,Rating ≥ 80,49,47,0.9591836734693877,2,67.5,1,0.42308673469387753,,,8
+Girona,Cadaqués,Rating ≥ 80,34,33,0.9705882352941176,1,78.0,1,0.405,,,15
+Girona,L'Escala,Rating ≥ 80,99,92,0.9292929292929293,7,48.57142857142857,0,0.4502886002886003,,,3
+Girona,Palamós,Rating ≥ 80,31,31,1.0,0,0.0,0,0.0,,,18
+Girona,Lloret De Mar,Rating ≥ 80,130,122,0.9384615384615385,8,63.375,3,0.42617788461538464,,,7
+Girona,Torroella De Montgrí,Rating ≥ 80,67,62,0.9253731343283582,5,69.4,2,0.408589552238806,,,12
+Girona,La Selva De Mar,Rating ≥ 80,3,2,0.6666666666666666,1,63.0,0,0.3091666666666667,,,17
+Girona,Llançà,Rating ≥ 80,34,32,0.9411764705882353,2,40.0,0,0.4764705882352941,,,2
+Girona,Sant Feliu De Guíxols,Rating ≥ 80,43,39,0.9069767441860465,4,61.75,0,0.40841569767441865,,,13
+Girona,Blanes,Rating ≥ 80,40,39,0.975,1,75.0,1,0.41250000000000003,,,11
+Girona,Albons,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,Calonge,Rating ≥ 80,69,66,0.9565217391304348,3,68.33333333333333,1,0.41757246376811596,,,10
+Girona,Ordis,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,18
+Girona,Castell-Platja D'Aro,Rating ≥ 80,94,90,0.9574468085106383,4,57.5,0,0.4392287234042554,,,4
+Girona,Cornellà Del Terri,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,18
+Girona,Vilademuls,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,Figueres,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,18
+Girona,Pals,Rating ≥ 80,50,49,0.98,1,75.0,1,0.41250000000000003,,,11
+Girona,Alp,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,18
+Girona,Llers,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,Vilafran,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,Vidreres,Rating ≥ 80,14,14,1.0,0,0.0,0,0.0,,,18
+Girona,Ribes De Freser,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,18
+Girona,Campelles,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,El Port De La Selva,Rating ≥ 80,12,11,0.9166666666666666,1,78.0,1,0.405,,,15
+Girona,Santa Cristina D'Aro,Rating ≥ 80,19,19,1.0,0,0.0,0,0.0,,,18
+Girona,Banyoles,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,18
+Girona,Cruïlles Monells I Sant Sadurní De L'Heura,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,Olot,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,18
+Girona,Sant Pere Pescador,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,18
+Girona,L'Armentera,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,Ullà,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,Fontanals De Cerdanya,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,18
+Girona,Puigcerdà,Rating ≥ 80,12,10,0.8333333333333334,2,66.0,0,0.3683333333333334,,,16
+Girona,Santa Pau,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,Colera,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,Sant Feliu De Pallerols,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Girona,Maçanet De La Selva,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,18
+Valencia,El Pilar,Rating ≥ 80,14,13,0.9285714285714286,1,75.0,1,0.41250000000000003,,,6
+Valencia,En Corts,Rating ≥ 80,18,18,1.0,0,0.0,0,0.0,,,13
+Valencia,Russafa,Rating ≥ 80,43,41,0.9534883720930233,2,69.5,1,0.4169476744186047,,,5
+Valencia,El Carme,Rating ≥ 80,15,15,1.0,0,0.0,0,0.0,,,13
+Valencia,La Seu,Rating ≥ 80,16,15,0.9375,1,60.0,0,0.425,,,3
+Valencia,Arrancapins,Rating ≥ 80,6,5,0.8333333333333334,1,40.0,0,0.43333333333333335,,,2
+Valencia,La Roqueta,Rating ≥ 80,16,16,1.0,0,0.0,0,0.0,,,13
+Valencia,Morvedre,Rating ≥ 80,10,10,1.0,0,0.0,0,0.0,,,13
+Valencia,Penya-Roja,Rating ≥ 80,9,9,1.0,0,0.0,0,0.0,,,13
+Valencia,La Carrasca,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,13
+Valencia,La Gran Via,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,13
+Valencia,Aiora,Rating ≥ 80,18,18,1.0,0,0.0,0,0.0,,,13
+Valencia,Mestalla,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,13
+Valencia,El Mercat,Rating ≥ 80,19,18,0.9473684210526315,1,79.0,1,0.4025,,,9
+Valencia,La Malva-Rosa,Rating ≥ 80,27,26,0.9629629629629629,1,74.0,0,0.4001851851851852,,,10
+Valencia,La Xerea,Rating ≥ 80,9,9,1.0,0,0.0,0,0.0,,,13
+Valencia,Campanar,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,13
+Valencia,Sant Francesc,Rating ≥ 80,27,26,0.9629629629629629,1,20.0,0,0.5351851851851852,,,1
+Valencia,La Raiosa,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,13
+Valencia,Mont-Olivet,Rating ≥ 80,12,12,1.0,0,0.0,0,0.0,,,13
+Valencia,El Botanic,Rating ≥ 80,9,9,1.0,0,0.0,0,0.0,,,13
+Valencia,Benimaclet,Rating ≥ 80,9,8,0.8888888888888888,1,60.0,0,0.40555555555555556,,,8
+Valencia,Cabanyal-Canyamelar,Rating ≥ 80,52,52,1.0,0,0.0,0,0.0,,,13
+Valencia,El Pla Del Remei,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,13
+Valencia,Marxalenes,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,13
+Valencia,Ciutat Jardi,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,13
+Valencia,Els Orriols,Rating ≥ 80,4,3,0.75,1,60.0,0,0.35000000000000003,,,11
+Valencia,Patraix,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,13
+Valencia,Nou Moles,Rating ≥ 80,10,9,0.9,1,55.0,0,0.42250000000000004,,,4
+Valencia,El Perellonet,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,13
+Valencia,Benicalap,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,13
+Valencia,La Petxina,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,13
+Valencia,L'Hort De Senabre,Rating ≥ 80,4,3,0.75,1,77.0,1,0.40750000000000003,,,7
+Valencia,Benimamet,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,13
+Valencia,Ciutat De Les Arts I De Les Ciencies,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,13
+Valencia,Torrefiel,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,13
+Valencia,Les Tendetes,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,13
+Valencia,Exposicio,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,13
+Valencia,Na Rovella,Rating ≥ 80,4,3,0.75,1,73.0,0,0.31750000000000006,,,12
+Valencia,Betero,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,13
+Valencia,Albors,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,13
+Valencia,Tres Forques,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,13
+Valencia,El Grau,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,13
+Valencia,El Saler,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,13
+Valencia,L'Amistat,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,13
+Valencia,L'Illa Perduda,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,13
+Valencia,La Creu Del Grau,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,13
+Mallorca,Palma De Mallorca,Rating ≥ 80,197,189,0.9593908629441624,8,54.0,1,0.45078680203045685,,,4
+Mallorca,Alcúdia,Rating ≥ 80,163,157,0.9631901840490797,6,65.5,1,0.42398006134969324,,,12
+Mallorca,Selva,Rating ≥ 80,30,30,1.0,0,0.0,0,0.0,,,22
+Mallorca,Santa Margalida,Rating ≥ 80,57,54,0.9473684210526315,3,64.66666666666667,2,0.4313157894736842,,,9
+Mallorca,Campos,Rating ≥ 80,51,50,0.9803921568627451,1,65.0,0,0.42965686274509807,,,11
+Mallorca,Sóller,Rating ≥ 80,43,41,0.9534883720930233,2,50.0,0,0.45639534883720934,,,2
+Mallorca,Valldemossa,Rating ≥ 80,11,11,1.0,0,0.0,0,0.0,,,22
+Mallorca,Santanyí,Rating ≥ 80,56,53,0.9464285714285714,3,59.333333333333336,1,0.4373809523809523,,,8
+Mallorca,Llubí,Rating ≥ 80,14,13,0.9285714285714286,1,60.0,0,0.42142857142857143,,,13
+Mallorca,Inca,Rating ≥ 80,24,21,0.875,3,65.66666666666667,1,0.4025,,,18
+Mallorca,Calvià,Rating ≥ 80,45,43,0.9555555555555556,2,55.0,0,0.44472222222222224,,,6
+Mallorca,Costitx,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,22
+Mallorca,Pollença,Rating ≥ 80,176,171,0.9715909090909091,5,63.4,0,0.43013636363636365,,,10
+Mallorca,Ses Salines,Rating ≥ 80,25,24,0.96,1,20.0,0,0.534,,,1
+Mallorca,Manacor,Rating ≥ 80,73,72,0.9863013698630136,1,75.0,1,0.4125,,,17
+Mallorca,Felanitx,Rating ≥ 80,49,46,0.9387755102040817,3,55.333333333333336,1,0.4453401360544218,,,5
+Mallorca,Puigpunyent,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,22
+Mallorca,Lloseta,Rating ≥ 80,11,11,1.0,0,0.0,0,0.0,,,22
+Mallorca,Petra,Rating ≥ 80,11,10,0.9090909090909091,1,60.0,0,0.41363636363636364,,,15
+Mallorca,Llucmajor,Rating ≥ 80,65,64,0.9846153846153847,1,60.0,0,0.4438461538461539,,,7
+Mallorca,Algaida,Rating ≥ 80,12,12,1.0,0,0.0,0,0.0,,,22
+Mallorca,Campanet,Rating ≥ 80,18,16,0.8888888888888888,2,71.5,0,0.37680555555555556,,,21
+Mallorca,Fornalutx,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,22
+Mallorca,Marratxí,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,22
+Mallorca,Sant Llorenç Des Cardassar,Rating ≥ 80,24,23,0.9583333333333334,1,53.0,0,0.45083333333333336,,,3
+Mallorca,Artà,Rating ≥ 80,31,31,1.0,0,0.0,0,0.0,,,22
+Mallorca,Muro,Rating ≥ 80,37,36,0.972972972972973,1,70.0,0,0.41418918918918923,,,14
+Mallorca,Alaró,Rating ≥ 80,12,12,1.0,0,0.0,0,0.0,,,22
+Mallorca,Son Servera,Rating ≥ 80,25,24,0.96,1,73.0,0,0.4015,,,20
+Mallorca,Lloret De Vistalegre,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,22
+Mallorca,Capdepera,Rating ≥ 80,33,31,0.9393939393939394,2,74.5,1,0.4016287878787879,,,19
+Mallorca,Esporles,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,22
+Mallorca,Búger,Rating ≥ 80,15,15,1.0,0,0.0,0,0.0,,,22
+Mallorca,Deià,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,22
+Mallorca,Sa Pobla,Rating ≥ 80,30,30,1.0,0,0.0,0,0.0,,,22
+Mallorca,Maria De La Salut,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,22
+Mallorca,Andratx,Rating ≥ 80,13,13,1.0,0,0.0,0,0.0,,,22
+Mallorca,Montuïri,Rating ≥ 80,10,10,1.0,0,0.0,0,0.0,,,22
+Mallorca,Mancor De La Vall,Rating ≥ 80,5,4,0.8,1,75.0,1,0.4125000000000001,,,16
+Mallorca,Sineu,Rating ≥ 80,12,12,1.0,0,0.0,0,0.0,,,22
+Mallorca,Binissalem,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,22
+Mallorca,Sencelles,Rating ≥ 80,7,7,1.0,0,0.0,0,0.0,,,22
+Mallorca,Ariany,Rating ≥ 80,5,5,1.0,0,0.0,0,0.0,,,22
+Mallorca,Escorca,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,22
+Mallorca,Santa Eugènia,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,22
+Mallorca,Bunyola,Rating ≥ 80,9,9,1.0,0,0.0,0,0.0,,,22
+Mallorca,Banyalbufar,Rating ≥ 80,3,3,1.0,0,0.0,0,0.0,,,22
+Mallorca,Porreres,Rating ≥ 80,8,8,1.0,0,0.0,0,0.0,,,22
+Mallorca,Sant Joan,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,22
+Menorca,Es Mercadal,Rating ≥ 80,27,26,0.9629629629629629,1,20.0,0,0.5351851851851852,,,1
+Menorca,Ciutadella De Menorca,Rating ≥ 80,84,83,0.9880952380952381,1,75.0,1,0.41250000000000003,,,3
+Menorca,Alaior,Rating ≥ 80,33,32,0.9696969696969697,1,75.0,1,0.4125000000000001,,,2
+Menorca,Mahón,Rating ≥ 80,18,18,1.0,0,0.0,0,0.0,,,4
+Menorca,Sant Lluís,Rating ≥ 80,34,34,1.0,0,0.0,0,0.0,,,4
+Menorca,Es Castell,Rating ≥ 80,6,6,1.0,0,0.0,0,0.0,,,4
+Menorca,Ferreries,Rating ≥ 80,4,4,1.0,0,0.0,0,0.0,,,4
+Málaga,Centro,Min Nights 2-3,324,179,0.5524691358024691,145,,15,0.2939923371647509,2.7376543209876543,,7
+Málaga,Cruz De Humilladero,Min Nights 2-3,27,9,0.3333333333333333,18,,1,0.2096296296296296,5.777777777777778,,8
+Málaga,Este,Min Nights 2-3,61,25,0.4098360655737705,36,,11,0.33311475409836067,10.524590163934427,,4
+Málaga,Carretera De Cadiz,Min Nights 2-3,51,21,0.4117647058823529,30,,6,0.2983529411764706,2.7058823529411766,,6
+Málaga,Palma-Palmilla,Min Nights 2-3,7,3,0.42857142857142855,4,,2,0.41142857142857137,2.5714285714285716,,2
+Málaga,Churriana,Min Nights 2-3,8,6,0.75,2,,2,0.51,3.25,,1
+Málaga,Teatinos-Universidad,Min Nights 2-3,7,2,0.2857142857142857,5,,2,0.3405714285714285,11.571428571428571,,3
+Málaga,Bailen-Miraflores,Min Nights 2-3,9,6,0.6666666666666666,3,,0,0.3,1.8888888888888888,,5
+Málaga,Ciudad Jardin,Min Nights 2-3,5,2,0.4,3,,0,0.18666666666666665,19.4,,10
+Málaga,Puerto De La Torre,Min Nights 2-3,4,2,0.5,2,,0,0.2,16.5,,9
+Madrid,Cármenes,Min Nights 2-3,8,4,0.5,4,,2,0.39,4.75,,3
+Madrid,Embajadores,Min Nights 2-3,273,138,0.5054945054945055,135,,19,0.28896540496540496,3.8205128205128207,,28
+Madrid,Palacio,Min Nights 2-3,167,88,0.5269461077844312,79,,5,0.26697794284848025,5.263473053892215,,39
+Madrid,Palomeras Bajas,Min Nights 2-3,8,1,0.125,7,,3,0.34214285714285714,6.0,,10
+Madrid,Universidad,Min Nights 2-3,204,102,0.5,102,,13,0.28127450980392155,3.4558823529411766,,30
+Madrid,Justicia,Min Nights 2-3,121,50,0.4132231404958678,71,,12,0.27777907112094047,2.8925619834710745,,32
+Madrid,Aluche,Min Nights 2-3,4,1,0.25,3,,0,0.175,5.0,,67
+Madrid,Cortes,Min Nights 2-3,97,54,0.5567010309278351,43,,9,0.3189834572045073,3.865979381443299,,19
+Madrid,Ciudad Jardín,Min Nights 2-3,9,2,0.2222222222222222,7,,1,0.20793650793650792,7.111111111111111,,62
+Madrid,Sol,Min Nights 2-3,163,81,0.49693251533742333,82,,6,0.2704114918449798,3.098159509202454,,36
+Madrid,Comillas,Min Nights 2-3,9,3,0.3333333333333333,6,,0,0.2,1.4444444444444444,,63
+Madrid,Prosperidad,Min Nights 2-3,15,11,0.7333333333333333,4,,0,0.32499999999999996,2.2666666666666666,,16
+Madrid,Acacias,Min Nights 2-3,26,12,0.46153846153846156,14,,4,0.32252747252747255,5.6923076923076925,,17
+Madrid,Cuatro Caminos,Min Nights 2-3,16,11,0.6875,5,,0,0.31025,2.125,,22
+Madrid,Pinar Del Rey,Min Nights 2-3,10,6,0.6,4,,0,0.28,2.5,,31
+Madrid,Los Angeles,Min Nights 2-3,6,4,0.6666666666666666,2,,0,0.25,6.833333333333333,,49
+Madrid,Portazgo,Min Nights 2-3,9,1,0.1111111111111111,8,,2,0.26694444444444443,3.3333333333333335,,40
+Madrid,Palos De Moguer,Min Nights 2-3,43,21,0.4883720930232558,22,,5,0.3146511627906976,3.0,,20
+Madrid,Recoletos,Min Nights 2-3,30,11,0.36666666666666664,19,,5,0.2922807017543859,5.666666666666667,,26
+Madrid,Castilla,Min Nights 2-3,10,3,0.3,7,,2,0.30142857142857143,5.4,,24
+Madrid,Legazpi,Min Nights 2-3,5,5,1.0,0,,0,0.3,2.4,,25
+Madrid,Ciudad Universitaria,Min Nights 2-3,6,4,0.6666666666666666,2,,1,0.43333333333333335,3.1666666666666665,,1
+Madrid,Valdeacederas,Min Nights 2-3,7,2,0.2857142857142857,5,,1,0.25314285714285717,6.857142857142857,,47
+Madrid,Argüelles,Min Nights 2-3,40,20,0.5,20,,0,0.226,4.325,,57
+Madrid,Trafalgar,Min Nights 2-3,39,19,0.48717948717948717,20,,2,0.26779487179487177,8.923076923076923,,38
+Madrid,Pacífico,Min Nights 2-3,28,14,0.5,14,,4,0.3214285714285714,4.607142857142857,,18
+Madrid,Vista Alegre,Min Nights 2-3,12,6,0.5,6,,0,0.26333333333333336,3.8333333333333335,,41
+Madrid,El Viso,Min Nights 2-3,5,3,0.6,2,,0,0.28,2.0,,31
+Madrid,Goya,Min Nights 2-3,30,11,0.36666666666666664,19,,3,0.2557894736842105,16.1,,44
+Madrid,Almenara,Min Nights 2-3,14,6,0.42857142857142855,8,,1,0.27428571428571424,1.7857142857142858,,34
+Madrid,Lista,Min Nights 2-3,17,10,0.5882352941176471,7,,1,0.31445378151260506,3.0,,21
+Madrid,Rios Rosas,Min Nights 2-3,20,11,0.55,9,,3,0.36444444444444446,2.35,,5
+Madrid,Hispanoamérica,Min Nights 2-3,13,6,0.46153846153846156,7,,0,0.15274725274725276,15.846153846153847,,71
+Madrid,Delicias,Min Nights 2-3,20,10,0.5,10,,3,0.33899999999999997,2.85,,12
+Madrid,Castillejos,Min Nights 2-3,16,10,0.625,6,,0,0.2875,2.375,,29
+Madrid,Almagro,Min Nights 2-3,18,7,0.3888888888888889,11,,1,0.22989898989898988,5.833333333333333,,55
+Madrid,Imperial,Min Nights 2-3,7,5,0.7142857142857143,2,,0,0.34428571428571425,3.2857142857142856,,9
+Madrid,Castellana,Min Nights 2-3,15,5,0.3333333333333333,10,,3,0.30200000000000005,6.333333333333333,,23
+Madrid,Ibiza,Min Nights 2-3,24,13,0.5416666666666666,11,,0,0.25886363636363635,3.3333333333333335,,43
+Madrid,Simancas,Min Nights 2-3,11,7,0.6363636363636364,4,,0,0.2909090909090909,1.7272727272727273,,27
+Madrid,Casco Histórico De Vallecas,Min Nights 2-3,6,2,0.3333333333333333,4,,0,0.175,4.0,,67
+Madrid,Ventas,Min Nights 2-3,18,8,0.4444444444444444,10,,0,0.23333333333333334,1.6111111111111112,,53
+Madrid,Pueblo Nuevo,Min Nights 2-3,16,5,0.3125,11,,0,0.18102272727272728,3.125,,66
+Madrid,Gaztambide,Min Nights 2-3,22,9,0.4090909090909091,13,,4,0.3320979020979021,3.5,,14
+Madrid,San Diego,Min Nights 2-3,24,9,0.375,15,,2,0.2555,3.3333333333333335,,46
+Madrid,Guindalera,Min Nights 2-3,34,17,0.5,17,,2,0.2770588235294118,3.088235294117647,,33
+Madrid,Valdefuentes,Min Nights 2-3,7,4,0.5714285714285714,3,,0,0.2714285714285714,1.7142857142857142,,35
+Madrid,Concepción,Min Nights 2-3,10,4,0.4,6,,1,0.27,38.8,,37
+Madrid,Jerónimos,Min Nights 2-3,8,7,0.875,1,,0,0.36250000000000004,2.25,,6
+Madrid,Casa De Campo,Min Nights 2-3,5,2,0.4,3,,0,0.22,1.6,,59
+Madrid,Numancia,Min Nights 2-3,17,10,0.5882352941176471,7,,2,0.3410084033613445,2.9411764705882355,,11
+Madrid,Moscardó,Min Nights 2-3,5,2,0.4,3,,0,0.22,1.6,,59
+Madrid,Vallehermoso,Min Nights 2-3,4,0,0.0,4,,0,0.1,1.0,,75
+Madrid,Vinateros,Min Nights 2-3,5,2,0.4,3,,1,0.33333333333333337,3.8,,13
+Madrid,Canillas,Min Nights 2-3,10,2,0.2,8,,0,0.16249999999999998,1.8,,69
+Madrid,Puerta Del Angel,Min Nights 2-3,23,8,0.34782608695652173,15,,1,0.2127536231884058,4.565217391304348,,61
+Madrid,Arapiles,Min Nights 2-3,17,8,0.47058823529411764,9,,0,0.2300653594771242,2.4705882352941178,,54
+Madrid,Fontarrón,Min Nights 2-3,6,3,0.5,3,,0,0.25,1.8333333333333333,,49
+Madrid,Chopera,Min Nights 2-3,13,7,0.5384615384615384,6,,0,0.24487179487179486,2.6923076923076925,,51
+Madrid,Campamento,Min Nights 2-3,5,2,0.4,3,,0,0.15333333333333332,80.2,,70
+Madrid,Pilar,Min Nights 2-3,8,1,0.125,7,,1,0.19714285714285715,4.0,,64
+Madrid,Quintana,Min Nights 2-3,6,4,0.6666666666666666,2,,0,0.3,1.6666666666666667,,25
+Madrid,San Andrés,Min Nights 2-3,7,2,0.2857142857142857,5,,1,0.23714285714285716,20.285714285714285,,52
+Madrid,Alameda De Osuna,Min Nights 2-3,4,1,0.25,3,,0,0.175,1.5,,67
+Madrid,Valdezarza,Min Nights 2-3,4,2,0.5,2,,0,0.25,1.75,,49
+Madrid,Fuente Del Berro,Min Nights 2-3,11,6,0.5454545454545454,5,,2,0.3825454545454545,2.3636363636363638,,4
+Madrid,Puerta Bonita,Min Nights 2-3,5,3,0.6,2,,0,0.28,1.8,,31
+Madrid,Berruguete,Min Nights 2-3,14,4,0.2857142857142857,10,,2,0.2631428571428571,8.357142857142858,,42
+Madrid,Adelfas,Min Nights 2-3,6,5,0.8333333333333334,1,,0,0.35,2.0,,7
+Madrid,Piovera,Min Nights 2-3,5,2,0.4,3,,0,0.22666666666666668,2.6,,56
+Madrid,La Paz,Min Nights 2-3,3,0,0.0,3,,0,0.1,1.0,,75
+Madrid,Bellas Vistas,Min Nights 2-3,11,5,0.45454545454545453,6,,3,0.40939393939393937,2.5454545454545454,,2
+Madrid,Palomeras Sureste,Min Nights 2-3,5,3,0.6,2,,0,0.28,1.6,,31
+Madrid,Almendrales,Min Nights 2-3,8,2,0.25,6,,1,0.2475,1.75,,50
+Madrid,Buenavista,Min Nights 2-3,5,2,0.4,3,,1,0.3466666666666667,2.2,,8
+Madrid,Nueva España,Min Nights 2-3,8,3,0.375,5,,2,0.3295,10.375,,15
+Madrid,Costillares,Min Nights 2-3,4,2,0.5,2,,0,0.21999999999999997,4.25,,60
+Madrid,Valverde,Min Nights 2-3,8,2,0.25,6,,0,0.175,1.25,,67
+Madrid,Peñagrande,Min Nights 2-3,9,7,0.7777777777777778,2,,0,0.33333333333333337,1.7777777777777777,,13
+Madrid,Casco Histórico De Barajas,Min Nights 2-3,3,1,0.3333333333333333,2,,0,0.2,1.3333333333333333,,63
+Madrid,Aguilas,Min Nights 2-3,9,3,0.3333333333333333,6,,1,0.25555555555555554,4.444444444444445,,45
+Madrid,Canillejas,Min Nights 2-3,4,1,0.25,3,,0,0.175,1.25,,67
+Madrid,Hellín,Min Nights 2-3,4,3,0.75,1,,0,0.32499999999999996,1.75,,16
+Madrid,Opañel,Min Nights 2-3,6,3,0.5,3,,0,0.22333333333333333,7.666666666666667,,58
+Madrid,Casco Histórico De Vicálvaro,Min Nights 2-3,3,1,0.3333333333333333,2,,0,0.2,1.3333333333333333,,63
+Madrid,Lucero,Min Nights 2-3,5,2,0.4,3,,0,0.18666666666666665,7.2,,65
+Madrid,Rejas,Min Nights 2-3,6,1,0.16666666666666666,5,,0,0.15,1.3333333333333333,,72
+Madrid,Zofío,Min Nights 2-3,6,4,0.6666666666666666,2,,0,0.3,2.0,,25
+Madrid,Niño Jesús,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,2.0,,25
+Madrid,San Isidro,Min Nights 2-3,11,3,0.2727272727272727,8,,0,0.1693181818181818,103.63636363636364,,68
+Madrid,Estrella,Min Nights 2-3,3,1,0.3333333333333333,2,,0,0.2,1.3333333333333333,,63
+Madrid,Entrevías,Min Nights 2-3,7,2,0.2857142857142857,5,,1,0.2531428571428571,3.5714285714285716,,48
+Madrid,Media Legua,Min Nights 2-3,4,4,1.0,0,,0,0.3,2.25,,25
+Madrid,San Cristobal,Min Nights 2-3,4,2,0.5,2,,0,0.2,24.0,,63
+Madrid,Rosas,Min Nights 2-3,8,1,0.125,7,,0,0.12321428571428572,3.5,,73
+Madrid,Orcasur,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,1.6666666666666667,,25
+Madrid,Los Rosales,Min Nights 2-3,3,0,0.0,3,,0,0.10666666666666667,3.0,,74
+Madrid,Arcos,Min Nights 2-3,3,0,0.0,3,,0,0.1,1.0,,75
+Sevilla,San Vicente,Min Nights 2-3,19,12,0.631578947368421,7,,1,0.32721804511278196,1.9473684210526316,,5
+Sevilla,Arenal,Min Nights 2-3,35,23,0.6571428571428571,12,,0,0.29714285714285715,1.8,,16
+Sevilla,Alfalfa,Min Nights 2-3,52,36,0.6923076923076923,16,,1,0.3223076923076923,1.8846153846153846,,9
+Sevilla,Los Remedios,Min Nights 2-3,8,5,0.625,3,,0,0.2875,1.75,,17
+Sevilla,San Julián,Min Nights 2-3,15,9,0.6,6,,0,0.28,1.6,,18
+Sevilla,San Bartolomé,Min Nights 2-3,33,26,0.7878787878787878,7,,1,0.3629437229437229,2.090909090909091,,3
+Sevilla,An Roque,Min Nights 2-3,5,2,0.4,3,,0,0.22666666666666668,2.6,,19
+Sevilla,Santa Cruz,Min Nights 2-3,34,22,0.6470588235294118,12,,1,0.3154901960784314,1.8823529411764706,,11
+Sevilla,Feria,Min Nights 2-3,34,23,0.6764705882352942,11,,2,0.32689839572192514,5.411764705882353,,6
+Sevilla,San Lorenzo,Min Nights 2-3,17,15,0.8823529411764706,2,,0,0.3647058823529412,2.0,,2
+Sevilla,Museo,Min Nights 2-3,18,11,0.6111111111111112,7,,1,0.32253968253968257,2.0,,8
+Sevilla,Encarnación Regina,Min Nights 2-3,36,26,0.7222222222222222,10,,0,0.30666666666666664,3.5277777777777777,,13
+Sevilla,San Bernardo,Min Nights 2-3,12,9,0.75,3,,0,0.32499999999999996,1.8333333333333333,,7
+Sevilla,Triana Casco Antiguo,Min Nights 2-3,29,21,0.7241379310344828,8,,1,0.33198275862068966,2.689655172413793,,4
+Sevilla,San Gil,Min Nights 2-3,20,12,0.6,8,,1,0.3025,5.1,,14
+Sevilla,León Xiii Los Naranjos,Min Nights 2-3,5,3,0.6,2,,0,0.28,2.0,,18
+Sevilla,San Pablo A Y B,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,1.6666666666666667,,15
+Sevilla,Carretera De Carmona María Auxiliadora Fontanal,Min Nights 2-3,4,3,0.75,1,,0,0.32499999999999996,1.75,,7
+Sevilla,Triana Este,Min Nights 2-3,13,8,0.6153846153846154,5,,1,0.3190769230769231,3.3846153846153846,,10
+Sevilla,Doctor Barraquer G Renfe Policlínico,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,2.0,,15
+Sevilla,Santa Catalina,Min Nights 2-3,17,16,0.9411764705882353,1,,0,0.38235294117647056,2.2941176470588234,,1
+Sevilla,Colores Entreparques,Min Nights 2-3,4,3,0.75,1,,0,0.32499999999999996,1.75,,7
+Sevilla,Pio Xii,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,1.6666666666666667,,15
+Sevilla,La Florida,Min Nights 2-3,3,3,1.0,0,,0,0.3,2.0,,15
+Sevilla,Triana Oeste,Min Nights 2-3,7,5,0.7142857142857143,2,,0,0.3142857142857143,2.0,,12
+Sevilla,Nervión,Min Nights 2-3,4,1,0.25,3,,0,0.18166666666666667,2.75,,22
+Sevilla,Tiro De Línea Santa Genoveva,Min Nights 2-3,3,1,0.3333333333333333,2,,0,0.2,1.3333333333333333,,21
+Sevilla,El Porvenir,Min Nights 2-3,4,0,0.0,4,,0,0.1,1.0,,23
+Sevilla,Sector Sur La Palmera Reina Mercedes,Min Nights 2-3,5,1,0.2,4,,1,0.20500000000000002,37.6,,20
+Barcelona,L'Antiga Esquerra De L'Eixample,Min Nights 2-3,163,92,0.5644171779141104,71,,10,0.2876056338028169,5.6503067484662575,,16
+Barcelona,El Camp De L'Arpa Del Clot,Min Nights 2-3,49,25,0.5102040816326531,24,,3,0.24117346938775513,8.918367346938776,,38
+Barcelona,La Dreta De L'Eixample,Min Nights 2-3,288,135,0.46875,153,,23,0.26643790849673205,6.461805555555555,,26
+Barcelona,El Camp D'En Grassot I Gràcia Nova,Min Nights 2-3,43,19,0.4418604651162791,24,,3,0.2482751937984496,6.348837209302325,,33
+Barcelona,El Raval,Min Nights 2-3,205,96,0.4682926829268293,109,,17,0.26360259565898414,7.614634146341463,,28
+Barcelona,El Fort Pienc,Min Nights 2-3,84,44,0.5238095238095238,40,,8,0.3007619047619048,4.940476190476191,,12
+Barcelona,Vallvidrera El Tibidabo I Les Planes,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,2.3333333333333335,,13
+Barcelona,Sants,Min Nights 2-3,45,19,0.4222222222222222,26,,2,0.23196581196581195,6.644444444444445,,40
+Barcelona,Sant Antoni,Min Nights 2-3,145,73,0.503448275862069,72,,13,0.28891762452107284,5.689655172413793,,15
+Barcelona,Les Corts,Min Nights 2-3,28,14,0.5,14,,1,0.26357142857142857,4.214285714285714,,29
+Barcelona,Horta,Min Nights 2-3,10,9,0.9,1,,0,0.37,2.0,,1
+Barcelona,Sant Pere Santa Caterina I La Ribera,Min Nights 2-3,176,74,0.42045454545454547,102,,13,0.23149955436720143,9.443181818181818,,41
+Barcelona,El Poble Sec,Min Nights 2-3,141,74,0.524822695035461,67,,12,0.29641791044776117,4.879432624113475,,14
+Barcelona,La Vila De Gràcia,Min Nights 2-3,138,61,0.4420289855072464,77,,14,0.27372294372294376,6.471014492753623,,24
+Barcelona,La Nova Esquerra De L'Eixample,Min Nights 2-3,114,58,0.5087719298245614,56,,7,0.2740476190476191,4.815789473684211,,23
+Barcelona,Vilapicina I La Torre Llobeta,Min Nights 2-3,10,5,0.5,5,,0,0.23,4.7,,42
+Barcelona,La Sagrada Família,Min Nights 2-3,132,64,0.48484848484848486,68,,11,0.27653297682709443,5.5,,20
+Barcelona,El Putxet I El Farró,Min Nights 2-3,34,19,0.5588235294117647,15,,3,0.3090980392156863,5.117647058823529,,10
+Barcelona,El Barri Gòtic,Min Nights 2-3,169,86,0.5088757396449705,83,,8,0.2486205175732516,8.455621301775148,,32
+Barcelona,El Poblenou,Min Nights 2-3,62,29,0.46774193548387094,33,,8,0.31089931573802543,4.048387096774194,,8
+Barcelona,La Font De La Guatlla,Min Nights 2-3,14,8,0.5714285714285714,6,,0,0.27476190476190476,2.2857142857142856,,22
+Barcelona,La Vila Olímpica Del Poblenou,Min Nights 2-3,21,11,0.5238095238095238,10,,1,0.27895238095238095,3.3333333333333335,,19
+Barcelona,El Coll,Min Nights 2-3,9,4,0.4444444444444444,5,,0,0.17733333333333334,18.77777777777778,,54
+Barcelona,El Parc I La Llacuna Del Poblenou,Min Nights 2-3,41,16,0.3902439024390244,25,,4,0.24985365853658537,6.926829268292683,,31
+Barcelona,La Prosperitat,Min Nights 2-3,4,2,0.5,2,,0,0.2,23.75,,49
+Barcelona,El Clot,Min Nights 2-3,20,6,0.3,14,,3,0.2592857142857143,7.55,,30
+Barcelona,Les Tres Torres,Min Nights 2-3,7,3,0.42857142857142855,4,,1,0.305,3.4285714285714284,,11
+Barcelona,Vallcarca I Els Penitents,Min Nights 2-3,22,11,0.5,11,,1,0.2109090909090909,16.136363636363637,,47
+Barcelona,La Salut,Min Nights 2-3,13,6,0.46153846153846156,7,,1,0.2854945054945055,1.9230769230769231,,17
+Barcelona,La Barceloneta,Min Nights 2-3,57,19,0.3333333333333333,38,,4,0.17403508771929824,19.57894736842105,,56
+Barcelona,Sarrià,Min Nights 2-3,6,5,0.8333333333333334,1,,0,0.35,2.1666666666666665,,4
+Barcelona,Can Baró,Min Nights 2-3,7,4,0.5714285714285714,3,,1,0.3295238095238095,6.428571428571429,,5
+Barcelona,Sant Gervasi - La Bonanova,Min Nights 2-3,10,4,0.4,6,,1,0.26666666666666666,4.9,,25
+Barcelona,Provençals Del Poblenou,Min Nights 2-3,14,8,0.5714285714285714,6,,1,0.32047619047619047,2.142857142857143,,6
+Barcelona,Sants - Badal,Min Nights 2-3,20,7,0.35,13,,1,0.19615384615384618,9.05,,51
+Barcelona,El Carmel,Min Nights 2-3,21,6,0.2857142857142857,15,,3,0.24647619047619046,7.619047619047619,,35
+Barcelona,Diagonal Mar I El Front Marítim Del Poblenou,Min Nights 2-3,24,13,0.5416666666666666,11,,0,0.24795454545454543,4.541666666666667,,34
+Barcelona,Sant Gervasi - Galvany,Min Nights 2-3,46,16,0.34782608695652173,30,,3,0.19828985507246374,10.847826086956522,,50
+Barcelona,La Bordeta,Min Nights 2-3,19,7,0.3684210526315789,12,,1,0.22017543859649122,7.157894736842105,,44
+Barcelona,La Marina De Port,Min Nights 2-3,8,3,0.375,5,,0,0.2205,3.0,,43
+Barcelona,Pedralbes,Min Nights 2-3,3,1,0.3333333333333333,2,,0,0.15999999999999998,21.333333333333332,,57
+Barcelona,Sant Genís Dels Agudells,Min Nights 2-3,4,2,0.5,2,,1,0.35500000000000004,10.5,,3
+Barcelona,El Baix Guinardó,Min Nights 2-3,13,6,0.46153846153846156,7,,2,0.3096703296703297,6.846153846153846,,9
+Barcelona,La Maternitat I Sant Ramon,Min Nights 2-3,29,11,0.3793103448275862,18,,1,0.2121455938697318,8.689655172413794,,46
+Barcelona,La Verneda I La Pau,Min Nights 2-3,10,2,0.2,8,,1,0.18,10.6,,52
+Barcelona,El Congrés I Els Indians,Min Nights 2-3,11,3,0.2727272727272727,8,,1,0.21227272727272728,7.090909090909091,,45
+Barcelona,El Besòs I El Maresme,Min Nights 2-3,31,13,0.41935483870967744,18,,3,0.26530465949820786,9.580645161290322,,27
+Barcelona,Montbau,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,2.0,,13
+Barcelona,Hostafrancs,Min Nights 2-3,43,16,0.37209302325581395,27,,4,0.2448062015503876,6.5813953488372094,,37
+Barcelona,Navas,Min Nights 2-3,7,3,0.42857142857142855,4,,0,0.20357142857142857,5.571428571428571,,48
+Barcelona,Sant Martí De Provençals,Min Nights 2-3,15,10,0.6666666666666666,5,,0,0.28,2.933333333333333,,18
+Barcelona,El Guinardó,Min Nights 2-3,18,11,0.6111111111111112,7,,1,0.3196825396825397,2.0,,7
+Barcelona,La Teixonera,Min Nights 2-3,6,2,0.3333333333333333,4,,0,0.2,1.5,,49
+Barcelona,Verdun,Min Nights 2-3,5,4,0.8,1,,0,0.24,8.2,,39
+Barcelona,El Turó De La Peira,Min Nights 2-3,7,3,0.42857142857142855,4,,0,0.17857142857142855,9.857142857142858,,53
+Barcelona,La Guineueta,Min Nights 2-3,4,0,0.0,4,,0,0.08000000000000002,24.75,,59
+Barcelona,Porta,Min Nights 2-3,8,3,0.375,5,,2,0.3655,2.25,,2
+Barcelona,El Bon Pastor,Min Nights 2-3,4,1,0.25,3,,0,0.175,1.25,,55
+Barcelona,La Sagrera,Min Nights 2-3,5,1,0.2,4,,0,0.08499999999999999,19.6,,58
+Barcelona,Sant Andreu,Min Nights 2-3,7,3,0.42857142857142855,4,,1,0.245,20.142857142857142,,36
+Barcelona,Les Roquetes,Min Nights 2-3,5,1,0.2,4,,1,0.275,2.0,,21
+Girona,Torroella De Fluvià,Min Nights 2-3,6,2,0.3333333333333333,4,,3,0.5,3.3333333333333335,,1
+Girona,Capmany,Min Nights 2-3,4,2,0.5,2,,0,0.26,3.0,,20
+Girona,Castelló D'Empúries,Min Nights 2-3,87,33,0.3793103448275862,54,,5,0.25067688378033204,2.8160919540229883,,21
+Girona,Begur,Min Nights 2-3,73,19,0.2602739726027397,54,,18,0.33136986301369864,3.356164383561644,,5
+Girona,Tossa De Mar,Min Nights 2-3,53,21,0.39622641509433965,32,,6,0.2998466981132076,3.6226415094339623,,13
+Girona,Roses,Min Nights 2-3,150,37,0.24666666666666667,113,,11,0.220047197640118,2.8933333333333335,,28
+Girona,Palafrugell,Min Nights 2-3,77,18,0.23376623376623376,59,,10,0.247607307946291,3.5454545454545454,,23
+Girona,Girona,Min Nights 2-3,49,29,0.5918367346938775,20,,0,0.26755102040816325,4.775510204081633,,18
+Girona,Cadaqués,Min Nights 2-3,34,22,0.6470588235294118,12,,3,0.3565686274509804,2.411764705882353,,2
+Girona,L'Escala,Min Nights 2-3,99,22,0.2222222222222222,77,,12,0.24363636363636362,3.292929292929293,,24
+Girona,Palamós,Min Nights 2-3,31,7,0.22580645161290322,24,,3,0.23362903225806453,3.5806451612903225,,26
+Girona,Lloret De Mar,Min Nights 2-3,130,40,0.3076923076923077,90,,16,0.2671794871794872,3.853846153846154,,19
+Girona,Torroella De Montgrí,Min Nights 2-3,67,14,0.208955223880597,53,,8,0.23635032385243593,2.6417910447761193,,25
+Girona,La Selva De Mar,Min Nights 2-3,3,3,1.0,0,,0,0.3,2.6666666666666665,,12
+Girona,Llançà,Min Nights 2-3,34,8,0.23529411764705882,26,,2,0.21307692307692308,2.8529411764705883,,29
+Girona,Sant Feliu De Guíxols,Min Nights 2-3,43,14,0.32558139534883723,29,,2,0.23058540497193264,4.3023255813953485,,27
+Girona,Blanes,Min Nights 2-3,40,10,0.25,30,,11,0.3385,4.85,,4
+Girona,Albons,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.31999999999999995,3.6666666666666665,,9
+Girona,Calonge,Min Nights 2-3,69,23,0.3333333333333333,46,,14,0.3301449275362319,4.550724637681159,,6
+Girona,Ordis,Min Nights 2-3,4,4,1.0,0,,0,0.3,2.0,,12
+Girona,Castell-Platja D'Aro,Min Nights 2-3,94,29,0.30851063829787234,65,,16,0.30196726677577745,3.723404255319149,,11
+Girona,Cornellà Del Terri,Min Nights 2-3,4,3,0.75,1,,0,0.32499999999999996,1.75,,8
+Girona,Vilademuls,Min Nights 2-3,3,1,0.3333333333333333,2,,0,0.21000000000000002,3.3333333333333335,,30
+Girona,Figueres,Min Nights 2-3,7,3,0.42857142857142855,4,,1,0.31999999999999995,1.8571428571428572,,9
+Girona,Pals,Min Nights 2-3,50,14,0.28,36,,8,0.28455555555555556,3.7,,16
+Girona,Alp,Min Nights 2-3,6,4,0.6666666666666666,2,,0,0.25,6.5,,22
+Girona,Llers,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,1.6666666666666667,,12
+Girona,Vilafran,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.33999999999999997,3.3333333333333335,,3
+Girona,Vidreres,Min Nights 2-3,14,1,0.07142857142857142,13,,1,0.17252747252747253,4.357142857142857,,32
+Girona,Ribes De Freser,Min Nights 2-3,4,3,0.75,1,,0,0.32499999999999996,1.75,,8
+Girona,Campelles,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,1.6666666666666667,,12
+Girona,El Port De La Selva,Min Nights 2-3,12,5,0.4166666666666667,7,,1,0.2895238095238095,3.1666666666666665,,14
+Girona,Santa Cristina D'Aro,Min Nights 2-3,19,8,0.42105263157894735,11,,3,0.32889952153110047,2.6315789473684212,,7
+Girona,Banyoles,Min Nights 2-3,4,2,0.5,2,,0,0.25,1.5,,22
+Girona,Cruïlles Monells I Sant Sadurní De L'Heura,Min Nights 2-3,3,0,0.0,3,,1,0.31333333333333335,5.666666666666667,,10
+Girona,Olot,Min Nights 2-3,4,4,1.0,0,,0,0.3,2.0,,12
+Girona,Sant Pere Pescador,Min Nights 2-3,7,2,0.2857142857142857,5,,1,0.27714285714285714,2.5714285714285716,,17
+Girona,L'Armentera,Min Nights 2-3,3,0,0.0,3,,1,0.2866666666666666,2.3333333333333335,,15
+Girona,Ullà,Min Nights 2-3,3,3,1.0,0,,0,0.3,2.0,,12
+Girona,Fontanals De Cerdanya,Min Nights 2-3,4,3,0.75,1,,0,0.32499999999999996,1.75,,8
+Girona,Puigcerdà,Min Nights 2-3,12,4,0.3333333333333333,8,,0,0.2,1.3333333333333333,,31
+Girona,Santa Pau,Min Nights 2-3,3,1,0.3333333333333333,2,,0,0.2,1.3333333333333333,,31
+Girona,Colera,Min Nights 2-3,3,1,0.3333333333333333,2,,0,0.2,1.3333333333333333,,31
+Girona,Sant Feliu De Pallerols,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.31999999999999995,3.6666666666666665,,9
+Girona,Maçanet De La Selva,Min Nights 2-3,3,0,0.0,3,,0,0.10666666666666667,3.0,,33
+Valencia,El Pilar,Min Nights 2-3,14,7,0.5,7,,1,0.28285714285714286,4.142857142857143,,25
+Valencia,En Corts,Min Nights 2-3,18,14,0.7777777777777778,4,,0,0.2833333333333333,12.61111111111111,,24
+Valencia,Russafa,Min Nights 2-3,43,25,0.5813953488372093,18,,3,0.31708010335917314,2.813953488372093,,17
+Valencia,El Carme,Min Nights 2-3,15,7,0.4666666666666667,8,,3,0.37,2.2,,9
+Valencia,La Seu,Min Nights 2-3,16,8,0.5,8,,0,0.255,2.0,,27
+Valencia,Arrancapins,Min Nights 2-3,6,2,0.3333333333333333,4,,1,0.30333333333333334,2.0,,20
+Valencia,La Roqueta,Min Nights 2-3,16,10,0.625,6,,0,0.2875,1.75,,23
+Valencia,Morvedre,Min Nights 2-3,10,6,0.6,4,,2,0.41000000000000003,2.6,,5
+Valencia,Penya-Roja,Min Nights 2-3,9,4,0.4444444444444444,5,,1,0.29288888888888887,5.777777777777778,,22
+Valencia,La Carrasca,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,2.0,,21
+Valencia,La Gran Via,Min Nights 2-3,7,3,0.42857142857142855,4,,0,0.23357142857142857,2.2857142857142856,,31
+Valencia,Aiora,Min Nights 2-3,18,10,0.5555555555555556,8,,2,0.3272222222222222,3.611111111111111,,14
+Valencia,Mestalla,Min Nights 2-3,5,2,0.4,3,,0,0.22,1.4,,33
+Valencia,El Mercat,Min Nights 2-3,19,8,0.42105263157894735,11,,0,0.20267942583732057,6.2105263157894735,,34
+Valencia,La Malva-Rosa,Min Nights 2-3,27,13,0.48148148148148145,14,,3,0.32000000000000006,2.6296296296296298,,16
+Valencia,La Xerea,Min Nights 2-3,9,5,0.5555555555555556,4,,1,0.3422222222222222,1.8888888888888888,,11
+Valencia,Campanar,Min Nights 2-3,5,5,1.0,0,,0,0.3,2.4,,21
+Valencia,Sant Francesc,Min Nights 2-3,27,13,0.48148148148148145,14,,1,0.26010582010582006,2.7777777777777777,,26
+Valencia,La Raiosa,Min Nights 2-3,4,3,0.75,1,,0,0.32499999999999996,2.0,,15
+Valencia,Mont-Olivet,Min Nights 2-3,12,7,0.5833333333333334,5,,1,0.31266666666666665,4.916666666666667,,18
+Valencia,El Botanic,Min Nights 2-3,9,5,0.5555555555555556,4,,2,0.4127777777777778,2.4444444444444446,,4
+Valencia,Benimaclet,Min Nights 2-3,9,6,0.6666666666666666,3,,0,0.30666666666666664,3.3333333333333335,,19
+Valencia,Cabanyal-Canyamelar,Min Nights 2-3,52,33,0.6346153846153846,19,,9,0.40113360323886643,3.1923076923076925,,8
+Valencia,El Pla Del Remei,Min Nights 2-3,8,4,0.5,4,,1,0.3375,2.625,,13
+Valencia,Marxalenes,Min Nights 2-3,8,6,0.75,2,,0,0.32499999999999996,2.0,,15
+Valencia,Ciutat Jardi,Min Nights 2-3,8,4,0.5,4,,1,0.2875,5.625,,23
+Valencia,Els Orriols,Min Nights 2-3,4,3,0.75,1,,0,0.32499999999999996,1.75,,15
+Valencia,Patraix,Min Nights 2-3,6,3,0.5,3,,0,0.25,1.6666666666666667,,28
+Valencia,Nou Moles,Min Nights 2-3,10,8,0.8,2,,0,0.24,5.4,,30
+Valencia,El Perellonet,Min Nights 2-3,6,4,0.6666666666666666,2,,1,0.42333333333333334,3.6666666666666665,,3
+Valencia,Benicalap,Min Nights 2-3,6,3,0.5,3,,0,0.25,1.6666666666666667,,28
+Valencia,La Petxina,Min Nights 2-3,6,4,0.6666666666666666,2,,0,0.3,2.0,,21
+Valencia,L'Hort De Senabre,Min Nights 2-3,4,1,0.25,3,,0,0.18166666666666667,3.0,,36
+Valencia,Benimamet,Min Nights 2-3,3,2,0.6666666666666666,1,,1,0.5266666666666666,3.3333333333333335,,2
+Valencia,Ciutat De Les Arts I De Les Ciencies,Min Nights 2-3,5,4,0.8,1,,0,0.33999999999999997,2.0,,12
+Valencia,Torrefiel,Min Nights 2-3,4,2,0.5,2,,1,0.405,2.5,,7
+Valencia,Les Tendetes,Min Nights 2-3,3,1,0.3333333333333333,2,,1,0.4066666666666666,2.3333333333333335,,6
+Valencia,Exposicio,Min Nights 2-3,3,2,0.6666666666666666,1,,1,0.5466666666666666,3.3333333333333335,,1
+Valencia,Na Rovella,Min Nights 2-3,4,3,0.75,1,,0,0.32499999999999996,2.25,,15
+Valencia,Betero,Min Nights 2-3,7,3,0.42857142857142855,4,,1,0.32499999999999996,3.857142857142857,,15
+Valencia,Albors,Min Nights 2-3,3,2,0.6666666666666666,1,,0,0.3,1.6666666666666667,,21
+Valencia,Tres Forques,Min Nights 2-3,4,0,0.0,4,,1,0.245,1.75,,29
+Valencia,El Grau,Min Nights 2-3,8,4,0.5,4,,0,0.23,13.5,,32
+Valencia,El Saler,Min Nights 2-3,3,1,0.3333333333333333,2,,1,0.3566666666666667,7.0,,10
+Valencia,L'Amistat,Min Nights 2-3,3,1,0.3333333333333333,2,,0,0.2,1.3333333333333333,,35
+Valencia,L'Illa Perduda,Min Nights 2-3,6,4,0.6666666666666666,2,,1,0.42333333333333334,2.5,,3
+Valencia,La Creu Del Grau,Min Nights 2-3,5,1,0.2,4,,0,0.16,1.2,,37
+Mallorca,Palma De Mallorca,Min Nights 2-3,197,78,0.39593908629441626,119,,38,0.3335477541270315,4.472081218274112,,21
+Mallorca,Alcúdia,Min Nights 2-3,163,15,0.09202453987730061,148,,39,0.2707527773171945,4.085889570552148,,32
+Mallorca,Selva,Min Nights 2-3,30,2,0.06666666666666667,28,,9,0.30000000000000004,3.8666666666666667,,28
+Mallorca,Santa Margalida,Min Nights 2-3,57,8,0.14035087719298245,49,,17,0.3214321518080916,7.157894736842105,,24
+Mallorca,Campos,Min Nights 2-3,51,6,0.11764705882352941,45,,20,0.37092810457516345,4.803921568627451,,10
+Mallorca,Sóller,Min Nights 2-3,43,7,0.16279069767441862,36,,14,0.34107235142118864,4.1395348837209305,,20
+Mallorca,Valldemossa,Min Nights 2-3,11,1,0.09090909090909091,10,,5,0.3885454545454545,3.4545454545454546,,8
+Mallorca,Santanyí,Min Nights 2-3,56,10,0.17857142857142858,46,,20,0.3634472049689441,4.035714285714286,,13
+Mallorca,Llubí,Min Nights 2-3,14,2,0.14285714285714285,12,,1,0.19523809523809527,3.0,,45
+Mallorca,Inca,Min Nights 2-3,24,2,0.08333333333333333,22,,3,0.2065909090909091,4.083333333333333,,44
+Mallorca,Calvià,Min Nights 2-3,45,13,0.28888888888888886,32,,15,0.3845833333333333,4.688888888888889,,9
+Mallorca,Costitx,Min Nights 2-3,8,1,0.125,7,,1,0.2142857142857143,2.375,,41
+Mallorca,Pollença,Min Nights 2-3,176,10,0.056818181818181816,166,,60,0.31713855421686743,3.903409090909091,,25
+Mallorca,Ses Salines,Min Nights 2-3,25,4,0.16,21,,9,0.36609523809523814,3.8,,11
+Mallorca,Manacor,Min Nights 2-3,73,14,0.1917808219178082,59,,20,0.3240120733689343,4.890410958904109,,23
+Mallorca,Felanitx,Min Nights 2-3,49,9,0.1836734693877551,40,,7,0.24853061224489795,3.877551020408163,,36
+Mallorca,Puigpunyent,Min Nights 2-3,4,3,0.75,1,,1,0.51,3.0,,1
+Mallorca,Lloseta,Min Nights 2-3,11,2,0.18181818181818182,9,,2,0.2676767676767677,4.2727272727272725,,34
+Mallorca,Petra,Min Nights 2-3,11,2,0.18181818181818182,9,,2,0.2721212121212121,4.7272727272727275,,31
+Mallorca,Llucmajor,Min Nights 2-3,65,15,0.23076923076923078,50,,20,0.36147692307692314,4.138461538461539,,14
+Mallorca,Algaida,Min Nights 2-3,12,2,0.16666666666666666,10,,4,0.35266666666666663,4.416666666666667,,18
+Mallorca,Campanet,Min Nights 2-3,18,1,0.05555555555555555,17,,3,0.2211764705882353,4.388888888888889,,39
+Mallorca,Fornalutx,Min Nights 2-3,7,0,0.0,7,,3,0.3514285714285714,5.142857142857143,,19
+Mallorca,Marratxí,Min Nights 2-3,8,1,0.125,7,,3,0.35642857142857143,4.25,,17
+Mallorca,Sant Llorenç Des Cardassar,Min Nights 2-3,24,1,0.041666666666666664,23,,10,0.3582246376811594,4.541666666666667,,15
+Mallorca,Artà,Min Nights 2-3,31,5,0.16129032258064516,26,,6,0.26900744416873446,3.2580645161290325,,33
+Mallorca,Muro,Min Nights 2-3,37,1,0.02702702702702703,36,,12,0.2991591591591592,4.5675675675675675,,29
+Mallorca,Alaró,Min Nights 2-3,12,2,0.16666666666666666,10,,3,0.30100000000000005,3.1666666666666665,,27
+Mallorca,Son Servera,Min Nights 2-3,25,3,0.12,22,,3,0.21236363636363637,3.52,,42
+Mallorca,Lloret De Vistalegre,Min Nights 2-3,5,1,0.2,4,,0,0.18,4.8,,46
+Mallorca,Capdepera,Min Nights 2-3,33,7,0.21212121212121213,26,,6,0.27531468531468534,3.272727272727273,,30
+Mallorca,Esporles,Min Nights 2-3,5,1,0.2,4,,0,0.17,3.6,,47
+Mallorca,Búger,Min Nights 2-3,15,0,0.0,15,,3,0.22266666666666668,4.066666666666666,,38
+Mallorca,Deià,Min Nights 2-3,5,0,0.0,5,,1,0.216,1.6,,40
+Mallorca,Sa Pobla,Min Nights 2-3,30,5,0.16666666666666666,25,,4,0.2350666666666667,3.8333333333333335,,37
+Mallorca,Maria De La Salut,Min Nights 2-3,7,2,0.2857142857142857,5,,2,0.36457142857142855,3.142857142857143,,12
+Mallorca,Andratx,Min Nights 2-3,13,0,0.0,13,,8,0.4461538461538462,6.846153846153846,,5
+Mallorca,Montuïri,Min Nights 2-3,10,2,0.2,8,,4,0.405,4.4,,7
+Mallorca,Mancor De La Vall,Min Nights 2-3,5,0,0.0,5,,0,0.11199999999999999,4.6,,48
+Mallorca,Sineu,Min Nights 2-3,12,1,0.08333333333333333,11,,4,0.3262121212121212,4.166666666666667,,22
+Mallorca,Binissalem,Min Nights 2-3,7,2,0.2857142857142857,5,,3,0.43999999999999995,3.142857142857143,,6
+Mallorca,Sencelles,Min Nights 2-3,7,2,0.2857142857142857,5,,3,0.456,4.428571428571429,,4
+Mallorca,Ariany,Min Nights 2-3,5,0,0.0,5,,0,0.11199999999999999,4.6,,48
+Mallorca,Escorca,Min Nights 2-3,3,0,0.0,3,,2,0.4933333333333333,5.0,,2
+Mallorca,Santa Eugènia,Min Nights 2-3,6,1,0.16666666666666666,5,,2,0.35666666666666663,5.333333333333333,,16
+Mallorca,Bunyola,Min Nights 2-3,9,4,0.4444444444444444,5,,1,0.3088888888888889,2.6666666666666665,,26
+Mallorca,Banyalbufar,Min Nights 2-3,3,0,0.0,3,,2,0.48,3.3333333333333335,,3
+Mallorca,Porreres,Min Nights 2-3,8,0,0.0,8,,2,0.25,4.125,,35
+Mallorca,Sant Joan,Min Nights 2-3,6,0,0.0,6,,1,0.20666666666666667,4.5,,43
+Menorca,Es Mercadal,Min Nights 2-3,27,7,0.25925925925925924,20,,8,0.3559259259259259,4.814814814814815,,2
+Menorca,Ciutadella De Menorca,Min Nights 2-3,84,17,0.20238095238095238,67,,22,0.3239054726368159,3.869047619047619,,4
+Menorca,Alaior,Min Nights 2-3,33,5,0.15151515151515152,28,,10,0.32696969696969697,3.8181818181818183,,3
+Menorca,Mahón,Min Nights 2-3,18,3,0.16666666666666666,15,,4,0.2917777777777778,4.666666666666667,,5
+Menorca,Sant Lluís,Min Nights 2-3,34,4,0.11764705882352941,30,,4,0.21078431372549022,3.7058823529411766,,7
+Menorca,Es Castell,Min Nights 2-3,6,2,0.3333333333333333,4,,2,0.4066666666666667,4.666666666666667,,1
+Menorca,Ferreries,Min Nights 2-3,4,0,0.0,4,,1,0.245,1.75,,6
+Málaga,Centro,Max Nights 4-29,324,26,0.08024691358024691,298,,36,0.10199204573701218,,826.2777777777778,9
+Málaga,Cruz De Humilladero,Max Nights 4-29,27,4,0.14814814814814814,23,,2,0.10278582930756844,,726.6666666666666,7
+Málaga,Este,Max Nights 4-29,61,5,0.08196721311475409,56,,8,0.12355679156908665,,743.4754098360655,6
+Málaga,Carretera De Cadiz,Max Nights 4-29,51,3,0.058823529411764705,48,,10,0.15731127450980392,,702.5686274509804,4
+Málaga,Palma-Palmilla,Max Nights 4-29,7,0,0.0,7,,1,0.10228571428571429,,825.0,8
+Málaga,Churriana,Max Nights 4-29,8,1,0.125,7,,1,0.128,,724.625,5
+Málaga,Teatinos-Universidad,Max Nights 4-29,7,1,0.14285714285714285,6,,1,0.1606190476190476,,661.2857142857143,3
+Málaga,Bailen-Miraflores,Max Nights 4-29,9,0,0.0,9,,1,0.07888888888888888,,783.6666666666666,10
+Málaga,Ciudad Jardin,Max Nights 4-29,5,0,0.0,5,,2,0.27880000000000005,,535.2,2
+Málaga,Puerto De La Torre,Max Nights 4-29,4,1,0.25,3,,2,0.41700000000000004,,313.25,1
+Madrid,Cármenes,Max Nights 4-29,8,1,0.125,7,,2,0.22164285714285714,,586.875,11
+Madrid,Embajadores,Max Nights 4-29,273,32,0.11721611721611722,241,,31,0.11715301019865336,,784.7948717948718,48
+Madrid,Palacio,Max Nights 4-29,167,16,0.09580838323353294,151,,14,0.09077788793274377,,785.1976047904192,64
+Madrid,Palomeras Bajas,Max Nights 4-29,8,0,0.0,8,,1,0.09975,,752.75,58
+Madrid,Universidad,Max Nights 4-29,204,15,0.07352941176470588,189,,31,0.13215561780267662,,730.0686274509804,41
+Madrid,Justicia,Max Nights 4-29,121,13,0.10743801652892562,108,,13,0.10982078359351086,,781.5619834710744,54
+Madrid,Aluche,Max Nights 4-29,4,0,0.0,4,,1,0.1745,,851.25,22
+Madrid,Cortes,Max Nights 4-29,97,10,0.10309278350515463,87,,12,0.1211513212465932,,752.2680412371134,45
+Madrid,Ciudad Jardín,Max Nights 4-29,9,2,0.2222222222222222,7,,0,0.06923809523809524,,766.1111111111111,72
+Madrid,Sol,Max Nights 4-29,163,18,0.11042944785276074,145,,16,0.10418100275015867,,805.6871165644171,56
+Madrid,Comillas,Max Nights 4-29,9,2,0.2222222222222222,7,,0,0.06666666666666667,,879.8888888888889,74
+Madrid,Prosperidad,Max Nights 4-29,15,3,0.2,12,,1,0.11399999999999999,,581.2,51
+Madrid,Acacias,Max Nights 4-29,26,5,0.19230769230769232,21,,4,0.1797582417582418,,544.8076923076923,20
+Madrid,Cuatro Caminos,Max Nights 4-29,16,1,0.0625,15,,3,0.1585,,779.5625,32
+Madrid,Pinar Del Rey,Max Nights 4-29,10,3,0.3,7,,0,0.09,,713.6,65
+Madrid,Los Angeles,Max Nights 4-29,6,1,0.16666666666666666,5,,1,0.16693333333333332,,762.1666666666666,28
+Madrid,Portazgo,Max Nights 4-29,9,3,0.3333333333333333,6,,0,0.11299999999999999,,638.3333333333334,53
+Madrid,Palos De Moguer,Max Nights 4-29,43,8,0.18604651162790697,35,,6,0.15718139534883724,,745.3488372093024,33
+Madrid,Recoletos,Max Nights 4-29,30,7,0.23333333333333334,23,,1,0.09527536231884057,,661.0333333333333,62
+Madrid,Castilla,Max Nights 4-29,10,1,0.1,9,,2,0.17400000000000002,,792.4,23
+Madrid,Legazpi,Max Nights 4-29,5,1,0.2,4,,1,0.20950000000000002,,682.4,14
+Madrid,Ciudad Universitaria,Max Nights 4-29,6,2,0.3333333333333333,4,,1,0.23283333333333334,,571.8333333333334,9
+Madrid,Valdeacederas,Max Nights 4-29,7,1,0.14285714285714285,6,,2,0.2467142857142857,,639.5714285714286,6
+Madrid,Argüelles,Max Nights 4-29,40,3,0.075,37,,10,0.1967972972972973,,663.725,17
+Madrid,Trafalgar,Max Nights 4-29,39,5,0.1282051282051282,34,,2,0.07563197586726998,,859.8717948717949,70
+Madrid,Pacífico,Max Nights 4-29,28,5,0.17857142857142858,23,,3,0.13566459627329192,,743.0714285714286,40
+Madrid,Vista Alegre,Max Nights 4-29,12,1,0.08333333333333333,11,,3,0.20527272727272727,,674.3333333333334,15
+Madrid,El Viso,Max Nights 4-29,5,1,0.2,4,,0,0.0645,,701.8,75
+Madrid,Goya,Max Nights 4-29,30,5,0.16666666666666666,25,,2,0.09933333333333333,,813.6666666666666,61
+Madrid,Almenara,Max Nights 4-29,14,0,0.0,14,,2,0.09971428571428571,,770.3571428571429,59
+Madrid,Lista,Max Nights 4-29,17,1,0.058823529411764705,16,,3,0.13675735294117647,,837.0,39
+Madrid,Rios Rosas,Max Nights 4-29,20,4,0.2,16,,1,0.09362499999999999,,800.15,63
+Madrid,Hispanoamérica,Max Nights 4-29,13,1,0.07692307692307693,12,,1,0.07787179487179488,,955.0769230769231,69
+Madrid,Delicias,Max Nights 4-29,20,0,0.0,20,,7,0.2434,,641.7,8
+Madrid,Castillejos,Max Nights 4-29,16,2,0.125,14,,0,0.0445,,922.4375,80
+Madrid,Almagro,Max Nights 4-29,18,3,0.16666666666666666,15,,3,0.1688,,698.4444444444445,27
+Madrid,Imperial,Max Nights 4-29,7,1,0.14285714285714285,6,,0,0.04285714285714285,,966.4285714285714,81
+Madrid,Castellana,Max Nights 4-29,15,2,0.13333333333333333,13,,3,0.18092307692307694,,708.2666666666667,19
+Madrid,Ibiza,Max Nights 4-29,24,4,0.16666666666666666,20,,1,0.08463333333333334,,809.2916666666666,67
+Madrid,Simancas,Max Nights 4-29,11,2,0.18181818181818182,9,,1,0.11866666666666667,,739.0909090909091,47
+Madrid,Casco Histórico De Vallecas,Max Nights 4-29,6,3,0.5,3,,2,0.44933333333333336,,55.0,2
+Madrid,Ventas,Max Nights 4-29,18,6,0.3333333333333333,12,,1,0.13927777777777778,,651.5555555555555,38
+Madrid,Pueblo Nuevo,Max Nights 4-29,16,5,0.3125,11,,1,0.16627272727272727,,508.375,29
+Madrid,Gaztambide,Max Nights 4-29,22,4,0.18181818181818182,18,,2,0.12200000000000001,,688.8181818181819,44
+Madrid,San Diego,Max Nights 4-29,24,3,0.125,21,,4,0.16092857142857142,,759.375,31
+Madrid,Guindalera,Max Nights 4-29,34,4,0.11764705882352941,30,,1,0.056600000000000004,,868.0294117647059,78
+Madrid,Valdefuentes,Max Nights 4-29,7,1,0.14285714285714285,6,,1,0.15328571428571428,,414.2857142857143,34
+Madrid,Concepción,Max Nights 4-29,10,1,0.1,9,,2,0.17177777777777778,,719.1,25
+Madrid,Jerónimos,Max Nights 4-29,8,2,0.25,6,,1,0.1705,,708.375,26
+Madrid,Casa De Campo,Max Nights 4-29,5,2,0.4,3,,0,0.12,,678.8,46
+Madrid,Numancia,Max Nights 4-29,17,3,0.17647058823529413,14,,2,0.13147899159663864,,802.2352941176471,42
+Madrid,Moscardó,Max Nights 4-29,5,0,0.0,5,,1,0.1396,,906.0,37
+Madrid,Vallehermoso,Max Nights 4-29,4,0,0.0,4,,0,0.0,,1125.0,83
+Madrid,Vinateros,Max Nights 4-29,5,0,0.0,5,,1,0.1396,,906.0,37
+Madrid,Canillas,Max Nights 4-29,10,2,0.2,8,,0,0.06,,903.5,76
+Madrid,Puerta Del Angel,Max Nights 4-29,23,1,0.043478260869565216,22,,3,0.11680632411067193,,676.695652173913,49
+Madrid,Arapiles,Max Nights 4-29,17,2,0.11764705882352941,15,,3,0.16299607843137257,,800.9411764705883,30
+Madrid,Fontarrón,Max Nights 4-29,6,1,0.16666666666666666,5,,1,0.17293333333333333,,759.1666666666666,24
+Madrid,Chopera,Max Nights 4-29,13,1,0.07692307692307693,12,,3,0.1877948717948718,,777.0,18
+Madrid,Campamento,Max Nights 4-29,5,0,0.0,5,,1,0.1512,,549.0,35
+Madrid,Pilar,Max Nights 4-29,8,1,0.125,7,,2,0.21935714285714286,,568.625,12
+Madrid,Quintana,Max Nights 4-29,6,0,0.0,6,,1,0.11599999999999999,,776.6666666666666,50
+Madrid,San Andrés,Max Nights 4-29,7,0,0.0,7,,0,0.0,,1125.0,83
+Madrid,Alameda De Osuna,Max Nights 4-29,4,1,0.25,3,,1,0.246,,581.0,7
+Madrid,Valdezarza,Max Nights 4-29,4,1,0.25,3,,2,0.457,,297.5,1
+Madrid,Fuente Del Berro,Max Nights 4-29,11,3,0.2727272727272727,8,,0,0.0840681818181818,,731.2727272727273,68
+Madrid,Puerta Bonita,Max Nights 4-29,5,0,0.0,5,,1,0.1268,,912.4,43
+Madrid,Berruguete,Max Nights 4-29,14,4,0.2857142857142857,10,,1,0.14102857142857142,,659.2142857142857,36
+Madrid,Adelfas,Max Nights 4-29,6,1,0.16666666666666666,5,,0,0.049999999999999996,,811.6666666666666,79
+Madrid,Piovera,Max Nights 4-29,5,1,0.2,4,,0,0.06,,901.4,76
+Madrid,La Paz,Max Nights 4-29,3,0,0.0,3,,0,0.03333333333333333,,750.6666666666666,82
+Madrid,Bellas Vistas,Max Nights 4-29,11,2,0.18181818181818182,9,,0,0.06765656565656565,,814.5454545454545,73
+Madrid,Palomeras Sureste,Max Nights 4-29,5,0,0.0,5,,0,0.0,,1125.0,83
+Madrid,Almendrales,Max Nights 4-29,8,2,0.25,6,,0,0.075,,833.375,71
+Madrid,Buenavista,Max Nights 4-29,5,1,0.2,4,,0,0.06,,901.0,76
+Madrid,Nueva España,Max Nights 4-29,8,1,0.125,7,,0,0.05978571428571429,,610.125,77
+Madrid,Costillares,Max Nights 4-29,4,1,0.25,3,,0,0.10833333333333334,,565.75,55
+Madrid,Valverde,Max Nights 4-29,8,0,0.0,8,,1,0.0995,,847.875,60
+Madrid,Peñagrande,Max Nights 4-29,9,1,0.1111111111111111,8,,1,0.11363888888888887,,878.8888888888889,52
+Madrid,Casco Histórico De Barajas,Max Nights 4-29,3,1,0.3333333333333333,2,,0,0.09999999999999999,,752.3333333333334,57
+Madrid,Aguilas,Max Nights 4-29,9,3,0.3333333333333333,6,,0,0.11299999999999999,,512.4444444444445,53
+Madrid,Canillejas,Max Nights 4-29,4,1,0.25,3,,0,0.075,,846.25,71
+Madrid,Hellín,Max Nights 4-29,4,1,0.25,3,,0,0.075,,845.5,71
+Madrid,Opañel,Max Nights 4-29,6,0,0.0,6,,0,0.0,,871.6666666666666,83
+Madrid,Casco Histórico De Vicálvaro,Max Nights 4-29,3,2,0.6666666666666666,1,,0,0.19999999999999998,,388.0,16
+Madrid,Lucero,Max Nights 4-29,5,1,0.2,4,,0,0.06,,902.0,76
+Madrid,Rejas,Max Nights 4-29,6,1,0.16666666666666666,5,,1,0.17653333333333335,,588.1666666666666,21
+Madrid,Zofío,Max Nights 4-29,6,4,0.6666666666666666,2,,0,0.278,,44.833333333333336,5
+Madrid,Niño Jesús,Max Nights 4-29,3,0,0.0,3,,1,0.21933333333333332,,766.6666666666666,13
+Madrid,San Isidro,Max Nights 4-29,11,0,0.0,11,,0,0.0,,1113.6363636363637,83
+Madrid,Estrella,Max Nights 4-29,3,0,0.0,3,,1,0.22266666666666665,,765.0,10
+Madrid,Entrevías,Max Nights 4-29,7,2,0.2857142857142857,5,,0,0.0857142857142857,,683.1428571428571,66
+Madrid,Media Legua,Max Nights 4-29,4,0,0.0,4,,0,0.0,,1125.0,83
+Madrid,San Cristobal,Max Nights 4-29,4,0,0.0,4,,0,0.0,,698.5,83
+Madrid,Rosas,Max Nights 4-29,8,2,0.25,6,,3,0.36183333333333334,,431.125,4
+Madrid,Orcasur,Max Nights 4-29,3,1,0.3333333333333333,2,,1,0.3656666666666667,,394.6666666666667,3
+Madrid,Los Rosales,Max Nights 4-29,3,1,0.3333333333333333,2,,1,0.3656666666666667,,387.3333333333333,3
+Madrid,Arcos,Max Nights 4-29,3,0,0.0,3,,0,0.03333333333333333,,750.6666666666666,82
+Sevilla,San Vicente,Max Nights 4-29,19,1,0.05263157894736842,18,,3,0.12540350877192982,,774.4736842105264,17
+Sevilla,Arenal,Max Nights 4-29,35,5,0.14285714285714285,30,,8,0.20894285714285715,,612.3714285714286,9
+Sevilla,Alfalfa,Max Nights 4-29,52,3,0.057692307692307696,49,,11,0.16462794348508636,,781.8269230769231,13
+Sevilla,Los Remedios,Max Nights 4-29,8,1,0.125,7,,0,0.05178571428571428,,844.625,25
+Sevilla,San Julián,Max Nights 4-29,15,1,0.06666666666666667,14,,4,0.20976190476190476,,606.7333333333333,8
+Sevilla,San Bartolomé,Max Nights 4-29,33,1,0.030303030303030304,32,,3,0.07035795454545456,,942.2121212121212,24
+Sevilla,An Roque,Max Nights 4-29,5,0,0.0,5,,0,0.0,,1125.0,27
+Sevilla,Santa Cruz,Max Nights 4-29,34,2,0.058823529411764705,32,,5,0.1149264705882353,,797.2647058823529,18
+Sevilla,Feria,Max Nights 4-29,34,4,0.11764705882352941,30,,3,0.10247843137254901,,769.9705882352941,21
+Sevilla,San Lorenzo,Max Nights 4-29,17,1,0.058823529411764705,16,,6,0.2712426470588235,,500.29411764705884,5
+Sevilla,Museo,Max Nights 4-29,18,3,0.16666666666666666,15,,1,0.10004444444444445,,743.0555555555555,22
+Sevilla,Encarnación Regina,Max Nights 4-29,36,5,0.1388888888888889,31,,3,0.1030752688172043,,805.8611111111111,20
+Sevilla,San Bernardo,Max Nights 4-29,12,0,0.0,12,,2,0.11016666666666666,,882.0833333333334,19
+Sevilla,Triana Casco Antiguo,Max Nights 4-29,29,4,0.13793103448275862,25,,4,0.1396248275862069,,773.7931034482758,14
+Sevilla,San Gil,Max Nights 4-29,20,2,0.1,18,,3,0.13577777777777778,,794.05,15
+Sevilla,León Xiii Los Naranjos,Max Nights 4-29,5,2,0.4,3,,1,0.28600000000000003,,310.0,4
+Sevilla,San Pablo A Y B,Max Nights 4-29,3,0,0.0,3,,1,0.21266666666666667,,770.0,7
+Sevilla,Carretera De Carmona María Auxiliadora Fontanal,Max Nights 4-29,4,1,0.25,3,,1,0.246,,584.5,6
+Sevilla,Triana Este,Max Nights 4-29,13,2,0.15384615384615385,11,,3,0.20826573426573428,,704.1538461538462,10
+Sevilla,Doctor Barraquer G Renfe Policlínico,Max Nights 4-29,3,0,0.0,3,,0,0.0,,1125.0,27
+Sevilla,Santa Catalina,Max Nights 4-29,17,0,0.0,17,,2,0.08211764705882353,,765.2352941176471,23
+Sevilla,Colores Entreparques,Max Nights 4-29,4,0,0.0,4,,3,0.509,,92.25,1
+Sevilla,Pio Xii,Max Nights 4-29,3,1,0.3333333333333333,2,,1,0.3656666666666667,,391.6666666666667,2
+Sevilla,La Florida,Max Nights 4-29,3,2,0.6666666666666666,1,,0,0.19999999999999998,,382.6666666666667,11
+Sevilla,Triana Oeste,Max Nights 4-29,7,1,0.14285714285714285,6,,0,0.04285714285714285,,967.8571428571429,26
+Sevilla,Nervión,Max Nights 4-29,4,0,0.0,4,,2,0.3345,,578.25,3
+Sevilla,Tiro De Línea Santa Genoveva,Max Nights 4-29,3,2,0.6666666666666666,1,,0,0.19999999999999998,,383.0,11
+Sevilla,El Porvenir,Max Nights 4-29,4,0,0.0,4,,1,0.1745,,851.25,12
+Sevilla,Sector Sur La Palmera Reina Mercedes,Max Nights 4-29,5,0,0.0,5,,1,0.1276,,608.0,16
+Barcelona,L'Antiga Esquerra De L'Eixample,Max Nights 4-29,163,25,0.15337423312883436,138,,13,0.10428087489997333,,753.2147239263803,40
+Barcelona,El Camp De L'Arpa Del Clot,Max Nights 4-29,49,6,0.12244897959183673,43,,12,0.2138813478879924,,544.8163265306123,9
+Barcelona,La Dreta De L'Eixample,Max Nights 4-29,288,31,0.1076388888888889,257,,34,0.12051010592304368,,719.0208333333334,35
+Barcelona,El Camp D'En Grassot I Gràcia Nova,Max Nights 4-29,43,7,0.16279069767441862,36,,7,0.1692325581395349,,696.6511627906976,18
+Barcelona,El Raval,Max Nights 4-29,205,33,0.16097560975609757,172,,23,0.13200652297220647,,723.780487804878,29
+Barcelona,El Fort Pienc,Max Nights 4-29,84,11,0.13095238095238096,73,,16,0.17866079582517938,,651.9166666666666,15
+Barcelona,Vallvidrera El Tibidabo I Les Planes,Max Nights 4-29,3,0,0.0,3,,0,0.032,,445.0,51
+Barcelona,Sants,Max Nights 4-29,45,10,0.2222222222222222,35,,4,0.1363111111111111,,640.5333333333333,25
+Barcelona,Sant Antoni,Max Nights 4-29,145,23,0.15862068965517243,122,,11,0.10620576596947429,,731.6689655172414,38
+Barcelona,Les Corts,Max Nights 4-29,28,7,0.25,21,,3,0.15685714285714283,,675.3928571428571,20
+Barcelona,Horta,Max Nights 4-29,10,1,0.1,9,,1,0.10644444444444445,,795.2,37
+Barcelona,Sant Pere Santa Caterina I La Ribera,Max Nights 4-29,176,33,0.1875,143,,16,0.1239562937062937,,686.0284090909091,33
+Barcelona,El Poble Sec,Max Nights 4-29,141,21,0.14893617021276595,120,,17,0.13476453900709218,,716.3262411347517,27
+Barcelona,La Vila De Gràcia,Max Nights 4-29,138,17,0.12318840579710146,121,,29,0.18530171277997365,,634.0507246376811,13
+Barcelona,La Nova Esquerra De L'Eixample,Max Nights 4-29,114,20,0.17543859649122806,94,,8,0.10820865994774169,,733.5350877192982,36
+Barcelona,Vilapicina I La Torre Llobeta,Max Nights 4-29,10,2,0.2,8,,3,0.29375,,470.6,1
+Barcelona,La Sagrada Família,Max Nights 4-29,132,18,0.13636363636363635,114,,17,0.13354864433811803,,700.9469696969697,28
+Barcelona,El Putxet I El Farró,Max Nights 4-29,34,3,0.08823529411764706,31,,6,0.14999620493358634,,694.7647058823529,21
+Barcelona,El Barri Gòtic,Max Nights 4-29,169,28,0.16568047337278108,141,,10,0.09432540182131019,,786.5266272189349,45
+Barcelona,El Poblenou,Max Nights 4-29,62,11,0.1774193548387097,51,,11,0.1893864642631246,,603.1774193548387,12
+Barcelona,La Font De La Guatlla,Max Nights 4-29,14,0,0.0,14,,4,0.19514285714285712,,760.0,10
+Barcelona,La Vila Olímpica Del Poblenou,Max Nights 4-29,21,3,0.14285714285714285,18,,3,0.14817460317460315,,722.2380952380952,22
+Barcelona,El Coll,Max Nights 4-29,9,2,0.2222222222222222,7,,2,0.24263492063492062,,414.6666666666667,7
+Barcelona,El Parc I La Llacuna Del Poblenou,Max Nights 4-29,41,3,0.07317073170731707,38,,6,0.12106931964056483,,820.8780487804878,34
+Barcelona,La Prosperitat,Max Nights 4-29,4,0,0.0,4,,1,0.1745,,615.0,17
+Barcelona,El Clot,Max Nights 4-29,20,4,0.2,16,,3,0.17725000000000002,,580.2,16
+Barcelona,Les Tres Torres,Max Nights 4-29,7,2,0.2857142857142857,5,,0,0.0857142857142857,,808.5714285714286,48
+Barcelona,Vallcarca I Els Penitents,Max Nights 4-29,22,4,0.18181818181818182,18,,2,0.12733333333333335,,652.2727272727273,32
+Barcelona,La Salut,Max Nights 4-29,13,2,0.15384615384615385,11,,3,0.21481118881118882,,641.9230769230769,8
+Barcelona,La Barceloneta,Max Nights 4-29,57,10,0.17543859649122806,47,,3,0.09218141097424412,,698.8070175438596,46
+Barcelona,Sarrià,Max Nights 4-29,6,0,0.0,6,,0,0.0,,998.3333333333334,55
+Barcelona,Can Baró,Max Nights 4-29,7,0,0.0,7,,3,0.2848571428571428,,662.8571428571429,3
+Barcelona,Sant Gervasi - La Bonanova,Max Nights 4-29,10,1,0.1,9,,1,0.10177777777777777,,748.2,41
+Barcelona,Provençals Del Poblenou,Max Nights 4-29,14,3,0.21428571428571427,11,,4,0.28168831168831165,,447.7857142857143,4
+Barcelona,Sants - Badal,Max Nights 4-29,20,1,0.05,19,,4,0.15742105263157896,,793.65,19
+Barcelona,El Carmel,Max Nights 4-29,21,0,0.0,21,,0,0.004761904761904762,,957.952380952381,54
+Barcelona,Diagonal Mar I El Front Marítim Del Poblenou,Max Nights 4-29,24,3,0.125,21,,2,0.10126190476190476,,746.75,43
+Barcelona,Sant Gervasi - Galvany,Max Nights 4-29,46,4,0.08695652173913043,42,,5,0.10553002070393375,,715.1739130434783,39
+Barcelona,La Bordeta,Max Nights 4-29,19,2,0.10526315789473684,17,,3,0.1481733746130031,,781.6842105263158,23
+Barcelona,La Marina De Port,Max Nights 4-29,8,0,0.0,8,,1,0.08725,,988.125,47
+Barcelona,Pedralbes,Max Nights 4-29,3,0,0.0,3,,0,0.02666666666666667,,779.3333333333334,52
+Barcelona,Sant Genís Dels Agudells,Max Nights 4-29,4,0,0.0,4,,0,0.0,,1125.0,55
+Barcelona,El Baix Guinardó,Max Nights 4-29,13,3,0.23076923076923078,10,,2,0.17975384615384615,,702.0,14
+Barcelona,La Maternitat I Sant Ramon,Max Nights 4-29,29,8,0.27586206896551724,21,,2,0.13133661740558292,,665.5172413793103,30
+Barcelona,La Verneda I La Pau,Max Nights 4-29,10,2,0.2,8,,1,0.1405,,614.5,24
+Barcelona,El Congrés I Els Indians,Max Nights 4-29,11,0,0.0,11,,0,0.0,,1124.909090909091,55
+Barcelona,El Besòs I El Maresme,Max Nights 4-29,31,6,0.1935483870967742,25,,3,0.1358916129032258,,711.741935483871,26
+Barcelona,Montbau,Max Nights 4-29,3,1,0.3333333333333333,2,,0,0.09999999999999999,,753.3333333333334,44
+Barcelona,Hostafrancs,Max Nights 4-29,43,8,0.18604651162790697,35,,4,0.1279827242524917,,647.1627906976744,31
+Barcelona,Navas,Max Nights 4-29,7,0,0.0,7,,0,0.0,,1125.0,55
+Barcelona,Sant Martí De Provençals,Max Nights 4-29,15,6,0.4,9,,3,0.2782222222222222,,464.1333333333333,5
+Barcelona,El Guinardó,Max Nights 4-29,18,4,0.2222222222222222,14,,3,0.19242857142857142,,693.6111111111111,11
+Barcelona,La Teixonera,Max Nights 4-29,6,0,0.0,6,,0,0.0,,998.3333333333334,55
+Barcelona,Verdun,Max Nights 4-29,5,1,0.2,4,,0,0.06,,901.0,50
+Barcelona,El Turó De La Peira,Max Nights 4-29,7,2,0.2857142857142857,5,,0,0.1013142857142857,,550.5714285714286,42
+Barcelona,La Guineueta,Max Nights 4-29,4,0,0.0,4,,0,0.0,,1125.0,55
+Barcelona,Porta,Max Nights 4-29,8,2,0.25,6,,2,0.26266666666666666,,574.0,6
+Barcelona,El Bon Pastor,Max Nights 4-29,4,1,0.25,3,,0,0.075,,845.5,49
+Barcelona,La Sagrera,Max Nights 4-29,5,1,0.2,4,,0,0.06,,598.4,50
+Barcelona,Sant Andreu,Max Nights 4-29,7,0,0.0,7,,0,0.011142857142857144,,873.2857142857143,53
+Barcelona,Les Roquetes,Max Nights 4-29,5,2,0.4,3,,1,0.28600000000000003,,461.4,2
+Girona,Torroella De Fluvià,Max Nights 4-29,6,1,0.16666666666666666,5,,2,0.30946666666666667,,405.5,5
+Girona,Capmany,Max Nights 4-29,4,2,0.5,2,,0,0.15,,568.5,21
+Girona,Castelló D'Empúries,Max Nights 4-29,87,15,0.1724137931034483,72,,13,0.16304789272030654,,738.2988505747127,20
+Girona,Begur,Max Nights 4-29,73,15,0.2054794520547945,58,,14,0.20325838450637695,,664.917808219178,13
+Girona,Tossa De Mar,Max Nights 4-29,53,4,0.07547169811320754,49,,3,0.06420870234886408,,923.5283018867924,37
+Girona,Roses,Max Nights 4-29,150,24,0.16,126,,16,0.12728571428571428,,779.9666666666667,28
+Girona,Palafrugell,Max Nights 4-29,77,5,0.06493506493506493,72,,13,0.13781277056277055,,822.4675324675325,26
+Girona,Girona,Max Nights 4-29,49,3,0.061224489795918366,46,,13,0.2055421472937001,,683.9183673469388,12
+Girona,Cadaqués,Max Nights 4-29,34,3,0.08823529411764706,31,,5,0.1410967741935484,,723.2058823529412,25
+Girona,L'Escala,Max Nights 4-29,99,22,0.2222222222222222,77,,3,0.08989610389610389,,827.1313131313132,35
+Girona,Palamós,Max Nights 4-29,31,1,0.03225806451612903,30,,3,0.08293118279569892,,892.4193548387096,36
+Girona,Lloret De Mar,Max Nights 4-29,130,13,0.1,117,,14,0.10652991452991453,,861.0230769230769,32
+Girona,Torroella De Montgrí,Max Nights 4-29,67,14,0.208955223880597,53,,4,0.10895240777245846,,761.8955223880597,30
+Girona,La Selva De Mar,Max Nights 4-29,3,0,0.0,3,,2,0.4653333333333333,,395.0,2
+Girona,Llançà,Max Nights 4-29,34,8,0.23529411764705882,26,,3,0.1373212669683258,,769.5588235294117,27
+Girona,Sant Feliu De Guíxols,Max Nights 4-29,43,6,0.13953488372093023,37,,8,0.18007291011942173,,661.3488372093024,18
+Girona,Blanes,Max Nights 4-29,40,1,0.025,39,,8,0.14457692307692308,,801.3,22
+Girona,Albons,Max Nights 4-29,3,1,0.3333333333333333,2,,0,0.09999999999999999,,757.0,34
+Girona,Calonge,Max Nights 4-29,69,19,0.2753623188405797,50,,12,0.21624521739130434,,572.8985507246376,11
+Girona,Ordis,Max Nights 4-29,4,0,0.0,4,,1,0.203,,90.0,14
+Girona,Castell-Platja D'Aro,Max Nights 4-29,94,10,0.10638297872340426,84,,15,0.1422497467071935,,796.5851063829788,24
+Girona,Cornellà Del Terri,Max Nights 4-29,4,1,0.25,3,,1,0.25933333333333336,,577.75,7
+Girona,Vilademuls,Max Nights 4-29,3,0,0.0,3,,0,0.026000000000000002,,780.0,38
+Girona,Figueres,Max Nights 4-29,7,1,0.14285714285714285,6,,3,0.3561428571428571,,496.0,3
+Girona,Pals,Max Nights 4-29,50,9,0.18,41,,4,0.11517073170731708,,803.38,29
+Girona,Alp,Max Nights 4-29,6,0,0.0,6,,2,0.23266666666666666,,599.1666666666666,10
+Girona,Llers,Max Nights 4-29,3,1,0.3333333333333333,2,,0,0.09999999999999999,,754.6666666666666,34
+Girona,Vilafran,Max Nights 4-29,3,1,0.3333333333333333,2,,2,0.6313333333333333,,27.0,1
+Girona,Vidreres,Max Nights 4-29,14,5,0.35714285714285715,9,,0,0.10714285714285714,,732.2142857142857,31
+Girona,Ribes De Freser,Max Nights 4-29,4,0,0.0,4,,1,0.1745,,661.25,19
+Girona,Campelles,Max Nights 4-29,3,0,0.0,3,,1,0.23266666666666666,,760.0,10
+Girona,El Port De La Selva,Max Nights 4-29,12,3,0.25,9,,3,0.2657777777777778,,575.3333333333334,6
+Girona,Santa Cristina D'Aro,Max Nights 4-29,19,2,0.10526315789473684,17,,2,0.10397523219814239,,784.3684210526316,33
+Girona,Banyoles,Max Nights 4-29,4,2,0.5,2,,0,0.199,,309.75,16
+Girona,Cruïlles Monells I Sant Sadurní De L'Heura,Max Nights 4-29,3,0,0.0,3,,1,0.24933333333333332,,419.6666666666667,8
+Girona,Olot,Max Nights 4-29,4,0,0.0,4,,1,0.1745,,851.25,19
+Girona,Sant Pere Pescador,Max Nights 4-29,7,2,0.2857142857142857,5,,1,0.19634285714285715,,654.1428571428571,17
+Girona,L'Armentera,Max Nights 4-29,3,0,0.0,3,,0,0.0,,1125.0,39
+Girona,Ullà,Max Nights 4-29,3,0,0.0,3,,0,0.0,,1125.0,39
+Girona,Fontanals De Cerdanya,Max Nights 4-29,4,0,0.0,4,,2,0.34850000000000003,,577.75,4
+Girona,Puigcerdà,Max Nights 4-29,12,1,0.08333333333333333,11,,2,0.1443333333333333,,849.25,23
+Girona,Santa Pau,Max Nights 4-29,3,0,0.0,3,,0,0.0,,1125.0,39
+Girona,Colera,Max Nights 4-29,3,2,0.6666666666666666,1,,0,0.19999999999999998,,391.3333333333333,15
+Girona,Sant Feliu De Pallerols,Max Nights 4-29,3,0,0.0,3,,0,0.0,,1125.0,39
+Girona,Maçanet De La Selva,Max Nights 4-29,3,0,0.0,3,,1,0.23333333333333334,,751.0,9
+Valencia,El Pilar,Max Nights 4-29,14,3,0.21428571428571427,11,,2,0.17153246753246754,,675.3571428571429,28
+Valencia,En Corts,Max Nights 4-29,18,1,0.05555555555555555,17,,5,0.21837908496732028,,422.44444444444446,19
+Valencia,Russafa,Max Nights 4-29,43,6,0.13953488372093023,37,,7,0.16687743557511,,613.5116279069767,31
+Valencia,El Carme,Max Nights 4-29,15,3,0.2,12,,2,0.16766666666666666,,624.9333333333333,30
+Valencia,La Seu,Max Nights 4-29,16,1,0.0625,15,,0,0.022616666666666667,,885.3125,44
+Valencia,Arrancapins,Max Nights 4-29,6,1,0.16666666666666666,5,,1,0.18453333333333333,,585.0,23
+Valencia,La Roqueta,Max Nights 4-29,16,3,0.1875,13,,1,0.10273076923076922,,801.3125,34
+Valencia,Morvedre,Max Nights 4-29,10,0,0.0,10,,3,0.20900000000000002,,796.6,21
+Valencia,Penya-Roja,Max Nights 4-29,9,0,0.0,9,,3,0.21933333333333332,,661.6666666666666,18
+Valencia,La Carrasca,Max Nights 4-29,3,1,0.3333333333333333,2,,0,0.09999999999999999,,755.0,36
+Valencia,La Gran Via,Max Nights 4-29,7,2,0.2857142857142857,5,,1,0.19674285714285714,,542.7142857142857,22
+Valencia,Aiora,Max Nights 4-29,18,0,0.0,18,,7,0.2647777777777778,,702.5,13
+Valencia,Mestalla,Max Nights 4-29,5,0,0.0,5,,0,0.0,,1125.0,45
+Valencia,El Mercat,Max Nights 4-29,19,1,0.05263157894736842,18,,1,0.05732748538011695,,904.7368421052631,41
+Valencia,La Malva-Rosa,Max Nights 4-29,27,3,0.1111111111111111,24,,5,0.1701759259259259,,654.3703703703703,29
+Valencia,La Xerea,Max Nights 4-29,9,3,0.3333333333333333,6,,1,0.17855555555555555,,635.5555555555555,24
+Valencia,Campanar,Max Nights 4-29,5,1,0.2,4,,2,0.359,,463.0,6
+Valencia,Sant Francesc,Max Nights 4-29,27,2,0.07407407407407407,25,,4,0.1273362962962963,,782.8888888888889,33
+Valencia,La Raiosa,Max Nights 4-29,4,1,0.25,3,,0,0.075,,816.25,40
+Valencia,Mont-Olivet,Max Nights 4-29,12,1,0.08333333333333333,11,,1,0.0792121212121212,,880.9166666666666,39
+Valencia,El Botanic,Max Nights 4-29,9,0,0.0,9,,3,0.22599999999999998,,763.2222222222222,17
+Valencia,Benimaclet,Max Nights 4-29,9,2,0.2222222222222222,7,,5,0.46444444444444444,,194.44444444444446,1
+Valencia,Cabanyal-Canyamelar,Max Nights 4-29,52,4,0.07692307692307693,48,,5,0.09665384615384616,,805.9230769230769,37
+Valencia,El Pla Del Remei,Max Nights 4-29,8,1,0.125,7,,3,0.3067142857142857,,578.5,8
+Valencia,Marxalenes,Max Nights 4-29,8,0,0.0,8,,1,0.07975,,873.75,38
+Valencia,Ciutat Jardi,Max Nights 4-29,8,2,0.25,6,,1,0.17350000000000002,,466.875,26
+Valencia,Els Orriols,Max Nights 4-29,4,0,0.0,4,,1,0.173,,852.0,27
+Valencia,Patraix,Max Nights 4-29,6,2,0.3333333333333333,4,,1,0.23283333333333334,,383.3333333333333,15
+Valencia,Nou Moles,Max Nights 4-29,10,1,0.1,9,,1,0.10200000000000001,,903.8,35
+Valencia,El Perellonet,Max Nights 4-29,6,1,0.16666666666666666,5,,2,0.28386666666666666,,422.5,10
+Valencia,Benicalap,Max Nights 4-29,6,0,0.0,6,,0,0.0,,1124.8333333333333,45
+Valencia,La Petxina,Max Nights 4-29,6,1,0.16666666666666666,5,,0,0.049999999999999996,,818.8333333333334,42
+Valencia,L'Hort De Senabre,Max Nights 4-29,4,0,0.0,4,,2,0.34850000000000003,,371.5,7
+Valencia,Benimamet,Max Nights 4-29,3,0,0.0,3,,1,0.25866666666666666,,415.0,14
+Valencia,Ciutat De Les Arts I De Les Ciencies,Max Nights 4-29,5,2,0.4,3,,1,0.2793333333333333,,460.8,11
+Valencia,Torrefiel,Max Nights 4-29,4,1,0.25,3,,2,0.45633333333333337,,299.0,2
+Valencia,Les Tendetes,Max Nights 4-29,3,1,0.3333333333333333,2,,0,0.09999999999999999,,755.0,36
+Valencia,Exposicio,Max Nights 4-29,3,0,0.0,3,,2,0.442,,406.6666666666667,4
+Valencia,Na Rovella,Max Nights 4-29,4,0,0.0,4,,1,0.1745,,615.0,25
+Valencia,Betero,Max Nights 4-29,7,2,0.2857142857142857,5,,2,0.2953714285714285,,500.85714285714283,9
+Valencia,Albors,Max Nights 4-29,3,0,0.0,3,,1,0.21,,771.3333333333334,20
+Valencia,Tres Forques,Max Nights 4-29,4,1,0.25,3,,1,0.266,,572.5,12
+Valencia,El Grau,Max Nights 4-29,8,1,0.125,7,,1,0.12742857142857145,,739.125,32
+Valencia,El Saler,Max Nights 4-29,3,0,0.0,3,,1,0.23199999999999998,,760.3333333333334,16
+Valencia,L'Amistat,Max Nights 4-29,3,0,0.0,3,,0,0.03333333333333333,,750.6666666666666,43
+Valencia,L'Illa Perduda,Max Nights 4-29,6,1,0.16666666666666666,5,,3,0.3908,,275.8333333333333,5
+Valencia,La Creu Del Grau,Max Nights 4-29,5,2,0.4,3,,2,0.452,,20.2,3
+Mallorca,Palma De Mallorca,Max Nights 4-29,197,34,0.17258883248730963,163,,22,0.13292709663355237,,755.8781725888325,12
+Mallorca,Alcúdia,Max Nights 4-29,163,14,0.08588957055214724,149,,13,0.08352336641001358,,870.9325153374233,23
+Mallorca,Selva,Max Nights 4-29,30,1,0.03333333333333333,29,,0,0.012689655172413793,,1040.5333333333333,41
+Mallorca,Santa Margalida,Max Nights 4-29,57,2,0.03508771929824561,55,,8,0.10761084529505582,,862.9122807017544,19
+Mallorca,Campos,Max Nights 4-29,51,8,0.1568627450980392,43,,5,0.11784587323301413,,783.6862745098039,16
+Mallorca,Sóller,Max Nights 4-29,43,3,0.06976744186046512,40,,4,0.08694186046511627,,871.5813953488372,22
+Mallorca,Valldemossa,Max Nights 4-29,11,2,0.18181818181818182,9,,1,0.12200000000000001,,755.6363636363636,15
+Mallorca,Santanyí,Max Nights 4-29,56,7,0.125,49,,7,0.12612244897959185,,774.8928571428571,14
+Mallorca,Llubí,Max Nights 4-29,14,0,0.0,14,,0,0.0,,1057.5,43
+Mallorca,Inca,Max Nights 4-29,24,6,0.25,18,,0,0.07933333333333333,,806.6666666666666,27
+Mallorca,Calvià,Max Nights 4-29,45,3,0.06666666666666667,42,,9,0.15861904761904763,,766.3333333333334,9
+Mallorca,Costitx,Max Nights 4-29,8,2,0.25,6,,2,0.266,,574.375,2
+Mallorca,Pollença,Max Nights 4-29,176,13,0.07386363636363637,163,,11,0.06661154489682097,,917.2215909090909,30
+Mallorca,Ses Salines,Max Nights 4-29,25,4,0.16,21,,3,0.13714285714285712,,694.16,11
+Mallorca,Manacor,Max Nights 4-29,73,11,0.1506849315068493,62,,2,0.06648475475033142,,891.2465753424658,31
+Mallorca,Felanitx,Max Nights 4-29,49,6,0.12244897959183673,43,,3,0.08111438063597533,,892.6326530612245,26
+Mallorca,Puigpunyent,Max Nights 4-29,4,0,0.0,4,,1,0.1695,,853.75,8
+Mallorca,Lloseta,Max Nights 4-29,11,2,0.18181818181818182,9,,2,0.18856565656565655,,657.7272727272727,5
+Mallorca,Petra,Max Nights 4-29,11,0,0.0,11,,1,0.07236363636363637,,792.2727272727273,29
+Mallorca,Llucmajor,Max Nights 4-29,65,10,0.15384615384615385,55,,3,0.0779944055944056,,875.0769230769231,28
+Mallorca,Algaida,Max Nights 4-29,12,0,0.0,12,,2,0.11133333333333333,,944.9166666666666,18
+Mallorca,Campanet,Max Nights 4-29,18,2,0.1111111111111111,16,,0,0.03333333333333333,,978.7222222222222,40
+Mallorca,Fornalutx,Max Nights 4-29,7,2,0.2857142857142857,5,,1,0.18474285714285715,,523.4285714285714,6
+Mallorca,Marratxí,Max Nights 4-29,8,0,0.0,8,,3,0.24675,,672.5,3
+Mallorca,Sant Llorenç Des Cardassar,Max Nights 4-29,24,0,0.0,24,,4,0.11608333333333332,,910.9583333333334,17
+Mallorca,Artà,Max Nights 4-29,31,0,0.0,31,,3,0.06496774193548388,,972.0967741935484,34
+Mallorca,Muro,Max Nights 4-29,37,2,0.05405405405405406,35,,4,0.0932988416988417,,849.8378378378378,21
+Mallorca,Alaró,Max Nights 4-29,12,0,0.0,12,,0,0.0,,1061.6666666666667,43
+Mallorca,Son Servera,Max Nights 4-29,25,1,0.04,24,,2,0.066,,963.8,32
+Mallorca,Lloret De Vistalegre,Max Nights 4-29,5,0,0.0,5,,1,0.1396,,754.0,10
+Mallorca,Capdepera,Max Nights 4-29,33,2,0.06060606060606061,31,,3,0.08266862170087977,,928.6060606060606,25
+Mallorca,Esporles,Max Nights 4-29,5,1,0.2,4,,0,0.06,,905.6,35
+Mallorca,Búger,Max Nights 4-29,15,3,0.2,12,,0,0.06,,877.8,35
+Mallorca,Deià,Max Nights 4-29,5,1,0.2,4,,1,0.20950000000000002,,686.6,4
+Mallorca,Sa Pobla,Max Nights 4-29,30,1,0.03333333333333333,29,,2,0.05354022988505747,,1002.5333333333333,37
+Mallorca,Maria De La Salut,Max Nights 4-29,7,1,0.14285714285714285,6,,0,0.04285714285714285,,907.5714285714286,39
+Mallorca,Andratx,Max Nights 4-29,13,1,0.07692307692307693,12,,1,0.08287179487179488,,867.8461538461538,24
+Mallorca,Montuïri,Max Nights 4-29,10,2,0.2,8,,1,0.12725,,700.9,13
+Mallorca,Mancor De La Vall,Max Nights 4-29,5,2,0.4,3,,1,0.28600000000000003,,467.0,1
+Mallorca,Sineu,Max Nights 4-29,12,0,0.0,12,,0,0.0,,1125.0,43
+Mallorca,Binissalem,Max Nights 4-29,7,0,0.0,7,,1,0.09942857142857142,,968.7142857142857,20
+Mallorca,Sencelles,Max Nights 4-29,7,1,0.14285714285714285,6,,0,0.05552380952380952,,710.1428571428571,36
+Mallorca,Ariany,Max Nights 4-29,5,1,0.2,4,,0,0.06,,905.6,35
+Mallorca,Escorca,Max Nights 4-29,3,0,0.0,3,,0,0.005999999999999998,,790.0,42
+Mallorca,Santa Eugènia,Max Nights 4-29,6,1,0.16666666666666666,5,,0,0.049999999999999996,,786.3333333333334,38
+Mallorca,Bunyola,Max Nights 4-29,9,1,0.1111111111111111,8,,0,0.03333333333333333,,917.6666666666666,40
+Mallorca,Banyalbufar,Max Nights 4-29,3,0,0.0,3,,0,0.0,,1124.6666666666667,43
+Mallorca,Porreres,Max Nights 4-29,8,2,0.25,6,,1,0.1701666666666667,,619.0,7
+Mallorca,Sant Joan,Max Nights 4-29,6,1,0.16666666666666666,5,,0,0.06559999999999999,,643.0,33
+Menorca,Es Mercadal,Max Nights 4-29,27,4,0.14814814814814814,23,,8,0.255549114331723,,609.2962962962963,1
+Menorca,Ciutadella De Menorca,Max Nights 4-29,84,4,0.047619047619047616,80,,9,0.09075714285714286,,900.6785714285714,5
+Menorca,Alaior,Max Nights 4-29,33,2,0.06060606060606061,31,,8,0.18855522971652006,,730.1212121212121,2
+Menorca,Mahón,Max Nights 4-29,18,1,0.05555555555555555,17,,2,0.0917516339869281,,901.9444444444445,4
+Menorca,Sant Lluís,Max Nights 4-29,34,2,0.058823529411764705,32,,5,0.1219264705882353,,846.6176470588235,3
+Menorca,Es Castell,Max Nights 4-29,6,0,0.0,6,,0,0.0,,1059.1666666666667,6
+Menorca,Ferreries,Max Nights 4-29,4,0,0.0,4,,0,0.0,,1125.0,6
+Málaga,Centro,Location ≥ 8,324,323,0.9969135802469136,1,7.0,0,0.49876543209876545,,,1
+Málaga,Cruz De Humilladero,Location ≥ 8,27,26,0.9629629629629629,1,6.0,0,0.3851851851851852,,,3
+Málaga,Este,Location ≥ 8,61,61,1.0,0,0.0,0,0.0,,,4
+Málaga,Carretera De Cadiz,Location ≥ 8,51,47,0.9215686274509803,4,6.25,0,0.3936274509803922,,,2
+Málaga,Palma-Palmilla,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,4
+Málaga,Churriana,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,4
+Málaga,Teatinos-Universidad,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,4
+Málaga,Bailen-Miraflores,Location ≥ 8,9,9,1.0,0,0.0,0,0.0,,,4
+Málaga,Ciudad Jardin,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,4
+Málaga,Puerto De La Torre,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,4
+Madrid,Cármenes,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,17
+Madrid,Embajadores,Location ≥ 8,273,273,1.0,0,0.0,0,0.0,,,17
+Madrid,Palacio,Location ≥ 8,167,165,0.9880239520958084,2,7.0,0,0.49520958083832334,,,3
+Madrid,Palomeras Bajas,Location ≥ 8,8,7,0.875,1,7.0,0,0.45000000000000007,,,7
+Madrid,Universidad,Location ≥ 8,204,203,0.9950980392156863,1,7.0,0,0.4980392156862745,,,1
+Madrid,Justicia,Location ≥ 8,121,121,1.0,0,0.0,0,0.0,,,17
+Madrid,Aluche,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,17
+Madrid,Cortes,Location ≥ 8,97,97,1.0,0,0.0,0,0.0,,,17
+Madrid,Ciudad Jardín,Location ≥ 8,9,9,1.0,0,0.0,0,0.0,,,17
+Madrid,Sol,Location ≥ 8,163,162,0.9938650306748467,1,7.0,0,0.49754601226993866,,,2
+Madrid,Comillas,Location ≥ 8,9,9,1.0,0,0.0,0,0.0,,,17
+Madrid,Prosperidad,Location ≥ 8,15,15,1.0,0,0.0,0,0.0,,,17
+Madrid,Acacias,Location ≥ 8,26,26,1.0,0,0.0,0,0.0,,,17
+Madrid,Cuatro Caminos,Location ≥ 8,16,16,1.0,0,0.0,0,0.0,,,17
+Madrid,Pinar Del Rey,Location ≥ 8,10,10,1.0,0,0.0,0,0.0,,,17
+Madrid,Los Angeles,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,17
+Madrid,Portazgo,Location ≥ 8,9,8,0.8888888888888888,1,7.0,0,0.4555555555555556,,,6
+Madrid,Palos De Moguer,Location ≥ 8,43,42,0.9767441860465116,1,7.0,0,0.4906976744186047,,,4
+Madrid,Recoletos,Location ≥ 8,30,30,1.0,0,0.0,0,0.0,,,17
+Madrid,Castilla,Location ≥ 8,10,10,1.0,0,0.0,0,0.0,,,17
+Madrid,Legazpi,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,17
+Madrid,Ciudad Universitaria,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,17
+Madrid,Valdeacederas,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,17
+Madrid,Argüelles,Location ≥ 8,40,40,1.0,0,0.0,0,0.0,,,17
+Madrid,Trafalgar,Location ≥ 8,39,38,0.9743589743589743,1,2.0,0,0.010256410256410275,,,16
+Madrid,Pacífico,Location ≥ 8,28,28,1.0,0,0.0,0,0.0,,,17
+Madrid,Vista Alegre,Location ≥ 8,12,11,0.9166666666666666,1,7.0,0,0.4666666666666667,,,5
+Madrid,El Viso,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,17
+Madrid,Goya,Location ≥ 8,30,30,1.0,0,0.0,0,0.0,,,17
+Madrid,Almenara,Location ≥ 8,14,14,1.0,0,0.0,0,0.0,,,17
+Madrid,Lista,Location ≥ 8,17,17,1.0,0,0.0,0,0.0,,,17
+Madrid,Rios Rosas,Location ≥ 8,20,20,1.0,0,0.0,0,0.0,,,17
+Madrid,Hispanoamérica,Location ≥ 8,13,13,1.0,0,0.0,0,0.0,,,17
+Madrid,Delicias,Location ≥ 8,20,20,1.0,0,0.0,0,0.0,,,17
+Madrid,Castillejos,Location ≥ 8,16,16,1.0,0,0.0,0,0.0,,,17
+Madrid,Almagro,Location ≥ 8,18,17,0.9444444444444444,1,6.0,0,0.37777777777777777,,,9
+Madrid,Imperial,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,17
+Madrid,Castellana,Location ≥ 8,15,15,1.0,0,0.0,0,0.0,,,17
+Madrid,Ibiza,Location ≥ 8,24,24,1.0,0,0.0,0,0.0,,,17
+Madrid,Simancas,Location ≥ 8,11,11,1.0,0,0.0,0,0.0,,,17
+Madrid,Casco Histórico De Vallecas,Location ≥ 8,6,5,0.8333333333333334,1,2.0,0,0.06666666666666665,,,15
+Madrid,Ventas,Location ≥ 8,18,18,1.0,0,0.0,0,0.0,,,17
+Madrid,Pueblo Nuevo,Location ≥ 8,16,16,1.0,0,0.0,0,0.0,,,17
+Madrid,Gaztambide,Location ≥ 8,22,22,1.0,0,0.0,0,0.0,,,17
+Madrid,San Diego,Location ≥ 8,24,21,0.875,3,6.333333333333333,0,0.38333333333333336,,,8
+Madrid,Guindalera,Location ≥ 8,34,34,1.0,0,0.0,0,0.0,,,17
+Madrid,Valdefuentes,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,17
+Madrid,Concepción,Location ≥ 8,10,10,1.0,0,0.0,0,0.0,,,17
+Madrid,Jerónimos,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,17
+Madrid,Casa De Campo,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,17
+Madrid,Numancia,Location ≥ 8,17,17,1.0,0,0.0,0,0.0,,,17
+Madrid,Moscardó,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,17
+Madrid,Vallehermoso,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,17
+Madrid,Vinateros,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,17
+Madrid,Canillas,Location ≥ 8,10,10,1.0,0,0.0,0,0.0,,,17
+Madrid,Puerta Del Angel,Location ≥ 8,23,23,1.0,0,0.0,0,0.0,,,17
+Madrid,Arapiles,Location ≥ 8,17,17,1.0,0,0.0,0,0.0,,,17
+Madrid,Fontarrón,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,17
+Madrid,Chopera,Location ≥ 8,13,13,1.0,0,0.0,0,0.0,,,17
+Madrid,Campamento,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,17
+Madrid,Pilar,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,17
+Madrid,Quintana,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,17
+Madrid,San Andrés,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,17
+Madrid,Alameda De Osuna,Location ≥ 8,4,3,0.75,1,6.0,0,0.30000000000000004,,,13
+Madrid,Valdezarza,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,17
+Madrid,Fuente Del Berro,Location ≥ 8,11,11,1.0,0,0.0,0,0.0,,,17
+Madrid,Puerta Bonita,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,17
+Madrid,Berruguete,Location ≥ 8,14,14,1.0,0,0.0,0,0.0,,,17
+Madrid,Adelfas,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,17
+Madrid,Piovera,Location ≥ 8,5,4,0.8,1,6.0,0,0.32000000000000006,,,12
+Madrid,La Paz,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,17
+Madrid,Bellas Vistas,Location ≥ 8,11,11,1.0,0,0.0,0,0.0,,,17
+Madrid,Palomeras Sureste,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,17
+Madrid,Almendrales,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,17
+Madrid,Buenavista,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,17
+Madrid,Nueva España,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,17
+Madrid,Costillares,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,17
+Madrid,Valverde,Location ≥ 8,8,7,0.875,1,7.0,0,0.45000000000000007,,,7
+Madrid,Peñagrande,Location ≥ 8,9,9,1.0,0,0.0,0,0.0,,,17
+Madrid,Casco Histórico De Barajas,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,17
+Madrid,Aguilas,Location ≥ 8,9,8,0.8888888888888888,1,6.0,0,0.35555555555555557,,,10
+Madrid,Canillejas,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,17
+Madrid,Hellín,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,17
+Madrid,Opañel,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,17
+Madrid,Casco Histórico De Vicálvaro,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,17
+Madrid,Lucero,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,17
+Madrid,Rejas,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,17
+Madrid,Zofío,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,17
+Madrid,Niño Jesús,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,17
+Madrid,San Isidro,Location ≥ 8,11,11,1.0,0,0.0,0,0.0,,,17
+Madrid,Estrella,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,17
+Madrid,Entrevías,Location ≥ 8,7,6,0.8571428571428571,1,6.0,0,0.34285714285714286,,,11
+Madrid,Media Legua,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,17
+Madrid,San Cristobal,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,17
+Madrid,Rosas,Location ≥ 8,8,7,0.875,1,4.0,0,0.15000000000000002,,,14
+Madrid,Orcasur,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,17
+Madrid,Los Rosales,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,17
+Madrid,Arcos,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,17
+Sevilla,San Vicente,Location ≥ 8,19,19,1.0,0,0.0,0,0.0,,,2
+Sevilla,Arenal,Location ≥ 8,35,35,1.0,0,0.0,0,0.0,,,2
+Sevilla,Alfalfa,Location ≥ 8,52,52,1.0,0,0.0,0,0.0,,,2
+Sevilla,Los Remedios,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,2
+Sevilla,San Julián,Location ≥ 8,15,15,1.0,0,0.0,0,0.0,,,2
+Sevilla,San Bartolomé,Location ≥ 8,33,33,1.0,0,0.0,0,0.0,,,2
+Sevilla,An Roque,Location ≥ 8,5,4,0.8,1,2.0,0,0.07999999999999996,,,1
+Sevilla,Santa Cruz,Location ≥ 8,34,34,1.0,0,0.0,0,0.0,,,2
+Sevilla,Feria,Location ≥ 8,34,34,1.0,0,0.0,0,0.0,,,2
+Sevilla,San Lorenzo,Location ≥ 8,17,17,1.0,0,0.0,0,0.0,,,2
+Sevilla,Museo,Location ≥ 8,18,18,1.0,0,0.0,0,0.0,,,2
+Sevilla,Encarnación Regina,Location ≥ 8,36,36,1.0,0,0.0,0,0.0,,,2
+Sevilla,San Bernardo,Location ≥ 8,12,12,1.0,0,0.0,0,0.0,,,2
+Sevilla,Triana Casco Antiguo,Location ≥ 8,29,29,1.0,0,0.0,0,0.0,,,2
+Sevilla,San Gil,Location ≥ 8,20,20,1.0,0,0.0,0,0.0,,,2
+Sevilla,León Xiii Los Naranjos,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,2
+Sevilla,San Pablo A Y B,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,2
+Sevilla,Carretera De Carmona María Auxiliadora Fontanal,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,2
+Sevilla,Triana Este,Location ≥ 8,13,13,1.0,0,0.0,0,0.0,,,2
+Sevilla,Doctor Barraquer G Renfe Policlínico,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,2
+Sevilla,Santa Catalina,Location ≥ 8,17,17,1.0,0,0.0,0,0.0,,,2
+Sevilla,Colores Entreparques,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,2
+Sevilla,Pio Xii,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,2
+Sevilla,La Florida,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,2
+Sevilla,Triana Oeste,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,2
+Sevilla,Nervión,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,2
+Sevilla,Tiro De Línea Santa Genoveva,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,2
+Sevilla,El Porvenir,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,2
+Sevilla,Sector Sur La Palmera Reina Mercedes,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,2
+Barcelona,L'Antiga Esquerra De L'Eixample,Location ≥ 8,163,163,1.0,0,0.0,0,0.0,,,22
+Barcelona,El Camp De L'Arpa Del Clot,Location ≥ 8,49,48,0.9795918367346939,1,7.0,0,0.49183673469387756,,,3
+Barcelona,La Dreta De L'Eixample,Location ≥ 8,288,285,0.9895833333333334,3,6.333333333333333,0,0.4291666666666667,,,8
+Barcelona,El Camp D'En Grassot I Gràcia Nova,Location ≥ 8,43,43,1.0,0,0.0,0,0.0,,,22
+Barcelona,El Raval,Location ≥ 8,205,201,0.9804878048780488,4,6.25,0,0.41719512195121955,,,9
+Barcelona,El Fort Pienc,Location ≥ 8,84,84,1.0,0,0.0,0,0.0,,,22
+Barcelona,Vallvidrera El Tibidabo I Les Planes,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,22
+Barcelona,Sants,Location ≥ 8,45,45,1.0,0,0.0,0,0.0,,,22
+Barcelona,Sant Antoni,Location ≥ 8,145,145,1.0,0,0.0,0,0.0,,,22
+Barcelona,Les Corts,Location ≥ 8,28,27,0.9642857142857143,1,7.0,0,0.48571428571428577,,,4
+Barcelona,Horta,Location ≥ 8,10,10,1.0,0,0.0,0,0.0,,,22
+Barcelona,Sant Pere Santa Caterina I La Ribera,Location ≥ 8,176,175,0.9943181818181818,1,7.0,0,0.4977272727272727,,,1
+Barcelona,El Poble Sec,Location ≥ 8,141,141,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Vila De Gràcia,Location ≥ 8,138,137,0.9927536231884058,1,6.0,0,0.39710144927536234,,,12
+Barcelona,La Nova Esquerra De L'Eixample,Location ≥ 8,114,113,0.9912280701754386,1,7.0,0,0.4964912280701754,,,2
+Barcelona,Vilapicina I La Torre Llobeta,Location ≥ 8,10,9,0.9,1,4.0,0,0.16000000000000003,,,20
+Barcelona,La Sagrada Família,Location ≥ 8,132,129,0.9772727272727273,3,6.0,0,0.39090909090909093,,,13
+Barcelona,El Putxet I El Farró,Location ≥ 8,34,33,0.9705882352941176,1,6.0,0,0.38823529411764707,,,15
+Barcelona,El Barri Gòtic,Location ≥ 8,169,168,0.9940828402366864,1,6.0,0,0.39763313609467454,,,11
+Barcelona,El Poblenou,Location ≥ 8,62,62,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Font De La Guatlla,Location ≥ 8,14,14,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Vila Olímpica Del Poblenou,Location ≥ 8,21,19,0.9047619047619048,2,6.5,0,0.41190476190476194,,,10
+Barcelona,El Coll,Location ≥ 8,9,7,0.7777777777777778,2,4.0,0,0.1111111111111111,,,21
+Barcelona,El Parc I La Llacuna Del Poblenou,Location ≥ 8,41,39,0.9512195121951219,2,5.0,0,0.2804878048780488,,,19
+Barcelona,La Prosperitat,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,22
+Barcelona,El Clot,Location ≥ 8,20,20,1.0,0,0.0,0,0.0,,,22
+Barcelona,Les Tres Torres,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,22
+Barcelona,Vallcarca I Els Penitents,Location ≥ 8,22,22,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Salut,Location ≥ 8,13,13,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Barceloneta,Location ≥ 8,57,57,1.0,0,0.0,0,0.0,,,22
+Barcelona,Sarrià,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,22
+Barcelona,Can Baró,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,22
+Barcelona,Sant Gervasi - La Bonanova,Location ≥ 8,10,9,0.9,1,6.0,0,0.36000000000000004,,,18
+Barcelona,Provençals Del Poblenou,Location ≥ 8,14,13,0.9285714285714286,1,7.0,0,0.4714285714285714,,,6
+Barcelona,Sants - Badal,Location ≥ 8,20,19,0.95,1,7.0,0,0.48,,,5
+Barcelona,El Carmel,Location ≥ 8,21,19,0.9047619047619048,2,6.0,0,0.36190476190476195,,,17
+Barcelona,Diagonal Mar I El Front Marítim Del Poblenou,Location ≥ 8,24,24,1.0,0,0.0,0,0.0,,,22
+Barcelona,Sant Gervasi - Galvany,Location ≥ 8,46,46,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Bordeta,Location ≥ 8,19,19,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Marina De Port,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,22
+Barcelona,Pedralbes,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,22
+Barcelona,Sant Genís Dels Agudells,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,22
+Barcelona,El Baix Guinardó,Location ≥ 8,13,13,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Maternitat I Sant Ramon,Location ≥ 8,29,29,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Verneda I La Pau,Location ≥ 8,10,10,1.0,0,0.0,0,0.0,,,22
+Barcelona,El Congrés I Els Indians,Location ≥ 8,11,11,1.0,0,0.0,0,0.0,,,22
+Barcelona,El Besòs I El Maresme,Location ≥ 8,31,25,0.8064516129032258,6,6.5,0,0.3725806451612903,,,16
+Barcelona,Montbau,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,22
+Barcelona,Hostafrancs,Location ≥ 8,43,42,0.9767441860465116,1,6.0,0,0.39069767441860465,,,14
+Barcelona,Navas,Location ≥ 8,7,6,0.8571428571428571,1,7.0,0,0.44285714285714284,,,7
+Barcelona,Sant Martí De Provençals,Location ≥ 8,15,15,1.0,0,0.0,0,0.0,,,22
+Barcelona,El Guinardó,Location ≥ 8,18,18,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Teixonera,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,22
+Barcelona,Verdun,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,22
+Barcelona,El Turó De La Peira,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Guineueta,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,22
+Barcelona,Porta,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,22
+Barcelona,El Bon Pastor,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,22
+Barcelona,La Sagrera,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,22
+Barcelona,Sant Andreu,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,22
+Barcelona,Les Roquetes,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,22
+Girona,Torroella De Fluvià,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,12
+Girona,Capmany,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,12
+Girona,Castelló D'Empúries,Location ≥ 8,87,86,0.9885057471264368,1,7.0,0,0.49540229885057474,,,1
+Girona,Begur,Location ≥ 8,73,72,0.9863013698630136,1,6.0,0,0.39452054794520547,,,8
+Girona,Tossa De Mar,Location ≥ 8,53,52,0.9811320754716981,1,6.0,0,0.39245283018867927,,,9
+Girona,Roses,Location ≥ 8,150,145,0.9666666666666667,5,6.2,0,0.40666666666666673,,,7
+Girona,Palafrugell,Location ≥ 8,77,77,1.0,0,0.0,0,0.0,,,12
+Girona,Girona,Location ≥ 8,49,48,0.9795918367346939,1,6.0,0,0.3918367346938776,,,10
+Girona,Cadaqués,Location ≥ 8,34,34,1.0,0,0.0,0,0.0,,,12
+Girona,L'Escala,Location ≥ 8,99,96,0.9696969696969697,3,6.333333333333333,0,0.42121212121212126,,,5
+Girona,Palamós,Location ≥ 8,31,29,0.9354838709677419,2,6.5,0,0.4241935483870968,,,4
+Girona,Lloret De Mar,Location ≥ 8,130,128,0.9846153846153847,2,6.5,0,0.4438461538461539,,,2
+Girona,Torroella De Montgrí,Location ≥ 8,67,67,1.0,0,0.0,0,0.0,,,12
+Girona,La Selva De Mar,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Llançà,Location ≥ 8,34,32,0.9411764705882353,2,6.5,0,0.4264705882352941,,,3
+Girona,Sant Feliu De Guíxols,Location ≥ 8,43,43,1.0,0,0.0,0,0.0,,,12
+Girona,Blanes,Location ≥ 8,40,40,1.0,0,0.0,0,0.0,,,12
+Girona,Albons,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Calonge,Location ≥ 8,69,66,0.9565217391304348,3,6.333333333333333,0,0.41594202898550725,,,6
+Girona,Ordis,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,12
+Girona,Castell-Platja D'Aro,Location ≥ 8,94,93,0.9893617021276596,1,2.0,0,0.004255319148936176,,,11
+Girona,Cornellà Del Terri,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,12
+Girona,Vilademuls,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Figueres,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,12
+Girona,Pals,Location ≥ 8,50,50,1.0,0,0.0,0,0.0,,,12
+Girona,Alp,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,12
+Girona,Llers,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Vilafran,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Vidreres,Location ≥ 8,14,14,1.0,0,0.0,0,0.0,,,12
+Girona,Ribes De Freser,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,12
+Girona,Campelles,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,El Port De La Selva,Location ≥ 8,12,12,1.0,0,0.0,0,0.0,,,12
+Girona,Santa Cristina D'Aro,Location ≥ 8,19,19,1.0,0,0.0,0,0.0,,,12
+Girona,Banyoles,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,12
+Girona,Cruïlles Monells I Sant Sadurní De L'Heura,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Olot,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,12
+Girona,Sant Pere Pescador,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,12
+Girona,L'Armentera,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Ullà,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Fontanals De Cerdanya,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,12
+Girona,Puigcerdà,Location ≥ 8,12,12,1.0,0,0.0,0,0.0,,,12
+Girona,Santa Pau,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Colera,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Sant Feliu De Pallerols,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Girona,Maçanet De La Selva,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,12
+Valencia,El Pilar,Location ≥ 8,14,14,1.0,0,0.0,0,0.0,,,3
+Valencia,En Corts,Location ≥ 8,18,18,1.0,0,0.0,0,0.0,,,3
+Valencia,Russafa,Location ≥ 8,43,43,1.0,0,0.0,0,0.0,,,3
+Valencia,El Carme,Location ≥ 8,15,15,1.0,0,0.0,0,0.0,,,3
+Valencia,La Seu,Location ≥ 8,16,16,1.0,0,0.0,0,0.0,,,3
+Valencia,Arrancapins,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,3
+Valencia,La Roqueta,Location ≥ 8,16,16,1.0,0,0.0,0,0.0,,,3
+Valencia,Morvedre,Location ≥ 8,10,10,1.0,0,0.0,0,0.0,,,3
+Valencia,Penya-Roja,Location ≥ 8,9,9,1.0,0,0.0,0,0.0,,,3
+Valencia,La Carrasca,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,3
+Valencia,La Gran Via,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,3
+Valencia,Aiora,Location ≥ 8,18,18,1.0,0,0.0,0,0.0,,,3
+Valencia,Mestalla,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,3
+Valencia,El Mercat,Location ≥ 8,19,19,1.0,0,0.0,0,0.0,,,3
+Valencia,La Malva-Rosa,Location ≥ 8,27,27,1.0,0,0.0,0,0.0,,,3
+Valencia,La Xerea,Location ≥ 8,9,9,1.0,0,0.0,0,0.0,,,3
+Valencia,Campanar,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,3
+Valencia,Sant Francesc,Location ≥ 8,27,26,0.9629629629629629,1,2.0,0,0.014814814814814836,,,2
+Valencia,La Raiosa,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,3
+Valencia,Mont-Olivet,Location ≥ 8,12,12,1.0,0,0.0,0,0.0,,,3
+Valencia,El Botanic,Location ≥ 8,9,9,1.0,0,0.0,0,0.0,,,3
+Valencia,Benimaclet,Location ≥ 8,9,9,1.0,0,0.0,0,0.0,,,3
+Valencia,Cabanyal-Canyamelar,Location ≥ 8,52,52,1.0,0,0.0,0,0.0,,,3
+Valencia,El Pla Del Remei,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,3
+Valencia,Marxalenes,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,3
+Valencia,Ciutat Jardi,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,3
+Valencia,Els Orriols,Location ≥ 8,4,3,0.75,1,6.0,0,0.30000000000000004,,,1
+Valencia,Patraix,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,3
+Valencia,Nou Moles,Location ≥ 8,10,10,1.0,0,0.0,0,0.0,,,3
+Valencia,El Perellonet,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,3
+Valencia,Benicalap,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,3
+Valencia,La Petxina,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,3
+Valencia,L'Hort De Senabre,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,3
+Valencia,Benimamet,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,3
+Valencia,Ciutat De Les Arts I De Les Ciencies,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,3
+Valencia,Torrefiel,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,3
+Valencia,Les Tendetes,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,3
+Valencia,Exposicio,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,3
+Valencia,Na Rovella,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,3
+Valencia,Betero,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,3
+Valencia,Albors,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,3
+Valencia,Tres Forques,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,3
+Valencia,El Grau,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,3
+Valencia,El Saler,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,3
+Valencia,L'Amistat,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,3
+Valencia,L'Illa Perduda,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,3
+Valencia,La Creu Del Grau,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,3
+Mallorca,Palma De Mallorca,Location ≥ 8,197,192,0.9746192893401016,5,6.2,0,0.4098477157360407,,,7
+Mallorca,Alcúdia,Location ≥ 8,163,163,1.0,0,0.0,0,0.0,,,13
+Mallorca,Selva,Location ≥ 8,30,30,1.0,0,0.0,0,0.0,,,13
+Mallorca,Santa Margalida,Location ≥ 8,57,57,1.0,0,0.0,0,0.0,,,13
+Mallorca,Campos,Location ≥ 8,51,51,1.0,0,0.0,0,0.0,,,13
+Mallorca,Sóller,Location ≥ 8,43,42,0.9767441860465116,1,6.0,0,0.39069767441860465,,,10
+Mallorca,Valldemossa,Location ≥ 8,11,10,0.9090909090909091,1,7.0,0,0.4636363636363636,,,6
+Mallorca,Santanyí,Location ≥ 8,56,56,1.0,0,0.0,0,0.0,,,13
+Mallorca,Llubí,Location ≥ 8,14,14,1.0,0,0.0,0,0.0,,,13
+Mallorca,Inca,Location ≥ 8,24,23,0.9583333333333334,1,5.0,0,0.2833333333333333,,,12
+Mallorca,Calvià,Location ≥ 8,45,43,0.9555555555555556,2,5.5,0,0.33222222222222225,,,11
+Mallorca,Costitx,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,13
+Mallorca,Pollença,Location ≥ 8,176,175,0.9943181818181818,1,7.0,0,0.4977272727272727,,,1
+Mallorca,Ses Salines,Location ≥ 8,25,25,1.0,0,0.0,0,0.0,,,13
+Mallorca,Manacor,Location ≥ 8,73,72,0.9863013698630136,1,6.0,0,0.39452054794520547,,,8
+Mallorca,Felanitx,Location ≥ 8,49,48,0.9795918367346939,1,7.0,0,0.49183673469387756,,,2
+Mallorca,Puigpunyent,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,13
+Mallorca,Lloseta,Location ≥ 8,11,11,1.0,0,0.0,0,0.0,,,13
+Mallorca,Petra,Location ≥ 8,11,10,0.9090909090909091,1,7.0,0,0.4636363636363636,,,6
+Mallorca,Llucmajor,Location ≥ 8,65,64,0.9846153846153847,1,6.0,0,0.3938461538461539,,,9
+Mallorca,Algaida,Location ≥ 8,12,12,1.0,0,0.0,0,0.0,,,13
+Mallorca,Campanet,Location ≥ 8,18,18,1.0,0,0.0,0,0.0,,,13
+Mallorca,Fornalutx,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,13
+Mallorca,Marratxí,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,13
+Mallorca,Sant Llorenç Des Cardassar,Location ≥ 8,24,23,0.9583333333333334,1,7.0,0,0.4833333333333334,,,4
+Mallorca,Artà,Location ≥ 8,31,31,1.0,0,0.0,0,0.0,,,13
+Mallorca,Muro,Location ≥ 8,37,36,0.972972972972973,1,7.0,0,0.4891891891891892,,,3
+Mallorca,Alaró,Location ≥ 8,12,12,1.0,0,0.0,0,0.0,,,13
+Mallorca,Son Servera,Location ≥ 8,25,25,1.0,0,0.0,0,0.0,,,13
+Mallorca,Lloret De Vistalegre,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,13
+Mallorca,Capdepera,Location ≥ 8,33,33,1.0,0,0.0,0,0.0,,,13
+Mallorca,Esporles,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,13
+Mallorca,Búger,Location ≥ 8,15,15,1.0,0,0.0,0,0.0,,,13
+Mallorca,Deià,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,13
+Mallorca,Sa Pobla,Location ≥ 8,30,30,1.0,0,0.0,0,0.0,,,13
+Mallorca,Maria De La Salut,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,13
+Mallorca,Andratx,Location ≥ 8,13,12,0.9230769230769231,1,7.0,0,0.46923076923076923,,,5
+Mallorca,Montuïri,Location ≥ 8,10,10,1.0,0,0.0,0,0.0,,,13
+Mallorca,Mancor De La Vall,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,13
+Mallorca,Sineu,Location ≥ 8,12,12,1.0,0,0.0,0,0.0,,,13
+Mallorca,Binissalem,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,13
+Mallorca,Sencelles,Location ≥ 8,7,7,1.0,0,0.0,0,0.0,,,13
+Mallorca,Ariany,Location ≥ 8,5,5,1.0,0,0.0,0,0.0,,,13
+Mallorca,Escorca,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,13
+Mallorca,Santa Eugènia,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,13
+Mallorca,Bunyola,Location ≥ 8,9,9,1.0,0,0.0,0,0.0,,,13
+Mallorca,Banyalbufar,Location ≥ 8,3,3,1.0,0,0.0,0,0.0,,,13
+Mallorca,Porreres,Location ≥ 8,8,8,1.0,0,0.0,0,0.0,,,13
+Mallorca,Sant Joan,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,13
+Menorca,Es Mercadal,Location ≥ 8,27,27,1.0,0,0.0,0,0.0,,,2
+Menorca,Ciutadella De Menorca,Location ≥ 8,84,83,0.9880952380952381,1,7.0,0,0.49523809523809526,,,1
+Menorca,Alaior,Location ≥ 8,33,33,1.0,0,0.0,0,0.0,,,2
+Menorca,Mahón,Location ≥ 8,18,18,1.0,0,0.0,0,0.0,,,2
+Menorca,Sant Lluís,Location ≥ 8,34,34,1.0,0,0.0,0,0.0,,,2
+Menorca,Es Castell,Location ≥ 8,6,6,1.0,0,0.0,0,0.0,,,2
+Menorca,Ferreries,Location ≥ 8,4,4,1.0,0,0.0,0,0.0,,,2

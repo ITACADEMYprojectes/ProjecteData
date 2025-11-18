@@ -1,0 +1,19 @@
+-Hoteles
+
+2015:
+Viajeros: ok
+Pernoctaciones: En residencia solo hay españoles/extranjeros
+
+2016:
+idem
+
+2017:
+idem
+
+2018-2021:
+Viajeros: La provincia incluye un prefijo (ej. 08 Barcelona)
+Pernoctaciones: 
+La provincia incluye un prefijo (ej. 08 Barcelona)
+En residencia solo hay españoles/extranjeros
+
+

@@ -18,3 +18,10 @@ La provincia incluye un prefijo (ej. 08 Barcelona)
 En residencia solo hay españoles/extranjeros
 
 
+- Apartamentos:
+Fuente:https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176962&menu=resultados&idp=1254735576863#_tabs-1254736195412
+
+2015-2016:
+Nota: "El símbolo '..' significa dato no significativo"
+
+Pernoctaciones: No incluye procedencia del viajero

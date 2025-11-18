@@ -1,4 +1,4 @@
-año,mes,tipo_acomodacion,provincia,pais_residencia,total_pernoctaciones,total_viajeros
+año,mes,tipo_acomodacion,provincia,pais_residencia,media_pernoctaciones,total_viajeros
 2015,Enero,apartamentos,"Balears, Illes",,7.0,
 2015,Febrero,apartamentos,"Balears, Illes",,6.91,
 2015,Marzo,apartamentos,"Balears, Illes",,7.06,

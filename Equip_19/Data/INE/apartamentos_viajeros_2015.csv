@@ -1,4 +1,16 @@
 Provincias;País de residencia;Meses;Total
+Balears, Illes;Total;Enero;3.705
+Balears, Illes;Total;Febrero;4.382
+Balears, Illes;Total;Marzo;6.536
+Balears, Illes;Total;Abril;36.181
+Balears, Illes;Total;Mayo;145.473
+Balears, Illes;Total;Junio;232.301
+Balears, Illes;Total;Julio;286.441
+Balears, Illes;Total;Agosto;281.185
+Balears, Illes;Total;Septiembre;214.795
+Balears, Illes;Total;Octubre;91.615
+Balears, Illes;Total;Noviembre;5.403
+Balears, Illes;Total;Diciembre;4.831
 Balears, Illes;Residentes en España;Enero;1.323
 Balears, Illes;Residentes en España;Febrero;1.938
 Balears, Illes;Residentes en España;Marzo;1.820
@@ -11,6 +23,30 @@ Balears, Illes;Residentes en España;Septiembre;28.215
 Balears, Illes;Residentes en España;Octubre;9.280
 Balears, Illes;Residentes en España;Noviembre;1.628
 Balears, Illes;Residentes en España;Diciembre;1.058
+Balears, Illes;No residentes en España;Enero;2.382
+Balears, Illes;No residentes en España;Febrero;2.444
+Balears, Illes;No residentes en España;Marzo;4.716
+Balears, Illes;No residentes en España;Abril;30.024
+Balears, Illes;No residentes en España;Mayo;130.186
+Balears, Illes;No residentes en España;Junio;198.333
+Balears, Illes;No residentes en España;Julio;250.217
+Balears, Illes;No residentes en España;Agosto;245.626
+Balears, Illes;No residentes en España;Septiembre;186.580
+Balears, Illes;No residentes en España;Octubre;82.335
+Balears, Illes;No residentes en España;Noviembre;3.775
+Balears, Illes;No residentes en España;Diciembre;3.773
+Balears, Illes;Unión Europea (sin España);Enero;1.950
+Balears, Illes;Unión Europea (sin España);Febrero;2.022
+Balears, Illes;Unión Europea (sin España);Marzo;4.135
+Balears, Illes;Unión Europea (sin España);Abril;27.861
+Balears, Illes;Unión Europea (sin España);Mayo;123.091
+Balears, Illes;Unión Europea (sin España);Junio;186.507
+Balears, Illes;Unión Europea (sin España);Julio;234.060
+Balears, Illes;Unión Europea (sin España);Agosto;229.307
+Balears, Illes;Unión Europea (sin España);Septiembre;176.069
+Balears, Illes;Unión Europea (sin España);Octubre;78.530
+Balears, Illes;Unión Europea (sin España);Noviembre;3.284
+Balears, Illes;Unión Europea (sin España);Diciembre;3.112
 Balears, Illes;Alemania;Enero;1.032
 Balears, Illes;Alemania;Febrero;1.182
 Balears, Illes;Alemania;Marzo;2.026
@@ -311,6 +347,18 @@ Balears, Illes;Resto del mundo;Septiembre;1.916
 Balears, Illes;Resto del mundo;Octubre;571
 Balears, Illes;Resto del mundo;Noviembre;240
 Balears, Illes;Resto del mundo;Diciembre;274
+Barcelona;Total;Enero;16.327
+Barcelona;Total;Febrero;18.065
+Barcelona;Total;Marzo;21.616
+Barcelona;Total;Abril;30.055
+Barcelona;Total;Mayo;31.437
+Barcelona;Total;Junio;29.298
+Barcelona;Total;Julio;32.606
+Barcelona;Total;Agosto;31.825
+Barcelona;Total;Septiembre;31.692
+Barcelona;Total;Octubre;30.323
+Barcelona;Total;Noviembre;17.473
+Barcelona;Total;Diciembre;17.693
 Barcelona;Residentes en España;Enero;5.817
 Barcelona;Residentes en España;Febrero;7.022
 Barcelona;Residentes en España;Marzo;8.394
@@ -323,6 +371,30 @@ Barcelona;Residentes en España;Septiembre;8.812
 Barcelona;Residentes en España;Octubre;9.575
 Barcelona;Residentes en España;Noviembre;6.091
 Barcelona;Residentes en España;Diciembre;6.441
+Barcelona;No residentes en España;Enero;10.510
+Barcelona;No residentes en España;Febrero;11.043
+Barcelona;No residentes en España;Marzo;13.222
+Barcelona;No residentes en España;Abril;19.297
+Barcelona;No residentes en España;Mayo;21.217
+Barcelona;No residentes en España;Junio;21.308
+Barcelona;No residentes en España;Julio;25.970
+Barcelona;No residentes en España;Agosto;25.132
+Barcelona;No residentes en España;Septiembre;22.880
+Barcelona;No residentes en España;Octubre;20.748
+Barcelona;No residentes en España;Noviembre;11.382
+Barcelona;No residentes en España;Diciembre;11.252
+Barcelona;Unión Europea (sin España);Enero;5.731
+Barcelona;Unión Europea (sin España);Febrero;7.542
+Barcelona;Unión Europea (sin España);Marzo;8.266
+Barcelona;Unión Europea (sin España);Abril;13.337
+Barcelona;Unión Europea (sin España);Mayo;14.195
+Barcelona;Unión Europea (sin España);Junio;12.279
+Barcelona;Unión Europea (sin España);Julio;14.771
+Barcelona;Unión Europea (sin España);Agosto;17.319
+Barcelona;Unión Europea (sin España);Septiembre;12.396
+Barcelona;Unión Europea (sin España);Octubre;13.302
+Barcelona;Unión Europea (sin España);Noviembre;6.802
+Barcelona;Unión Europea (sin España);Diciembre;6.932
 Barcelona;Alemania;Enero;769
 Barcelona;Alemania;Febrero;1.049
 Barcelona;Alemania;Marzo;1.298
@@ -623,6 +695,18 @@ Barcelona;Resto del mundo;Septiembre;3.092
 Barcelona;Resto del mundo;Octubre;2.658
 Barcelona;Resto del mundo;Noviembre;1.256
 Barcelona;Resto del mundo;Diciembre;1.199
+Girona;Total;Enero;5.746
+Girona;Total;Febrero;7.860
+Girona;Total;Marzo;7.501
+Girona;Total;Abril;14.521
+Girona;Total;Mayo;23.185
+Girona;Total;Junio;34.420
+Girona;Total;Julio;83.836
+Girona;Total;Agosto;123.455
+Girona;Total;Septiembre;29.222
+Girona;Total;Octubre;13.004
+Girona;Total;Noviembre;3.845
+Girona;Total;Diciembre;7.984
 Girona;Residentes en España;Enero;4.530
 Girona;Residentes en España;Febrero;5.967
 Girona;Residentes en España;Marzo;6.090
@@ -635,6 +719,30 @@ Girona;Residentes en España;Septiembre;10.603
 Girona;Residentes en España;Octubre;6.209
 Girona;Residentes en España;Noviembre;2.555
 Girona;Residentes en España;Diciembre;6.106
+Girona;No residentes en España;Enero;1.217
+Girona;No residentes en España;Febrero;1.893
+Girona;No residentes en España;Marzo;1.411
+Girona;No residentes en España;Abril;6.589
+Girona;No residentes en España;Mayo;15.879
+Girona;No residentes en España;Junio;21.109
+Girona;No residentes en España;Julio;61.616
+Girona;No residentes en España;Agosto;84.151
+Girona;No residentes en España;Septiembre;18.619
+Girona;No residentes en España;Octubre;6.795
+Girona;No residentes en España;Noviembre;1.290
+Girona;No residentes en España;Diciembre;1.877
+Girona;Unión Europea (sin España);Enero;1.095
+Girona;Unión Europea (sin España);Febrero;1.607
+Girona;Unión Europea (sin España);Marzo;1.115
+Girona;Unión Europea (sin España);Abril;5.771
+Girona;Unión Europea (sin España);Mayo;15.053
+Girona;Unión Europea (sin España);Junio;18.603
+Girona;Unión Europea (sin España);Julio;56.903
+Girona;Unión Europea (sin España);Agosto;80.683
+Girona;Unión Europea (sin España);Septiembre;16.808
+Girona;Unión Europea (sin España);Octubre;6.109
+Girona;Unión Europea (sin España);Noviembre;1.126
+Girona;Unión Europea (sin España);Diciembre;1.619
 Girona;Alemania;Enero;150
 Girona;Alemania;Febrero;167
 Girona;Alemania;Marzo;181
@@ -935,6 +1043,18 @@ Girona;Resto del mundo;Septiembre;308
 Girona;Resto del mundo;Octubre;103
 Girona;Resto del mundo;Noviembre;25
 Girona;Resto del mundo;Diciembre;23
+Madrid;Total;Enero;21.251
+Madrid;Total;Febrero;22.676
+Madrid;Total;Marzo;27.990
+Madrid;Total;Abril;32.673
+Madrid;Total;Mayo;33.594
+Madrid;Total;Junio;36.344
+Madrid;Total;Julio;37.044
+Madrid;Total;Agosto;36.707
+Madrid;Total;Septiembre;41.793
+Madrid;Total;Octubre;47.082
+Madrid;Total;Noviembre;34.906
+Madrid;Total;Diciembre;34.480
 Madrid;Residentes en España;Enero;13.662
 Madrid;Residentes en España;Febrero;13.627
 Madrid;Residentes en España;Marzo;15.193
@@ -947,6 +1067,30 @@ Madrid;Residentes en España;Septiembre;19.082
 Madrid;Residentes en España;Octubre;20.534
 Madrid;Residentes en España;Noviembre;17.671
 Madrid;Residentes en España;Diciembre;21.840
+Madrid;No residentes en España;Enero;7.588
+Madrid;No residentes en España;Febrero;9.049
+Madrid;No residentes en España;Marzo;12.797
+Madrid;No residentes en España;Abril;15.804
+Madrid;No residentes en España;Mayo;17.219
+Madrid;No residentes en España;Junio;19.366
+Madrid;No residentes en España;Julio;21.059
+Madrid;No residentes en España;Agosto;19.281
+Madrid;No residentes en España;Septiembre;22.711
+Madrid;No residentes en España;Octubre;26.548
+Madrid;No residentes en España;Noviembre;17.236
+Madrid;No residentes en España;Diciembre;12.639
+Madrid;Unión Europea (sin España);Enero;3.186
+Madrid;Unión Europea (sin España);Febrero;4.283
+Madrid;Unión Europea (sin España);Marzo;5.015
+Madrid;Unión Europea (sin España);Abril;8.047
+Madrid;Unión Europea (sin España);Mayo;8.016
+Madrid;Unión Europea (sin España);Junio;7.431
+Madrid;Unión Europea (sin España);Julio;8.231
+Madrid;Unión Europea (sin España);Agosto;8.233
+Madrid;Unión Europea (sin España);Septiembre;9.480
+Madrid;Unión Europea (sin España);Octubre;11.957
+Madrid;Unión Europea (sin España);Noviembre;8.531
+Madrid;Unión Europea (sin España);Diciembre;5.660
 Madrid;Alemania;Enero;250
 Madrid;Alemania;Febrero;331
 Madrid;Alemania;Marzo;526
@@ -1247,6 +1391,18 @@ Madrid;Resto del mundo;Septiembre;4.344
 Madrid;Resto del mundo;Octubre;4.025
 Madrid;Resto del mundo;Noviembre;2.820
 Madrid;Resto del mundo;Diciembre;2.239
+Málaga;Total;Enero;39.341
+Málaga;Total;Febrero;48.086
+Málaga;Total;Marzo;59.143
+Málaga;Total;Abril;83.861
+Málaga;Total;Mayo;99.708
+Málaga;Total;Junio;96.172
+Málaga;Total;Julio;117.642
+Málaga;Total;Agosto;131.574
+Málaga;Total;Septiembre;98.855
+Málaga;Total;Octubre;90.010
+Málaga;Total;Noviembre;51.733
+Málaga;Total;Diciembre;55.393
 Málaga;Residentes en España;Enero;11.598
 Málaga;Residentes en España;Febrero;14.230
 Málaga;Residentes en España;Marzo;16.112
@@ -1259,6 +1415,30 @@ Málaga;Residentes en España;Septiembre;23.941
 Málaga;Residentes en España;Octubre;14.905
 Málaga;Residentes en España;Noviembre;12.905
 Málaga;Residentes en España;Diciembre;22.987
+Málaga;No residentes en España;Enero;27.743
+Málaga;No residentes en España;Febrero;33.856
+Málaga;No residentes en España;Marzo;43.031
+Málaga;No residentes en España;Abril;64.092
+Málaga;No residentes en España;Mayo;77.526
+Málaga;No residentes en España;Junio;69.542
+Málaga;No residentes en España;Julio;80.506
+Málaga;No residentes en España;Agosto;84.124
+Málaga;No residentes en España;Septiembre;74.914
+Málaga;No residentes en España;Octubre;75.105
+Málaga;No residentes en España;Noviembre;38.828
+Málaga;No residentes en España;Diciembre;32.406
+Málaga;Unión Europea (sin España);Enero;20.548
+Málaga;Unión Europea (sin España);Febrero;27.303
+Málaga;Unión Europea (sin España);Marzo;35.363
+Málaga;Unión Europea (sin España);Abril;53.466
+Málaga;Unión Europea (sin España);Mayo;66.879
+Málaga;Unión Europea (sin España);Junio;57.868
+Málaga;Unión Europea (sin España);Julio;65.410
+Málaga;Unión Europea (sin España);Agosto;65.894
+Málaga;Unión Europea (sin España);Septiembre;61.358
+Málaga;Unión Europea (sin España);Octubre;62.074
+Málaga;Unión Europea (sin España);Noviembre;31.262
+Málaga;Unión Europea (sin España);Diciembre;24.403
 Málaga;Alemania;Enero;1.463
 Málaga;Alemania;Febrero;1.783
 Málaga;Alemania;Marzo;2.696
@@ -1559,6 +1739,18 @@ Málaga;Resto del mundo;Septiembre;3.170
 Málaga;Resto del mundo;Octubre;3.139
 Málaga;Resto del mundo;Noviembre;957
 Málaga;Resto del mundo;Diciembre;1.962
+Sevilla;Total;Enero;12.730
+Sevilla;Total;Febrero;17.208
+Sevilla;Total;Marzo;17.566
+Sevilla;Total;Abril;23.035
+Sevilla;Total;Mayo;25.299
+Sevilla;Total;Junio;19.398
+Sevilla;Total;Julio;17.620
+Sevilla;Total;Agosto;20.642
+Sevilla;Total;Septiembre;23.778
+Sevilla;Total;Octubre;24.667
+Sevilla;Total;Noviembre;16.333
+Sevilla;Total;Diciembre;18.499
 Sevilla;Residentes en España;Enero;6.681
 Sevilla;Residentes en España;Febrero;8.938
 Sevilla;Residentes en España;Marzo;10.248
@@ -1571,6 +1763,30 @@ Sevilla;Residentes en España;Septiembre;10.532
 Sevilla;Residentes en España;Octubre;10.814
 Sevilla;Residentes en España;Noviembre;9.163
 Sevilla;Residentes en España;Diciembre;11.438
+Sevilla;No residentes en España;Enero;6.049
+Sevilla;No residentes en España;Febrero;8.270
+Sevilla;No residentes en España;Marzo;7.318
+Sevilla;No residentes en España;Abril;12.194
+Sevilla;No residentes en España;Mayo;14.126
+Sevilla;No residentes en España;Junio;10.845
+Sevilla;No residentes en España;Julio;10.269
+Sevilla;No residentes en España;Agosto;12.775
+Sevilla;No residentes en España;Septiembre;13.246
+Sevilla;No residentes en España;Octubre;13.853
+Sevilla;No residentes en España;Noviembre;7.170
+Sevilla;No residentes en España;Diciembre;7.061
+Sevilla;Unión Europea (sin España);Enero;3.235
+Sevilla;Unión Europea (sin España);Febrero;5.089
+Sevilla;Unión Europea (sin España);Marzo;4.910
+Sevilla;Unión Europea (sin España);Abril;8.371
+Sevilla;Unión Europea (sin España);Mayo;8.583
+Sevilla;Unión Europea (sin España);Junio;6.199
+Sevilla;Unión Europea (sin España);Julio;5.830
+Sevilla;Unión Europea (sin España);Agosto;9.141
+Sevilla;Unión Europea (sin España);Septiembre;7.865
+Sevilla;Unión Europea (sin España);Octubre;8.587
+Sevilla;Unión Europea (sin España);Noviembre;4.417
+Sevilla;Unión Europea (sin España);Diciembre;4.125
 Sevilla;Alemania;Enero;256
 Sevilla;Alemania;Febrero;619
 Sevilla;Alemania;Marzo;499
@@ -1871,6 +2087,18 @@ Sevilla;Resto del mundo;Septiembre;2.477
 Sevilla;Resto del mundo;Octubre;2.704
 Sevilla;Resto del mundo;Noviembre;1.219
 Sevilla;Resto del mundo;Diciembre;1.169
+Valencia/Valéncia;Total;Enero;7.788
+Valencia/Valéncia;Total;Febrero;10.371
+Valencia/Valéncia;Total;Marzo;12.964
+Valencia/Valéncia;Total;Abril;18.791
+Valencia/Valéncia;Total;Mayo;21.490
+Valencia/Valéncia;Total;Junio;31.044
+Valencia/Valéncia;Total;Julio;45.217
+Valencia/Valéncia;Total;Agosto;49.344
+Valencia/Valéncia;Total;Septiembre;25.178
+Valencia/Valéncia;Total;Octubre;18.499
+Valencia/Valéncia;Total;Noviembre;13.752
+Valencia/Valéncia;Total;Diciembre;12.205
 Valencia/Valéncia;Residentes en España;Enero;3.991
 Valencia/Valéncia;Residentes en España;Febrero;4.784
 Valencia/Valéncia;Residentes en España;Marzo;7.022
@@ -1883,6 +2111,30 @@ Valencia/Valéncia;Residentes en España;Septiembre;14.218
 Valencia/Valéncia;Residentes en España;Octubre;8.732
 Valencia/Valéncia;Residentes en España;Noviembre;6.935
 Valencia/Valéncia;Residentes en España;Diciembre;7.207
+Valencia/Valéncia;No residentes en España;Enero;3.797
+Valencia/Valéncia;No residentes en España;Febrero;5.587
+Valencia/Valéncia;No residentes en España;Marzo;5.942
+Valencia/Valéncia;No residentes en España;Abril;7.615
+Valencia/Valéncia;No residentes en España;Mayo;10.199
+Valencia/Valéncia;No residentes en España;Junio;9.612
+Valencia/Valéncia;No residentes en España;Julio;13.424
+Valencia/Valéncia;No residentes en España;Agosto;16.432
+Valencia/Valéncia;No residentes en España;Septiembre;10.960
+Valencia/Valéncia;No residentes en España;Octubre;9.767
+Valencia/Valéncia;No residentes en España;Noviembre;6.817
+Valencia/Valéncia;No residentes en España;Diciembre;4.997
+Valencia/Valéncia;Unión Europea (sin España);Enero;2.655
+Valencia/Valéncia;Unión Europea (sin España);Febrero;4.044
+Valencia/Valéncia;Unión Europea (sin España);Marzo;4.425
+Valencia/Valéncia;Unión Europea (sin España);Abril;5.553
+Valencia/Valéncia;Unión Europea (sin España);Mayo;8.424
+Valencia/Valéncia;Unión Europea (sin España);Junio;6.960
+Valencia/Valéncia;Unión Europea (sin España);Julio;9.783
+Valencia/Valéncia;Unión Europea (sin España);Agosto;13.584
+Valencia/Valéncia;Unión Europea (sin España);Septiembre;7.694
+Valencia/Valéncia;Unión Europea (sin España);Octubre;7.524
+Valencia/Valéncia;Unión Europea (sin España);Noviembre;5.683
+Valencia/Valéncia;Unión Europea (sin España);Diciembre;3.721
 Valencia/Valéncia;Alemania;Enero;297
 Valencia/Valéncia;Alemania;Febrero;283
 Valencia/Valéncia;Alemania;Marzo;529

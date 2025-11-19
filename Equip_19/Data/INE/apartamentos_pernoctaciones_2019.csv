@@ -1,85 +1,2437 @@
-Provincias;Meses;Total
-07 Balears, Illes;Enero;9,48
-07 Balears, Illes;Febrero;7,27
-07 Balears, Illes;Marzo;6,09
-07 Balears, Illes;Abril;5,81
-07 Balears, Illes;Mayo;5,59
-07 Balears, Illes;Junio;5,96
-07 Balears, Illes;Julio;6,06
-07 Balears, Illes;Agosto;5,96
-07 Balears, Illes;Septiembre;6,13
-07 Balears, Illes;Octubre;6,36
-07 Balears, Illes;Noviembre;5,81
-07 Balears, Illes;Diciembre;5,28
-08 Barcelona;Enero;7,41
-08 Barcelona;Febrero;6,88
-08 Barcelona;Marzo;5,95
-08 Barcelona;Abril;5,72
-08 Barcelona;Mayo;5,62
-08 Barcelona;Junio;5,24
-08 Barcelona;Julio;3,90
-08 Barcelona;Agosto;4,47
-08 Barcelona;Septiembre;4,97
-08 Barcelona;Octubre;5,65
-08 Barcelona;Noviembre;6,20
-08 Barcelona;Diciembre;6,10
-17 Girona;Enero;3,15
-17 Girona;Febrero;2,84
-17 Girona;Marzo;2,80
-17 Girona;Abril;3,18
-17 Girona;Mayo;4,10
-17 Girona;Junio;4,89
-17 Girona;Julio;7,41
-17 Girona;Agosto;7,98
-17 Girona;Septiembre;6,32
-17 Girona;Octubre;4,15
-17 Girona;Noviembre;2,50
-17 Girona;Diciembre;2,94
-28 Madrid;Enero;4,08
-28 Madrid;Febrero;3,59
-28 Madrid;Marzo;3,47
-28 Madrid;Abril;3,35
-28 Madrid;Mayo;3,30
-28 Madrid;Junio;3,19
-28 Madrid;Julio;3,28
-28 Madrid;Agosto;3,42
-28 Madrid;Septiembre;3,20
-28 Madrid;Octubre;3,19
-28 Madrid;Noviembre;3,30
-28 Madrid;Diciembre;3,42
-29 Málaga;Enero;5,05
-29 Málaga;Febrero;4,93
-29 Málaga;Marzo;4,89
-29 Málaga;Abril;4,62
-29 Málaga;Mayo;4,55
-29 Málaga;Junio;4,82
-29 Málaga;Julio;5,60
-29 Málaga;Agosto;5,43
-29 Málaga;Septiembre;4,97
-29 Málaga;Octubre;5,08
-29 Málaga;Noviembre;4,62
-29 Málaga;Diciembre;4,32
-41 Sevilla;Enero;2,53
-41 Sevilla;Febrero;2,32
-41 Sevilla;Marzo;2,37
-41 Sevilla;Abril;2,51
-41 Sevilla;Mayo;2,34
-41 Sevilla;Junio;2,35
-41 Sevilla;Julio;2,56
-41 Sevilla;Agosto;2,47
-41 Sevilla;Septiembre;2,35
-41 Sevilla;Octubre;2,34
-41 Sevilla;Noviembre;2,33
-41 Sevilla;Diciembre;2,60
-46 Valencia/València;Enero;3,73
-46 Valencia/València;Febrero;3,49
-46 Valencia/València;Marzo;3,72
-46 Valencia/València;Abril;3,28
-46 Valencia/València;Mayo;3,17
-46 Valencia/València;Junio;3,96
-46 Valencia/València;Julio;6,84
-46 Valencia/València;Agosto;6,84
-46 Valencia/València;Septiembre;4,41
-46 Valencia/València;Octubre;3,32
-46 Valencia/València;Noviembre;3,18
-46 Valencia/València;Diciembre;3,40
+Provincias;País de residencia;Meses;Total
+07 Balears, Illes;Total;Enero;22.209
+07 Balears, Illes;Total;Febrero;34.566
+07 Balears, Illes;Total;Marzo;57.610
+07 Balears, Illes;Total;Abril;251.176
+07 Balears, Illes;Total;Mayo;965.395
+07 Balears, Illes;Total;Junio;1.479.439
+07 Balears, Illes;Total;Julio;1.777.706
+07 Balears, Illes;Total;Agosto;1.914.869
+07 Balears, Illes;Total;Septiembre;1.441.693
+07 Balears, Illes;Total;Octubre;685.752
+07 Balears, Illes;Total;Noviembre;37.509
+07 Balears, Illes;Total;Diciembre;33.052
+07 Balears, Illes;Residentes en España;Enero;4.611
+07 Balears, Illes;Residentes en España;Febrero;5.336
+07 Balears, Illes;Residentes en España;Marzo;7.340
+07 Balears, Illes;Residentes en España;Abril;28.627
+07 Balears, Illes;Residentes en España;Mayo;84.992
+07 Balears, Illes;Residentes en España;Junio;196.710
+07 Balears, Illes;Residentes en España;Julio;231.582
+07 Balears, Illes;Residentes en España;Agosto;277.007
+07 Balears, Illes;Residentes en España;Septiembre;175.824
+07 Balears, Illes;Residentes en España;Octubre;59.435
+07 Balears, Illes;Residentes en España;Noviembre;6.887
+07 Balears, Illes;Residentes en España;Diciembre;7.554
+07 Balears, Illes;No residentes en España;Enero;17.598
+07 Balears, Illes;No residentes en España;Febrero;29.230
+07 Balears, Illes;No residentes en España;Marzo;50.270
+07 Balears, Illes;No residentes en España;Abril;222.549
+07 Balears, Illes;No residentes en España;Mayo;880.404
+07 Balears, Illes;No residentes en España;Junio;1.282.728
+07 Balears, Illes;No residentes en España;Julio;1.546.124
+07 Balears, Illes;No residentes en España;Agosto;1.637.862
+07 Balears, Illes;No residentes en España;Septiembre;1.265.869
+07 Balears, Illes;No residentes en España;Octubre;626.317
+07 Balears, Illes;No residentes en España;Noviembre;30.622
+07 Balears, Illes;No residentes en España;Diciembre;25.498
+07 Balears, Illes;Unión Europea (sin España);Enero;14.412
+07 Balears, Illes;Unión Europea (sin España);Febrero;25.103
+07 Balears, Illes;Unión Europea (sin España);Marzo;44.816
+07 Balears, Illes;Unión Europea (sin España);Abril;203.801
+07 Balears, Illes;Unión Europea (sin España);Mayo;823.017
+07 Balears, Illes;Unión Europea (sin España);Junio;1.189.706
+07 Balears, Illes;Unión Europea (sin España);Julio;1.404.208
+07 Balears, Illes;Unión Europea (sin España);Agosto;1.520.031
+07 Balears, Illes;Unión Europea (sin España);Septiembre;1.174.588
+07 Balears, Illes;Unión Europea (sin España);Octubre;584.803
+07 Balears, Illes;Unión Europea (sin España);Noviembre;25.435
+07 Balears, Illes;Unión Europea (sin España);Diciembre;19.814
+07 Balears, Illes;Alemania;Enero;8.405
+07 Balears, Illes;Alemania;Febrero;14.185
+07 Balears, Illes;Alemania;Marzo;25.413
+07 Balears, Illes;Alemania;Abril;59.209
+07 Balears, Illes;Alemania;Mayo;119.861
+07 Balears, Illes;Alemania;Junio;172.098
+07 Balears, Illes;Alemania;Julio;185.223
+07 Balears, Illes;Alemania;Agosto;164.465
+07 Balears, Illes;Alemania;Septiembre;165.803
+07 Balears, Illes;Alemania;Octubre;107.229
+07 Balears, Illes;Alemania;Noviembre;14.018
+07 Balears, Illes;Alemania;Diciembre;10.774
+07 Balears, Illes;Austria;Enero;525
+07 Balears, Illes;Austria;Febrero;339
+07 Balears, Illes;Austria;Marzo;847
+07 Balears, Illes;Austria;Abril;2.262
+07 Balears, Illes;Austria;Mayo;3.412
+07 Balears, Illes;Austria;Junio;5.684
+07 Balears, Illes;Austria;Julio;7.224
+07 Balears, Illes;Austria;Agosto;7.189
+07 Balears, Illes;Austria;Septiembre;7.951
+07 Balears, Illes;Austria;Octubre;3.054
+07 Balears, Illes;Austria;Noviembre;482
+07 Balears, Illes;Austria;Diciembre;228
+07 Balears, Illes;Bélgica;Enero;..
+07 Balears, Illes;Bélgica;Febrero;..
+07 Balears, Illes;Bélgica;Marzo;441
+07 Balears, Illes;Bélgica;Abril;4.028
+07 Balears, Illes;Bélgica;Mayo;6.959
+07 Balears, Illes;Bélgica;Junio;7.374
+07 Balears, Illes;Bélgica;Julio;11.675
+07 Balears, Illes;Bélgica;Agosto;7.839
+07 Balears, Illes;Bélgica;Septiembre;9.966
+07 Balears, Illes;Bélgica;Octubre;3.664
+07 Balears, Illes;Bélgica;Noviembre;212
+07 Balears, Illes;Bélgica;Diciembre;234
+07 Balears, Illes;Dinamarca;Enero;195
+07 Balears, Illes;Dinamarca;Febrero;263
+07 Balears, Illes;Dinamarca;Marzo;1.509
+07 Balears, Illes;Dinamarca;Abril;4.789
+07 Balears, Illes;Dinamarca;Mayo;18.617
+07 Balears, Illes;Dinamarca;Junio;29.578
+07 Balears, Illes;Dinamarca;Julio;54.385
+07 Balears, Illes;Dinamarca;Agosto;32.212
+07 Balears, Illes;Dinamarca;Septiembre;28.262
+07 Balears, Illes;Dinamarca;Octubre;10.945
+07 Balears, Illes;Dinamarca;Noviembre;350
+07 Balears, Illes;Dinamarca;Diciembre;126
+07 Balears, Illes;Finlandia;Enero;362
+07 Balears, Illes;Finlandia;Febrero;415
+07 Balears, Illes;Finlandia;Marzo;279
+07 Balears, Illes;Finlandia;Abril;2.632
+07 Balears, Illes;Finlandia;Mayo;7.227
+07 Balears, Illes;Finlandia;Junio;8.900
+07 Balears, Illes;Finlandia;Julio;10.256
+07 Balears, Illes;Finlandia;Agosto;6.357
+07 Balears, Illes;Finlandia;Septiembre;7.320
+07 Balears, Illes;Finlandia;Octubre;3.210
+07 Balears, Illes;Finlandia;Noviembre;610
+07 Balears, Illes;Finlandia;Diciembre;507
+07 Balears, Illes;Francia;Enero;455
+07 Balears, Illes;Francia;Febrero;705
+07 Balears, Illes;Francia;Marzo;906
+07 Balears, Illes;Francia;Abril;15.405
+07 Balears, Illes;Francia;Mayo;44.415
+07 Balears, Illes;Francia;Junio;47.877
+07 Balears, Illes;Francia;Julio;74.842
+07 Balears, Illes;Francia;Agosto;103.747
+07 Balears, Illes;Francia;Septiembre;54.127
+07 Balears, Illes;Francia;Octubre;25.928
+07 Balears, Illes;Francia;Noviembre;641
+07 Balears, Illes;Francia;Diciembre;690
+07 Balears, Illes;Grecia;Enero;..
+07 Balears, Illes;Grecia;Febrero;..
+07 Balears, Illes;Grecia;Marzo;..
+07 Balears, Illes;Grecia;Abril;227
+07 Balears, Illes;Grecia;Mayo;1.123
+07 Balears, Illes;Grecia;Junio;1.267
+07 Balears, Illes;Grecia;Julio;1.640
+07 Balears, Illes;Grecia;Agosto;5.762
+07 Balears, Illes;Grecia;Septiembre;1.393
+07 Balears, Illes;Grecia;Octubre;620
+07 Balears, Illes;Grecia;Noviembre;..
+07 Balears, Illes;Grecia;Diciembre;..
+07 Balears, Illes;Irlanda;Enero;14
+07 Balears, Illes;Irlanda;Febrero;387
+07 Balears, Illes;Irlanda;Marzo;155
+07 Balears, Illes;Irlanda;Abril;8.502
+07 Balears, Illes;Irlanda;Mayo;45.760
+07 Balears, Illes;Irlanda;Junio;60.089
+07 Balears, Illes;Irlanda;Julio;70.265
+07 Balears, Illes;Irlanda;Agosto;64.610
+07 Balears, Illes;Irlanda;Septiembre;52.502
+07 Balears, Illes;Irlanda;Octubre;24.954
+07 Balears, Illes;Irlanda;Noviembre;178
+07 Balears, Illes;Irlanda;Diciembre;182
+07 Balears, Illes;Italia;Enero;410
+07 Balears, Illes;Italia;Febrero;354
+07 Balears, Illes;Italia;Marzo;533
+07 Balears, Illes;Italia;Abril;7.391
+07 Balears, Illes;Italia;Mayo;35.887
+07 Balears, Illes;Italia;Junio;90.005
+07 Balears, Illes;Italia;Julio;155.239
+07 Balears, Illes;Italia;Agosto;229.880
+07 Balears, Illes;Italia;Septiembre;115.043
+07 Balears, Illes;Italia;Octubre;22.565
+07 Balears, Illes;Italia;Noviembre;452
+07 Balears, Illes;Italia;Diciembre;615
+07 Balears, Illes;Luxemburgo;Enero;..
+07 Balears, Illes;Luxemburgo;Febrero;224
+07 Balears, Illes;Luxemburgo;Marzo;..
+07 Balears, Illes;Luxemburgo;Abril;108
+07 Balears, Illes;Luxemburgo;Mayo;898
+07 Balears, Illes;Luxemburgo;Junio;2.800
+07 Balears, Illes;Luxemburgo;Julio;986
+07 Balears, Illes;Luxemburgo;Agosto;1.631
+07 Balears, Illes;Luxemburgo;Septiembre;1.171
+07 Balears, Illes;Luxemburgo;Octubre;210
+07 Balears, Illes;Luxemburgo;Noviembre;..
+07 Balears, Illes;Luxemburgo;Diciembre;..
+07 Balears, Illes;Países Bajos;Enero;43
+07 Balears, Illes;Países Bajos;Febrero;577
+07 Balears, Illes;Países Bajos;Marzo;2.648
+07 Balears, Illes;Países Bajos;Abril;11.116
+07 Balears, Illes;Países Bajos;Mayo;88.399
+07 Balears, Illes;Países Bajos;Junio;100.662
+07 Balears, Illes;Países Bajos;Julio;91.632
+07 Balears, Illes;Países Bajos;Agosto;104.435
+07 Balears, Illes;Países Bajos;Septiembre;77.714
+07 Balears, Illes;Países Bajos;Octubre;50.692
+07 Balears, Illes;Países Bajos;Noviembre;560
+07 Balears, Illes;Países Bajos;Diciembre;471
+07 Balears, Illes;Polonia;Enero;550
+07 Balears, Illes;Polonia;Febrero;393
+07 Balears, Illes;Polonia;Marzo;766
+07 Balears, Illes;Polonia;Abril;5.412
+07 Balears, Illes;Polonia;Mayo;11.116
+07 Balears, Illes;Polonia;Junio;22.022
+07 Balears, Illes;Polonia;Julio;22.036
+07 Balears, Illes;Polonia;Agosto;26.284
+07 Balears, Illes;Polonia;Septiembre;26.407
+07 Balears, Illes;Polonia;Octubre;9.538
+07 Balears, Illes;Polonia;Noviembre;344
+07 Balears, Illes;Polonia;Diciembre;207
+07 Balears, Illes;Portugal;Enero;173
+07 Balears, Illes;Portugal;Febrero;40
+07 Balears, Illes;Portugal;Marzo;228
+07 Balears, Illes;Portugal;Abril;718
+07 Balears, Illes;Portugal;Mayo;2.251
+07 Balears, Illes;Portugal;Junio;7.388
+07 Balears, Illes;Portugal;Julio;9.633
+07 Balears, Illes;Portugal;Agosto;10.835
+07 Balears, Illes;Portugal;Septiembre;17.034
+07 Balears, Illes;Portugal;Octubre;1.036
+07 Balears, Illes;Portugal;Noviembre;..
+07 Balears, Illes;Portugal;Diciembre;..
+07 Balears, Illes;Reino Unido;Enero;1.908
+07 Balears, Illes;Reino Unido;Febrero;5.433
+07 Balears, Illes;Reino Unido;Marzo;7.830
+07 Balears, Illes;Reino Unido;Abril;70.710
+07 Balears, Illes;Reino Unido;Mayo;383.392
+07 Balears, Illes;Reino Unido;Junio;552.496
+07 Balears, Illes;Reino Unido;Julio;619.591
+07 Balears, Illes;Reino Unido;Agosto;665.078
+07 Balears, Illes;Reino Unido;Septiembre;521.827
+07 Balears, Illes;Reino Unido;Octubre;281.740
+07 Balears, Illes;Reino Unido;Noviembre;5.958
+07 Balears, Illes;Reino Unido;Diciembre;4.875
+07 Balears, Illes;Republica Checa;Enero;192
+07 Balears, Illes;Republica Checa;Febrero;..
+07 Balears, Illes;Republica Checa;Marzo;194
+07 Balears, Illes;Republica Checa;Abril;971
+07 Balears, Illes;Republica Checa;Mayo;2.298
+07 Balears, Illes;Republica Checa;Junio;5.866
+07 Balears, Illes;Republica Checa;Julio;9.597
+07 Balears, Illes;Republica Checa;Agosto;5.827
+07 Balears, Illes;Republica Checa;Septiembre;7.290
+07 Balears, Illes;Republica Checa;Octubre;2.532
+07 Balears, Illes;Republica Checa;Noviembre;..
+07 Balears, Illes;Republica Checa;Diciembre;72
+07 Balears, Illes;Suecia;Enero;..
+07 Balears, Illes;Suecia;Febrero;1.389
+07 Balears, Illes;Suecia;Marzo;2.339
+07 Balears, Illes;Suecia;Abril;7.591
+07 Balears, Illes;Suecia;Mayo;35.719
+07 Balears, Illes;Suecia;Junio;59.340
+07 Balears, Illes;Suecia;Julio;63.475
+07 Balears, Illes;Suecia;Agosto;59.471
+07 Balears, Illes;Suecia;Septiembre;59.947
+07 Balears, Illes;Suecia;Octubre;24.804
+07 Balears, Illes;Suecia;Noviembre;1.258
+07 Balears, Illes;Suecia;Diciembre;..
+07 Balears, Illes;Resto de la UE;Enero;..
+07 Balears, Illes;Resto de la UE;Febrero;..
+07 Balears, Illes;Resto de la UE;Marzo;574
+07 Balears, Illes;Resto de la UE;Abril;2.731
+07 Balears, Illes;Resto de la UE;Mayo;15.684
+07 Balears, Illes;Resto de la UE;Junio;16.260
+07 Balears, Illes;Resto de la UE;Julio;16.508
+07 Balears, Illes;Resto de la UE;Agosto;24.409
+07 Balears, Illes;Resto de la UE;Septiembre;20.828
+07 Balears, Illes;Resto de la UE;Octubre;12.081
+07 Balears, Illes;Resto de la UE;Noviembre;216
+07 Balears, Illes;Resto de la UE;Diciembre;285
+07 Balears, Illes;Noruega;Enero;329
+07 Balears, Illes;Noruega;Febrero;546
+07 Balears, Illes;Noruega;Marzo;916
+07 Balears, Illes;Noruega;Abril;3.032
+07 Balears, Illes;Noruega;Mayo;15.108
+07 Balears, Illes;Noruega;Junio;21.362
+07 Balears, Illes;Noruega;Julio;36.169
+07 Balears, Illes;Noruega;Agosto;17.121
+07 Balears, Illes;Noruega;Septiembre;15.618
+07 Balears, Illes;Noruega;Octubre;6.367
+07 Balears, Illes;Noruega;Noviembre;1.348
+07 Balears, Illes;Noruega;Diciembre;470
+07 Balears, Illes;Rusia;Enero;320
+07 Balears, Illes;Rusia;Febrero;..
+07 Balears, Illes;Rusia;Marzo;..
+07 Balears, Illes;Rusia;Abril;596
+07 Balears, Illes;Rusia;Mayo;8.693
+07 Balears, Illes;Rusia;Junio;19.571
+07 Balears, Illes;Rusia;Julio;13.843
+07 Balears, Illes;Rusia;Agosto;16.600
+07 Balears, Illes;Rusia;Septiembre;20.101
+07 Balears, Illes;Rusia;Octubre;6.766
+07 Balears, Illes;Rusia;Noviembre;264
+07 Balears, Illes;Rusia;Diciembre;199
+07 Balears, Illes;Suiza;Enero;313
+07 Balears, Illes;Suiza;Febrero;425
+07 Balears, Illes;Suiza;Marzo;1.222
+07 Balears, Illes;Suiza;Abril;5.119
+07 Balears, Illes;Suiza;Mayo;6.823
+07 Balears, Illes;Suiza;Junio;11.968
+07 Balears, Illes;Suiza;Julio;26.460
+07 Balears, Illes;Suiza;Agosto;13.651
+07 Balears, Illes;Suiza;Septiembre;11.220
+07 Balears, Illes;Suiza;Octubre;7.101
+07 Balears, Illes;Suiza;Noviembre;946
+07 Balears, Illes;Suiza;Diciembre;596
+07 Balears, Illes;Resto de Europa;Enero;..
+07 Balears, Illes;Resto de Europa;Febrero;..
+07 Balears, Illes;Resto de Europa;Marzo;42
+07 Balears, Illes;Resto de Europa;Abril;1.178
+07 Balears, Illes;Resto de Europa;Mayo;5.870
+07 Balears, Illes;Resto de Europa;Junio;8.879
+07 Balears, Illes;Resto de Europa;Julio;13.991
+07 Balears, Illes;Resto de Europa;Agosto;10.959
+07 Balears, Illes;Resto de Europa;Septiembre;13.327
+07 Balears, Illes;Resto de Europa;Octubre;6.719
+07 Balears, Illes;Resto de Europa;Noviembre;188
+07 Balears, Illes;Resto de Europa;Diciembre;187
+07 Balears, Illes;Estados Unidos;Enero;583
+07 Balears, Illes;Estados Unidos;Febrero;826
+07 Balears, Illes;Estados Unidos;Marzo;283
+07 Balears, Illes;Estados Unidos;Abril;3.325
+07 Balears, Illes;Estados Unidos;Mayo;6.091
+07 Balears, Illes;Estados Unidos;Junio;7.042
+07 Balears, Illes;Estados Unidos;Julio;8.844
+07 Balears, Illes;Estados Unidos;Agosto;8.281
+07 Balears, Illes;Estados Unidos;Septiembre;8.010
+07 Balears, Illes;Estados Unidos;Octubre;4.030
+07 Balears, Illes;Estados Unidos;Noviembre;693
+07 Balears, Illes;Estados Unidos;Diciembre;1.358
+07 Balears, Illes;Resto de América;Enero;747
+07 Balears, Illes;Resto de América;Febrero;839
+07 Balears, Illes;Resto de América;Marzo;1.343
+07 Balears, Illes;Resto de América;Abril;1.607
+07 Balears, Illes;Resto de América;Mayo;6.135
+07 Balears, Illes;Resto de América;Junio;8.387
+07 Balears, Illes;Resto de América;Julio;10.678
+07 Balears, Illes;Resto de América;Agosto;13.816
+07 Balears, Illes;Resto de América;Septiembre;9.602
+07 Balears, Illes;Resto de América;Octubre;2.928
+07 Balears, Illes;Resto de América;Noviembre;985
+07 Balears, Illes;Resto de América;Diciembre;1.102
+07 Balears, Illes;Países Africanos;Enero;..
+07 Balears, Illes;Países Africanos;Febrero;152
+07 Balears, Illes;Países Africanos;Marzo;..
+07 Balears, Illes;Países Africanos;Abril;263
+07 Balears, Illes;Países Africanos;Mayo;2.797
+07 Balears, Illes;Países Africanos;Junio;1.685
+07 Balears, Illes;Países Africanos;Julio;4.251
+07 Balears, Illes;Países Africanos;Agosto;5.529
+07 Balears, Illes;Países Africanos;Septiembre;3.037
+07 Balears, Illes;Países Africanos;Octubre;3.389
+07 Balears, Illes;Países Africanos;Noviembre;140
+07 Balears, Illes;Países Africanos;Diciembre;229
+07 Balears, Illes;Resto del mundo;Enero;719
+07 Balears, Illes;Resto del mundo;Febrero;1.240
+07 Balears, Illes;Resto del mundo;Marzo;1.223
+07 Balears, Illes;Resto del mundo;Abril;3.628
+07 Balears, Illes;Resto del mundo;Mayo;5.870
+07 Balears, Illes;Resto del mundo;Junio;14.129
+07 Balears, Illes;Resto del mundo;Julio;27.679
+07 Balears, Illes;Resto del mundo;Agosto;31.874
+07 Balears, Illes;Resto del mundo;Septiembre;10.367
+07 Balears, Illes;Resto del mundo;Octubre;4.215
+07 Balears, Illes;Resto del mundo;Noviembre;623
+07 Balears, Illes;Resto del mundo;Diciembre;1.543
+08 Barcelona;Total;Enero;144.050
+08 Barcelona;Total;Febrero;153.100
+08 Barcelona;Total;Marzo;166.237
+08 Barcelona;Total;Abril;184.727
+08 Barcelona;Total;Mayo;180.277
+08 Barcelona;Total;Junio;190.644
+08 Barcelona;Total;Julio;155.078
+08 Barcelona;Total;Agosto;167.113
+08 Barcelona;Total;Septiembre;193.064
+08 Barcelona;Total;Octubre;187.212
+08 Barcelona;Total;Noviembre;145.198
+08 Barcelona;Total;Diciembre;153.372
+08 Barcelona;Residentes en España;Enero;70.530
+08 Barcelona;Residentes en España;Febrero;66.395
+08 Barcelona;Residentes en España;Marzo;77.840
+08 Barcelona;Residentes en España;Abril;76.871
+08 Barcelona;Residentes en España;Mayo;76.940
+08 Barcelona;Residentes en España;Junio;77.892
+08 Barcelona;Residentes en España;Julio;39.039
+08 Barcelona;Residentes en España;Agosto;44.713
+08 Barcelona;Residentes en España;Septiembre;77.082
+08 Barcelona;Residentes en España;Octubre;82.376
+08 Barcelona;Residentes en España;Noviembre;72.381
+08 Barcelona;Residentes en España;Diciembre;73.063
+08 Barcelona;No residentes en España;Enero;73.520
+08 Barcelona;No residentes en España;Febrero;86.705
+08 Barcelona;No residentes en España;Marzo;88.398
+08 Barcelona;No residentes en España;Abril;107.857
+08 Barcelona;No residentes en España;Mayo;103.337
+08 Barcelona;No residentes en España;Junio;112.752
+08 Barcelona;No residentes en España;Julio;116.039
+08 Barcelona;No residentes en España;Agosto;122.400
+08 Barcelona;No residentes en España;Septiembre;115.982
+08 Barcelona;No residentes en España;Octubre;104.835
+08 Barcelona;No residentes en España;Noviembre;72.817
+08 Barcelona;No residentes en España;Diciembre;80.309
+08 Barcelona;Unión Europea (sin España);Enero;29.900
+08 Barcelona;Unión Europea (sin España);Febrero;41.812
+08 Barcelona;Unión Europea (sin España);Marzo;40.315
+08 Barcelona;Unión Europea (sin España);Abril;57.808
+08 Barcelona;Unión Europea (sin España);Mayo;53.571
+08 Barcelona;Unión Europea (sin España);Junio;52.680
+08 Barcelona;Unión Europea (sin España);Julio;63.582
+08 Barcelona;Unión Europea (sin España);Agosto;80.705
+08 Barcelona;Unión Europea (sin España);Septiembre;66.970
+08 Barcelona;Unión Europea (sin España);Octubre;62.522
+08 Barcelona;Unión Europea (sin España);Noviembre;43.400
+08 Barcelona;Unión Europea (sin España);Diciembre;43.763
+08 Barcelona;Alemania;Enero;4.639
+08 Barcelona;Alemania;Febrero;4.585
+08 Barcelona;Alemania;Marzo;5.161
+08 Barcelona;Alemania;Abril;7.265
+08 Barcelona;Alemania;Mayo;6.746
+08 Barcelona;Alemania;Junio;7.522
+08 Barcelona;Alemania;Julio;7.306
+08 Barcelona;Alemania;Agosto;6.611
+08 Barcelona;Alemania;Septiembre;8.134
+08 Barcelona;Alemania;Octubre;7.193
+08 Barcelona;Alemania;Noviembre;3.306
+08 Barcelona;Alemania;Diciembre;3.611
+08 Barcelona;Austria;Enero;438
+08 Barcelona;Austria;Febrero;674
+08 Barcelona;Austria;Marzo;1.096
+08 Barcelona;Austria;Abril;886
+08 Barcelona;Austria;Mayo;597
+08 Barcelona;Austria;Junio;811
+08 Barcelona;Austria;Julio;872
+08 Barcelona;Austria;Agosto;1.226
+08 Barcelona;Austria;Septiembre;1.362
+08 Barcelona;Austria;Octubre;1.070
+08 Barcelona;Austria;Noviembre;620
+08 Barcelona;Austria;Diciembre;513
+08 Barcelona;Bélgica;Enero;919
+08 Barcelona;Bélgica;Febrero;545
+08 Barcelona;Bélgica;Marzo;1.349
+08 Barcelona;Bélgica;Abril;1.125
+08 Barcelona;Bélgica;Mayo;699
+08 Barcelona;Bélgica;Junio;1.005
+08 Barcelona;Bélgica;Julio;1.796
+08 Barcelona;Bélgica;Agosto;1.720
+08 Barcelona;Bélgica;Septiembre;2.380
+08 Barcelona;Bélgica;Octubre;848
+08 Barcelona;Bélgica;Noviembre;1.055
+08 Barcelona;Bélgica;Diciembre;986
+08 Barcelona;Dinamarca;Enero;519
+08 Barcelona;Dinamarca;Febrero;430
+08 Barcelona;Dinamarca;Marzo;935
+08 Barcelona;Dinamarca;Abril;1.112
+08 Barcelona;Dinamarca;Mayo;645
+08 Barcelona;Dinamarca;Junio;603
+08 Barcelona;Dinamarca;Julio;2.893
+08 Barcelona;Dinamarca;Agosto;1.065
+08 Barcelona;Dinamarca;Septiembre;845
+08 Barcelona;Dinamarca;Octubre;668
+08 Barcelona;Dinamarca;Noviembre;999
+08 Barcelona;Dinamarca;Diciembre;440
+08 Barcelona;Finlandia;Enero;138
+08 Barcelona;Finlandia;Febrero;558
+08 Barcelona;Finlandia;Marzo;550
+08 Barcelona;Finlandia;Abril;509
+08 Barcelona;Finlandia;Mayo;649
+08 Barcelona;Finlandia;Junio;709
+08 Barcelona;Finlandia;Julio;594
+08 Barcelona;Finlandia;Agosto;175
+08 Barcelona;Finlandia;Septiembre;322
+08 Barcelona;Finlandia;Octubre;780
+08 Barcelona;Finlandia;Noviembre;523
+08 Barcelona;Finlandia;Diciembre;87
+08 Barcelona;Francia;Enero;5.143
+08 Barcelona;Francia;Febrero;7.845
+08 Barcelona;Francia;Marzo;6.295
+08 Barcelona;Francia;Abril;13.634
+08 Barcelona;Francia;Mayo;..
+08 Barcelona;Francia;Junio;7.831
+08 Barcelona;Francia;Julio;13.493
+08 Barcelona;Francia;Agosto;27.039
+08 Barcelona;Francia;Septiembre;10.917
+08 Barcelona;Francia;Octubre;13.335
+08 Barcelona;Francia;Noviembre;..
+08 Barcelona;Francia;Diciembre;11.939
+08 Barcelona;Grecia;Enero;..
+08 Barcelona;Grecia;Febrero;..
+08 Barcelona;Grecia;Marzo;..
+08 Barcelona;Grecia;Abril;459
+08 Barcelona;Grecia;Mayo;469
+08 Barcelona;Grecia;Junio;256
+08 Barcelona;Grecia;Julio;294
+08 Barcelona;Grecia;Agosto;211
+08 Barcelona;Grecia;Septiembre;467
+08 Barcelona;Grecia;Octubre;328
+08 Barcelona;Grecia;Noviembre;..
+08 Barcelona;Grecia;Diciembre;..
+08 Barcelona;Irlanda;Enero;377
+08 Barcelona;Irlanda;Febrero;871
+08 Barcelona;Irlanda;Marzo;551
+08 Barcelona;Irlanda;Abril;1.275
+08 Barcelona;Irlanda;Mayo;914
+08 Barcelona;Irlanda;Junio;614
+08 Barcelona;Irlanda;Julio;744
+08 Barcelona;Irlanda;Agosto;957
+08 Barcelona;Irlanda;Septiembre;1.264
+08 Barcelona;Irlanda;Octubre;1.423
+08 Barcelona;Irlanda;Noviembre;951
+08 Barcelona;Irlanda;Diciembre;877
+08 Barcelona;Italia;Enero;5.450
+08 Barcelona;Italia;Febrero;5.117
+08 Barcelona;Italia;Marzo;6.502
+08 Barcelona;Italia;Abril;7.937
+08 Barcelona;Italia;Mayo;8.067
+08 Barcelona;Italia;Junio;8.755
+08 Barcelona;Italia;Julio;10.313
+08 Barcelona;Italia;Agosto;16.168
+08 Barcelona;Italia;Septiembre;14.164
+08 Barcelona;Italia;Octubre;10.170
+08 Barcelona;Italia;Noviembre;9.162
+08 Barcelona;Italia;Diciembre;10.988
+08 Barcelona;Luxemburgo;Enero;..
+08 Barcelona;Luxemburgo;Febrero;..
+08 Barcelona;Luxemburgo;Marzo;..
+08 Barcelona;Luxemburgo;Abril;125
+08 Barcelona;Luxemburgo;Mayo;..
+08 Barcelona;Luxemburgo;Junio;174
+08 Barcelona;Luxemburgo;Julio;22
+08 Barcelona;Luxemburgo;Agosto;182
+08 Barcelona;Luxemburgo;Septiembre;389
+08 Barcelona;Luxemburgo;Octubre;276
+08 Barcelona;Luxemburgo;Noviembre;423
+08 Barcelona;Luxemburgo;Diciembre;..
+08 Barcelona;Países Bajos;Enero;1.025
+08 Barcelona;Países Bajos;Febrero;1.365
+08 Barcelona;Países Bajos;Marzo;1.826
+08 Barcelona;Países Bajos;Abril;2.249
+08 Barcelona;Países Bajos;Mayo;2.758
+08 Barcelona;Países Bajos;Junio;..
+08 Barcelona;Países Bajos;Julio;..
+08 Barcelona;Países Bajos;Agosto;4.758
+08 Barcelona;Países Bajos;Septiembre;2.957
+08 Barcelona;Países Bajos;Octubre;3.708
+08 Barcelona;Países Bajos;Noviembre;1.894
+08 Barcelona;Países Bajos;Diciembre;1.980
+08 Barcelona;Polonia;Enero;1.612
+08 Barcelona;Polonia;Febrero;3.791
+08 Barcelona;Polonia;Marzo;2.175
+08 Barcelona;Polonia;Abril;1.366
+08 Barcelona;Polonia;Mayo;2.378
+08 Barcelona;Polonia;Junio;2.781
+08 Barcelona;Polonia;Julio;1.966
+08 Barcelona;Polonia;Agosto;1.259
+08 Barcelona;Polonia;Septiembre;1.003
+08 Barcelona;Polonia;Octubre;1.809
+08 Barcelona;Polonia;Noviembre;2.389
+08 Barcelona;Polonia;Diciembre;1.176
+08 Barcelona;Portugal;Enero;1.567
+08 Barcelona;Portugal;Febrero;1.899
+08 Barcelona;Portugal;Marzo;1.384
+08 Barcelona;Portugal;Abril;2.539
+08 Barcelona;Portugal;Mayo;2.279
+08 Barcelona;Portugal;Junio;1.648
+08 Barcelona;Portugal;Julio;1.453
+08 Barcelona;Portugal;Agosto;1.350
+08 Barcelona;Portugal;Septiembre;2.209
+08 Barcelona;Portugal;Octubre;2.565
+08 Barcelona;Portugal;Noviembre;1.833
+08 Barcelona;Portugal;Diciembre;2.021
+08 Barcelona;Reino Unido;Enero;4.235
+08 Barcelona;Reino Unido;Febrero;8.570
+08 Barcelona;Reino Unido;Marzo;8.350
+08 Barcelona;Reino Unido;Abril;12.975
+08 Barcelona;Reino Unido;Mayo;11.572
+08 Barcelona;Reino Unido;Junio;..
+08 Barcelona;Reino Unido;Julio;11.618
+08 Barcelona;Reino Unido;Agosto;..
+08 Barcelona;Reino Unido;Septiembre;14.654
+08 Barcelona;Reino Unido;Octubre;11.736
+08 Barcelona;Reino Unido;Noviembre;7.695
+08 Barcelona;Reino Unido;Diciembre;6.080
+08 Barcelona;Republica Checa;Enero;391
+08 Barcelona;Republica Checa;Febrero;931
+08 Barcelona;Republica Checa;Marzo;445
+08 Barcelona;Republica Checa;Abril;736
+08 Barcelona;Republica Checa;Mayo;523
+08 Barcelona;Republica Checa;Junio;749
+08 Barcelona;Republica Checa;Julio;302
+08 Barcelona;Republica Checa;Agosto;565
+08 Barcelona;Republica Checa;Septiembre;848
+08 Barcelona;Republica Checa;Octubre;409
+08 Barcelona;Republica Checa;Noviembre;930
+08 Barcelona;Republica Checa;Diciembre;84
+08 Barcelona;Suecia;Enero;687
+08 Barcelona;Suecia;Febrero;764
+08 Barcelona;Suecia;Marzo;866
+08 Barcelona;Suecia;Abril;923
+08 Barcelona;Suecia;Mayo;2.096
+08 Barcelona;Suecia;Junio;1.802
+08 Barcelona;Suecia;Julio;3.422
+08 Barcelona;Suecia;Agosto;1.285
+08 Barcelona;Suecia;Septiembre;2.197
+08 Barcelona;Suecia;Octubre;1.856
+08 Barcelona;Suecia;Noviembre;796
+08 Barcelona;Suecia;Diciembre;454
+08 Barcelona;Resto de la UE;Enero;2.555
+08 Barcelona;Resto de la UE;Febrero;3.514
+08 Barcelona;Resto de la UE;Marzo;2.345
+08 Barcelona;Resto de la UE;Abril;2.691
+08 Barcelona;Resto de la UE;Mayo;4.005
+08 Barcelona;Resto de la UE;Junio;3.622
+08 Barcelona;Resto de la UE;Julio;..
+08 Barcelona;Resto de la UE;Agosto;..
+08 Barcelona;Resto de la UE;Septiembre;2.859
+08 Barcelona;Resto de la UE;Octubre;4.347
+08 Barcelona;Resto de la UE;Noviembre;3.079
+08 Barcelona;Resto de la UE;Diciembre;1.974
+08 Barcelona;Noruega;Enero;338
+08 Barcelona;Noruega;Febrero;674
+08 Barcelona;Noruega;Marzo;3.187
+08 Barcelona;Noruega;Abril;1.048
+08 Barcelona;Noruega;Mayo;973
+08 Barcelona;Noruega;Junio;1.186
+08 Barcelona;Noruega;Julio;3.074
+08 Barcelona;Noruega;Agosto;801
+08 Barcelona;Noruega;Septiembre;667
+08 Barcelona;Noruega;Octubre;836
+08 Barcelona;Noruega;Noviembre;1.338
+08 Barcelona;Noruega;Diciembre;248
+08 Barcelona;Rusia;Enero;3.759
+08 Barcelona;Rusia;Febrero;2.138
+08 Barcelona;Rusia;Marzo;3.628
+08 Barcelona;Rusia;Abril;3.534
+08 Barcelona;Rusia;Mayo;3.451
+08 Barcelona;Rusia;Junio;4.438
+08 Barcelona;Rusia;Julio;4.318
+08 Barcelona;Rusia;Agosto;6.694
+08 Barcelona;Rusia;Septiembre;5.205
+08 Barcelona;Rusia;Octubre;3.827
+08 Barcelona;Rusia;Noviembre;2.520
+08 Barcelona;Rusia;Diciembre;1.801
+08 Barcelona;Suiza;Enero;860
+08 Barcelona;Suiza;Febrero;1.069
+08 Barcelona;Suiza;Marzo;831
+08 Barcelona;Suiza;Abril;1.606
+08 Barcelona;Suiza;Mayo;1.014
+08 Barcelona;Suiza;Junio;1.986
+08 Barcelona;Suiza;Julio;2.149
+08 Barcelona;Suiza;Agosto;1.217
+08 Barcelona;Suiza;Septiembre;1.790
+08 Barcelona;Suiza;Octubre;1.818
+08 Barcelona;Suiza;Noviembre;734
+08 Barcelona;Suiza;Diciembre;1.476
+08 Barcelona;Resto de Europa;Enero;1.928
+08 Barcelona;Resto de Europa;Febrero;1.719
+08 Barcelona;Resto de Europa;Marzo;1.825
+08 Barcelona;Resto de Europa;Abril;2.916
+08 Barcelona;Resto de Europa;Mayo;2.884
+08 Barcelona;Resto de Europa;Junio;3.318
+08 Barcelona;Resto de Europa;Julio;2.725
+08 Barcelona;Resto de Europa;Agosto;2.022
+08 Barcelona;Resto de Europa;Septiembre;3.768
+08 Barcelona;Resto de Europa;Octubre;4.033
+08 Barcelona;Resto de Europa;Noviembre;2.807
+08 Barcelona;Resto de Europa;Diciembre;2.295
+08 Barcelona;Estados Unidos;Enero;4.028
+08 Barcelona;Estados Unidos;Febrero;5.393
+08 Barcelona;Estados Unidos;Marzo;9.719
+08 Barcelona;Estados Unidos;Abril;7.257
+08 Barcelona;Estados Unidos;Mayo;10.669
+08 Barcelona;Estados Unidos;Junio;11.302
+08 Barcelona;Estados Unidos;Julio;11.024
+08 Barcelona;Estados Unidos;Agosto;6.106
+08 Barcelona;Estados Unidos;Septiembre;6.996
+08 Barcelona;Estados Unidos;Octubre;6.265
+08 Barcelona;Estados Unidos;Noviembre;4.108
+08 Barcelona;Estados Unidos;Diciembre;5.632
+08 Barcelona;Resto de América;Enero;11.112
+08 Barcelona;Resto de América;Febrero;9.878
+08 Barcelona;Resto de América;Marzo;11.290
+08 Barcelona;Resto de América;Abril;10.979
+08 Barcelona;Resto de América;Mayo;12.752
+08 Barcelona;Resto de América;Junio;12.267
+08 Barcelona;Resto de América;Julio;10.759
+08 Barcelona;Resto de América;Agosto;7.700
+08 Barcelona;Resto de América;Septiembre;10.664
+08 Barcelona;Resto de América;Octubre;8.722
+08 Barcelona;Resto de América;Noviembre;6.332
+08 Barcelona;Resto de América;Diciembre;8.407
+08 Barcelona;Países Africanos;Enero;2.643
+08 Barcelona;Países Africanos;Febrero;2.585
+08 Barcelona;Países Africanos;Marzo;1.625
+08 Barcelona;Países Africanos;Abril;3.892
+08 Barcelona;Países Africanos;Mayo;1.521
+08 Barcelona;Países Africanos;Junio;3.201
+08 Barcelona;Países Africanos;Julio;3.065
+08 Barcelona;Países Africanos;Agosto;5.031
+08 Barcelona;Países Africanos;Septiembre;3.847
+08 Barcelona;Países Africanos;Octubre;3.376
+08 Barcelona;Países Africanos;Noviembre;2.509
+08 Barcelona;Países Africanos;Diciembre;2.728
+08 Barcelona;Resto del mundo;Enero;18.952
+08 Barcelona;Resto del mundo;Febrero;21.438
+08 Barcelona;Resto del mundo;Marzo;15.978
+08 Barcelona;Resto del mundo;Abril;18.817
+08 Barcelona;Resto del mundo;Mayo;16.501
+08 Barcelona;Resto del mundo;Junio;22.373
+08 Barcelona;Resto del mundo;Julio;15.343
+08 Barcelona;Resto del mundo;Agosto;12.126
+08 Barcelona;Resto del mundo;Septiembre;16.075
+08 Barcelona;Resto del mundo;Octubre;13.438
+08 Barcelona;Resto del mundo;Noviembre;9.068
+08 Barcelona;Resto del mundo;Diciembre;13.959
+17 Girona;Total;Enero;15.360
+17 Girona;Total;Febrero;18.752
+17 Girona;Total;Marzo;26.706
+17 Girona;Total;Abril;76.026
+17 Girona;Total;Mayo;112.688
+17 Girona;Total;Junio;242.922
+17 Girona;Total;Julio;559.273
+17 Girona;Total;Agosto;824.838
+17 Girona;Total;Septiembre;302.173
+17 Girona;Total;Octubre;62.798
+17 Girona;Total;Noviembre;15.588
+17 Girona;Total;Diciembre;24.184
+17 Girona;Residentes en España;Enero;7.905
+17 Girona;Residentes en España;Febrero;9.377
+17 Girona;Residentes en España;Marzo;13.507
+17 Girona;Residentes en España;Abril;40.241
+17 Girona;Residentes en España;Mayo;29.358
+17 Girona;Residentes en España;Junio;76.049
+17 Girona;Residentes en España;Julio;135.080
+17 Girona;Residentes en España;Agosto;286.903
+17 Girona;Residentes en España;Septiembre;97.530
+17 Girona;Residentes en España;Octubre;19.617
+17 Girona;Residentes en España;Noviembre;11.542
+17 Girona;Residentes en España;Diciembre;15.491
+17 Girona;No residentes en España;Enero;7.455
+17 Girona;No residentes en España;Febrero;9.376
+17 Girona;No residentes en España;Marzo;13.198
+17 Girona;No residentes en España;Abril;35.785
+17 Girona;No residentes en España;Mayo;83.330
+17 Girona;No residentes en España;Junio;166.873
+17 Girona;No residentes en España;Julio;424.193
+17 Girona;No residentes en España;Agosto;537.935
+17 Girona;No residentes en España;Septiembre;204.643
+17 Girona;No residentes en España;Octubre;43.181
+17 Girona;No residentes en España;Noviembre;4.046
+17 Girona;No residentes en España;Diciembre;8.694
+17 Girona;Unión Europea (sin España);Enero;6.094
+17 Girona;Unión Europea (sin España);Febrero;7.296
+17 Girona;Unión Europea (sin España);Marzo;10.773
+17 Girona;Unión Europea (sin España);Abril;33.023
+17 Girona;Unión Europea (sin España);Mayo;73.182
+17 Girona;Unión Europea (sin España);Junio;142.812
+17 Girona;Unión Europea (sin España);Julio;383.148
+17 Girona;Unión Europea (sin España);Agosto;510.990
+17 Girona;Unión Europea (sin España);Septiembre;177.447
+17 Girona;Unión Europea (sin España);Octubre;35.889
+17 Girona;Unión Europea (sin España);Noviembre;2.881
+17 Girona;Unión Europea (sin España);Diciembre;6.477
+17 Girona;Alemania;Enero;1.290
+17 Girona;Alemania;Febrero;837
+17 Girona;Alemania;Marzo;2.526
+17 Girona;Alemania;Abril;4.200
+17 Girona;Alemania;Mayo;6.330
+17 Girona;Alemania;Junio;33.561
+17 Girona;Alemania;Julio;52.599
+17 Girona;Alemania;Agosto;45.490
+17 Girona;Alemania;Septiembre;34.523
+17 Girona;Alemania;Octubre;5.619
+17 Girona;Alemania;Noviembre;241
+17 Girona;Alemania;Diciembre;1.868
+17 Girona;Austria;Enero;..
+17 Girona;Austria;Febrero;20
+17 Girona;Austria;Marzo;108
+17 Girona;Austria;Abril;..
+17 Girona;Austria;Mayo;..
+17 Girona;Austria;Junio;164
+17 Girona;Austria;Julio;514
+17 Girona;Austria;Agosto;278
+17 Girona;Austria;Septiembre;..
+17 Girona;Austria;Octubre;..
+17 Girona;Austria;Noviembre;..
+17 Girona;Austria;Diciembre;..
+17 Girona;Bélgica;Enero;..
+17 Girona;Bélgica;Febrero;..
+17 Girona;Bélgica;Marzo;150
+17 Girona;Bélgica;Abril;1.041
+17 Girona;Bélgica;Mayo;1.748
+17 Girona;Bélgica;Junio;6.489
+17 Girona;Bélgica;Julio;30.982
+17 Girona;Bélgica;Agosto;13.748
+17 Girona;Bélgica;Septiembre;8.761
+17 Girona;Bélgica;Octubre;550
+17 Girona;Bélgica;Noviembre;62
+17 Girona;Bélgica;Diciembre;118
+17 Girona;Dinamarca;Enero;..
+17 Girona;Dinamarca;Febrero;..
+17 Girona;Dinamarca;Marzo;..
+17 Girona;Dinamarca;Abril;..
+17 Girona;Dinamarca;Mayo;429
+17 Girona;Dinamarca;Junio;573
+17 Girona;Dinamarca;Julio;4.334
+17 Girona;Dinamarca;Agosto;..
+17 Girona;Dinamarca;Septiembre;851
+17 Girona;Dinamarca;Octubre;258
+17 Girona;Dinamarca;Noviembre;..
+17 Girona;Dinamarca;Diciembre;..
+17 Girona;Finlandia;Enero;..
+17 Girona;Finlandia;Febrero;..
+17 Girona;Finlandia;Marzo;145
+17 Girona;Finlandia;Abril;176
+17 Girona;Finlandia;Mayo;65
+17 Girona;Finlandia;Junio;129
+17 Girona;Finlandia;Julio;456
+17 Girona;Finlandia;Agosto;..
+17 Girona;Finlandia;Septiembre;412
+17 Girona;Finlandia;Octubre;..
+17 Girona;Finlandia;Noviembre;..
+17 Girona;Finlandia;Diciembre;..
+17 Girona;Francia;Enero;2.338
+17 Girona;Francia;Febrero;3.550
+17 Girona;Francia;Marzo;5.840
+17 Girona;Francia;Abril;18.451
+17 Girona;Francia;Mayo;33.531
+17 Girona;Francia;Junio;50.637
+17 Girona;Francia;Julio;184.268
+17 Girona;Francia;Agosto;335.029
+17 Girona;Francia;Septiembre;67.731
+17 Girona;Francia;Octubre;9.233
+17 Girona;Francia;Noviembre;1.383
+17 Girona;Francia;Diciembre;3.161
+17 Girona;Grecia;Enero;..
+17 Girona;Grecia;Febrero;..
+17 Girona;Grecia;Marzo;..
+17 Girona;Grecia;Abril;..
+17 Girona;Grecia;Mayo;..
+17 Girona;Grecia;Junio;..
+17 Girona;Grecia;Julio;..
+17 Girona;Grecia;Agosto;..
+17 Girona;Grecia;Septiembre;..
+17 Girona;Grecia;Octubre;..
+17 Girona;Grecia;Noviembre;..
+17 Girona;Grecia;Diciembre;..
+17 Girona;Irlanda;Enero;..
+17 Girona;Irlanda;Febrero;178
+17 Girona;Irlanda;Marzo;..
+17 Girona;Irlanda;Abril;379
+17 Girona;Irlanda;Mayo;1.211
+17 Girona;Irlanda;Junio;3.000
+17 Girona;Irlanda;Julio;2.463
+17 Girona;Irlanda;Agosto;3.050
+17 Girona;Irlanda;Septiembre;3.770
+17 Girona;Irlanda;Octubre;171
+17 Girona;Irlanda;Noviembre;..
+17 Girona;Irlanda;Diciembre;..
+17 Girona;Italia;Enero;74
+17 Girona;Italia;Febrero;265
+17 Girona;Italia;Marzo;109
+17 Girona;Italia;Abril;528
+17 Girona;Italia;Mayo;1.500
+17 Girona;Italia;Junio;2.895
+17 Girona;Italia;Julio;16.290
+17 Girona;Italia;Agosto;34.373
+17 Girona;Italia;Septiembre;8.352
+17 Girona;Italia;Octubre;405
+17 Girona;Italia;Noviembre;58
+17 Girona;Italia;Diciembre;64
+17 Girona;Luxemburgo;Enero;..
+17 Girona;Luxemburgo;Febrero;..
+17 Girona;Luxemburgo;Marzo;..
+17 Girona;Luxemburgo;Abril;..
+17 Girona;Luxemburgo;Mayo;..
+17 Girona;Luxemburgo;Junio;..
+17 Girona;Luxemburgo;Julio;..
+17 Girona;Luxemburgo;Agosto;..
+17 Girona;Luxemburgo;Septiembre;..
+17 Girona;Luxemburgo;Octubre;..
+17 Girona;Luxemburgo;Noviembre;..
+17 Girona;Luxemburgo;Diciembre;..
+17 Girona;Países Bajos;Enero;97
+17 Girona;Países Bajos;Febrero;284
+17 Girona;Países Bajos;Marzo;282
+17 Girona;Países Bajos;Abril;2.640
+17 Girona;Países Bajos;Mayo;10.373
+17 Girona;Países Bajos;Junio;13.831
+17 Girona;Países Bajos;Julio;66.513
+17 Girona;Países Bajos;Agosto;41.948
+17 Girona;Países Bajos;Septiembre;15.217
+17 Girona;Países Bajos;Octubre;7.592
+17 Girona;Países Bajos;Noviembre;174
+17 Girona;Países Bajos;Diciembre;182
+17 Girona;Polonia;Enero;480
+17 Girona;Polonia;Febrero;372
+17 Girona;Polonia;Marzo;370
+17 Girona;Polonia;Abril;394
+17 Girona;Polonia;Mayo;2.602
+17 Girona;Polonia;Junio;3.135
+17 Girona;Polonia;Julio;2.514
+17 Girona;Polonia;Agosto;2.332
+17 Girona;Polonia;Septiembre;4.782
+17 Girona;Polonia;Octubre;736
+17 Girona;Polonia;Noviembre;345
+17 Girona;Polonia;Diciembre;369
+17 Girona;Portugal;Enero;55
+17 Girona;Portugal;Febrero;244
+17 Girona;Portugal;Marzo;110
+17 Girona;Portugal;Abril;..
+17 Girona;Portugal;Mayo;..
+17 Girona;Portugal;Junio;..
+17 Girona;Portugal;Julio;..
+17 Girona;Portugal;Agosto;..
+17 Girona;Portugal;Septiembre;..
+17 Girona;Portugal;Octubre;..
+17 Girona;Portugal;Noviembre;48
+17 Girona;Portugal;Diciembre;129
+17 Girona;Reino Unido;Enero;277
+17 Girona;Reino Unido;Febrero;785
+17 Girona;Reino Unido;Marzo;400
+17 Girona;Reino Unido;Abril;1.467
+17 Girona;Reino Unido;Mayo;11.952
+17 Girona;Reino Unido;Junio;21.492
+17 Girona;Reino Unido;Julio;14.112
+17 Girona;Reino Unido;Agosto;21.923
+17 Girona;Reino Unido;Septiembre;25.208
+17 Girona;Reino Unido;Octubre;9.587
+17 Girona;Reino Unido;Noviembre;368
+17 Girona;Reino Unido;Diciembre;158
+17 Girona;Republica Checa;Enero;..
+17 Girona;Republica Checa;Febrero;124
+17 Girona;Republica Checa;Marzo;178
+17 Girona;Republica Checa;Abril;..
+17 Girona;Republica Checa;Mayo;31
+17 Girona;Republica Checa;Junio;1.440
+17 Girona;Republica Checa;Julio;627
+17 Girona;Republica Checa;Agosto;373
+17 Girona;Republica Checa;Septiembre;1.533
+17 Girona;Republica Checa;Octubre;..
+17 Girona;Republica Checa;Noviembre;..
+17 Girona;Republica Checa;Diciembre;11
+17 Girona;Suecia;Enero;..
+17 Girona;Suecia;Febrero;..
+17 Girona;Suecia;Marzo;..
+17 Girona;Suecia;Abril;..
+17 Girona;Suecia;Mayo;116
+17 Girona;Suecia;Junio;1.735
+17 Girona;Suecia;Julio;1.570
+17 Girona;Suecia;Agosto;288
+17 Girona;Suecia;Septiembre;1.137
+17 Girona;Suecia;Octubre;215
+17 Girona;Suecia;Noviembre;..
+17 Girona;Suecia;Diciembre;..
+17 Girona;Resto de la UE;Enero;1.361
+17 Girona;Resto de la UE;Febrero;515
+17 Girona;Resto de la UE;Marzo;451
+17 Girona;Resto de la UE;Abril;3.561
+17 Girona;Resto de la UE;Mayo;2.864
+17 Girona;Resto de la UE;Junio;3.375
+17 Girona;Resto de la UE;Julio;5.221
+17 Girona;Resto de la UE;Agosto;9.810
+17 Girona;Resto de la UE;Septiembre;3.209
+17 Girona;Resto de la UE;Octubre;1.302
+17 Girona;Resto de la UE;Noviembre;..
+17 Girona;Resto de la UE;Diciembre;..
+17 Girona;Noruega;Enero;..
+17 Girona;Noruega;Febrero;139
+17 Girona;Noruega;Marzo;..
+17 Girona;Noruega;Abril;..
+17 Girona;Noruega;Mayo;64
+17 Girona;Noruega;Junio;295
+17 Girona;Noruega;Julio;3.097
+17 Girona;Noruega;Agosto;433
+17 Girona;Noruega;Septiembre;358
+17 Girona;Noruega;Octubre;188
+17 Girona;Noruega;Noviembre;..
+17 Girona;Noruega;Diciembre;126
+17 Girona;Rusia;Enero;284
+17 Girona;Rusia;Febrero;366
+17 Girona;Rusia;Marzo;192
+17 Girona;Rusia;Abril;283
+17 Girona;Rusia;Mayo;3.666
+17 Girona;Rusia;Junio;10.949
+17 Girona;Rusia;Julio;6.228
+17 Girona;Rusia;Agosto;4.950
+17 Girona;Rusia;Septiembre;9.945
+17 Girona;Rusia;Octubre;1.052
+17 Girona;Rusia;Noviembre;109
+17 Girona;Rusia;Diciembre;175
+17 Girona;Suiza;Enero;120
+17 Girona;Suiza;Febrero;..
+17 Girona;Suiza;Marzo;..
+17 Girona;Suiza;Abril;..
+17 Girona;Suiza;Mayo;677
+17 Girona;Suiza;Junio;2.073
+17 Girona;Suiza;Julio;8.362
+17 Girona;Suiza;Agosto;1.802
+17 Girona;Suiza;Septiembre;3.172
+17 Girona;Suiza;Octubre;1.543
+17 Girona;Suiza;Noviembre;27
+17 Girona;Suiza;Diciembre;250
+17 Girona;Resto de Europa;Enero;..
+17 Girona;Resto de Europa;Febrero;288
+17 Girona;Resto de Europa;Marzo;128
+17 Girona;Resto de Europa;Abril;564
+17 Girona;Resto de Europa;Mayo;3.994
+17 Girona;Resto de Europa;Junio;4.860
+17 Girona;Resto de Europa;Julio;6.179
+17 Girona;Resto de Europa;Agosto;4.249
+17 Girona;Resto de Europa;Septiembre;6.552
+17 Girona;Resto de Europa;Octubre;2.356
+17 Girona;Resto de Europa;Noviembre;50
+17 Girona;Resto de Europa;Diciembre;..
+17 Girona;Estados Unidos;Enero;170
+17 Girona;Estados Unidos;Febrero;28
+17 Girona;Estados Unidos;Marzo;158
+17 Girona;Estados Unidos;Abril;345
+17 Girona;Estados Unidos;Mayo;316
+17 Girona;Estados Unidos;Junio;1.990
+17 Girona;Estados Unidos;Julio;2.543
+17 Girona;Estados Unidos;Agosto;1.780
+17 Girona;Estados Unidos;Septiembre;1.678
+17 Girona;Estados Unidos;Octubre;343
+17 Girona;Estados Unidos;Noviembre;84
+17 Girona;Estados Unidos;Diciembre;57
+17 Girona;Resto de América;Enero;..
+17 Girona;Resto de América;Febrero;..
+17 Girona;Resto de América;Marzo;..
+17 Girona;Resto de América;Abril;..
+17 Girona;Resto de América;Mayo;719
+17 Girona;Resto de América;Junio;1.747
+17 Girona;Resto de América;Julio;1.547
+17 Girona;Resto de América;Agosto;1.612
+17 Girona;Resto de América;Septiembre;2.099
+17 Girona;Resto de América;Octubre;1.110
+17 Girona;Resto de América;Noviembre;..
+17 Girona;Resto de América;Diciembre;528
+17 Girona;Países Africanos;Enero;83
+17 Girona;Países Africanos;Febrero;..
+17 Girona;Países Africanos;Marzo;117
+17 Girona;Países Africanos;Abril;..
+17 Girona;Países Africanos;Mayo;146
+17 Girona;Países Africanos;Junio;223
+17 Girona;Países Africanos;Julio;1.192
+17 Girona;Países Africanos;Agosto;951
+17 Girona;Países Africanos;Septiembre;774
+17 Girona;Países Africanos;Octubre;58
+17 Girona;Países Africanos;Noviembre;..
+17 Girona;Países Africanos;Diciembre;..
+17 Girona;Resto del mundo;Enero;522
+17 Girona;Resto del mundo;Febrero;996
+17 Girona;Resto del mundo;Marzo;1.441
+17 Girona;Resto del mundo;Abril;378
+17 Girona;Resto del mundo;Mayo;567
+17 Girona;Resto del mundo;Junio;1.923
+17 Girona;Resto del mundo;Julio;11.898
+17 Girona;Resto del mundo;Agosto;11.167
+17 Girona;Resto del mundo;Septiembre;2.619
+17 Girona;Resto del mundo;Octubre;641
+17 Girona;Resto del mundo;Noviembre;578
+17 Girona;Resto del mundo;Diciembre;992
+28 Madrid;Total;Enero;121.737
+28 Madrid;Total;Febrero;128.216
+28 Madrid;Total;Marzo;174.036
+28 Madrid;Total;Abril;172.500
+28 Madrid;Total;Mayo;171.955
+28 Madrid;Total;Junio;179.870
+28 Madrid;Total;Julio;175.876
+28 Madrid;Total;Agosto;155.894
+28 Madrid;Total;Septiembre;175.985
+28 Madrid;Total;Octubre;188.207
+28 Madrid;Total;Noviembre;169.674
+28 Madrid;Total;Diciembre;175.737
+28 Madrid;Residentes en España;Enero;57.103
+28 Madrid;Residentes en España;Febrero;60.715
+28 Madrid;Residentes en España;Marzo;81.091
+28 Madrid;Residentes en España;Abril;69.508
+28 Madrid;Residentes en España;Mayo;71.368
+28 Madrid;Residentes en España;Junio;73.181
+28 Madrid;Residentes en España;Julio;71.433
+28 Madrid;Residentes en España;Agosto;63.788
+28 Madrid;Residentes en España;Septiembre;68.410
+28 Madrid;Residentes en España;Octubre;71.464
+28 Madrid;Residentes en España;Noviembre;75.256
+28 Madrid;Residentes en España;Diciembre;84.955
+28 Madrid;No residentes en España;Enero;64.634
+28 Madrid;No residentes en España;Febrero;67.501
+28 Madrid;No residentes en España;Marzo;92.945
+28 Madrid;No residentes en España;Abril;102.992
+28 Madrid;No residentes en España;Mayo;100.587
+28 Madrid;No residentes en España;Junio;106.689
+28 Madrid;No residentes en España;Julio;104.443
+28 Madrid;No residentes en España;Agosto;92.105
+28 Madrid;No residentes en España;Septiembre;107.575
+28 Madrid;No residentes en España;Octubre;116.743
+28 Madrid;No residentes en España;Noviembre;94.418
+28 Madrid;No residentes en España;Diciembre;90.781
+28 Madrid;Unión Europea (sin España);Enero;22.158
+28 Madrid;Unión Europea (sin España);Febrero;26.296
+28 Madrid;Unión Europea (sin España);Marzo;37.188
+28 Madrid;Unión Europea (sin España);Abril;43.659
+28 Madrid;Unión Europea (sin España);Mayo;39.939
+28 Madrid;Unión Europea (sin España);Junio;36.643
+28 Madrid;Unión Europea (sin España);Julio;34.203
+28 Madrid;Unión Europea (sin España);Agosto;32.379
+28 Madrid;Unión Europea (sin España);Septiembre;39.723
+28 Madrid;Unión Europea (sin España);Octubre;48.900
+28 Madrid;Unión Europea (sin España);Noviembre;38.118
+28 Madrid;Unión Europea (sin España);Diciembre;36.231
+28 Madrid;Alemania;Enero;1.312
+28 Madrid;Alemania;Febrero;1.951
+28 Madrid;Alemania;Marzo;4.244
+28 Madrid;Alemania;Abril;3.919
+28 Madrid;Alemania;Mayo;3.777
+28 Madrid;Alemania;Junio;2.989
+28 Madrid;Alemania;Julio;3.360
+28 Madrid;Alemania;Agosto;2.302
+28 Madrid;Alemania;Septiembre;3.968
+28 Madrid;Alemania;Octubre;5.731
+28 Madrid;Alemania;Noviembre;2.467
+28 Madrid;Alemania;Diciembre;2.018
+28 Madrid;Austria;Enero;204
+28 Madrid;Austria;Febrero;483
+28 Madrid;Austria;Marzo;648
+28 Madrid;Austria;Abril;713
+28 Madrid;Austria;Mayo;714
+28 Madrid;Austria;Junio;519
+28 Madrid;Austria;Julio;391
+28 Madrid;Austria;Agosto;443
+28 Madrid;Austria;Septiembre;823
+28 Madrid;Austria;Octubre;923
+28 Madrid;Austria;Noviembre;817
+28 Madrid;Austria;Diciembre;530
+28 Madrid;Bélgica;Enero;782
+28 Madrid;Bélgica;Febrero;742
+28 Madrid;Bélgica;Marzo;949
+28 Madrid;Bélgica;Abril;978
+28 Madrid;Bélgica;Mayo;936
+28 Madrid;Bélgica;Junio;771
+28 Madrid;Bélgica;Julio;878
+28 Madrid;Bélgica;Agosto;949
+28 Madrid;Bélgica;Septiembre;1.297
+28 Madrid;Bélgica;Octubre;1.804
+28 Madrid;Bélgica;Noviembre;1.069
+28 Madrid;Bélgica;Diciembre;553
+28 Madrid;Dinamarca;Enero;279
+28 Madrid;Dinamarca;Febrero;391
+28 Madrid;Dinamarca;Marzo;760
+28 Madrid;Dinamarca;Abril;1.198
+28 Madrid;Dinamarca;Mayo;729
+28 Madrid;Dinamarca;Junio;526
+28 Madrid;Dinamarca;Julio;579
+28 Madrid;Dinamarca;Agosto;330
+28 Madrid;Dinamarca;Septiembre;571
+28 Madrid;Dinamarca;Octubre;1.063
+28 Madrid;Dinamarca;Noviembre;254
+28 Madrid;Dinamarca;Diciembre;215
+28 Madrid;Finlandia;Enero;185
+28 Madrid;Finlandia;Febrero;293
+28 Madrid;Finlandia;Marzo;410
+28 Madrid;Finlandia;Abril;426
+28 Madrid;Finlandia;Mayo;376
+28 Madrid;Finlandia;Junio;218
+28 Madrid;Finlandia;Julio;262
+28 Madrid;Finlandia;Agosto;134
+28 Madrid;Finlandia;Septiembre;516
+28 Madrid;Finlandia;Octubre;440
+28 Madrid;Finlandia;Noviembre;501
+28 Madrid;Finlandia;Diciembre;634
+28 Madrid;Francia;Enero;3.468
+28 Madrid;Francia;Febrero;4.273
+28 Madrid;Francia;Marzo;5.631
+28 Madrid;Francia;Abril;7.364
+28 Madrid;Francia;Mayo;6.175
+28 Madrid;Francia;Junio;6.070
+28 Madrid;Francia;Julio;6.802
+28 Madrid;Francia;Agosto;6.510
+28 Madrid;Francia;Septiembre;4.633
+28 Madrid;Francia;Octubre;7.055
+28 Madrid;Francia;Noviembre;6.681
+28 Madrid;Francia;Diciembre;6.688
+28 Madrid;Grecia;Enero;458
+28 Madrid;Grecia;Febrero;373
+28 Madrid;Grecia;Marzo;668
+28 Madrid;Grecia;Abril;618
+28 Madrid;Grecia;Mayo;476
+28 Madrid;Grecia;Junio;443
+28 Madrid;Grecia;Julio;661
+28 Madrid;Grecia;Agosto;396
+28 Madrid;Grecia;Septiembre;361
+28 Madrid;Grecia;Octubre;528
+28 Madrid;Grecia;Noviembre;535
+28 Madrid;Grecia;Diciembre;564
+28 Madrid;Irlanda;Enero;721
+28 Madrid;Irlanda;Febrero;1.041
+28 Madrid;Irlanda;Marzo;1.080
+28 Madrid;Irlanda;Abril;1.577
+28 Madrid;Irlanda;Mayo;1.793
+28 Madrid;Irlanda;Junio;1.122
+28 Madrid;Irlanda;Julio;1.038
+28 Madrid;Irlanda;Agosto;1.109
+28 Madrid;Irlanda;Septiembre;1.193
+28 Madrid;Irlanda;Octubre;1.176
+28 Madrid;Irlanda;Noviembre;898
+28 Madrid;Irlanda;Diciembre;530
+28 Madrid;Italia;Enero;5.182
+28 Madrid;Italia;Febrero;6.112
+28 Madrid;Italia;Marzo;6.883
+28 Madrid;Italia;Abril;8.946
+28 Madrid;Italia;Mayo;6.989
+28 Madrid;Italia;Junio;7.626
+28 Madrid;Italia;Julio;6.082
+28 Madrid;Italia;Agosto;6.461
+28 Madrid;Italia;Septiembre;8.335
+28 Madrid;Italia;Octubre;9.015
+28 Madrid;Italia;Noviembre;8.843
+28 Madrid;Italia;Diciembre;8.459
+28 Madrid;Luxemburgo;Enero;33
+28 Madrid;Luxemburgo;Febrero;135
+28 Madrid;Luxemburgo;Marzo;483
+28 Madrid;Luxemburgo;Abril;153
+28 Madrid;Luxemburgo;Mayo;54
+28 Madrid;Luxemburgo;Junio;38
+28 Madrid;Luxemburgo;Julio;94
+28 Madrid;Luxemburgo;Agosto;249
+28 Madrid;Luxemburgo;Septiembre;111
+28 Madrid;Luxemburgo;Octubre;167
+28 Madrid;Luxemburgo;Noviembre;61
+28 Madrid;Luxemburgo;Diciembre;237
+28 Madrid;Países Bajos;Enero;1.239
+28 Madrid;Países Bajos;Febrero;950
+28 Madrid;Países Bajos;Marzo;1.756
+28 Madrid;Países Bajos;Abril;1.783
+28 Madrid;Países Bajos;Mayo;1.534
+28 Madrid;Países Bajos;Junio;1.607
+28 Madrid;Países Bajos;Julio;1.245
+28 Madrid;Países Bajos;Agosto;1.155
+28 Madrid;Países Bajos;Septiembre;1.657
+28 Madrid;Países Bajos;Octubre;2.103
+28 Madrid;Países Bajos;Noviembre;1.795
+28 Madrid;Países Bajos;Diciembre;1.777
+28 Madrid;Polonia;Enero;490
+28 Madrid;Polonia;Febrero;702
+28 Madrid;Polonia;Marzo;1.136
+28 Madrid;Polonia;Abril;1.131
+28 Madrid;Polonia;Mayo;1.740
+28 Madrid;Polonia;Junio;1.002
+28 Madrid;Polonia;Julio;854
+28 Madrid;Polonia;Agosto;801
+28 Madrid;Polonia;Septiembre;746
+28 Madrid;Polonia;Octubre;1.796
+28 Madrid;Polonia;Noviembre;1.021
+28 Madrid;Polonia;Diciembre;930
+28 Madrid;Portugal;Enero;3.098
+28 Madrid;Portugal;Febrero;2.800
+28 Madrid;Portugal;Marzo;4.125
+28 Madrid;Portugal;Abril;4.877
+28 Madrid;Portugal;Mayo;3.809
+28 Madrid;Portugal;Junio;4.099
+28 Madrid;Portugal;Julio;4.049
+28 Madrid;Portugal;Agosto;4.557
+28 Madrid;Portugal;Septiembre;4.203
+28 Madrid;Portugal;Octubre;4.516
+28 Madrid;Portugal;Noviembre;3.647
+28 Madrid;Portugal;Diciembre;4.000
+28 Madrid;Reino Unido;Enero;2.102
+28 Madrid;Reino Unido;Febrero;3.056
+28 Madrid;Reino Unido;Marzo;4.832
+28 Madrid;Reino Unido;Abril;6.177
+28 Madrid;Reino Unido;Mayo;6.575
+28 Madrid;Reino Unido;Junio;6.403
+28 Madrid;Reino Unido;Julio;4.743
+28 Madrid;Reino Unido;Agosto;4.393
+28 Madrid;Reino Unido;Septiembre;6.443
+28 Madrid;Reino Unido;Octubre;6.787
+28 Madrid;Reino Unido;Noviembre;5.521
+28 Madrid;Reino Unido;Diciembre;4.845
+28 Madrid;Republica Checa;Enero;163
+28 Madrid;Republica Checa;Febrero;192
+28 Madrid;Republica Checa;Marzo;283
+28 Madrid;Republica Checa;Abril;334
+28 Madrid;Republica Checa;Mayo;338
+28 Madrid;Republica Checa;Junio;220
+28 Madrid;Republica Checa;Julio;199
+28 Madrid;Republica Checa;Agosto;143
+28 Madrid;Republica Checa;Septiembre;220
+28 Madrid;Republica Checa;Octubre;504
+28 Madrid;Republica Checa;Noviembre;310
+28 Madrid;Republica Checa;Diciembre;870
+28 Madrid;Suecia;Enero;258
+28 Madrid;Suecia;Febrero;380
+28 Madrid;Suecia;Marzo;359
+28 Madrid;Suecia;Abril;667
+28 Madrid;Suecia;Mayo;617
+28 Madrid;Suecia;Junio;697
+28 Madrid;Suecia;Julio;657
+28 Madrid;Suecia;Agosto;289
+28 Madrid;Suecia;Septiembre;633
+28 Madrid;Suecia;Octubre;896
+28 Madrid;Suecia;Noviembre;396
+28 Madrid;Suecia;Diciembre;454
+28 Madrid;Resto de la UE;Enero;2.184
+28 Madrid;Resto de la UE;Febrero;2.421
+28 Madrid;Resto de la UE;Marzo;2.943
+28 Madrid;Resto de la UE;Abril;2.800
+28 Madrid;Resto de la UE;Mayo;3.306
+28 Madrid;Resto de la UE;Junio;2.295
+28 Madrid;Resto de la UE;Julio;2.309
+28 Madrid;Resto de la UE;Agosto;2.157
+28 Madrid;Resto de la UE;Septiembre;4.012
+28 Madrid;Resto de la UE;Octubre;4.395
+28 Madrid;Resto de la UE;Noviembre;3.302
+28 Madrid;Resto de la UE;Diciembre;2.927
+28 Madrid;Noruega;Enero;107
+28 Madrid;Noruega;Febrero;361
+28 Madrid;Noruega;Marzo;564
+28 Madrid;Noruega;Abril;642
+28 Madrid;Noruega;Mayo;394
+28 Madrid;Noruega;Junio;508
+28 Madrid;Noruega;Julio;633
+28 Madrid;Noruega;Agosto;244
+28 Madrid;Noruega;Septiembre;510
+28 Madrid;Noruega;Octubre;830
+28 Madrid;Noruega;Noviembre;479
+28 Madrid;Noruega;Diciembre;385
+28 Madrid;Rusia;Enero;1.755
+28 Madrid;Rusia;Febrero;1.658
+28 Madrid;Rusia;Marzo;2.869
+28 Madrid;Rusia;Abril;1.945
+28 Madrid;Rusia;Mayo;2.644
+28 Madrid;Rusia;Junio;2.813
+28 Madrid;Rusia;Julio;2.247
+28 Madrid;Rusia;Agosto;1.472
+28 Madrid;Rusia;Septiembre;1.757
+28 Madrid;Rusia;Octubre;2.365
+28 Madrid;Rusia;Noviembre;1.797
+28 Madrid;Rusia;Diciembre;1.381
+28 Madrid;Suiza;Enero;266
+28 Madrid;Suiza;Febrero;725
+28 Madrid;Suiza;Marzo;663
+28 Madrid;Suiza;Abril;1.769
+28 Madrid;Suiza;Mayo;1.603
+28 Madrid;Suiza;Junio;974
+28 Madrid;Suiza;Julio;679
+28 Madrid;Suiza;Agosto;197
+28 Madrid;Suiza;Septiembre;939
+28 Madrid;Suiza;Octubre;1.278
+28 Madrid;Suiza;Noviembre;646
+28 Madrid;Suiza;Diciembre;778
+28 Madrid;Resto de Europa;Enero;3.467
+28 Madrid;Resto de Europa;Febrero;1.797
+28 Madrid;Resto de Europa;Marzo;2.295
+28 Madrid;Resto de Europa;Abril;2.388
+28 Madrid;Resto de Europa;Mayo;2.182
+28 Madrid;Resto de Europa;Junio;2.737
+28 Madrid;Resto de Europa;Julio;2.292
+28 Madrid;Resto de Europa;Agosto;1.601
+28 Madrid;Resto de Europa;Septiembre;2.338
+28 Madrid;Resto de Europa;Octubre;3.012
+28 Madrid;Resto de Europa;Noviembre;2.814
+28 Madrid;Resto de Europa;Diciembre;2.346
+28 Madrid;Estados Unidos;Enero;4.497
+28 Madrid;Estados Unidos;Febrero;5.035
+28 Madrid;Estados Unidos;Marzo;13.942
+28 Madrid;Estados Unidos;Abril;10.666
+28 Madrid;Estados Unidos;Mayo;10.479
+28 Madrid;Estados Unidos;Junio;16.650
+28 Madrid;Estados Unidos;Julio;14.769
+28 Madrid;Estados Unidos;Agosto;9.034
+28 Madrid;Estados Unidos;Septiembre;9.900
+28 Madrid;Estados Unidos;Octubre;10.650
+28 Madrid;Estados Unidos;Noviembre;8.968
+28 Madrid;Estados Unidos;Diciembre;8.790
+28 Madrid;Resto de América;Enero;18.831
+28 Madrid;Resto de América;Febrero;17.885
+28 Madrid;Resto de América;Marzo;19.108
+28 Madrid;Resto de América;Abril;23.683
+28 Madrid;Resto de América;Mayo;26.490
+28 Madrid;Resto de América;Junio;25.302
+28 Madrid;Resto de América;Julio;27.649
+28 Madrid;Resto de América;Agosto;25.560
+28 Madrid;Resto de América;Septiembre;31.016
+28 Madrid;Resto de América;Octubre;28.206
+28 Madrid;Resto de América;Noviembre;23.958
+28 Madrid;Resto de América;Diciembre;23.037
+28 Madrid;Países Africanos;Enero;3.288
+28 Madrid;Países Africanos;Febrero;3.279
+28 Madrid;Países Africanos;Marzo;3.049
+28 Madrid;Países Africanos;Abril;2.796
+28 Madrid;Países Africanos;Mayo;2.361
+28 Madrid;Países Africanos;Junio;2.984
+28 Madrid;Países Africanos;Julio;4.469
+28 Madrid;Países Africanos;Agosto;4.244
+28 Madrid;Países Africanos;Septiembre;3.308
+28 Madrid;Países Africanos;Octubre;3.210
+28 Madrid;Países Africanos;Noviembre;3.567
+28 Madrid;Países Africanos;Diciembre;3.216
+28 Madrid;Resto del mundo;Enero;10.266
+28 Madrid;Resto del mundo;Febrero;10.466
+28 Madrid;Resto del mundo;Marzo;13.268
+28 Madrid;Resto del mundo;Abril;15.444
+28 Madrid;Resto del mundo;Mayo;14.495
+28 Madrid;Resto del mundo;Junio;18.078
+28 Madrid;Resto del mundo;Julio;17.502
+28 Madrid;Resto del mundo;Agosto;17.374
+28 Madrid;Resto del mundo;Septiembre;18.084
+28 Madrid;Resto del mundo;Octubre;18.291
+28 Madrid;Resto del mundo;Noviembre;14.070
+28 Madrid;Resto del mundo;Diciembre;14.618
+29 Málaga;Total;Enero;316.097
+29 Málaga;Total;Febrero;356.647
+29 Málaga;Total;Marzo;443.884
+29 Málaga;Total;Abril;580.850
+29 Málaga;Total;Mayo;585.510
+29 Málaga;Total;Junio;683.198
+29 Málaga;Total;Julio;853.852
+29 Málaga;Total;Agosto;967.488
+29 Málaga;Total;Septiembre;660.440
+29 Málaga;Total;Octubre;585.725
+29 Málaga;Total;Noviembre;347.115
+29 Málaga;Total;Diciembre;319.175
+29 Málaga;Residentes en España;Enero;47.606
+29 Málaga;Residentes en España;Febrero;45.248
+29 Málaga;Residentes en España;Marzo;65.260
+29 Málaga;Residentes en España;Abril;110.515
+29 Málaga;Residentes en España;Mayo;92.842
+29 Málaga;Residentes en España;Junio;132.406
+29 Málaga;Residentes en España;Julio;224.234
+29 Málaga;Residentes en España;Agosto;331.858
+29 Málaga;Residentes en España;Septiembre;137.064
+29 Málaga;Residentes en España;Octubre;59.828
+29 Málaga;Residentes en España;Noviembre;51.654
+29 Málaga;Residentes en España;Diciembre;78.333
+29 Málaga;No residentes en España;Enero;268.491
+29 Málaga;No residentes en España;Febrero;311.399
+29 Málaga;No residentes en España;Marzo;378.624
+29 Málaga;No residentes en España;Abril;470.335
+29 Málaga;No residentes en España;Mayo;492.667
+29 Málaga;No residentes en España;Junio;550.792
+29 Málaga;No residentes en España;Julio;629.618
+29 Málaga;No residentes en España;Agosto;635.630
+29 Málaga;No residentes en España;Septiembre;523.376
+29 Málaga;No residentes en España;Octubre;525.897
+29 Málaga;No residentes en España;Noviembre;295.461
+29 Málaga;No residentes en España;Diciembre;240.842
+29 Málaga;Unión Europea (sin España);Enero;203.937
+29 Málaga;Unión Europea (sin España);Febrero;240.399
+29 Málaga;Unión Europea (sin España);Marzo;290.489
+29 Málaga;Unión Europea (sin España);Abril;372.844
+29 Málaga;Unión Europea (sin España);Mayo;426.342
+29 Málaga;Unión Europea (sin España);Junio;465.850
+29 Málaga;Unión Europea (sin España);Julio;523.510
+29 Málaga;Unión Europea (sin España);Agosto;510.678
+29 Málaga;Unión Europea (sin España);Septiembre;452.282
+29 Málaga;Unión Europea (sin España);Octubre;447.271
+29 Málaga;Unión Europea (sin España);Noviembre;236.335
+29 Málaga;Unión Europea (sin España);Diciembre;195.433
+29 Málaga;Alemania;Enero;24.598
+29 Málaga;Alemania;Febrero;26.885
+29 Málaga;Alemania;Marzo;32.094
+29 Málaga;Alemania;Abril;27.415
+29 Málaga;Alemania;Mayo;21.744
+29 Málaga;Alemania;Junio;26.417
+29 Málaga;Alemania;Julio;16.103
+29 Málaga;Alemania;Agosto;20.486
+29 Málaga;Alemania;Septiembre;22.626
+29 Málaga;Alemania;Octubre;34.275
+29 Málaga;Alemania;Noviembre;25.130
+29 Málaga;Alemania;Diciembre;19.707
+29 Málaga;Austria;Enero;1.305
+29 Málaga;Austria;Febrero;2.104
+29 Málaga;Austria;Marzo;996
+29 Málaga;Austria;Abril;1.951
+29 Málaga;Austria;Mayo;2.241
+29 Málaga;Austria;Junio;1.275
+29 Málaga;Austria;Julio;2.775
+29 Málaga;Austria;Agosto;2.882
+29 Málaga;Austria;Septiembre;1.867
+29 Málaga;Austria;Octubre;1.513
+29 Málaga;Austria;Noviembre;1.144
+29 Málaga;Austria;Diciembre;1.207
+29 Málaga;Bélgica;Enero;6.818
+29 Málaga;Bélgica;Febrero;5.806
+29 Málaga;Bélgica;Marzo;8.303
+29 Málaga;Bélgica;Abril;8.937
+29 Málaga;Bélgica;Mayo;10.316
+29 Málaga;Bélgica;Junio;9.608
+29 Málaga;Bélgica;Julio;13.173
+29 Málaga;Bélgica;Agosto;14.839
+29 Málaga;Bélgica;Septiembre;10.519
+29 Málaga;Bélgica;Octubre;8.003
+29 Málaga;Bélgica;Noviembre;5.291
+29 Málaga;Bélgica;Diciembre;5.105
+29 Málaga;Dinamarca;Enero;5.873
+29 Málaga;Dinamarca;Febrero;13.158
+29 Málaga;Dinamarca;Marzo;14.526
+29 Málaga;Dinamarca;Abril;11.672
+29 Málaga;Dinamarca;Mayo;10.217
+29 Málaga;Dinamarca;Junio;8.621
+29 Málaga;Dinamarca;Julio;19.104
+29 Málaga;Dinamarca;Agosto;7.267
+29 Málaga;Dinamarca;Septiembre;10.438
+29 Málaga;Dinamarca;Octubre;14.683
+29 Málaga;Dinamarca;Noviembre;5.857
+29 Málaga;Dinamarca;Diciembre;4.312
+29 Málaga;Finlandia;Enero;14.332
+29 Málaga;Finlandia;Febrero;18.325
+29 Málaga;Finlandia;Marzo;27.540
+29 Málaga;Finlandia;Abril;26.321
+29 Málaga;Finlandia;Mayo;20.526
+29 Málaga;Finlandia;Junio;18.570
+29 Málaga;Finlandia;Julio;12.372
+29 Málaga;Finlandia;Agosto;7.261
+29 Málaga;Finlandia;Septiembre;18.749
+29 Málaga;Finlandia;Octubre;32.718
+29 Málaga;Finlandia;Noviembre;33.963
+29 Málaga;Finlandia;Diciembre;17.853
+29 Málaga;Francia;Enero;6.826
+29 Málaga;Francia;Febrero;8.145
+29 Málaga;Francia;Marzo;9.002
+29 Málaga;Francia;Abril;17.299
+29 Málaga;Francia;Mayo;14.897
+29 Málaga;Francia;Junio;18.587
+29 Málaga;Francia;Julio;43.207
+29 Málaga;Francia;Agosto;61.989
+29 Málaga;Francia;Septiembre;19.950
+29 Málaga;Francia;Octubre;16.153
+29 Málaga;Francia;Noviembre;5.828
+29 Málaga;Francia;Diciembre;6.850
+29 Málaga;Grecia;Enero;..
+29 Málaga;Grecia;Febrero;..
+29 Málaga;Grecia;Marzo;84
+29 Málaga;Grecia;Abril;82
+29 Málaga;Grecia;Mayo;320
+29 Málaga;Grecia;Junio;417
+29 Málaga;Grecia;Julio;351
+29 Málaga;Grecia;Agosto;277
+29 Málaga;Grecia;Septiembre;167
+29 Málaga;Grecia;Octubre;468
+29 Málaga;Grecia;Noviembre;423
+29 Málaga;Grecia;Diciembre;306
+29 Málaga;Irlanda;Enero;11.654
+29 Málaga;Irlanda;Febrero;11.643
+29 Málaga;Irlanda;Marzo;17.098
+29 Málaga;Irlanda;Abril;36.247
+29 Málaga;Irlanda;Mayo;59.133
+29 Málaga;Irlanda;Junio;89.590
+29 Málaga;Irlanda;Julio;86.590
+29 Málaga;Irlanda;Agosto;64.158
+29 Málaga;Irlanda;Septiembre;67.271
+29 Málaga;Irlanda;Octubre;48.266
+29 Málaga;Irlanda;Noviembre;13.960
+29 Málaga;Irlanda;Diciembre;9.371
+29 Málaga;Italia;Enero;6.833
+29 Málaga;Italia;Febrero;4.787
+29 Málaga;Italia;Marzo;5.915
+29 Málaga;Italia;Abril;11.021
+29 Málaga;Italia;Mayo;9.016
+29 Málaga;Italia;Junio;11.378
+29 Málaga;Italia;Julio;15.371
+29 Málaga;Italia;Agosto;28.910
+29 Málaga;Italia;Septiembre;13.502
+29 Málaga;Italia;Octubre;7.812
+29 Málaga;Italia;Noviembre;4.568
+29 Málaga;Italia;Diciembre;7.266
+29 Málaga;Luxemburgo;Enero;..
+29 Málaga;Luxemburgo;Febrero;..
+29 Málaga;Luxemburgo;Marzo;236
+29 Málaga;Luxemburgo;Abril;598
+29 Málaga;Luxemburgo;Mayo;372
+29 Málaga;Luxemburgo;Junio;332
+29 Málaga;Luxemburgo;Julio;243
+29 Málaga;Luxemburgo;Agosto;4.398
+29 Málaga;Luxemburgo;Septiembre;345
+29 Málaga;Luxemburgo;Octubre;929
+29 Málaga;Luxemburgo;Noviembre;248
+29 Málaga;Luxemburgo;Diciembre;368
+29 Málaga;Países Bajos;Enero;20.062
+29 Málaga;Países Bajos;Febrero;19.170
+29 Málaga;Países Bajos;Marzo;26.102
+29 Málaga;Países Bajos;Abril;39.006
+29 Málaga;Países Bajos;Mayo;49.689
+29 Málaga;Países Bajos;Junio;49.543
+29 Málaga;Países Bajos;Julio;54.554
+29 Málaga;Países Bajos;Agosto;48.758
+29 Málaga;Países Bajos;Septiembre;51.329
+29 Málaga;Países Bajos;Octubre;35.860
+29 Málaga;Países Bajos;Noviembre;10.967
+29 Málaga;Países Bajos;Diciembre;15.098
+29 Málaga;Polonia;Enero;2.707
+29 Málaga;Polonia;Febrero;2.605
+29 Málaga;Polonia;Marzo;1.154
+29 Málaga;Polonia;Abril;3.749
+29 Málaga;Polonia;Mayo;4.312
+29 Málaga;Polonia;Junio;4.371
+29 Málaga;Polonia;Julio;5.307
+29 Málaga;Polonia;Agosto;5.313
+29 Málaga;Polonia;Septiembre;6.272
+29 Málaga;Polonia;Octubre;5.789
+29 Málaga;Polonia;Noviembre;2.498
+29 Málaga;Polonia;Diciembre;1.563
+29 Málaga;Portugal;Enero;2.167
+29 Málaga;Portugal;Febrero;821
+29 Málaga;Portugal;Marzo;1.094
+29 Málaga;Portugal;Abril;5.420
+29 Málaga;Portugal;Mayo;1.058
+29 Málaga;Portugal;Junio;4.785
+29 Málaga;Portugal;Julio;6.918
+29 Málaga;Portugal;Agosto;12.831
+29 Málaga;Portugal;Septiembre;6.250
+29 Málaga;Portugal;Octubre;3.808
+29 Málaga;Portugal;Noviembre;705
+29 Málaga;Portugal;Diciembre;981
+29 Málaga;Reino Unido;Enero;79.294
+29 Málaga;Reino Unido;Febrero;99.116
+29 Málaga;Reino Unido;Marzo;117.820
+29 Málaga;Reino Unido;Abril;158.101
+29 Málaga;Reino Unido;Mayo;196.696
+29 Málaga;Reino Unido;Junio;191.815
+29 Málaga;Reino Unido;Julio;214.222
+29 Málaga;Reino Unido;Agosto;214.461
+29 Málaga;Reino Unido;Septiembre;199.487
+29 Málaga;Reino Unido;Octubre;197.757
+29 Málaga;Reino Unido;Noviembre;90.520
+29 Málaga;Reino Unido;Diciembre;81.170
+29 Málaga;Republica Checa;Enero;1.764
+29 Málaga;Republica Checa;Febrero;1.143
+29 Málaga;Republica Checa;Marzo;1.356
+29 Málaga;Republica Checa;Abril;625
+29 Málaga;Republica Checa;Mayo;2.236
+29 Málaga;Republica Checa;Junio;2.611
+29 Málaga;Republica Checa;Julio;1.945
+29 Málaga;Republica Checa;Agosto;1.077
+29 Málaga;Republica Checa;Septiembre;668
+29 Málaga;Republica Checa;Octubre;2.347
+29 Málaga;Republica Checa;Noviembre;530
+29 Málaga;Republica Checa;Diciembre;1.000
+29 Málaga;Suecia;Enero;16.672
+29 Málaga;Suecia;Febrero;23.514
+29 Málaga;Suecia;Marzo;22.870
+29 Málaga;Suecia;Abril;20.580
+29 Málaga;Suecia;Mayo;17.832
+29 Málaga;Suecia;Junio;19.073
+29 Málaga;Suecia;Julio;19.144
+29 Málaga;Suecia;Agosto;7.676
+29 Málaga;Suecia;Septiembre;16.067
+29 Málaga;Suecia;Octubre;29.752
+29 Málaga;Suecia;Noviembre;29.622
+29 Málaga;Suecia;Diciembre;19.853
+29 Málaga;Resto de la UE;Enero;2.755
+29 Málaga;Resto de la UE;Febrero;3.043
+29 Málaga;Resto de la UE;Marzo;4.297
+29 Málaga;Resto de la UE;Abril;3.819
+29 Málaga;Resto de la UE;Mayo;5.739
+29 Málaga;Resto de la UE;Junio;8.857
+29 Málaga;Resto de la UE;Julio;12.129
+29 Málaga;Resto de la UE;Agosto;8.095
+29 Málaga;Resto de la UE;Septiembre;6.775
+29 Málaga;Resto de la UE;Octubre;7.138
+29 Málaga;Resto de la UE;Noviembre;5.081
+29 Málaga;Resto de la UE;Diciembre;3.423
+29 Málaga;Noruega;Enero;8.220
+29 Málaga;Noruega;Febrero;13.452
+29 Málaga;Noruega;Marzo;16.614
+29 Málaga;Noruega;Abril;17.858
+29 Málaga;Noruega;Mayo;10.053
+29 Málaga;Noruega;Junio;8.165
+29 Málaga;Noruega;Julio;13.580
+29 Málaga;Noruega;Agosto;4.917
+29 Málaga;Noruega;Septiembre;7.354
+29 Málaga;Noruega;Octubre;16.469
+29 Málaga;Noruega;Noviembre;10.735
+29 Málaga;Noruega;Diciembre;8.107
+29 Málaga;Rusia;Enero;4.171
+29 Málaga;Rusia;Febrero;2.173
+29 Málaga;Rusia;Marzo;3.483
+29 Málaga;Rusia;Abril;5.062
+29 Málaga;Rusia;Mayo;6.840
+29 Málaga;Rusia;Junio;9.701
+29 Málaga;Rusia;Julio;7.819
+29 Málaga;Rusia;Agosto;8.136
+29 Málaga;Rusia;Septiembre;8.387
+29 Málaga;Rusia;Octubre;7.280
+29 Málaga;Rusia;Noviembre;1.810
+29 Málaga;Rusia;Diciembre;3.061
+29 Málaga;Suiza;Enero;3.074
+29 Málaga;Suiza;Febrero;3.264
+29 Málaga;Suiza;Marzo;4.262
+29 Málaga;Suiza;Abril;6.450
+29 Málaga;Suiza;Mayo;5.611
+29 Málaga;Suiza;Junio;6.892
+29 Málaga;Suiza;Julio;6.336
+29 Málaga;Suiza;Agosto;4.604
+29 Málaga;Suiza;Septiembre;6.356
+29 Málaga;Suiza;Octubre;6.853
+29 Málaga;Suiza;Noviembre;3.218
+29 Málaga;Suiza;Diciembre;2.301
+29 Málaga;Resto de Europa;Enero;2.882
+29 Málaga;Resto de Europa;Febrero;656
+29 Málaga;Resto de Europa;Marzo;2.247
+29 Málaga;Resto de Europa;Abril;2.284
+29 Málaga;Resto de Europa;Mayo;3.103
+29 Málaga;Resto de Europa;Junio;6.360
+29 Málaga;Resto de Europa;Julio;4.102
+29 Málaga;Resto de Europa;Agosto;3.662
+29 Málaga;Resto de Europa;Septiembre;5.155
+29 Málaga;Resto de Europa;Octubre;2.420
+29 Málaga;Resto de Europa;Noviembre;3.166
+29 Málaga;Resto de Europa;Diciembre;1.631
+29 Málaga;Estados Unidos;Enero;11.615
+29 Málaga;Estados Unidos;Febrero;8.164
+29 Málaga;Estados Unidos;Marzo;10.394
+29 Málaga;Estados Unidos;Abril;11.787
+29 Málaga;Estados Unidos;Mayo;13.735
+29 Málaga;Estados Unidos;Junio;16.596
+29 Málaga;Estados Unidos;Julio;13.429
+29 Málaga;Estados Unidos;Agosto;6.474
+29 Málaga;Estados Unidos;Septiembre;11.387
+29 Málaga;Estados Unidos;Octubre;11.830
+29 Málaga;Estados Unidos;Noviembre;10.014
+29 Málaga;Estados Unidos;Diciembre;10.795
+29 Málaga;Resto de América;Enero;15.153
+29 Málaga;Resto de América;Febrero;34.614
+29 Málaga;Resto de América;Marzo;40.653
+29 Málaga;Resto de América;Abril;32.086
+29 Málaga;Resto de América;Mayo;13.261
+29 Málaga;Resto de América;Junio;14.217
+29 Málaga;Resto de América;Julio;15.442
+29 Málaga;Resto de América;Agosto;11.133
+29 Málaga;Resto de América;Septiembre;14.150
+29 Málaga;Resto de América;Octubre;18.491
+29 Málaga;Resto de América;Noviembre;16.537
+29 Málaga;Resto de América;Diciembre;5.404
+29 Málaga;Países Africanos;Enero;14.261
+29 Málaga;Países Africanos;Febrero;3.935
+29 Málaga;Países Africanos;Marzo;3.915
+29 Málaga;Países Africanos;Abril;11.913
+29 Málaga;Países Africanos;Mayo;3.406
+29 Málaga;Países Africanos;Junio;8.838
+29 Málaga;Países Africanos;Julio;26.741
+29 Málaga;Países Africanos;Agosto;55.615
+29 Málaga;Países Africanos;Septiembre;7.927
+29 Málaga;Países Africanos;Octubre;5.980
+29 Málaga;Países Africanos;Noviembre;9.342
+29 Málaga;Países Africanos;Diciembre;6.450
+29 Málaga;Resto del mundo;Enero;5.179
+29 Málaga;Resto del mundo;Febrero;4.743
+29 Málaga;Resto del mundo;Marzo;6.566
+29 Málaga;Resto del mundo;Abril;10.052
+29 Málaga;Resto del mundo;Mayo;10.316
+29 Málaga;Resto del mundo;Junio;14.173
+29 Málaga;Resto del mundo;Julio;18.658
+29 Málaga;Resto del mundo;Agosto;30.412
+29 Málaga;Resto del mundo;Septiembre;10.379
+29 Málaga;Resto del mundo;Octubre;9.302
+29 Málaga;Resto del mundo;Noviembre;4.304
+29 Málaga;Resto del mundo;Diciembre;7.659
+41 Sevilla;Total;Enero;78.480
+41 Sevilla;Total;Febrero;76.831
+41 Sevilla;Total;Marzo;95.737
+41 Sevilla;Total;Abril;106.451
+41 Sevilla;Total;Mayo;100.249
+41 Sevilla;Total;Junio;97.267
+41 Sevilla;Total;Julio;85.421
+41 Sevilla;Total;Agosto;101.651
+41 Sevilla;Total;Septiembre;95.977
+41 Sevilla;Total;Octubre;99.054
+41 Sevilla;Total;Noviembre;79.784
+41 Sevilla;Total;Diciembre;79.179
+41 Sevilla;Residentes en España;Enero;30.138
+41 Sevilla;Residentes en España;Febrero;28.449
+41 Sevilla;Residentes en España;Marzo;40.658
+41 Sevilla;Residentes en España;Abril;41.968
+41 Sevilla;Residentes en España;Mayo;42.186
+41 Sevilla;Residentes en España;Junio;37.282
+41 Sevilla;Residentes en España;Julio;29.039
+41 Sevilla;Residentes en España;Agosto;41.037
+41 Sevilla;Residentes en España;Septiembre;36.090
+41 Sevilla;Residentes en España;Octubre;34.605
+41 Sevilla;Residentes en España;Noviembre;34.482
+41 Sevilla;Residentes en España;Diciembre;38.419
+41 Sevilla;No residentes en España;Enero;48.343
+41 Sevilla;No residentes en España;Febrero;48.382
+41 Sevilla;No residentes en España;Marzo;55.079
+41 Sevilla;No residentes en España;Abril;64.482
+41 Sevilla;No residentes en España;Mayo;58.064
+41 Sevilla;No residentes en España;Junio;59.986
+41 Sevilla;No residentes en España;Julio;56.382
+41 Sevilla;No residentes en España;Agosto;60.614
+41 Sevilla;No residentes en España;Septiembre;59.888
+41 Sevilla;No residentes en España;Octubre;64.449
+41 Sevilla;No residentes en España;Noviembre;45.302
+41 Sevilla;No residentes en España;Diciembre;40.761
+41 Sevilla;Unión Europea (sin España);Enero;23.422
+41 Sevilla;Unión Europea (sin España);Febrero;29.800
+41 Sevilla;Unión Europea (sin España);Marzo;37.246
+41 Sevilla;Unión Europea (sin España);Abril;41.231
+41 Sevilla;Unión Europea (sin España);Mayo;33.719
+41 Sevilla;Unión Europea (sin España);Junio;33.796
+41 Sevilla;Unión Europea (sin España);Julio;33.457
+41 Sevilla;Unión Europea (sin España);Agosto;41.508
+41 Sevilla;Unión Europea (sin España);Septiembre;36.727
+41 Sevilla;Unión Europea (sin España);Octubre;38.857
+41 Sevilla;Unión Europea (sin España);Noviembre;26.579
+41 Sevilla;Unión Europea (sin España);Diciembre;22.204
+41 Sevilla;Alemania;Enero;1.544
+41 Sevilla;Alemania;Febrero;1.663
+41 Sevilla;Alemania;Marzo;4.774
+41 Sevilla;Alemania;Abril;3.043
+41 Sevilla;Alemania;Mayo;2.155
+41 Sevilla;Alemania;Junio;2.910
+41 Sevilla;Alemania;Julio;3.393
+41 Sevilla;Alemania;Agosto;1.840
+41 Sevilla;Alemania;Septiembre;3.668
+41 Sevilla;Alemania;Octubre;3.305
+41 Sevilla;Alemania;Noviembre;2.679
+41 Sevilla;Alemania;Diciembre;1.355
+41 Sevilla;Austria;Enero;29
+41 Sevilla;Austria;Febrero;185
+41 Sevilla;Austria;Marzo;190
+41 Sevilla;Austria;Abril;426
+41 Sevilla;Austria;Mayo;216
+41 Sevilla;Austria;Junio;309
+41 Sevilla;Austria;Julio;209
+41 Sevilla;Austria;Agosto;245
+41 Sevilla;Austria;Septiembre;434
+41 Sevilla;Austria;Octubre;327
+41 Sevilla;Austria;Noviembre;232
+41 Sevilla;Austria;Diciembre;235
+41 Sevilla;Bélgica;Enero;743
+41 Sevilla;Bélgica;Febrero;968
+41 Sevilla;Bélgica;Marzo;2.023
+41 Sevilla;Bélgica;Abril;1.384
+41 Sevilla;Bélgica;Mayo;875
+41 Sevilla;Bélgica;Junio;975
+41 Sevilla;Bélgica;Julio;1.193
+41 Sevilla;Bélgica;Agosto;1.154
+41 Sevilla;Bélgica;Septiembre;1.035
+41 Sevilla;Bélgica;Octubre;1.860
+41 Sevilla;Bélgica;Noviembre;1.187
+41 Sevilla;Bélgica;Diciembre;1.256
+41 Sevilla;Dinamarca;Enero;93
+41 Sevilla;Dinamarca;Febrero;442
+41 Sevilla;Dinamarca;Marzo;86
+41 Sevilla;Dinamarca;Abril;463
+41 Sevilla;Dinamarca;Mayo;159
+41 Sevilla;Dinamarca;Junio;121
+41 Sevilla;Dinamarca;Julio;361
+41 Sevilla;Dinamarca;Agosto;83
+41 Sevilla;Dinamarca;Septiembre;163
+41 Sevilla;Dinamarca;Octubre;290
+41 Sevilla;Dinamarca;Noviembre;386
+41 Sevilla;Dinamarca;Diciembre;310
+41 Sevilla;Finlandia;Enero;..
+41 Sevilla;Finlandia;Febrero;157
+41 Sevilla;Finlandia;Marzo;103
+41 Sevilla;Finlandia;Abril;75
+41 Sevilla;Finlandia;Mayo;132
+41 Sevilla;Finlandia;Junio;54
+41 Sevilla;Finlandia;Julio;276
+41 Sevilla;Finlandia;Agosto;86
+41 Sevilla;Finlandia;Septiembre;123
+41 Sevilla;Finlandia;Octubre;151
+41 Sevilla;Finlandia;Noviembre;..
+41 Sevilla;Finlandia;Diciembre;295
+41 Sevilla;Francia;Enero;4.989
+41 Sevilla;Francia;Febrero;9.625
+41 Sevilla;Francia;Marzo;7.578
+41 Sevilla;Francia;Abril;11.686
+41 Sevilla;Francia;Mayo;11.297
+41 Sevilla;Francia;Junio;7.733
+41 Sevilla;Francia;Julio;8.888
+41 Sevilla;Francia;Agosto;10.831
+41 Sevilla;Francia;Septiembre;6.917
+41 Sevilla;Francia;Octubre;14.628
+41 Sevilla;Francia;Noviembre;5.540
+41 Sevilla;Francia;Diciembre;5.643
+41 Sevilla;Grecia;Enero;..
+41 Sevilla;Grecia;Febrero;186
+41 Sevilla;Grecia;Marzo;43
+41 Sevilla;Grecia;Abril;102
+41 Sevilla;Grecia;Mayo;223
+41 Sevilla;Grecia;Junio;165
+41 Sevilla;Grecia;Julio;..
+41 Sevilla;Grecia;Agosto;191
+41 Sevilla;Grecia;Septiembre;..
+41 Sevilla;Grecia;Octubre;220
+41 Sevilla;Grecia;Noviembre;328
+41 Sevilla;Grecia;Diciembre;..
+41 Sevilla;Irlanda;Enero;665
+41 Sevilla;Irlanda;Febrero;609
+41 Sevilla;Irlanda;Marzo;494
+41 Sevilla;Irlanda;Abril;667
+41 Sevilla;Irlanda;Mayo;737
+41 Sevilla;Irlanda;Junio;995
+41 Sevilla;Irlanda;Julio;516
+41 Sevilla;Irlanda;Agosto;637
+41 Sevilla;Irlanda;Septiembre;475
+41 Sevilla;Irlanda;Octubre;643
+41 Sevilla;Irlanda;Noviembre;369
+41 Sevilla;Irlanda;Diciembre;547
+41 Sevilla;Italia;Enero;8.188
+41 Sevilla;Italia;Febrero;4.189
+41 Sevilla;Italia;Marzo;7.024
+41 Sevilla;Italia;Abril;9.432
+41 Sevilla;Italia;Mayo;6.923
+41 Sevilla;Italia;Junio;8.324
+41 Sevilla;Italia;Julio;5.884
+41 Sevilla;Italia;Agosto;9.248
+41 Sevilla;Italia;Septiembre;7.202
+41 Sevilla;Italia;Octubre;4.855
+41 Sevilla;Italia;Noviembre;6.539
+41 Sevilla;Italia;Diciembre;5.251
+41 Sevilla;Luxemburgo;Enero;68
+41 Sevilla;Luxemburgo;Febrero;70
+41 Sevilla;Luxemburgo;Marzo;..
+41 Sevilla;Luxemburgo;Abril;..
+41 Sevilla;Luxemburgo;Mayo;59
+41 Sevilla;Luxemburgo;Junio;17
+41 Sevilla;Luxemburgo;Julio;..
+41 Sevilla;Luxemburgo;Agosto;121
+41 Sevilla;Luxemburgo;Septiembre;..
+41 Sevilla;Luxemburgo;Octubre;25
+41 Sevilla;Luxemburgo;Noviembre;..
+41 Sevilla;Luxemburgo;Diciembre;..
+41 Sevilla;Países Bajos;Enero;1.045
+41 Sevilla;Países Bajos;Febrero;3.364
+41 Sevilla;Países Bajos;Marzo;3.518
+41 Sevilla;Países Bajos;Abril;3.340
+41 Sevilla;Países Bajos;Mayo;2.242
+41 Sevilla;Países Bajos;Junio;2.445
+41 Sevilla;Países Bajos;Julio;1.671
+41 Sevilla;Países Bajos;Agosto;1.571
+41 Sevilla;Países Bajos;Septiembre;2.959
+41 Sevilla;Países Bajos;Octubre;2.836
+41 Sevilla;Países Bajos;Noviembre;1.750
+41 Sevilla;Países Bajos;Diciembre;1.099
+41 Sevilla;Polonia;Enero;869
+41 Sevilla;Polonia;Febrero;510
+41 Sevilla;Polonia;Marzo;369
+41 Sevilla;Polonia;Abril;956
+41 Sevilla;Polonia;Mayo;654
+41 Sevilla;Polonia;Junio;1.087
+41 Sevilla;Polonia;Julio;665
+41 Sevilla;Polonia;Agosto;724
+41 Sevilla;Polonia;Septiembre;870
+41 Sevilla;Polonia;Octubre;556
+41 Sevilla;Polonia;Noviembre;629
+41 Sevilla;Polonia;Diciembre;322
+41 Sevilla;Portugal;Enero;693
+41 Sevilla;Portugal;Febrero;1.131
+41 Sevilla;Portugal;Marzo;2.242
+41 Sevilla;Portugal;Abril;2.202
+41 Sevilla;Portugal;Mayo;1.542
+41 Sevilla;Portugal;Junio;2.850
+41 Sevilla;Portugal;Julio;3.485
+41 Sevilla;Portugal;Agosto;8.955
+41 Sevilla;Portugal;Septiembre;3.555
+41 Sevilla;Portugal;Octubre;980
+41 Sevilla;Portugal;Noviembre;1.849
+41 Sevilla;Portugal;Diciembre;1.462
+41 Sevilla;Reino Unido;Enero;3.411
+41 Sevilla;Reino Unido;Febrero;5.119
+41 Sevilla;Reino Unido;Marzo;7.245
+41 Sevilla;Reino Unido;Abril;5.893
+41 Sevilla;Reino Unido;Mayo;5.010
+41 Sevilla;Reino Unido;Junio;4.599
+41 Sevilla;Reino Unido;Julio;5.661
+41 Sevilla;Reino Unido;Agosto;4.658
+41 Sevilla;Reino Unido;Septiembre;7.690
+41 Sevilla;Reino Unido;Octubre;6.596
+41 Sevilla;Reino Unido;Noviembre;3.796
+41 Sevilla;Reino Unido;Diciembre;3.193
+41 Sevilla;Republica Checa;Enero;..
+41 Sevilla;Republica Checa;Febrero;177
+41 Sevilla;Republica Checa;Marzo;285
+41 Sevilla;Republica Checa;Abril;62
+41 Sevilla;Republica Checa;Mayo;381
+41 Sevilla;Republica Checa;Junio;146
+41 Sevilla;Republica Checa;Julio;200
+41 Sevilla;Republica Checa;Agosto;108
+41 Sevilla;Republica Checa;Septiembre;158
+41 Sevilla;Republica Checa;Octubre;231
+41 Sevilla;Republica Checa;Noviembre;334
+41 Sevilla;Republica Checa;Diciembre;30
+41 Sevilla;Suecia;Enero;304
+41 Sevilla;Suecia;Febrero;117
+41 Sevilla;Suecia;Marzo;..
+41 Sevilla;Suecia;Abril;..
+41 Sevilla;Suecia;Mayo;160
+41 Sevilla;Suecia;Junio;317
+41 Sevilla;Suecia;Julio;227
+41 Sevilla;Suecia;Agosto;231
+41 Sevilla;Suecia;Septiembre;184
+41 Sevilla;Suecia;Octubre;57
+41 Sevilla;Suecia;Noviembre;294
+41 Sevilla;Suecia;Diciembre;273
+41 Sevilla;Resto de la UE;Enero;720
+41 Sevilla;Resto de la UE;Febrero;1.288
+41 Sevilla;Resto de la UE;Marzo;1.204
+41 Sevilla;Resto de la UE;Abril;1.432
+41 Sevilla;Resto de la UE;Mayo;954
+41 Sevilla;Resto de la UE;Junio;748
+41 Sevilla;Resto de la UE;Julio;747
+41 Sevilla;Resto de la UE;Agosto;826
+41 Sevilla;Resto de la UE;Septiembre;1.124
+41 Sevilla;Resto de la UE;Octubre;1.297
+41 Sevilla;Resto de la UE;Noviembre;514
+41 Sevilla;Resto de la UE;Diciembre;793
+41 Sevilla;Noruega;Enero;25
+41 Sevilla;Noruega;Febrero;..
+41 Sevilla;Noruega;Marzo;114
+41 Sevilla;Noruega;Abril;..
+41 Sevilla;Noruega;Mayo;69
+41 Sevilla;Noruega;Junio;410
+41 Sevilla;Noruega;Julio;305
+41 Sevilla;Noruega;Agosto;59
+41 Sevilla;Noruega;Septiembre;88
+41 Sevilla;Noruega;Octubre;156
+41 Sevilla;Noruega;Noviembre;47
+41 Sevilla;Noruega;Diciembre;204
+41 Sevilla;Rusia;Enero;734
+41 Sevilla;Rusia;Febrero;791
+41 Sevilla;Rusia;Marzo;569
+41 Sevilla;Rusia;Abril;530
+41 Sevilla;Rusia;Mayo;578
+41 Sevilla;Rusia;Junio;493
+41 Sevilla;Rusia;Julio;848
+41 Sevilla;Rusia;Agosto;504
+41 Sevilla;Rusia;Septiembre;394
+41 Sevilla;Rusia;Octubre;987
+41 Sevilla;Rusia;Noviembre;205
+41 Sevilla;Rusia;Diciembre;562
+41 Sevilla;Suiza;Enero;420
+41 Sevilla;Suiza;Febrero;..
+41 Sevilla;Suiza;Marzo;761
+41 Sevilla;Suiza;Abril;..
+41 Sevilla;Suiza;Mayo;675
+41 Sevilla;Suiza;Junio;1.256
+41 Sevilla;Suiza;Julio;652
+41 Sevilla;Suiza;Agosto;268
+41 Sevilla;Suiza;Septiembre;591
+41 Sevilla;Suiza;Octubre;1.770
+41 Sevilla;Suiza;Noviembre;377
+41 Sevilla;Suiza;Diciembre;782
+41 Sevilla;Resto de Europa;Enero;484
+41 Sevilla;Resto de Europa;Febrero;939
+41 Sevilla;Resto de Europa;Marzo;326
+41 Sevilla;Resto de Europa;Abril;909
+41 Sevilla;Resto de Europa;Mayo;272
+41 Sevilla;Resto de Europa;Junio;982
+41 Sevilla;Resto de Europa;Julio;524
+41 Sevilla;Resto de Europa;Agosto;352
+41 Sevilla;Resto de Europa;Septiembre;1.161
+41 Sevilla;Resto de Europa;Octubre;935
+41 Sevilla;Resto de Europa;Noviembre;849
+41 Sevilla;Resto de Europa;Diciembre;898
+41 Sevilla;Estados Unidos;Enero;1.358
+41 Sevilla;Estados Unidos;Febrero;1.383
+41 Sevilla;Estados Unidos;Marzo;4.481
+41 Sevilla;Estados Unidos;Abril;4.473
+41 Sevilla;Estados Unidos;Mayo;5.431
+41 Sevilla;Estados Unidos;Junio;5.238
+41 Sevilla;Estados Unidos;Julio;3.689
+41 Sevilla;Estados Unidos;Agosto;1.731
+41 Sevilla;Estados Unidos;Septiembre;4.341
+41 Sevilla;Estados Unidos;Octubre;4.200
+41 Sevilla;Estados Unidos;Noviembre;2.954
+41 Sevilla;Estados Unidos;Diciembre;2.880
+41 Sevilla;Resto de América;Enero;4.528
+41 Sevilla;Resto de América;Febrero;3.077
+41 Sevilla;Resto de América;Marzo;2.294
+41 Sevilla;Resto de América;Abril;3.316
+41 Sevilla;Resto de América;Mayo;6.087
+41 Sevilla;Resto de América;Junio;5.026
+41 Sevilla;Resto de América;Julio;4.546
+41 Sevilla;Resto de América;Agosto;4.970
+41 Sevilla;Resto de América;Septiembre;6.272
+41 Sevilla;Resto de América;Octubre;5.290
+41 Sevilla;Resto de América;Noviembre;3.340
+41 Sevilla;Resto de América;Diciembre;2.402
+41 Sevilla;Países Africanos;Enero;4.066
+41 Sevilla;Países Africanos;Febrero;1.534
+41 Sevilla;Países Africanos;Marzo;1.547
+41 Sevilla;Países Africanos;Abril;2.542
+41 Sevilla;Países Africanos;Mayo;279
+41 Sevilla;Países Africanos;Junio;1.381
+41 Sevilla;Países Africanos;Julio;2.093
+41 Sevilla;Países Africanos;Agosto;4.435
+41 Sevilla;Países Africanos;Septiembre;1.087
+41 Sevilla;Países Africanos;Octubre;932
+41 Sevilla;Países Africanos;Noviembre;1.855
+41 Sevilla;Países Africanos;Diciembre;1.056
+41 Sevilla;Resto del mundo;Enero;13.306
+41 Sevilla;Resto del mundo;Febrero;10.735
+41 Sevilla;Resto del mundo;Marzo;7.741
+41 Sevilla;Resto del mundo;Abril;10.680
+41 Sevilla;Resto del mundo;Mayo;10.954
+41 Sevilla;Resto del mundo;Junio;11.404
+41 Sevilla;Resto del mundo;Julio;10.269
+41 Sevilla;Resto del mundo;Agosto;6.788
+41 Sevilla;Resto del mundo;Septiembre;9.226
+41 Sevilla;Resto del mundo;Octubre;11.320
+41 Sevilla;Resto del mundo;Noviembre;9.096
+41 Sevilla;Resto del mundo;Diciembre;9.773
+46 Valencia/València;Total;Enero;59.208
+46 Valencia/València;Total;Febrero;63.677
+46 Valencia/València;Total;Marzo;88.434
+46 Valencia/València;Total;Abril;136.224
+46 Valencia/València;Total;Mayo;127.970
+46 Valencia/València;Total;Junio;177.210
+46 Valencia/València;Total;Julio;428.274
+46 Valencia/València;Total;Agosto;500.894
+46 Valencia/València;Total;Septiembre;177.022
+46 Valencia/València;Total;Octubre;124.014
+46 Valencia/València;Total;Noviembre;95.058
+46 Valencia/València;Total;Diciembre;96.148
+46 Valencia/València;Residentes en España;Enero;20.665
+46 Valencia/València;Residentes en España;Febrero;21.889
+46 Valencia/València;Residentes en España;Marzo;34.619
+46 Valencia/València;Residentes en España;Abril;48.387
+46 Valencia/València;Residentes en España;Mayo;38.672
+46 Valencia/València;Residentes en España;Junio;83.380
+46 Valencia/València;Residentes en España;Julio;292.352
+46 Valencia/València;Residentes en España;Agosto;339.644
+46 Valencia/València;Residentes en España;Septiembre;77.244
+46 Valencia/València;Residentes en España;Octubre;27.097
+46 Valencia/València;Residentes en España;Noviembre;30.159
+46 Valencia/València;Residentes en España;Diciembre;40.275
+46 Valencia/València;No residentes en España;Enero;38.543
+46 Valencia/València;No residentes en España;Febrero;41.788
+46 Valencia/València;No residentes en España;Marzo;53.815
+46 Valencia/València;No residentes en España;Abril;87.837
+46 Valencia/València;No residentes en España;Mayo;89.298
+46 Valencia/València;No residentes en España;Junio;93.830
+46 Valencia/València;No residentes en España;Julio;135.923
+46 Valencia/València;No residentes en España;Agosto;161.250
+46 Valencia/València;No residentes en España;Septiembre;99.778
+46 Valencia/València;No residentes en España;Octubre;96.917
+46 Valencia/València;No residentes en España;Noviembre;64.899
+46 Valencia/València;No residentes en España;Diciembre;55.873
+46 Valencia/València;Unión Europea (sin España);Enero;27.235
+46 Valencia/València;Unión Europea (sin España);Febrero;32.868
+46 Valencia/València;Unión Europea (sin España);Marzo;42.051
+46 Valencia/València;Unión Europea (sin España);Abril;73.545
+46 Valencia/València;Unión Europea (sin España);Mayo;70.765
+46 Valencia/València;Unión Europea (sin España);Junio;70.913
+46 Valencia/València;Unión Europea (sin España);Julio;103.133
+46 Valencia/València;Unión Europea (sin España);Agosto;141.057
+46 Valencia/València;Unión Europea (sin España);Septiembre;76.765
+46 Valencia/València;Unión Europea (sin España);Octubre;77.671
+46 Valencia/València;Unión Europea (sin España);Noviembre;49.932
+46 Valencia/València;Unión Europea (sin España);Diciembre;40.118
+46 Valencia/València;Alemania;Enero;2.660
+46 Valencia/València;Alemania;Febrero;2.571
+46 Valencia/València;Alemania;Marzo;5.745
+46 Valencia/València;Alemania;Abril;9.952
+46 Valencia/València;Alemania;Mayo;6.711
+46 Valencia/València;Alemania;Junio;10.570
+46 Valencia/València;Alemania;Julio;14.299
+46 Valencia/València;Alemania;Agosto;15.819
+46 Valencia/València;Alemania;Septiembre;11.850
+46 Valencia/València;Alemania;Octubre;14.243
+46 Valencia/València;Alemania;Noviembre;5.376
+46 Valencia/València;Alemania;Diciembre;3.312
+46 Valencia/València;Austria;Enero;56
+46 Valencia/València;Austria;Febrero;..
+46 Valencia/València;Austria;Marzo;596
+46 Valencia/València;Austria;Abril;1.225
+46 Valencia/València;Austria;Mayo;1.349
+46 Valencia/València;Austria;Junio;1.643
+46 Valencia/València;Austria;Julio;1.295
+46 Valencia/València;Austria;Agosto;1.834
+46 Valencia/València;Austria;Septiembre;1.066
+46 Valencia/València;Austria;Octubre;932
+46 Valencia/València;Austria;Noviembre;..
+46 Valencia/València;Austria;Diciembre;531
+46 Valencia/València;Bélgica;Enero;1.296
+46 Valencia/València;Bélgica;Febrero;1.228
+46 Valencia/València;Bélgica;Marzo;1.838
+46 Valencia/València;Bélgica;Abril;4.338
+46 Valencia/València;Bélgica;Mayo;2.033
+46 Valencia/València;Bélgica;Junio;3.045
+46 Valencia/València;Bélgica;Julio;3.721
+46 Valencia/València;Bélgica;Agosto;2.182
+46 Valencia/València;Bélgica;Septiembre;5.562
+46 Valencia/València;Bélgica;Octubre;2.657
+46 Valencia/València;Bélgica;Noviembre;2.364
+46 Valencia/València;Bélgica;Diciembre;1.928
+46 Valencia/València;Dinamarca;Enero;197
+46 Valencia/València;Dinamarca;Febrero;450
+46 Valencia/València;Dinamarca;Marzo;734
+46 Valencia/València;Dinamarca;Abril;963
+46 Valencia/València;Dinamarca;Mayo;680
+46 Valencia/València;Dinamarca;Junio;..
+46 Valencia/València;Dinamarca;Julio;1.375
+46 Valencia/València;Dinamarca;Agosto;514
+46 Valencia/València;Dinamarca;Septiembre;1.327
+46 Valencia/València;Dinamarca;Octubre;1.458
+46 Valencia/València;Dinamarca;Noviembre;..
+46 Valencia/València;Dinamarca;Diciembre;..
+46 Valencia/València;Finlandia;Enero;192
+46 Valencia/València;Finlandia;Febrero;641
+46 Valencia/València;Finlandia;Marzo;432
+46 Valencia/València;Finlandia;Abril;..
+46 Valencia/València;Finlandia;Mayo;..
+46 Valencia/València;Finlandia;Junio;450
+46 Valencia/València;Finlandia;Julio;399
+46 Valencia/València;Finlandia;Agosto;..
+46 Valencia/València;Finlandia;Septiembre;..
+46 Valencia/València;Finlandia;Octubre;..
+46 Valencia/València;Finlandia;Noviembre;..
+46 Valencia/València;Finlandia;Diciembre;305
+46 Valencia/València;Francia;Enero;2.364
+46 Valencia/València;Francia;Febrero;3.643
+46 Valencia/València;Francia;Marzo;3.437
+46 Valencia/València;Francia;Abril;6.533
+46 Valencia/València;Francia;Mayo;5.387
+46 Valencia/València;Francia;Junio;7.184
+46 Valencia/València;Francia;Julio;24.748
+46 Valencia/València;Francia;Agosto;52.841
+46 Valencia/València;Francia;Septiembre;9.335
+46 Valencia/València;Francia;Octubre;6.527
+46 Valencia/València;Francia;Noviembre;5.231
+46 Valencia/València;Francia;Diciembre;5.189
+46 Valencia/València;Grecia;Enero;54
+46 Valencia/València;Grecia;Febrero;132
+46 Valencia/València;Grecia;Marzo;..
+46 Valencia/València;Grecia;Abril;22
+46 Valencia/València;Grecia;Mayo;..
+46 Valencia/València;Grecia;Junio;..
+46 Valencia/València;Grecia;Julio;117
+46 Valencia/València;Grecia;Agosto;..
+46 Valencia/València;Grecia;Septiembre;89
+46 Valencia/València;Grecia;Octubre;..
+46 Valencia/València;Grecia;Noviembre;161
+46 Valencia/València;Grecia;Diciembre;..
+46 Valencia/València;Irlanda;Enero;..
+46 Valencia/València;Irlanda;Febrero;..
+46 Valencia/València;Irlanda;Marzo;..
+46 Valencia/València;Irlanda;Abril;..
+46 Valencia/València;Irlanda;Mayo;..
+46 Valencia/València;Irlanda;Junio;2.102
+46 Valencia/València;Irlanda;Julio;1.206
+46 Valencia/València;Irlanda;Agosto;1.594
+46 Valencia/València;Irlanda;Septiembre;1.180
+46 Valencia/València;Irlanda;Octubre;419
+46 Valencia/València;Irlanda;Noviembre;600
+46 Valencia/València;Irlanda;Diciembre;..
+46 Valencia/València;Italia;Enero;8.220
+46 Valencia/València;Italia;Febrero;8.250
+46 Valencia/València;Italia;Marzo;8.845
+46 Valencia/València;Italia;Abril;18.981
+46 Valencia/València;Italia;Mayo;19.480
+46 Valencia/València;Italia;Junio;18.818
+46 Valencia/València;Italia;Julio;25.588
+46 Valencia/València;Italia;Agosto;35.616
+46 Valencia/València;Italia;Septiembre;17.990
+46 Valencia/València;Italia;Octubre;16.231
+46 Valencia/València;Italia;Noviembre;14.254
+46 Valencia/València;Italia;Diciembre;14.289
+46 Valencia/València;Luxemburgo;Enero;..
+46 Valencia/València;Luxemburgo;Febrero;..
+46 Valencia/València;Luxemburgo;Marzo;..
+46 Valencia/València;Luxemburgo;Abril;509
+46 Valencia/València;Luxemburgo;Mayo;..
+46 Valencia/València;Luxemburgo;Junio;..
+46 Valencia/València;Luxemburgo;Julio;124
+46 Valencia/València;Luxemburgo;Agosto;..
+46 Valencia/València;Luxemburgo;Septiembre;..
+46 Valencia/València;Luxemburgo;Octubre;..
+46 Valencia/València;Luxemburgo;Noviembre;29
+46 Valencia/València;Luxemburgo;Diciembre;..
+46 Valencia/València;Países Bajos;Enero;..
+46 Valencia/València;Países Bajos;Febrero;..
+46 Valencia/València;Países Bajos;Marzo;7.592
+46 Valencia/València;Países Bajos;Abril;10.838
+46 Valencia/València;Países Bajos;Mayo;16.484
+46 Valencia/València;Países Bajos;Junio;9.558
+46 Valencia/València;Países Bajos;Julio;12.778
+46 Valencia/València;Países Bajos;Agosto;11.280
+46 Valencia/València;Países Bajos;Septiembre;11.149
+46 Valencia/València;Países Bajos;Octubre;16.381
+46 Valencia/València;Países Bajos;Noviembre;..
+46 Valencia/València;Países Bajos;Diciembre;4.872
+46 Valencia/València;Polonia;Enero;..
+46 Valencia/València;Polonia;Febrero;792
+46 Valencia/València;Polonia;Marzo;..
+46 Valencia/València;Polonia;Abril;1.582
+46 Valencia/València;Polonia;Mayo;2.471
+46 Valencia/València;Polonia;Junio;1.786
+46 Valencia/València;Polonia;Julio;1.776
+46 Valencia/València;Polonia;Agosto;1.777
+46 Valencia/València;Polonia;Septiembre;1.679
+46 Valencia/València;Polonia;Octubre;993
+46 Valencia/València;Polonia;Noviembre;1.508
+46 Valencia/València;Polonia;Diciembre;434
+46 Valencia/València;Portugal;Enero;659
+46 Valencia/València;Portugal;Febrero;378
+46 Valencia/València;Portugal;Marzo;..
+46 Valencia/València;Portugal;Abril;581
+46 Valencia/València;Portugal;Mayo;423
+46 Valencia/València;Portugal;Junio;654
+46 Valencia/València;Portugal;Julio;923
+46 Valencia/València;Portugal;Agosto;2.518
+46 Valencia/València;Portugal;Septiembre;865
+46 Valencia/València;Portugal;Octubre;587
+46 Valencia/València;Portugal;Noviembre;..
+46 Valencia/València;Portugal;Diciembre;435
+46 Valencia/València;Reino Unido;Enero;5.437
+46 Valencia/València;Reino Unido;Febrero;6.378
+46 Valencia/València;Reino Unido;Marzo;7.635
+46 Valencia/València;Reino Unido;Abril;11.709
+46 Valencia/València;Reino Unido;Mayo;8.882
+46 Valencia/València;Reino Unido;Junio;8.927
+46 Valencia/València;Reino Unido;Julio;7.627
+46 Valencia/València;Reino Unido;Agosto;9.083
+46 Valencia/València;Reino Unido;Septiembre;8.579
+46 Valencia/València;Reino Unido;Octubre;10.981
+46 Valencia/València;Reino Unido;Noviembre;7.260
+46 Valencia/València;Reino Unido;Diciembre;5.105
+46 Valencia/València;Republica Checa;Enero;..
+46 Valencia/València;Republica Checa;Febrero;..
+46 Valencia/València;Republica Checa;Marzo;620
+46 Valencia/València;Republica Checa;Abril;1.208
+46 Valencia/València;Republica Checa;Mayo;1.564
+46 Valencia/València;Republica Checa;Junio;930
+46 Valencia/València;Republica Checa;Julio;2.032
+46 Valencia/València;Republica Checa;Agosto;372
+46 Valencia/València;Republica Checa;Septiembre;..
+46 Valencia/València;Republica Checa;Octubre;822
+46 Valencia/València;Republica Checa;Noviembre;380
+46 Valencia/València;Republica Checa;Diciembre;665
+46 Valencia/València;Suecia;Enero;..
+46 Valencia/València;Suecia;Febrero;..
+46 Valencia/València;Suecia;Marzo;682
+46 Valencia/València;Suecia;Abril;..
+46 Valencia/València;Suecia;Mayo;176
+46 Valencia/València;Suecia;Junio;455
+46 Valencia/València;Suecia;Julio;1.884
+46 Valencia/València;Suecia;Agosto;810
+46 Valencia/València;Suecia;Septiembre;185
+46 Valencia/València;Suecia;Octubre;..
+46 Valencia/València;Suecia;Noviembre;..
+46 Valencia/València;Suecia;Diciembre;348
+46 Valencia/València;Resto de la UE;Enero;1.780
+46 Valencia/València;Resto de la UE;Febrero;2.185
+46 Valencia/València;Resto de la UE;Marzo;2.381
+46 Valencia/València;Resto de la UE;Abril;3.238
+46 Valencia/València;Resto de la UE;Mayo;4.292
+46 Valencia/València;Resto de la UE;Junio;4.143
+46 Valencia/València;Resto de la UE;Julio;3.241
+46 Valencia/València;Resto de la UE;Agosto;4.742
+46 Valencia/València;Resto de la UE;Septiembre;5.198
+46 Valencia/València;Resto de la UE;Octubre;4.641
+46 Valencia/València;Resto de la UE;Noviembre;3.089
+46 Valencia/València;Resto de la UE;Diciembre;1.902
+46 Valencia/València;Noruega;Enero;..
+46 Valencia/València;Noruega;Febrero;..
+46 Valencia/València;Noruega;Marzo;1.437
+46 Valencia/València;Noruega;Abril;..
+46 Valencia/València;Noruega;Mayo;..
+46 Valencia/València;Noruega;Junio;..
+46 Valencia/València;Noruega;Julio;774
+46 Valencia/València;Noruega;Agosto;578
+46 Valencia/València;Noruega;Septiembre;249
+46 Valencia/València;Noruega;Octubre;420
+46 Valencia/València;Noruega;Noviembre;..
+46 Valencia/València;Noruega;Diciembre;..
+46 Valencia/València;Rusia;Enero;..
+46 Valencia/València;Rusia;Febrero;1.373
+46 Valencia/València;Rusia;Marzo;2.500
+46 Valencia/València;Rusia;Abril;3.067
+46 Valencia/València;Rusia;Mayo;3.720
+46 Valencia/València;Rusia;Junio;5.249
+46 Valencia/València;Rusia;Julio;8.219
+46 Valencia/València;Rusia;Agosto;3.964
+46 Valencia/València;Rusia;Septiembre;6.116
+46 Valencia/València;Rusia;Octubre;4.652
+46 Valencia/València;Rusia;Noviembre;..
+46 Valencia/València;Rusia;Diciembre;1.970
+46 Valencia/València;Suiza;Enero;776
+46 Valencia/València;Suiza;Febrero;..
+46 Valencia/València;Suiza;Marzo;602
+46 Valencia/València;Suiza;Abril;..
+46 Valencia/València;Suiza;Mayo;752
+46 Valencia/València;Suiza;Junio;980
+46 Valencia/València;Suiza;Julio;3.313
+46 Valencia/València;Suiza;Agosto;1.538
+46 Valencia/València;Suiza;Septiembre;1.564
+46 Valencia/València;Suiza;Octubre;2.601
+46 Valencia/València;Suiza;Noviembre;1.724
+46 Valencia/València;Suiza;Diciembre;927
+46 Valencia/València;Resto de Europa;Enero;867
+46 Valencia/València;Resto de Europa;Febrero;1.015
+46 Valencia/València;Resto de Europa;Marzo;1.172
+46 Valencia/València;Resto de Europa;Abril;1.271
+46 Valencia/València;Resto de Europa;Mayo;3.274
+46 Valencia/València;Resto de Europa;Junio;2.208
+46 Valencia/València;Resto de Europa;Julio;3.197
+46 Valencia/València;Resto de Europa;Agosto;1.295
+46 Valencia/València;Resto de Europa;Septiembre;2.840
+46 Valencia/València;Resto de Europa;Octubre;1.905
+46 Valencia/València;Resto de Europa;Noviembre;..
+46 Valencia/València;Resto de Europa;Diciembre;..
+46 Valencia/València;Estados Unidos;Enero;1.291
+46 Valencia/València;Estados Unidos;Febrero;1.582
+46 Valencia/València;Estados Unidos;Marzo;2.246
+46 Valencia/València;Estados Unidos;Abril;1.696
+46 Valencia/València;Estados Unidos;Mayo;4.824
+46 Valencia/València;Estados Unidos;Junio;7.050
+46 Valencia/València;Estados Unidos;Julio;8.149
+46 Valencia/València;Estados Unidos;Agosto;3.306
+46 Valencia/València;Estados Unidos;Septiembre;2.199
+46 Valencia/València;Estados Unidos;Octubre;2.192
+46 Valencia/València;Estados Unidos;Noviembre;2.040
+46 Valencia/València;Estados Unidos;Diciembre;2.570
+46 Valencia/València;Resto de América;Enero;1.607
+46 Valencia/València;Resto de América;Febrero;1.613
+46 Valencia/València;Resto de América;Marzo;1.945
+46 Valencia/València;Resto de América;Abril;2.825
+46 Valencia/València;Resto de América;Mayo;3.112
+46 Valencia/València;Resto de América;Junio;3.778
+46 Valencia/València;Resto de América;Julio;5.187
+46 Valencia/València;Resto de América;Agosto;3.743
+46 Valencia/València;Resto de América;Septiembre;5.559
+46 Valencia/València;Resto de América;Octubre;3.691
+46 Valencia/València;Resto de América;Noviembre;2.643
+46 Valencia/València;Resto de América;Diciembre;3.568
+46 Valencia/València;Países Africanos;Enero;942
+46 Valencia/València;Países Africanos;Febrero;754
+46 Valencia/València;Países Africanos;Marzo;580
+46 Valencia/València;Países Africanos;Abril;1.062
+46 Valencia/València;Países Africanos;Mayo;..
+46 Valencia/València;Países Africanos;Junio;..
+46 Valencia/València;Países Africanos;Julio;1.354
+46 Valencia/València;Países Africanos;Agosto;3.290
+46 Valencia/València;Países Africanos;Septiembre;913
+46 Valencia/València;Países Africanos;Octubre;909
+46 Valencia/València;Países Africanos;Noviembre;2.043
+46 Valencia/València;Países Africanos;Diciembre;1.905
+46 Valencia/València;Resto del mundo;Enero;3.155
+46 Valencia/València;Resto del mundo;Febrero;1.671
+46 Valencia/València;Resto del mundo;Marzo;1.283
+46 Valencia/València;Resto del mundo;Abril;1.906
+46 Valencia/València;Resto del mundo;Mayo;2.250
+46 Valencia/València;Resto del mundo;Junio;2.130
+46 Valencia/València;Resto del mundo;Julio;2.595
+46 Valencia/València;Resto del mundo;Agosto;2.480
+46 Valencia/València;Resto del mundo;Septiembre;3.573
+46 Valencia/València;Resto del mundo;Octubre;2.877
+46 Valencia/València;Resto del mundo;Noviembre;1.639
+46 Valencia/València;Resto del mundo;Diciembre;2.962

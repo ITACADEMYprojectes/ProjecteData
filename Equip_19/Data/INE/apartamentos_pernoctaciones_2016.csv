@@ -1,85 +1,2437 @@
-Provincias;Meses;Total
-Balears, Illes;Enero;10,20
-Balears, Illes;Febrero;6,89
-Balears, Illes;Marzo;5,06
-Balears, Illes;Abril;5,95
-Balears, Illes;Mayo;5,82
-Balears, Illes;Junio;6,45
-Balears, Illes;Julio;7,21
-Balears, Illes;Agosto;7,12
-Balears, Illes;Septiembre;6,92
-Balears, Illes;Octubre;7,46
-Balears, Illes;Noviembre;8,25
-Balears, Illes;Diciembre;7,02
-Barcelona;Enero;6,11
-Barcelona;Febrero;6,40
-Barcelona;Marzo;5,54
-Barcelona;Abril;5,16
-Barcelona;Mayo;5,14
-Barcelona;Junio;5,15
-Barcelona;Julio;4,13
-Barcelona;Agosto;4,74
-Barcelona;Septiembre;4,92
-Barcelona;Octubre;5,39
-Barcelona;Noviembre;6,66
-Barcelona;Diciembre;6,33
-Girona;Enero;3,47
-Girona;Febrero;3,43
-Girona;Marzo;3,19
-Girona;Abril;3,70
-Girona;Mayo;4,48
-Girona;Junio;5,85
-Girona;Julio;7,04
-Girona;Agosto;9,50
-Girona;Septiembre;7,75
-Girona;Octubre;4,14
-Girona;Noviembre;2,54
-Girona;Diciembre;2,57
-Madrid;Enero;4,11
-Madrid;Febrero;3,89
-Madrid;Marzo;3,60
-Madrid;Abril;3,73
-Madrid;Mayo;3,54
-Madrid;Junio;3,39
-Madrid;Julio;3,72
-Madrid;Agosto;3,73
-Madrid;Septiembre;3,48
-Madrid;Octubre;3,52
-Madrid;Noviembre;3,72
-Madrid;Diciembre;3,61
-Málaga;Enero;5,57
-Málaga;Febrero;5,91
-Málaga;Marzo;5,80
-Málaga;Abril;5,28
-Málaga;Mayo;5,26
-Málaga;Junio;5,71
-Málaga;Julio;5,98
-Málaga;Agosto;6,53
-Málaga;Septiembre;5,64
-Málaga;Octubre;5,78
-Málaga;Noviembre;5,85
-Málaga;Diciembre;4,73
-Sevilla;Enero;2,75
-Sevilla;Febrero;2,49
-Sevilla;Marzo;2,80
-Sevilla;Abril;2,52
-Sevilla;Mayo;2,46
-Sevilla;Junio;2,37
-Sevilla;Julio;2,45
-Sevilla;Agosto;2,70
-Sevilla;Septiembre;2,55
-Sevilla;Octubre;2,59
-Sevilla;Noviembre;2,41
-Sevilla;Diciembre;2,57
-Valencia/Valéncia;Enero;4,18
-Valencia/Valéncia;Febrero;4,42
-Valencia/Valéncia;Marzo;3,91
-Valencia/Valéncia;Abril;3,46
-Valencia/Valéncia;Mayo;3,85
-Valencia/Valéncia;Junio;6,50
-Valencia/Valéncia;Julio;8,68
-Valencia/Valéncia;Agosto;9,90
-Valencia/Valéncia;Septiembre;5,67
-Valencia/Valéncia;Octubre;4,48
-Valencia/Valéncia;Noviembre;3,97
-Valencia/Valéncia;Diciembre;3,76
+Provincias;País de residencia;Meses;Total
+Balears, Illes;Total;Enero;21.644
+Balears, Illes;Total;Febrero;35.352
+Balears, Illes;Total;Marzo;100.870
+Balears, Illes;Total;Abril;213.141
+Balears, Illes;Total;Mayo;1.122.121
+Balears, Illes;Total;Junio;1.610.909
+Balears, Illes;Total;Julio;2.092.133
+Balears, Illes;Total;Agosto;2.205.918
+Balears, Illes;Total;Septiembre;1.683.513
+Balears, Illes;Total;Octubre;837.231
+Balears, Illes;Total;Noviembre;39.346
+Balears, Illes;Total;Diciembre;35.546
+Balears, Illes;Residentes en España;Enero;2.826
+Balears, Illes;Residentes en España;Febrero;5.889
+Balears, Illes;Residentes en España;Marzo;18.386
+Balears, Illes;Residentes en España;Abril;19.325
+Balears, Illes;Residentes en España;Mayo;83.896
+Balears, Illes;Residentes en España;Junio;151.161
+Balears, Illes;Residentes en España;Julio;202.469
+Balears, Illes;Residentes en España;Agosto;219.592
+Balears, Illes;Residentes en España;Septiembre;160.717
+Balears, Illes;Residentes en España;Octubre;44.474
+Balears, Illes;Residentes en España;Noviembre;6.533
+Balears, Illes;Residentes en España;Diciembre;7.009
+Balears, Illes;No residentes en España;Enero;18.818
+Balears, Illes;No residentes en España;Febrero;29.463
+Balears, Illes;No residentes en España;Marzo;82.484
+Balears, Illes;No residentes en España;Abril;193.816
+Balears, Illes;No residentes en España;Mayo;1.038.224
+Balears, Illes;No residentes en España;Junio;1.459.748
+Balears, Illes;No residentes en España;Julio;1.889.663
+Balears, Illes;No residentes en España;Agosto;1.986.326
+Balears, Illes;No residentes en España;Septiembre;1.522.796
+Balears, Illes;No residentes en España;Octubre;792.757
+Balears, Illes;No residentes en España;Noviembre;32.813
+Balears, Illes;No residentes en España;Diciembre;28.537
+Balears, Illes;Unión Europea (sin España);Enero;16.580
+Balears, Illes;Unión Europea (sin España);Febrero;26.993
+Balears, Illes;Unión Europea (sin España);Marzo;76.697
+Balears, Illes;Unión Europea (sin España);Abril;181.596
+Balears, Illes;Unión Europea (sin España);Mayo;998.002
+Balears, Illes;Unión Europea (sin España);Junio;1.385.459
+Balears, Illes;Unión Europea (sin España);Julio;1.771.288
+Balears, Illes;Unión Europea (sin España);Agosto;1.890.853
+Balears, Illes;Unión Europea (sin España);Septiembre;1.450.833
+Balears, Illes;Unión Europea (sin España);Octubre;759.982
+Balears, Illes;Unión Europea (sin España);Noviembre;29.575
+Balears, Illes;Unión Europea (sin España);Diciembre;25.182
+Balears, Illes;Alemania;Enero;11.697
+Balears, Illes;Alemania;Febrero;20.940
+Balears, Illes;Alemania;Marzo;44.379
+Balears, Illes;Alemania;Abril;71.948
+Balears, Illes;Alemania;Mayo;267.081
+Balears, Illes;Alemania;Junio;300.335
+Balears, Illes;Alemania;Julio;385.032
+Balears, Illes;Alemania;Agosto;409.112
+Balears, Illes;Alemania;Septiembre;329.612
+Balears, Illes;Alemania;Octubre;294.082
+Balears, Illes;Alemania;Noviembre;15.252
+Balears, Illes;Alemania;Diciembre;16.307
+Balears, Illes;Austria;Enero;1.734
+Balears, Illes;Austria;Febrero;397
+Balears, Illes;Austria;Marzo;875
+Balears, Illes;Austria;Abril;857
+Balears, Illes;Austria;Mayo;2.413
+Balears, Illes;Austria;Junio;3.328
+Balears, Illes;Austria;Julio;6.677
+Balears, Illes;Austria;Agosto;8.282
+Balears, Illes;Austria;Septiembre;31.516
+Balears, Illes;Austria;Octubre;1.674
+Balears, Illes;Austria;Noviembre;680
+Balears, Illes;Austria;Diciembre;443
+Balears, Illes;Bélgica;Enero;..
+Balears, Illes;Bélgica;Febrero;..
+Balears, Illes;Bélgica;Marzo;1.045
+Balears, Illes;Bélgica;Abril;788
+Balears, Illes;Bélgica;Mayo;6.018
+Balears, Illes;Bélgica;Junio;7.688
+Balears, Illes;Bélgica;Julio;13.541
+Balears, Illes;Bélgica;Agosto;12.940
+Balears, Illes;Bélgica;Septiembre;14.367
+Balears, Illes;Bélgica;Octubre;4.618
+Balears, Illes;Bélgica;Noviembre;238
+Balears, Illes;Bélgica;Diciembre;95
+Balears, Illes;Dinamarca;Enero;206
+Balears, Illes;Dinamarca;Febrero;229
+Balears, Illes;Dinamarca;Marzo;939
+Balears, Illes;Dinamarca;Abril;7.644
+Balears, Illes;Dinamarca;Mayo;36.873
+Balears, Illes;Dinamarca;Junio;24.817
+Balears, Illes;Dinamarca;Julio;79.735
+Balears, Illes;Dinamarca;Agosto;42.702
+Balears, Illes;Dinamarca;Septiembre;29.182
+Balears, Illes;Dinamarca;Octubre;21.859
+Balears, Illes;Dinamarca;Noviembre;272
+Balears, Illes;Dinamarca;Diciembre;666
+Balears, Illes;Finlandia;Enero;..
+Balears, Illes;Finlandia;Febrero;..
+Balears, Illes;Finlandia;Marzo;291
+Balears, Illes;Finlandia;Abril;1.347
+Balears, Illes;Finlandia;Mayo;3.596
+Balears, Illes;Finlandia;Junio;6.774
+Balears, Illes;Finlandia;Julio;5.920
+Balears, Illes;Finlandia;Agosto;5.525
+Balears, Illes;Finlandia;Septiembre;6.220
+Balears, Illes;Finlandia;Octubre;4.842
+Balears, Illes;Finlandia;Noviembre;1.104
+Balears, Illes;Finlandia;Diciembre;1.706
+Balears, Illes;Francia;Enero;214
+Balears, Illes;Francia;Febrero;368
+Balears, Illes;Francia;Marzo;751
+Balears, Illes;Francia;Abril;5.550
+Balears, Illes;Francia;Mayo;30.082
+Balears, Illes;Francia;Junio;46.364
+Balears, Illes;Francia;Julio;76.263
+Balears, Illes;Francia;Agosto;93.098
+Balears, Illes;Francia;Septiembre;47.812
+Balears, Illes;Francia;Octubre;10.621
+Balears, Illes;Francia;Noviembre;316
+Balears, Illes;Francia;Diciembre;426
+Balears, Illes;Grecia;Enero;..
+Balears, Illes;Grecia;Febrero;..
+Balears, Illes;Grecia;Marzo;..
+Balears, Illes;Grecia;Abril;..
+Balears, Illes;Grecia;Mayo;167
+Balears, Illes;Grecia;Junio;424
+Balears, Illes;Grecia;Julio;622
+Balears, Illes;Grecia;Agosto;1.051
+Balears, Illes;Grecia;Septiembre;280
+Balears, Illes;Grecia;Octubre;274
+Balears, Illes;Grecia;Noviembre;..
+Balears, Illes;Grecia;Diciembre;..
+Balears, Illes;Irlanda;Enero;..
+Balears, Illes;Irlanda;Febrero;..
+Balears, Illes;Irlanda;Marzo;621
+Balears, Illes;Irlanda;Abril;8.998
+Balears, Illes;Irlanda;Mayo;52.457
+Balears, Illes;Irlanda;Junio;52.911
+Balears, Illes;Irlanda;Julio;74.425
+Balears, Illes;Irlanda;Agosto;57.102
+Balears, Illes;Irlanda;Septiembre;54.674
+Balears, Illes;Irlanda;Octubre;20.093
+Balears, Illes;Irlanda;Noviembre;406
+Balears, Illes;Irlanda;Diciembre;..
+Balears, Illes;Italia;Enero;360
+Balears, Illes;Italia;Febrero;361
+Balears, Illes;Italia;Marzo;923
+Balears, Illes;Italia;Abril;1.808
+Balears, Illes;Italia;Mayo;39.106
+Balears, Illes;Italia;Junio;95.631
+Balears, Illes;Italia;Julio;130.642
+Balears, Illes;Italia;Agosto;187.234
+Balears, Illes;Italia;Septiembre;93.834
+Balears, Illes;Italia;Octubre;10.196
+Balears, Illes;Italia;Noviembre;280
+Balears, Illes;Italia;Diciembre;251
+Balears, Illes;Luxemburgo;Enero;..
+Balears, Illes;Luxemburgo;Febrero;..
+Balears, Illes;Luxemburgo;Marzo;32
+Balears, Illes;Luxemburgo;Abril;634
+Balears, Illes;Luxemburgo;Mayo;1.672
+Balears, Illes;Luxemburgo;Junio;992
+Balears, Illes;Luxemburgo;Julio;3.566
+Balears, Illes;Luxemburgo;Agosto;3.975
+Balears, Illes;Luxemburgo;Septiembre;1.767
+Balears, Illes;Luxemburgo;Octubre;1.142
+Balears, Illes;Luxemburgo;Noviembre;..
+Balears, Illes;Luxemburgo;Diciembre;..
+Balears, Illes;Países Bajos;Enero;60
+Balears, Illes;Países Bajos;Febrero;277
+Balears, Illes;Países Bajos;Marzo;1.035
+Balears, Illes;Países Bajos;Abril;5.340
+Balears, Illes;Países Bajos;Mayo;65.293
+Balears, Illes;Países Bajos;Junio;83.727
+Balears, Illes;Países Bajos;Julio;125.182
+Balears, Illes;Países Bajos;Agosto;127.200
+Balears, Illes;Países Bajos;Septiembre;96.157
+Balears, Illes;Países Bajos;Octubre;67.071
+Balears, Illes;Países Bajos;Noviembre;527
+Balears, Illes;Países Bajos;Diciembre;232
+Balears, Illes;Polonia;Enero;..
+Balears, Illes;Polonia;Febrero;..
+Balears, Illes;Polonia;Marzo;857
+Balears, Illes;Polonia;Abril;1.282
+Balears, Illes;Polonia;Mayo;6.294
+Balears, Illes;Polonia;Junio;10.010
+Balears, Illes;Polonia;Julio;9.354
+Balears, Illes;Polonia;Agosto;9.634
+Balears, Illes;Polonia;Septiembre;10.637
+Balears, Illes;Polonia;Octubre;2.406
+Balears, Illes;Polonia;Noviembre;342
+Balears, Illes;Polonia;Diciembre;211
+Balears, Illes;Portugal;Enero;..
+Balears, Illes;Portugal;Febrero;..
+Balears, Illes;Portugal;Marzo;261
+Balears, Illes;Portugal;Abril;580
+Balears, Illes;Portugal;Mayo;6.153
+Balears, Illes;Portugal;Junio;10.945
+Balears, Illes;Portugal;Julio;2.954
+Balears, Illes;Portugal;Agosto;5.454
+Balears, Illes;Portugal;Septiembre;4.430
+Balears, Illes;Portugal;Octubre;448
+Balears, Illes;Portugal;Noviembre;154
+Balears, Illes;Portugal;Diciembre;138
+Balears, Illes;Reino Unido;Enero;1.680
+Balears, Illes;Reino Unido;Febrero;2.986
+Balears, Illes;Reino Unido;Marzo;21.354
+Balears, Illes;Reino Unido;Abril;65.762
+Balears, Illes;Reino Unido;Mayo;419.652
+Balears, Illes;Reino Unido;Junio;668.967
+Balears, Illes;Reino Unido;Julio;771.402
+Balears, Illes;Reino Unido;Agosto;850.748
+Balears, Illes;Reino Unido;Septiembre;655.790
+Balears, Illes;Reino Unido;Octubre;297.537
+Balears, Illes;Reino Unido;Noviembre;6.220
+Balears, Illes;Reino Unido;Diciembre;2.246
+Balears, Illes;Republica Checa;Enero;..
+Balears, Illes;Republica Checa;Febrero;..
+Balears, Illes;Republica Checa;Marzo;130
+Balears, Illes;Republica Checa;Abril;938
+Balears, Illes;Republica Checa;Mayo;810
+Balears, Illes;Republica Checa;Junio;1.435
+Balears, Illes;Republica Checa;Julio;1.773
+Balears, Illes;Republica Checa;Agosto;1.026
+Balears, Illes;Republica Checa;Septiembre;2.619
+Balears, Illes;Republica Checa;Octubre;257
+Balears, Illes;Republica Checa;Noviembre;662
+Balears, Illes;Republica Checa;Diciembre;458
+Balears, Illes;Suecia;Enero;205
+Balears, Illes;Suecia;Febrero;720
+Balears, Illes;Suecia;Marzo;2.106
+Balears, Illes;Suecia;Abril;6.826
+Balears, Illes;Suecia;Mayo;48.619
+Balears, Illes;Suecia;Junio;60.916
+Balears, Illes;Suecia;Julio;73.477
+Balears, Illes;Suecia;Agosto;64.531
+Balears, Illes;Suecia;Septiembre;61.966
+Balears, Illes;Suecia;Octubre;16.846
+Balears, Illes;Suecia;Noviembre;2.122
+Balears, Illes;Suecia;Diciembre;1.714
+Balears, Illes;Resto de la UE;Enero;..
+Balears, Illes;Resto de la UE;Febrero;185
+Balears, Illes;Resto de la UE;Marzo;1.088
+Balears, Illes;Resto de la UE;Abril;1.285
+Balears, Illes;Resto de la UE;Mayo;11.715
+Balears, Illes;Resto de la UE;Junio;10.193
+Balears, Illes;Resto de la UE;Julio;10.724
+Balears, Illes;Resto de la UE;Agosto;11.236
+Balears, Illes;Resto de la UE;Septiembre;9.970
+Balears, Illes;Resto de la UE;Octubre;6.017
+Balears, Illes;Resto de la UE;Noviembre;886
+Balears, Illes;Resto de la UE;Diciembre;..
+Balears, Illes;Noruega;Enero;985
+Balears, Illes;Noruega;Febrero;302
+Balears, Illes;Noruega;Marzo;858
+Balears, Illes;Noruega;Abril;2.878
+Balears, Illes;Noruega;Mayo;14.698
+Balears, Illes;Noruega;Junio;33.976
+Balears, Illes;Noruega;Julio;55.748
+Balears, Illes;Noruega;Agosto;33.653
+Balears, Illes;Noruega;Septiembre;24.380
+Balears, Illes;Noruega;Octubre;12.260
+Balears, Illes;Noruega;Noviembre;606
+Balears, Illes;Noruega;Diciembre;1.127
+Balears, Illes;Rusia;Enero;..
+Balears, Illes;Rusia;Febrero;..
+Balears, Illes;Rusia;Marzo;182
+Balears, Illes;Rusia;Abril;190
+Balears, Illes;Rusia;Mayo;3.363
+Balears, Illes;Rusia;Junio;7.410
+Balears, Illes;Rusia;Julio;7.921
+Balears, Illes;Rusia;Agosto;9.659
+Balears, Illes;Rusia;Septiembre;9.287
+Balears, Illes;Rusia;Octubre;3.434
+Balears, Illes;Rusia;Noviembre;296
+Balears, Illes;Rusia;Diciembre;212
+Balears, Illes;Suiza;Enero;223
+Balears, Illes;Suiza;Febrero;688
+Balears, Illes;Suiza;Marzo;1.143
+Balears, Illes;Suiza;Abril;3.622
+Balears, Illes;Suiza;Mayo;8.606
+Balears, Illes;Suiza;Junio;10.005
+Balears, Illes;Suiza;Julio;21.378
+Balears, Illes;Suiza;Agosto;15.155
+Balears, Illes;Suiza;Septiembre;10.711
+Balears, Illes;Suiza;Octubre;5.405
+Balears, Illes;Suiza;Noviembre;700
+Balears, Illes;Suiza;Diciembre;479
+Balears, Illes;Resto de Europa;Enero;..
+Balears, Illes;Resto de Europa;Febrero;..
+Balears, Illes;Resto de Europa;Marzo;678
+Balears, Illes;Resto de Europa;Abril;1.088
+Balears, Illes;Resto de Europa;Mayo;2.943
+Balears, Illes;Resto de Europa;Junio;4.479
+Balears, Illes;Resto de Europa;Julio;4.773
+Balears, Illes;Resto de Europa;Agosto;6.491
+Balears, Illes;Resto de Europa;Septiembre;5.471
+Balears, Illes;Resto de Europa;Octubre;2.347
+Balears, Illes;Resto de Europa;Noviembre;266
+Balears, Illes;Resto de Europa;Diciembre;535
+Balears, Illes;Estados Unidos;Enero;..
+Balears, Illes;Estados Unidos;Febrero;303
+Balears, Illes;Estados Unidos;Marzo;1.371
+Balears, Illes;Estados Unidos;Abril;1.345
+Balears, Illes;Estados Unidos;Mayo;3.080
+Balears, Illes;Estados Unidos;Junio;4.710
+Balears, Illes;Estados Unidos;Julio;5.927
+Balears, Illes;Estados Unidos;Agosto;3.962
+Balears, Illes;Estados Unidos;Septiembre;4.976
+Balears, Illes;Estados Unidos;Octubre;3.309
+Balears, Illes;Estados Unidos;Noviembre;318
+Balears, Illes;Estados Unidos;Diciembre;..
+Balears, Illes;Resto de América;Enero;482
+Balears, Illes;Resto de América;Febrero;433
+Balears, Illes;Resto de América;Marzo;729
+Balears, Illes;Resto de América;Abril;1.849
+Balears, Illes;Resto de América;Mayo;2.508
+Balears, Illes;Resto de América;Junio;5.172
+Balears, Illes;Resto de América;Julio;6.461
+Balears, Illes;Resto de América;Agosto;6.582
+Balears, Illes;Resto de América;Septiembre;5.351
+Balears, Illes;Resto de América;Octubre;1.713
+Balears, Illes;Resto de América;Noviembre;598
+Balears, Illes;Resto de América;Diciembre;510
+Balears, Illes;Países Africanos;Enero;87
+Balears, Illes;Países Africanos;Febrero;192
+Balears, Illes;Países Africanos;Marzo;101
+Balears, Illes;Países Africanos;Abril;247
+Balears, Illes;Países Africanos;Mayo;1.138
+Balears, Illes;Países Africanos;Junio;1.046
+Balears, Illes;Países Africanos;Julio;1.676
+Balears, Illes;Países Africanos;Agosto;4.486
+Balears, Illes;Países Africanos;Septiembre;1.549
+Balears, Illes;Países Africanos;Octubre;2.099
+Balears, Illes;Países Africanos;Noviembre;40
+Balears, Illes;Países Africanos;Diciembre;34
+Balears, Illes;Resto del mundo;Enero;256
+Balears, Illes;Resto del mundo;Febrero;308
+Balears, Illes;Resto del mundo;Marzo;724
+Balears, Illes;Resto del mundo;Abril;1.000
+Balears, Illes;Resto del mundo;Mayo;3.886
+Balears, Illes;Resto del mundo;Junio;7.490
+Balears, Illes;Resto del mundo;Julio;14.493
+Balears, Illes;Resto del mundo;Agosto;15.485
+Balears, Illes;Resto del mundo;Septiembre;10.237
+Balears, Illes;Resto del mundo;Octubre;2.207
+Balears, Illes;Resto del mundo;Noviembre;414
+Balears, Illes;Resto del mundo;Diciembre;448
+Barcelona;Total;Enero;120.023
+Barcelona;Total;Febrero;125.597
+Barcelona;Total;Marzo;141.376
+Barcelona;Total;Abril;152.433
+Barcelona;Total;Mayo;160.179
+Barcelona;Total;Junio;168.763
+Barcelona;Total;Julio;143.973
+Barcelona;Total;Agosto;159.278
+Barcelona;Total;Septiembre;168.421
+Barcelona;Total;Octubre;177.359
+Barcelona;Total;Noviembre;135.625
+Barcelona;Total;Diciembre;139.365
+Barcelona;Residentes en España;Enero;58.948
+Barcelona;Residentes en España;Febrero;57.031
+Barcelona;Residentes en España;Marzo;67.486
+Barcelona;Residentes en España;Abril;60.056
+Barcelona;Residentes en España;Mayo;64.246
+Barcelona;Residentes en España;Junio;63.072
+Barcelona;Residentes en España;Julio;28.159
+Barcelona;Residentes en España;Agosto;31.806
+Barcelona;Residentes en España;Septiembre;70.494
+Barcelona;Residentes en España;Octubre;69.569
+Barcelona;Residentes en España;Noviembre;61.572
+Barcelona;Residentes en España;Diciembre;66.505
+Barcelona;No residentes en España;Enero;61.076
+Barcelona;No residentes en España;Febrero;68.566
+Barcelona;No residentes en España;Marzo;73.890
+Barcelona;No residentes en España;Abril;92.377
+Barcelona;No residentes en España;Mayo;95.933
+Barcelona;No residentes en España;Junio;105.691
+Barcelona;No residentes en España;Julio;115.814
+Barcelona;No residentes en España;Agosto;127.471
+Barcelona;No residentes en España;Septiembre;97.927
+Barcelona;No residentes en España;Octubre;107.789
+Barcelona;No residentes en España;Noviembre;74.053
+Barcelona;No residentes en España;Diciembre;72.860
+Barcelona;Unión Europea (sin España);Enero;26.475
+Barcelona;Unión Europea (sin España);Febrero;35.627
+Barcelona;Unión Europea (sin España);Marzo;40.583
+Barcelona;Unión Europea (sin España);Abril;58.743
+Barcelona;Unión Europea (sin España);Mayo;55.608
+Barcelona;Unión Europea (sin España);Junio;61.109
+Barcelona;Unión Europea (sin España);Julio;74.229
+Barcelona;Unión Europea (sin España);Agosto;89.669
+Barcelona;Unión Europea (sin España);Septiembre;62.799
+Barcelona;Unión Europea (sin España);Octubre;71.023
+Barcelona;Unión Europea (sin España);Noviembre;47.337
+Barcelona;Unión Europea (sin España);Diciembre;45.365
+Barcelona;Alemania;Enero;3.362
+Barcelona;Alemania;Febrero;4.803
+Barcelona;Alemania;Marzo;6.197
+Barcelona;Alemania;Abril;5.949
+Barcelona;Alemania;Mayo;9.978
+Barcelona;Alemania;Junio;6.909
+Barcelona;Alemania;Julio;7.260
+Barcelona;Alemania;Agosto;10.122
+Barcelona;Alemania;Septiembre;8.775
+Barcelona;Alemania;Octubre;9.213
+Barcelona;Alemania;Noviembre;4.973
+Barcelona;Alemania;Diciembre;3.160
+Barcelona;Austria;Enero;282
+Barcelona;Austria;Febrero;874
+Barcelona;Austria;Marzo;1.451
+Barcelona;Austria;Abril;517
+Barcelona;Austria;Mayo;1.243
+Barcelona;Austria;Junio;1.181
+Barcelona;Austria;Julio;1.079
+Barcelona;Austria;Agosto;857
+Barcelona;Austria;Septiembre;920
+Barcelona;Austria;Octubre;791
+Barcelona;Austria;Noviembre;469
+Barcelona;Austria;Diciembre;480
+Barcelona;Bélgica;Enero;912
+Barcelona;Bélgica;Febrero;916
+Barcelona;Bélgica;Marzo;1.383
+Barcelona;Bélgica;Abril;2.758
+Barcelona;Bélgica;Mayo;1.048
+Barcelona;Bélgica;Junio;1.712
+Barcelona;Bélgica;Julio;2.567
+Barcelona;Bélgica;Agosto;1.152
+Barcelona;Bélgica;Septiembre;1.695
+Barcelona;Bélgica;Octubre;1.117
+Barcelona;Bélgica;Noviembre;1.773
+Barcelona;Bélgica;Diciembre;730
+Barcelona;Dinamarca;Enero;484
+Barcelona;Dinamarca;Febrero;963
+Barcelona;Dinamarca;Marzo;1.253
+Barcelona;Dinamarca;Abril;1.980
+Barcelona;Dinamarca;Mayo;1.683
+Barcelona;Dinamarca;Junio;1.747
+Barcelona;Dinamarca;Julio;4.442
+Barcelona;Dinamarca;Agosto;891
+Barcelona;Dinamarca;Septiembre;1.660
+Barcelona;Dinamarca;Octubre;2.405
+Barcelona;Dinamarca;Noviembre;976
+Barcelona;Dinamarca;Diciembre;1.049
+Barcelona;Finlandia;Enero;260
+Barcelona;Finlandia;Febrero;424
+Barcelona;Finlandia;Marzo;978
+Barcelona;Finlandia;Abril;1.191
+Barcelona;Finlandia;Mayo;1.142
+Barcelona;Finlandia;Junio;1.221
+Barcelona;Finlandia;Julio;1.456
+Barcelona;Finlandia;Agosto;293
+Barcelona;Finlandia;Septiembre;695
+Barcelona;Finlandia;Octubre;1.045
+Barcelona;Finlandia;Noviembre;320
+Barcelona;Finlandia;Diciembre;602
+Barcelona;Francia;Enero;5.540
+Barcelona;Francia;Febrero;9.007
+Barcelona;Francia;Marzo;7.506
+Barcelona;Francia;Abril;17.664
+Barcelona;Francia;Mayo;11.405
+Barcelona;Francia;Junio;13.553
+Barcelona;Francia;Julio;19.982
+Barcelona;Francia;Agosto;28.949
+Barcelona;Francia;Septiembre;14.240
+Barcelona;Francia;Octubre;17.030
+Barcelona;Francia;Noviembre;10.418
+Barcelona;Francia;Diciembre;12.704
+Barcelona;Grecia;Enero;161
+Barcelona;Grecia;Febrero;171
+Barcelona;Grecia;Marzo;633
+Barcelona;Grecia;Abril;521
+Barcelona;Grecia;Mayo;331
+Barcelona;Grecia;Junio;378
+Barcelona;Grecia;Julio;263
+Barcelona;Grecia;Agosto;224
+Barcelona;Grecia;Septiembre;170
+Barcelona;Grecia;Octubre;461
+Barcelona;Grecia;Noviembre;243
+Barcelona;Grecia;Diciembre;282
+Barcelona;Irlanda;Enero;427
+Barcelona;Irlanda;Febrero;804
+Barcelona;Irlanda;Marzo;1.059
+Barcelona;Irlanda;Abril;716
+Barcelona;Irlanda;Mayo;1.311
+Barcelona;Irlanda;Junio;1.361
+Barcelona;Irlanda;Julio;1.001
+Barcelona;Irlanda;Agosto;1.130
+Barcelona;Irlanda;Septiembre;1.291
+Barcelona;Irlanda;Octubre;796
+Barcelona;Irlanda;Noviembre;1.121
+Barcelona;Irlanda;Diciembre;798
+Barcelona;Italia;Enero;6.925
+Barcelona;Italia;Febrero;4.731
+Barcelona;Italia;Marzo;7.491
+Barcelona;Italia;Abril;6.850
+Barcelona;Italia;Mayo;6.265
+Barcelona;Italia;Junio;9.458
+Barcelona;Italia;Julio;9.052
+Barcelona;Italia;Agosto;15.363
+Barcelona;Italia;Septiembre;7.947
+Barcelona;Italia;Octubre;11.740
+Barcelona;Italia;Noviembre;9.677
+Barcelona;Italia;Diciembre;11.456
+Barcelona;Luxemburgo;Enero;..
+Barcelona;Luxemburgo;Febrero;..
+Barcelona;Luxemburgo;Marzo;..
+Barcelona;Luxemburgo;Abril;85
+Barcelona;Luxemburgo;Mayo;70
+Barcelona;Luxemburgo;Junio;54
+Barcelona;Luxemburgo;Julio;73
+Barcelona;Luxemburgo;Agosto;36
+Barcelona;Luxemburgo;Septiembre;108
+Barcelona;Luxemburgo;Octubre;664
+Barcelona;Luxemburgo;Noviembre;688
+Barcelona;Luxemburgo;Diciembre;655
+Barcelona;Países Bajos;Enero;790
+Barcelona;Países Bajos;Febrero;1.523
+Barcelona;Países Bajos;Marzo;1.372
+Barcelona;Países Bajos;Abril;3.037
+Barcelona;Países Bajos;Mayo;3.982
+Barcelona;Países Bajos;Junio;3.546
+Barcelona;Países Bajos;Julio;7.681
+Barcelona;Países Bajos;Agosto;8.199
+Barcelona;Países Bajos;Septiembre;4.167
+Barcelona;Países Bajos;Octubre;5.068
+Barcelona;Países Bajos;Noviembre;1.486
+Barcelona;Países Bajos;Diciembre;1.032
+Barcelona;Polonia;Enero;1.102
+Barcelona;Polonia;Febrero;1.338
+Barcelona;Polonia;Marzo;730
+Barcelona;Polonia;Abril;1.268
+Barcelona;Polonia;Mayo;1.797
+Barcelona;Polonia;Junio;1.738
+Barcelona;Polonia;Julio;1.211
+Barcelona;Polonia;Agosto;1.110
+Barcelona;Polonia;Septiembre;961
+Barcelona;Polonia;Octubre;1.991
+Barcelona;Polonia;Noviembre;1.352
+Barcelona;Polonia;Diciembre;656
+Barcelona;Portugal;Enero;1.076
+Barcelona;Portugal;Febrero;2.337
+Barcelona;Portugal;Marzo;1.248
+Barcelona;Portugal;Abril;1.842
+Barcelona;Portugal;Mayo;1.338
+Barcelona;Portugal;Junio;1.587
+Barcelona;Portugal;Julio;1.153
+Barcelona;Portugal;Agosto;1.297
+Barcelona;Portugal;Septiembre;1.238
+Barcelona;Portugal;Octubre;2.870
+Barcelona;Portugal;Noviembre;1.966
+Barcelona;Portugal;Diciembre;2.036
+Barcelona;Reino Unido;Enero;2.760
+Barcelona;Reino Unido;Febrero;4.497
+Barcelona;Reino Unido;Marzo;6.306
+Barcelona;Reino Unido;Abril;10.459
+Barcelona;Reino Unido;Mayo;8.318
+Barcelona;Reino Unido;Junio;11.390
+Barcelona;Reino Unido;Julio;11.270
+Barcelona;Reino Unido;Agosto;16.116
+Barcelona;Reino Unido;Septiembre;13.708
+Barcelona;Reino Unido;Octubre;11.647
+Barcelona;Reino Unido;Noviembre;8.139
+Barcelona;Reino Unido;Diciembre;6.626
+Barcelona;Republica Checa;Enero;213
+Barcelona;Republica Checa;Febrero;371
+Barcelona;Republica Checa;Marzo;166
+Barcelona;Republica Checa;Abril;482
+Barcelona;Republica Checa;Mayo;756
+Barcelona;Republica Checa;Junio;263
+Barcelona;Republica Checa;Julio;419
+Barcelona;Republica Checa;Agosto;328
+Barcelona;Republica Checa;Septiembre;350
+Barcelona;Republica Checa;Octubre;337
+Barcelona;Republica Checa;Noviembre;157
+Barcelona;Republica Checa;Diciembre;78
+Barcelona;Suecia;Enero;502
+Barcelona;Suecia;Febrero;888
+Barcelona;Suecia;Marzo;815
+Barcelona;Suecia;Abril;1.229
+Barcelona;Suecia;Mayo;2.344
+Barcelona;Suecia;Junio;2.389
+Barcelona;Suecia;Julio;3.796
+Barcelona;Suecia;Agosto;2.408
+Barcelona;Suecia;Septiembre;1.872
+Barcelona;Suecia;Octubre;1.239
+Barcelona;Suecia;Noviembre;1.481
+Barcelona;Suecia;Diciembre;912
+Barcelona;Resto de la UE;Enero;1.678
+Barcelona;Resto de la UE;Febrero;1.966
+Barcelona;Resto de la UE;Marzo;1.994
+Barcelona;Resto de la UE;Abril;2.193
+Barcelona;Resto de la UE;Mayo;2.597
+Barcelona;Resto de la UE;Junio;2.622
+Barcelona;Resto de la UE;Julio;1.522
+Barcelona;Resto de la UE;Agosto;1.193
+Barcelona;Resto de la UE;Septiembre;3.002
+Barcelona;Resto de la UE;Octubre;2.609
+Barcelona;Resto de la UE;Noviembre;2.100
+Barcelona;Resto de la UE;Diciembre;2.109
+Barcelona;Noruega;Enero;167
+Barcelona;Noruega;Febrero;846
+Barcelona;Noruega;Marzo;1.103
+Barcelona;Noruega;Abril;621
+Barcelona;Noruega;Mayo;1.403
+Barcelona;Noruega;Junio;1.357
+Barcelona;Noruega;Julio;4.196
+Barcelona;Noruega;Agosto;1.040
+Barcelona;Noruega;Septiembre;894
+Barcelona;Noruega;Octubre;1.556
+Barcelona;Noruega;Noviembre;361
+Barcelona;Noruega;Diciembre;261
+Barcelona;Rusia;Enero;4.565
+Barcelona;Rusia;Febrero;1.600
+Barcelona;Rusia;Marzo;1.427
+Barcelona;Rusia;Abril;1.614
+Barcelona;Rusia;Mayo;2.347
+Barcelona;Rusia;Junio;3.840
+Barcelona;Rusia;Julio;4.247
+Barcelona;Rusia;Agosto;5.280
+Barcelona;Rusia;Septiembre;3.642
+Barcelona;Rusia;Octubre;2.065
+Barcelona;Rusia;Noviembre;2.340
+Barcelona;Rusia;Diciembre;1.465
+Barcelona;Suiza;Enero;643
+Barcelona;Suiza;Febrero;1.352
+Barcelona;Suiza;Marzo;1.682
+Barcelona;Suiza;Abril;1.889
+Barcelona;Suiza;Mayo;2.157
+Barcelona;Suiza;Junio;2.116
+Barcelona;Suiza;Julio;1.812
+Barcelona;Suiza;Agosto;1.509
+Barcelona;Suiza;Septiembre;1.072
+Barcelona;Suiza;Octubre;2.768
+Barcelona;Suiza;Noviembre;770
+Barcelona;Suiza;Diciembre;633
+Barcelona;Resto de Europa;Enero;1.415
+Barcelona;Resto de Europa;Febrero;1.067
+Barcelona;Resto de Europa;Marzo;1.590
+Barcelona;Resto de Europa;Abril;1.560
+Barcelona;Resto de Europa;Mayo;1.532
+Barcelona;Resto de Europa;Junio;2.178
+Barcelona;Resto de Europa;Julio;1.490
+Barcelona;Resto de Europa;Agosto;2.243
+Barcelona;Resto de Europa;Septiembre;2.701
+Barcelona;Resto de Europa;Octubre;2.051
+Barcelona;Resto de Europa;Noviembre;1.953
+Barcelona;Resto de Europa;Diciembre;1.322
+Barcelona;Estados Unidos;Enero;3.758
+Barcelona;Estados Unidos;Febrero;2.130
+Barcelona;Estados Unidos;Marzo;3.394
+Barcelona;Estados Unidos;Abril;2.629
+Barcelona;Estados Unidos;Mayo;5.525
+Barcelona;Estados Unidos;Junio;8.320
+Barcelona;Estados Unidos;Julio;7.222
+Barcelona;Estados Unidos;Agosto;5.761
+Barcelona;Estados Unidos;Septiembre;4.636
+Barcelona;Estados Unidos;Octubre;5.473
+Barcelona;Estados Unidos;Noviembre;3.680
+Barcelona;Estados Unidos;Diciembre;4.569
+Barcelona;Resto de América;Enero;9.642
+Barcelona;Resto de América;Febrero;7.797
+Barcelona;Resto de América;Marzo;8.690
+Barcelona;Resto de América;Abril;9.106
+Barcelona;Resto de América;Mayo;9.079
+Barcelona;Resto de América;Junio;11.055
+Barcelona;Resto de América;Julio;7.745
+Barcelona;Resto de América;Agosto;5.715
+Barcelona;Resto de América;Septiembre;8.618
+Barcelona;Resto de América;Octubre;6.701
+Barcelona;Resto de América;Noviembre;4.987
+Barcelona;Resto de América;Diciembre;7.135
+Barcelona;Países Africanos;Enero;2.234
+Barcelona;Países Africanos;Febrero;1.692
+Barcelona;Países Africanos;Marzo;2.487
+Barcelona;Países Africanos;Abril;2.679
+Barcelona;Países Africanos;Mayo;2.328
+Barcelona;Países Africanos;Junio;1.052
+Barcelona;Países Africanos;Julio;2.244
+Barcelona;Países Africanos;Agosto;5.795
+Barcelona;Países Africanos;Septiembre;1.314
+Barcelona;Países Africanos;Octubre;1.814
+Barcelona;Países Africanos;Noviembre;1.247
+Barcelona;Países Africanos;Diciembre;1.229
+Barcelona;Resto del mundo;Enero;12.179
+Barcelona;Resto del mundo;Febrero;16.455
+Barcelona;Resto del mundo;Marzo;12.935
+Barcelona;Resto del mundo;Abril;13.537
+Barcelona;Resto del mundo;Mayo;15.955
+Barcelona;Resto del mundo;Junio;14.665
+Barcelona;Resto del mundo;Julio;12.629
+Barcelona;Resto del mundo;Agosto;10.459
+Barcelona;Resto del mundo;Septiembre;12.251
+Barcelona;Resto del mundo;Octubre;14.338
+Barcelona;Resto del mundo;Noviembre;11.377
+Barcelona;Resto del mundo;Diciembre;10.881
+Girona;Total;Enero;20.839
+Girona;Total;Febrero;26.647
+Girona;Total;Marzo;34.497
+Girona;Total;Abril;54.262
+Girona;Total;Mayo;112.312
+Girona;Total;Junio;211.407
+Girona;Total;Julio;631.149
+Girona;Total;Agosto;880.631
+Girona;Total;Septiembre;272.338
+Girona;Total;Octubre;88.617
+Girona;Total;Noviembre;11.869
+Girona;Total;Diciembre;27.328
+Girona;Residentes en España;Enero;14.702
+Girona;Residentes en España;Febrero;14.307
+Girona;Residentes en España;Marzo;23.477
+Girona;Residentes en España;Abril;17.628
+Girona;Residentes en España;Mayo;32.500
+Girona;Residentes en España;Junio;70.621
+Girona;Residentes en España;Julio;173.431
+Girona;Residentes en España;Agosto;267.759
+Girona;Residentes en España;Septiembre;69.336
+Girona;Residentes en España;Octubre;31.555
+Girona;Residentes en España;Noviembre;7.431
+Girona;Residentes en España;Diciembre;20.764
+Girona;No residentes en España;Enero;6.137
+Girona;No residentes en España;Febrero;12.340
+Girona;No residentes en España;Marzo;11.020
+Girona;No residentes en España;Abril;36.633
+Girona;No residentes en España;Mayo;79.813
+Girona;No residentes en España;Junio;140.786
+Girona;No residentes en España;Julio;457.718
+Girona;No residentes en España;Agosto;612.872
+Girona;No residentes en España;Septiembre;203.002
+Girona;No residentes en España;Octubre;57.062
+Girona;No residentes en España;Noviembre;4.438
+Girona;No residentes en España;Diciembre;6.565
+Girona;Unión Europea (sin España);Enero;5.034
+Girona;Unión Europea (sin España);Febrero;11.366
+Girona;Unión Europea (sin España);Marzo;8.898
+Girona;Unión Europea (sin España);Abril;28.186
+Girona;Unión Europea (sin España);Mayo;73.769
+Girona;Unión Europea (sin España);Junio;125.249
+Girona;Unión Europea (sin España);Julio;422.625
+Girona;Unión Europea (sin España);Agosto;588.453
+Girona;Unión Europea (sin España);Septiembre;188.144
+Girona;Unión Europea (sin España);Octubre;48.297
+Girona;Unión Europea (sin España);Noviembre;3.700
+Girona;Unión Europea (sin España);Diciembre;5.631
+Girona;Alemania;Enero;1.378
+Girona;Alemania;Febrero;2.274
+Girona;Alemania;Marzo;2.088
+Girona;Alemania;Abril;3.532
+Girona;Alemania;Mayo;12.819
+Girona;Alemania;Junio;21.592
+Girona;Alemania;Julio;46.260
+Girona;Alemania;Agosto;66.159
+Girona;Alemania;Septiembre;35.799
+Girona;Alemania;Octubre;20.541
+Girona;Alemania;Noviembre;103
+Girona;Alemania;Diciembre;382
+Girona;Austria;Enero;..
+Girona;Austria;Febrero;..
+Girona;Austria;Marzo;120
+Girona;Austria;Abril;371
+Girona;Austria;Mayo;100
+Girona;Austria;Junio;574
+Girona;Austria;Julio;538
+Girona;Austria;Agosto;223
+Girona;Austria;Septiembre;120
+Girona;Austria;Octubre;28
+Girona;Austria;Noviembre;..
+Girona;Austria;Diciembre;..
+Girona;Bélgica;Enero;84
+Girona;Bélgica;Febrero;95
+Girona;Bélgica;Marzo;195
+Girona;Bélgica;Abril;339
+Girona;Bélgica;Mayo;1.373
+Girona;Bélgica;Junio;3.610
+Girona;Bélgica;Julio;45.049
+Girona;Bélgica;Agosto;24.156
+Girona;Bélgica;Septiembre;8.898
+Girona;Bélgica;Octubre;962
+Girona;Bélgica;Noviembre;186
+Girona;Bélgica;Diciembre;295
+Girona;Dinamarca;Enero;11
+Girona;Dinamarca;Febrero;..
+Girona;Dinamarca;Marzo;78
+Girona;Dinamarca;Abril;..
+Girona;Dinamarca;Mayo;458
+Girona;Dinamarca;Junio;1.715
+Girona;Dinamarca;Julio;7.792
+Girona;Dinamarca;Agosto;2.479
+Girona;Dinamarca;Septiembre;940
+Girona;Dinamarca;Octubre;285
+Girona;Dinamarca;Noviembre;..
+Girona;Dinamarca;Diciembre;..
+Girona;Finlandia;Enero;..
+Girona;Finlandia;Febrero;..
+Girona;Finlandia;Marzo;..
+Girona;Finlandia;Abril;229
+Girona;Finlandia;Mayo;..
+Girona;Finlandia;Junio;277
+Girona;Finlandia;Julio;181
+Girona;Finlandia;Agosto;..
+Girona;Finlandia;Septiembre;..
+Girona;Finlandia;Octubre;617
+Girona;Finlandia;Noviembre;..
+Girona;Finlandia;Diciembre;..
+Girona;Francia;Enero;2.085
+Girona;Francia;Febrero;3.757
+Girona;Francia;Marzo;3.208
+Girona;Francia;Abril;16.174
+Girona;Francia;Mayo;25.964
+Girona;Francia;Junio;36.627
+Girona;Francia;Julio;192.625
+Girona;Francia;Agosto;334.057
+Girona;Francia;Septiembre;78.051
+Girona;Francia;Octubre;9.231
+Girona;Francia;Noviembre;1.633
+Girona;Francia;Diciembre;2.732
+Girona;Grecia;Enero;..
+Girona;Grecia;Febrero;..
+Girona;Grecia;Marzo;..
+Girona;Grecia;Abril;..
+Girona;Grecia;Mayo;156
+Girona;Grecia;Junio;..
+Girona;Grecia;Julio;11
+Girona;Grecia;Agosto;..
+Girona;Grecia;Septiembre;46
+Girona;Grecia;Octubre;16
+Girona;Grecia;Noviembre;..
+Girona;Grecia;Diciembre;..
+Girona;Irlanda;Enero;..
+Girona;Irlanda;Febrero;785
+Girona;Irlanda;Marzo;20
+Girona;Irlanda;Abril;91
+Girona;Irlanda;Mayo;5.506
+Girona;Irlanda;Junio;5.481
+Girona;Irlanda;Julio;1.007
+Girona;Irlanda;Agosto;961
+Girona;Irlanda;Septiembre;1.441
+Girona;Irlanda;Octubre;295
+Girona;Irlanda;Noviembre;..
+Girona;Irlanda;Diciembre;124
+Girona;Italia;Enero;181
+Girona;Italia;Febrero;232
+Girona;Italia;Marzo;280
+Girona;Italia;Abril;847
+Girona;Italia;Mayo;138
+Girona;Italia;Junio;2.192
+Girona;Italia;Julio;13.660
+Girona;Italia;Agosto;30.944
+Girona;Italia;Septiembre;3.084
+Girona;Italia;Octubre;759
+Girona;Italia;Noviembre;246
+Girona;Italia;Diciembre;145
+Girona;Luxemburgo;Enero;..
+Girona;Luxemburgo;Febrero;..
+Girona;Luxemburgo;Marzo;..
+Girona;Luxemburgo;Abril;..
+Girona;Luxemburgo;Mayo;75
+Girona;Luxemburgo;Junio;79
+Girona;Luxemburgo;Julio;349
+Girona;Luxemburgo;Agosto;1.071
+Girona;Luxemburgo;Septiembre;115
+Girona;Luxemburgo;Octubre;..
+Girona;Luxemburgo;Noviembre;..
+Girona;Luxemburgo;Diciembre;..
+Girona;Países Bajos;Enero;238
+Girona;Países Bajos;Febrero;567
+Girona;Países Bajos;Marzo;844
+Girona;Países Bajos;Abril;2.434
+Girona;Países Bajos;Mayo;15.858
+Girona;Países Bajos;Junio;27.725
+Girona;Países Bajos;Julio;70.711
+Girona;Países Bajos;Agosto;86.981
+Girona;Países Bajos;Septiembre;23.905
+Girona;Países Bajos;Octubre;4.069
+Girona;Países Bajos;Noviembre;118
+Girona;Países Bajos;Diciembre;538
+Girona;Polonia;Enero;235
+Girona;Polonia;Febrero;668
+Girona;Polonia;Marzo;545
+Girona;Polonia;Abril;816
+Girona;Polonia;Mayo;3.094
+Girona;Polonia;Junio;3.059
+Girona;Polonia;Julio;2.374
+Girona;Polonia;Agosto;2.593
+Girona;Polonia;Septiembre;5.641
+Girona;Polonia;Octubre;1.166
+Girona;Polonia;Noviembre;825
+Girona;Polonia;Diciembre;564
+Girona;Portugal;Enero;42
+Girona;Portugal;Febrero;..
+Girona;Portugal;Marzo;51
+Girona;Portugal;Abril;74
+Girona;Portugal;Mayo;105
+Girona;Portugal;Junio;233
+Girona;Portugal;Julio;285
+Girona;Portugal;Agosto;191
+Girona;Portugal;Septiembre;334
+Girona;Portugal;Octubre;154
+Girona;Portugal;Noviembre;..
+Girona;Portugal;Diciembre;..
+Girona;Reino Unido;Enero;219
+Girona;Reino Unido;Febrero;2.603
+Girona;Reino Unido;Marzo;831
+Girona;Reino Unido;Abril;2.130
+Girona;Reino Unido;Mayo;7.138
+Girona;Reino Unido;Junio;15.223
+Girona;Reino Unido;Julio;33.791
+Girona;Reino Unido;Agosto;31.983
+Girona;Reino Unido;Septiembre;23.586
+Girona;Reino Unido;Octubre;8.453
+Girona;Reino Unido;Noviembre;515
+Girona;Reino Unido;Diciembre;708
+Girona;Republica Checa;Enero;..
+Girona;Republica Checa;Febrero;46
+Girona;Republica Checa;Marzo;..
+Girona;Republica Checa;Abril;219
+Girona;Republica Checa;Mayo;..
+Girona;Republica Checa;Junio;825
+Girona;Republica Checa;Julio;2.297
+Girona;Republica Checa;Agosto;1.787
+Girona;Republica Checa;Septiembre;2.169
+Girona;Republica Checa;Octubre;..
+Girona;Republica Checa;Noviembre;..
+Girona;Republica Checa;Diciembre;..
+Girona;Suecia;Enero;..
+Girona;Suecia;Febrero;26
+Girona;Suecia;Marzo;246
+Girona;Suecia;Abril;..
+Girona;Suecia;Mayo;196
+Girona;Suecia;Junio;3.575
+Girona;Suecia;Julio;4.244
+Girona;Suecia;Agosto;1.977
+Girona;Suecia;Septiembre;1.867
+Girona;Suecia;Octubre;409
+Girona;Suecia;Noviembre;..
+Girona;Suecia;Diciembre;..
+Girona;Resto de la UE;Enero;530
+Girona;Resto de la UE;Febrero;..
+Girona;Resto de la UE;Marzo;..
+Girona;Resto de la UE;Abril;844
+Girona;Resto de la UE;Mayo;788
+Girona;Resto de la UE;Junio;2.462
+Girona;Resto de la UE;Julio;1.450
+Girona;Resto de la UE;Agosto;2.872
+Girona;Resto de la UE;Septiembre;2.120
+Girona;Resto de la UE;Octubre;1.281
+Girona;Resto de la UE;Noviembre;..
+Girona;Resto de la UE;Diciembre;112
+Girona;Noruega;Enero;..
+Girona;Noruega;Febrero;..
+Girona;Noruega;Marzo;281
+Girona;Noruega;Abril;..
+Girona;Noruega;Mayo;59
+Girona;Noruega;Junio;2.143
+Girona;Noruega;Julio;7.236
+Girona;Noruega;Agosto;1.109
+Girona;Noruega;Septiembre;100
+Girona;Noruega;Octubre;483
+Girona;Noruega;Noviembre;..
+Girona;Noruega;Diciembre;..
+Girona;Rusia;Enero;324
+Girona;Rusia;Febrero;182
+Girona;Rusia;Marzo;376
+Girona;Rusia;Abril;477
+Girona;Rusia;Mayo;2.031
+Girona;Rusia;Junio;6.497
+Girona;Rusia;Julio;6.445
+Girona;Rusia;Agosto;3.948
+Girona;Rusia;Septiembre;6.725
+Girona;Rusia;Octubre;4.601
+Girona;Rusia;Noviembre;225
+Girona;Rusia;Diciembre;91
+Girona;Suiza;Enero;..
+Girona;Suiza;Febrero;..
+Girona;Suiza;Marzo;83
+Girona;Suiza;Abril;275
+Girona;Suiza;Mayo;750
+Girona;Suiza;Junio;911
+Girona;Suiza;Julio;9.543
+Girona;Suiza;Agosto;5.754
+Girona;Suiza;Septiembre;1.752
+Girona;Suiza;Octubre;842
+Girona;Suiza;Noviembre;118
+Girona;Suiza;Diciembre;263
+Girona;Resto de Europa;Enero;..
+Girona;Resto de Europa;Febrero;49
+Girona;Resto de Europa;Marzo;170
+Girona;Resto de Europa;Abril;6.016
+Girona;Resto de Europa;Mayo;261
+Girona;Resto de Europa;Junio;2.151
+Girona;Resto de Europa;Julio;2.517
+Girona;Resto de Europa;Agosto;4.067
+Girona;Resto de Europa;Septiembre;2.176
+Girona;Resto de Europa;Octubre;1.191
+Girona;Resto de Europa;Noviembre;132
+Girona;Resto de Europa;Diciembre;..
+Girona;Estados Unidos;Enero;69
+Girona;Estados Unidos;Febrero;92
+Girona;Estados Unidos;Marzo;367
+Girona;Estados Unidos;Abril;91
+Girona;Estados Unidos;Mayo;392
+Girona;Estados Unidos;Junio;966
+Girona;Estados Unidos;Julio;989
+Girona;Estados Unidos;Agosto;1.027
+Girona;Estados Unidos;Septiembre;375
+Girona;Estados Unidos;Octubre;105
+Girona;Estados Unidos;Noviembre;52
+Girona;Estados Unidos;Diciembre;115
+Girona;Resto de América;Enero;122
+Girona;Resto de América;Febrero;126
+Girona;Resto de América;Marzo;328
+Girona;Resto de América;Abril;153
+Girona;Resto de América;Mayo;320
+Girona;Resto de América;Junio;1.052
+Girona;Resto de América;Julio;1.307
+Girona;Resto de América;Agosto;627
+Girona;Resto de América;Septiembre;1.005
+Girona;Resto de América;Octubre;493
+Girona;Resto de América;Noviembre;150
+Girona;Resto de América;Diciembre;183
+Girona;Países Africanos;Enero;..
+Girona;Países Africanos;Febrero;..
+Girona;Países Africanos;Marzo;..
+Girona;Países Africanos;Abril;160
+Girona;Países Africanos;Mayo;127
+Girona;Países Africanos;Junio;290
+Girona;Países Africanos;Julio;816
+Girona;Países Africanos;Agosto;846
+Girona;Países Africanos;Septiembre;59
+Girona;Países Africanos;Octubre;..
+Girona;Países Africanos;Noviembre;..
+Girona;Países Africanos;Diciembre;36
+Girona;Resto del mundo;Enero;517
+Girona;Resto del mundo;Febrero;..
+Girona;Resto del mundo;Marzo;504
+Girona;Resto del mundo;Abril;1.274
+Girona;Resto del mundo;Mayo;2.105
+Girona;Resto del mundo;Junio;1.529
+Girona;Resto del mundo;Julio;6.240
+Girona;Resto del mundo;Agosto;7.040
+Girona;Resto del mundo;Septiembre;2.665
+Girona;Resto del mundo;Octubre;896
+Girona;Resto del mundo;Noviembre;..
+Girona;Resto del mundo;Diciembre;136
+Madrid;Total;Enero;120.167
+Madrid;Total;Febrero;127.061
+Madrid;Total;Marzo;151.891
+Madrid;Total;Abril;149.958
+Madrid;Total;Mayo;161.625
+Madrid;Total;Junio;148.399
+Madrid;Total;Julio;152.854
+Madrid;Total;Agosto;140.407
+Madrid;Total;Septiembre;151.422
+Madrid;Total;Octubre;166.164
+Madrid;Total;Noviembre;142.744
+Madrid;Total;Diciembre;148.456
+Madrid;Residentes en España;Enero;59.819
+Madrid;Residentes en España;Febrero;59.992
+Madrid;Residentes en España;Marzo;70.923
+Madrid;Residentes en España;Abril;65.786
+Madrid;Residentes en España;Mayo;67.230
+Madrid;Residentes en España;Junio;68.497
+Madrid;Residentes en España;Julio;69.055
+Madrid;Residentes en España;Agosto;65.395
+Madrid;Residentes en España;Septiembre;69.057
+Madrid;Residentes en España;Octubre;75.329
+Madrid;Residentes en España;Noviembre;67.899
+Madrid;Residentes en España;Diciembre;84.297
+Madrid;No residentes en España;Enero;60.347
+Madrid;No residentes en España;Febrero;67.069
+Madrid;No residentes en España;Marzo;80.968
+Madrid;No residentes en España;Abril;84.172
+Madrid;No residentes en España;Mayo;94.395
+Madrid;No residentes en España;Junio;79.902
+Madrid;No residentes en España;Julio;83.799
+Madrid;No residentes en España;Agosto;75.012
+Madrid;No residentes en España;Septiembre;82.365
+Madrid;No residentes en España;Octubre;90.836
+Madrid;No residentes en España;Noviembre;74.845
+Madrid;No residentes en España;Diciembre;64.159
+Madrid;Unión Europea (sin España);Enero;24.676
+Madrid;Unión Europea (sin España);Febrero;27.913
+Madrid;Unión Europea (sin España);Marzo;37.159
+Madrid;Unión Europea (sin España);Abril;37.728
+Madrid;Unión Europea (sin España);Mayo;41.410
+Madrid;Unión Europea (sin España);Junio;29.465
+Madrid;Unión Europea (sin España);Julio;28.095
+Madrid;Unión Europea (sin España);Agosto;28.835
+Madrid;Unión Europea (sin España);Septiembre;33.067
+Madrid;Unión Europea (sin España);Octubre;39.914
+Madrid;Unión Europea (sin España);Noviembre;28.269
+Madrid;Unión Europea (sin España);Diciembre;24.810
+Madrid;Alemania;Enero;1.859
+Madrid;Alemania;Febrero;2.253
+Madrid;Alemania;Marzo;4.976
+Madrid;Alemania;Abril;3.790
+Madrid;Alemania;Mayo;6.121
+Madrid;Alemania;Junio;3.229
+Madrid;Alemania;Julio;3.265
+Madrid;Alemania;Agosto;2.237
+Madrid;Alemania;Septiembre;3.652
+Madrid;Alemania;Octubre;4.625
+Madrid;Alemania;Noviembre;2.922
+Madrid;Alemania;Diciembre;1.626
+Madrid;Austria;Enero;306
+Madrid;Austria;Febrero;403
+Madrid;Austria;Marzo;823
+Madrid;Austria;Abril;546
+Madrid;Austria;Mayo;589
+Madrid;Austria;Junio;177
+Madrid;Austria;Julio;317
+Madrid;Austria;Agosto;205
+Madrid;Austria;Septiembre;444
+Madrid;Austria;Octubre;948
+Madrid;Austria;Noviembre;514
+Madrid;Austria;Diciembre;542
+Madrid;Bélgica;Enero;687
+Madrid;Bélgica;Febrero;812
+Madrid;Bélgica;Marzo;1.183
+Madrid;Bélgica;Abril;974
+Madrid;Bélgica;Mayo;1.207
+Madrid;Bélgica;Junio;637
+Madrid;Bélgica;Julio;700
+Madrid;Bélgica;Agosto;955
+Madrid;Bélgica;Septiembre;715
+Madrid;Bélgica;Octubre;1.332
+Madrid;Bélgica;Noviembre;825
+Madrid;Bélgica;Diciembre;796
+Madrid;Dinamarca;Enero;536
+Madrid;Dinamarca;Febrero;457
+Madrid;Dinamarca;Marzo;536
+Madrid;Dinamarca;Abril;498
+Madrid;Dinamarca;Mayo;714
+Madrid;Dinamarca;Junio;428
+Madrid;Dinamarca;Julio;765
+Madrid;Dinamarca;Agosto;502
+Madrid;Dinamarca;Septiembre;451
+Madrid;Dinamarca;Octubre;834
+Madrid;Dinamarca;Noviembre;172
+Madrid;Dinamarca;Diciembre;340
+Madrid;Finlandia;Enero;234
+Madrid;Finlandia;Febrero;401
+Madrid;Finlandia;Marzo;423
+Madrid;Finlandia;Abril;342
+Madrid;Finlandia;Mayo;478
+Madrid;Finlandia;Junio;326
+Madrid;Finlandia;Julio;434
+Madrid;Finlandia;Agosto;337
+Madrid;Finlandia;Septiembre;415
+Madrid;Finlandia;Octubre;930
+Madrid;Finlandia;Noviembre;522
+Madrid;Finlandia;Diciembre;349
+Madrid;Francia;Enero;3.496
+Madrid;Francia;Febrero;4.639
+Madrid;Francia;Marzo;4.894
+Madrid;Francia;Abril;7.096
+Madrid;Francia;Mayo;5.661
+Madrid;Francia;Junio;4.262
+Madrid;Francia;Julio;4.535
+Madrid;Francia;Agosto;5.606
+Madrid;Francia;Septiembre;3.886
+Madrid;Francia;Octubre;5.571
+Madrid;Francia;Noviembre;2.970
+Madrid;Francia;Diciembre;4.520
+Madrid;Grecia;Enero;355
+Madrid;Grecia;Febrero;556
+Madrid;Grecia;Marzo;104
+Madrid;Grecia;Abril;336
+Madrid;Grecia;Mayo;383
+Madrid;Grecia;Junio;136
+Madrid;Grecia;Julio;192
+Madrid;Grecia;Agosto;359
+Madrid;Grecia;Septiembre;531
+Madrid;Grecia;Octubre;822
+Madrid;Grecia;Noviembre;640
+Madrid;Grecia;Diciembre;520
+Madrid;Irlanda;Enero;1.051
+Madrid;Irlanda;Febrero;1.286
+Madrid;Irlanda;Marzo;1.426
+Madrid;Irlanda;Abril;1.592
+Madrid;Irlanda;Mayo;1.903
+Madrid;Irlanda;Junio;836
+Madrid;Irlanda;Julio;1.336
+Madrid;Irlanda;Agosto;731
+Madrid;Irlanda;Septiembre;1.012
+Madrid;Irlanda;Octubre;1.367
+Madrid;Irlanda;Noviembre;962
+Madrid;Irlanda;Diciembre;586
+Madrid;Italia;Enero;5.196
+Madrid;Italia;Febrero;4.761
+Madrid;Italia;Marzo;7.175
+Madrid;Italia;Abril;7.405
+Madrid;Italia;Mayo;7.427
+Madrid;Italia;Junio;6.103
+Madrid;Italia;Julio;4.992
+Madrid;Italia;Agosto;6.043
+Madrid;Italia;Septiembre;5.945
+Madrid;Italia;Octubre;6.373
+Madrid;Italia;Noviembre;5.853
+Madrid;Italia;Diciembre;5.768
+Madrid;Luxemburgo;Enero;..
+Madrid;Luxemburgo;Febrero;..
+Madrid;Luxemburgo;Marzo;86
+Madrid;Luxemburgo;Abril;..
+Madrid;Luxemburgo;Mayo;296
+Madrid;Luxemburgo;Junio;36
+Madrid;Luxemburgo;Julio;..
+Madrid;Luxemburgo;Agosto;104
+Madrid;Luxemburgo;Septiembre;55
+Madrid;Luxemburgo;Octubre;..
+Madrid;Luxemburgo;Noviembre;27
+Madrid;Luxemburgo;Diciembre;..
+Madrid;Países Bajos;Enero;1.028
+Madrid;Países Bajos;Febrero;1.169
+Madrid;Países Bajos;Marzo;1.975
+Madrid;Países Bajos;Abril;1.306
+Madrid;Países Bajos;Mayo;1.830
+Madrid;Países Bajos;Junio;1.167
+Madrid;Países Bajos;Julio;950
+Madrid;Países Bajos;Agosto;1.419
+Madrid;Países Bajos;Septiembre;1.561
+Madrid;Países Bajos;Octubre;1.506
+Madrid;Países Bajos;Noviembre;1.454
+Madrid;Países Bajos;Diciembre;704
+Madrid;Polonia;Enero;811
+Madrid;Polonia;Febrero;831
+Madrid;Polonia;Marzo;1.145
+Madrid;Polonia;Abril;1.318
+Madrid;Polonia;Mayo;1.303
+Madrid;Polonia;Junio;951
+Madrid;Polonia;Julio;999
+Madrid;Polonia;Agosto;1.031
+Madrid;Polonia;Septiembre;1.171
+Madrid;Polonia;Octubre;2.040
+Madrid;Polonia;Noviembre;1.392
+Madrid;Polonia;Diciembre;564
+Madrid;Portugal;Enero;2.490
+Madrid;Portugal;Febrero;3.268
+Madrid;Portugal;Marzo;4.484
+Madrid;Portugal;Abril;3.038
+Madrid;Portugal;Mayo;4.066
+Madrid;Portugal;Junio;3.934
+Madrid;Portugal;Julio;3.779
+Madrid;Portugal;Agosto;3.764
+Madrid;Portugal;Septiembre;4.654
+Madrid;Portugal;Octubre;2.924
+Madrid;Portugal;Noviembre;2.971
+Madrid;Portugal;Diciembre;2.795
+Madrid;Reino Unido;Enero;3.040
+Madrid;Reino Unido;Febrero;3.797
+Madrid;Reino Unido;Marzo;4.194
+Madrid;Reino Unido;Abril;5.367
+Madrid;Reino Unido;Mayo;5.538
+Madrid;Reino Unido;Junio;4.313
+Madrid;Reino Unido;Julio;3.562
+Madrid;Reino Unido;Agosto;3.635
+Madrid;Reino Unido;Septiembre;5.212
+Madrid;Reino Unido;Octubre;5.678
+Madrid;Reino Unido;Noviembre;3.405
+Madrid;Reino Unido;Diciembre;2.465
+Madrid;Republica Checa;Enero;106
+Madrid;Republica Checa;Febrero;276
+Madrid;Republica Checa;Marzo;230
+Madrid;Republica Checa;Abril;737
+Madrid;Republica Checa;Mayo;539
+Madrid;Republica Checa;Junio;92
+Madrid;Republica Checa;Julio;51
+Madrid;Republica Checa;Agosto;33
+Madrid;Republica Checa;Septiembre;224
+Madrid;Republica Checa;Octubre;256
+Madrid;Republica Checa;Noviembre;92
+Madrid;Republica Checa;Diciembre;65
+Madrid;Suecia;Enero;578
+Madrid;Suecia;Febrero;445
+Madrid;Suecia;Marzo;583
+Madrid;Suecia;Abril;749
+Madrid;Suecia;Mayo;659
+Madrid;Suecia;Junio;608
+Madrid;Suecia;Julio;394
+Madrid;Suecia;Agosto;396
+Madrid;Suecia;Septiembre;602
+Madrid;Suecia;Octubre;832
+Madrid;Suecia;Noviembre;906
+Madrid;Suecia;Diciembre;357
+Madrid;Resto de la UE;Enero;2.782
+Madrid;Resto de la UE;Febrero;2.550
+Madrid;Resto de la UE;Marzo;2.921
+Madrid;Resto de la UE;Abril;2.634
+Madrid;Resto de la UE;Mayo;2.697
+Madrid;Resto de la UE;Junio;2.230
+Madrid;Resto de la UE;Julio;1.820
+Madrid;Resto de la UE;Agosto;1.477
+Madrid;Resto de la UE;Septiembre;2.537
+Madrid;Resto de la UE;Octubre;3.874
+Madrid;Resto de la UE;Noviembre;2.643
+Madrid;Resto de la UE;Diciembre;2.780
+Madrid;Noruega;Enero;227
+Madrid;Noruega;Febrero;235
+Madrid;Noruega;Marzo;435
+Madrid;Noruega;Abril;419
+Madrid;Noruega;Mayo;680
+Madrid;Noruega;Junio;502
+Madrid;Noruega;Julio;257
+Madrid;Noruega;Agosto;478
+Madrid;Noruega;Septiembre;411
+Madrid;Noruega;Octubre;851
+Madrid;Noruega;Noviembre;439
+Madrid;Noruega;Diciembre;413
+Madrid;Rusia;Enero;2.203
+Madrid;Rusia;Febrero;1.460
+Madrid;Rusia;Marzo;3.703
+Madrid;Rusia;Abril;2.514
+Madrid;Rusia;Mayo;2.352
+Madrid;Rusia;Junio;2.415
+Madrid;Rusia;Julio;1.554
+Madrid;Rusia;Agosto;1.862
+Madrid;Rusia;Septiembre;1.683
+Madrid;Rusia;Octubre;2.524
+Madrid;Rusia;Noviembre;2.905
+Madrid;Rusia;Diciembre;1.859
+Madrid;Suiza;Enero;721
+Madrid;Suiza;Febrero;686
+Madrid;Suiza;Marzo;861
+Madrid;Suiza;Abril;1.615
+Madrid;Suiza;Mayo;989
+Madrid;Suiza;Junio;1.069
+Madrid;Suiza;Julio;456
+Madrid;Suiza;Agosto;477
+Madrid;Suiza;Septiembre;732
+Madrid;Suiza;Octubre;1.301
+Madrid;Suiza;Noviembre;829
+Madrid;Suiza;Diciembre;755
+Madrid;Resto de Europa;Enero;1.364
+Madrid;Resto de Europa;Febrero;2.136
+Madrid;Resto de Europa;Marzo;2.135
+Madrid;Resto de Europa;Abril;1.470
+Madrid;Resto de Europa;Mayo;1.168
+Madrid;Resto de Europa;Junio;1.334
+Madrid;Resto de Europa;Julio;1.884
+Madrid;Resto de Europa;Agosto;897
+Madrid;Resto de Europa;Septiembre;1.579
+Madrid;Resto de Europa;Octubre;1.263
+Madrid;Resto de Europa;Noviembre;1.928
+Madrid;Resto de Europa;Diciembre;1.034
+Madrid;Estados Unidos;Enero;4.423
+Madrid;Estados Unidos;Febrero;3.352
+Madrid;Estados Unidos;Marzo;5.778
+Madrid;Estados Unidos;Abril;5.648
+Madrid;Estados Unidos;Mayo;8.242
+Madrid;Estados Unidos;Junio;9.941
+Madrid;Estados Unidos;Julio;7.157
+Madrid;Estados Unidos;Agosto;4.290
+Madrid;Estados Unidos;Septiembre;5.660
+Madrid;Estados Unidos;Octubre;5.584
+Madrid;Estados Unidos;Noviembre;5.448
+Madrid;Estados Unidos;Diciembre;3.915
+Madrid;Resto de América;Enero;14.877
+Madrid;Resto de América;Febrero;17.480
+Madrid;Resto de América;Marzo;17.212
+Madrid;Resto de América;Abril;21.514
+Madrid;Resto de América;Mayo;23.720
+Madrid;Resto de América;Junio;20.592
+Madrid;Resto de América;Julio;25.770
+Madrid;Resto de América;Agosto;21.251
+Madrid;Resto de América;Septiembre;23.753
+Madrid;Resto de América;Octubre;23.372
+Madrid;Resto de América;Noviembre;19.771
+Madrid;Resto de América;Diciembre;17.027
+Madrid;Países Africanos;Enero;2.367
+Madrid;Países Africanos;Febrero;2.458
+Madrid;Países Africanos;Marzo;2.687
+Madrid;Países Africanos;Abril;2.145
+Madrid;Países Africanos;Mayo;2.634
+Madrid;Países Africanos;Junio;2.875
+Madrid;Países Africanos;Julio;3.928
+Madrid;Países Africanos;Agosto;5.234
+Madrid;Países Africanos;Septiembre;2.786
+Madrid;Países Africanos;Octubre;3.369
+Madrid;Países Africanos;Noviembre;3.223
+Madrid;Países Africanos;Diciembre;3.142
+Madrid;Resto del mundo;Enero;9.488
+Madrid;Resto del mundo;Febrero;11.349
+Madrid;Resto del mundo;Marzo;10.999
+Madrid;Resto del mundo;Abril;11.119
+Madrid;Resto del mundo;Mayo;13.200
+Madrid;Resto del mundo;Junio;11.709
+Madrid;Resto del mundo;Julio;14.696
+Madrid;Resto del mundo;Agosto;11.686
+Madrid;Resto del mundo;Septiembre;12.695
+Madrid;Resto del mundo;Octubre;12.656
+Madrid;Resto del mundo;Noviembre;12.033
+Madrid;Resto del mundo;Diciembre;11.204
+Málaga;Total;Enero;286.573
+Málaga;Total;Febrero;365.408
+Málaga;Total;Marzo;435.627
+Málaga;Total;Abril;493.171
+Málaga;Total;Mayo;529.678
+Málaga;Total;Junio;622.367
+Málaga;Total;Julio;775.435
+Málaga;Total;Agosto;834.793
+Málaga;Total;Septiembre;608.328
+Málaga;Total;Octubre;576.656
+Málaga;Total;Noviembre;354.711
+Málaga;Total;Diciembre;317.649
+Málaga;Residentes en España;Enero;42.033
+Málaga;Residentes en España;Febrero;40.080
+Málaga;Residentes en España;Marzo;80.074
+Málaga;Residentes en España;Abril;49.420
+Málaga;Residentes en España;Mayo;58.575
+Málaga;Residentes en España;Junio;86.856
+Málaga;Residentes en España;Julio;184.961
+Málaga;Residentes en España;Agosto;256.069
+Málaga;Residentes en España;Septiembre;112.306
+Málaga;Residentes en España;Octubre;48.843
+Málaga;Residentes en España;Noviembre;41.839
+Málaga;Residentes en España;Diciembre;69.372
+Málaga;No residentes en España;Enero;244.540
+Málaga;No residentes en España;Febrero;325.328
+Málaga;No residentes en España;Marzo;355.553
+Málaga;No residentes en España;Abril;443.751
+Málaga;No residentes en España;Mayo;471.103
+Málaga;No residentes en España;Junio;535.511
+Málaga;No residentes en España;Julio;590.474
+Málaga;No residentes en España;Agosto;578.724
+Málaga;No residentes en España;Septiembre;496.022
+Málaga;No residentes en España;Octubre;527.812
+Málaga;No residentes en España;Noviembre;312.872
+Málaga;No residentes en España;Diciembre;248.277
+Málaga;Unión Europea (sin España);Enero;184.000
+Málaga;Unión Europea (sin España);Febrero;249.259
+Málaga;Unión Europea (sin España);Marzo;280.998
+Málaga;Unión Europea (sin España);Abril;375.030
+Málaga;Unión Europea (sin España);Mayo;414.820
+Málaga;Unión Europea (sin España);Junio;470.486
+Málaga;Unión Europea (sin España);Julio;490.771
+Málaga;Unión Europea (sin España);Agosto;489.184
+Málaga;Unión Europea (sin España);Septiembre;418.635
+Málaga;Unión Europea (sin España);Octubre;455.198
+Málaga;Unión Europea (sin España);Noviembre;260.167
+Málaga;Unión Europea (sin España);Diciembre;198.749
+Málaga;Alemania;Enero;19.753
+Málaga;Alemania;Febrero;22.953
+Málaga;Alemania;Marzo;28.000
+Málaga;Alemania;Abril;23.419
+Málaga;Alemania;Mayo;25.857
+Málaga;Alemania;Junio;18.223
+Málaga;Alemania;Julio;15.090
+Málaga;Alemania;Agosto;20.096
+Málaga;Alemania;Septiembre;30.093
+Málaga;Alemania;Octubre;35.748
+Málaga;Alemania;Noviembre;25.526
+Málaga;Alemania;Diciembre;18.135
+Málaga;Austria;Enero;1.897
+Málaga;Austria;Febrero;1.400
+Málaga;Austria;Marzo;3.773
+Málaga;Austria;Abril;1.414
+Málaga;Austria;Mayo;1.250
+Málaga;Austria;Junio;1.535
+Málaga;Austria;Julio;2.866
+Málaga;Austria;Agosto;2.198
+Málaga;Austria;Septiembre;2.150
+Málaga;Austria;Octubre;1.676
+Málaga;Austria;Noviembre;1.332
+Málaga;Austria;Diciembre;1.101
+Málaga;Bélgica;Enero;4.159
+Málaga;Bélgica;Febrero;6.351
+Málaga;Bélgica;Marzo;8.178
+Málaga;Bélgica;Abril;7.990
+Málaga;Bélgica;Mayo;8.743
+Málaga;Bélgica;Junio;6.674
+Málaga;Bélgica;Julio;15.565
+Málaga;Bélgica;Agosto;9.553
+Málaga;Bélgica;Septiembre;8.812
+Málaga;Bélgica;Octubre;8.082
+Málaga;Bélgica;Noviembre;10.497
+Málaga;Bélgica;Diciembre;6.781
+Málaga;Dinamarca;Enero;7.277
+Málaga;Dinamarca;Febrero;18.892
+Málaga;Dinamarca;Marzo;18.467
+Málaga;Dinamarca;Abril;10.592
+Málaga;Dinamarca;Mayo;8.216
+Málaga;Dinamarca;Junio;7.921
+Málaga;Dinamarca;Julio;19.417
+Málaga;Dinamarca;Agosto;6.603
+Málaga;Dinamarca;Septiembre;9.114
+Málaga;Dinamarca;Octubre;15.727
+Málaga;Dinamarca;Noviembre;8.102
+Málaga;Dinamarca;Diciembre;6.392
+Málaga;Finlandia;Enero;13.924
+Málaga;Finlandia;Febrero;17.939
+Málaga;Finlandia;Marzo;20.528
+Málaga;Finlandia;Abril;23.563
+Málaga;Finlandia;Mayo;15.755
+Málaga;Finlandia;Junio;20.026
+Málaga;Finlandia;Julio;12.312
+Málaga;Finlandia;Agosto;5.384
+Málaga;Finlandia;Septiembre;11.927
+Málaga;Finlandia;Octubre;29.602
+Málaga;Finlandia;Noviembre;29.568
+Málaga;Finlandia;Diciembre;16.739
+Málaga;Francia;Enero;6.431
+Málaga;Francia;Febrero;12.650
+Málaga;Francia;Marzo;6.039
+Málaga;Francia;Abril;20.790
+Málaga;Francia;Mayo;13.726
+Málaga;Francia;Junio;14.018
+Málaga;Francia;Julio;38.726
+Málaga;Francia;Agosto;42.241
+Málaga;Francia;Septiembre;15.540
+Málaga;Francia;Octubre;14.756
+Málaga;Francia;Noviembre;5.392
+Málaga;Francia;Diciembre;8.052
+Málaga;Grecia;Enero;34
+Málaga;Grecia;Febrero;..
+Málaga;Grecia;Marzo;..
+Málaga;Grecia;Abril;664
+Málaga;Grecia;Mayo;102
+Málaga;Grecia;Junio;144
+Málaga;Grecia;Julio;1.266
+Málaga;Grecia;Agosto;142
+Málaga;Grecia;Septiembre;40
+Málaga;Grecia;Octubre;27
+Málaga;Grecia;Noviembre;..
+Málaga;Grecia;Diciembre;42
+Málaga;Irlanda;Enero;11.204
+Málaga;Irlanda;Febrero;18.552
+Málaga;Irlanda;Marzo;26.098
+Málaga;Irlanda;Abril;33.003
+Málaga;Irlanda;Mayo;59.091
+Málaga;Irlanda;Junio;81.348
+Málaga;Irlanda;Julio;80.558
+Málaga;Irlanda;Agosto;61.264
+Málaga;Irlanda;Septiembre;55.560
+Málaga;Irlanda;Octubre;48.498
+Málaga;Irlanda;Noviembre;17.348
+Málaga;Irlanda;Diciembre;12.809
+Málaga;Italia;Enero;4.987
+Málaga;Italia;Febrero;3.068
+Málaga;Italia;Marzo;2.886
+Málaga;Italia;Abril;4.721
+Málaga;Italia;Mayo;4.627
+Málaga;Italia;Junio;9.838
+Málaga;Italia;Julio;10.841
+Málaga;Italia;Agosto;21.211
+Málaga;Italia;Septiembre;6.512
+Málaga;Italia;Octubre;4.932
+Málaga;Italia;Noviembre;3.091
+Málaga;Italia;Diciembre;7.049
+Málaga;Luxemburgo;Enero;267
+Málaga;Luxemburgo;Febrero;2.466
+Málaga;Luxemburgo;Marzo;423
+Málaga;Luxemburgo;Abril;586
+Málaga;Luxemburgo;Mayo;1.637
+Málaga;Luxemburgo;Junio;456
+Málaga;Luxemburgo;Julio;366
+Málaga;Luxemburgo;Agosto;329
+Málaga;Luxemburgo;Septiembre;267
+Málaga;Luxemburgo;Octubre;399
+Málaga;Luxemburgo;Noviembre;325
+Málaga;Luxemburgo;Diciembre;234
+Málaga;Países Bajos;Enero;18.582
+Málaga;Países Bajos;Febrero;27.589
+Málaga;Países Bajos;Marzo;19.284
+Málaga;Países Bajos;Abril;53.017
+Málaga;Países Bajos;Mayo;68.677
+Málaga;Países Bajos;Junio;61.547
+Málaga;Países Bajos;Julio;58.484
+Málaga;Países Bajos;Agosto;68.827
+Málaga;Países Bajos;Septiembre;51.058
+Málaga;Países Bajos;Octubre;54.276
+Málaga;Países Bajos;Noviembre;16.990
+Málaga;Países Bajos;Diciembre;12.366
+Málaga;Polonia;Enero;1.467
+Málaga;Polonia;Febrero;1.202
+Málaga;Polonia;Marzo;1.197
+Málaga;Polonia;Abril;2.277
+Málaga;Polonia;Mayo;1.407
+Málaga;Polonia;Junio;2.816
+Málaga;Polonia;Julio;3.106
+Málaga;Polonia;Agosto;2.728
+Málaga;Polonia;Septiembre;3.336
+Málaga;Polonia;Octubre;2.492
+Málaga;Polonia;Noviembre;2.278
+Málaga;Polonia;Diciembre;755
+Málaga;Portugal;Enero;1.652
+Málaga;Portugal;Febrero;269
+Málaga;Portugal;Marzo;1.212
+Málaga;Portugal;Abril;1.698
+Málaga;Portugal;Mayo;1.324
+Málaga;Portugal;Junio;13.050
+Málaga;Portugal;Julio;5.082
+Málaga;Portugal;Agosto;11.059
+Málaga;Portugal;Septiembre;4.213
+Málaga;Portugal;Octubre;839
+Málaga;Portugal;Noviembre;399
+Málaga;Portugal;Diciembre;852
+Málaga;Reino Unido;Enero;77.536
+Málaga;Reino Unido;Febrero;98.212
+Málaga;Reino Unido;Marzo;122.949
+Málaga;Reino Unido;Abril;177.869
+Málaga;Reino Unido;Mayo;189.668
+Málaga;Reino Unido;Junio;214.126
+Málaga;Reino Unido;Julio;199.116
+Málaga;Reino Unido;Agosto;222.063
+Málaga;Reino Unido;Septiembre;204.709
+Málaga;Reino Unido;Octubre;209.404
+Málaga;Reino Unido;Noviembre;113.197
+Málaga;Reino Unido;Diciembre;95.275
+Málaga;Republica Checa;Enero;510
+Málaga;Republica Checa;Febrero;467
+Málaga;Republica Checa;Marzo;549
+Málaga;Republica Checa;Abril;210
+Málaga;Republica Checa;Mayo;175
+Málaga;Republica Checa;Junio;1.385
+Málaga;Republica Checa;Julio;880
+Málaga;Republica Checa;Agosto;614
+Málaga;Republica Checa;Septiembre;591
+Málaga;Republica Checa;Octubre;258
+Málaga;Republica Checa;Noviembre;678
+Málaga;Republica Checa;Diciembre;194
+Málaga;Suecia;Enero;12.243
+Málaga;Suecia;Febrero;15.690
+Málaga;Suecia;Marzo;18.657
+Málaga;Suecia;Abril;11.026
+Málaga;Suecia;Mayo;10.889
+Málaga;Suecia;Junio;13.410
+Málaga;Suecia;Julio;20.693
+Málaga;Suecia;Agosto;11.690
+Málaga;Suecia;Septiembre;10.399
+Málaga;Suecia;Octubre;23.106
+Málaga;Suecia;Noviembre;22.946
+Málaga;Suecia;Diciembre;9.958
+Málaga;Resto de la UE;Enero;2.077
+Málaga;Resto de la UE;Febrero;1.516
+Málaga;Resto de la UE;Marzo;2.758
+Málaga;Resto de la UE;Abril;2.190
+Málaga;Resto de la UE;Mayo;3.675
+Málaga;Resto de la UE;Junio;3.970
+Málaga;Resto de la UE;Julio;6.405
+Málaga;Resto de la UE;Agosto;3.185
+Málaga;Resto de la UE;Septiembre;4.314
+Málaga;Resto de la UE;Octubre;5.373
+Málaga;Resto de la UE;Noviembre;2.486
+Málaga;Resto de la UE;Diciembre;2.015
+Málaga;Noruega;Enero;8.318
+Málaga;Noruega;Febrero;13.817
+Málaga;Noruega;Marzo;15.001
+Málaga;Noruega;Abril;11.462
+Málaga;Noruega;Mayo;7.669
+Málaga;Noruega;Junio;9.752
+Málaga;Noruega;Julio;19.232
+Málaga;Noruega;Agosto;6.080
+Málaga;Noruega;Septiembre;8.987
+Málaga;Noruega;Octubre;14.977
+Málaga;Noruega;Noviembre;17.370
+Málaga;Noruega;Diciembre;12.627
+Málaga;Rusia;Enero;7.538
+Málaga;Rusia;Febrero;2.772
+Málaga;Rusia;Marzo;2.376
+Málaga;Rusia;Abril;4.716
+Málaga;Rusia;Mayo;6.163
+Málaga;Rusia;Junio;9.564
+Málaga;Rusia;Julio;9.576
+Málaga;Rusia;Agosto;7.638
+Málaga;Rusia;Septiembre;11.491
+Málaga;Rusia;Octubre;6.874
+Málaga;Rusia;Noviembre;2.544
+Málaga;Rusia;Diciembre;2.372
+Málaga;Suiza;Enero;2.978
+Málaga;Suiza;Febrero;3.361
+Málaga;Suiza;Marzo;3.437
+Málaga;Suiza;Abril;5.704
+Málaga;Suiza;Mayo;6.195
+Málaga;Suiza;Junio;4.857
+Málaga;Suiza;Julio;6.840
+Málaga;Suiza;Agosto;3.443
+Málaga;Suiza;Septiembre;5.290
+Málaga;Suiza;Octubre;10.397
+Málaga;Suiza;Noviembre;3.022
+Málaga;Suiza;Diciembre;3.803
+Málaga;Resto de Europa;Enero;915
+Málaga;Resto de Europa;Febrero;758
+Málaga;Resto de Europa;Marzo;2.559
+Málaga;Resto de Europa;Abril;1.819
+Málaga;Resto de Europa;Mayo;3.214
+Málaga;Resto de Europa;Junio;2.368
+Málaga;Resto de Europa;Julio;3.331
+Málaga;Resto de Europa;Agosto;2.835
+Málaga;Resto de Europa;Septiembre;3.308
+Málaga;Resto de Europa;Octubre;2.443
+Málaga;Resto de Europa;Noviembre;1.530
+Málaga;Resto de Europa;Diciembre;1.171
+Málaga;Estados Unidos;Enero;8.056
+Málaga;Estados Unidos;Febrero;7.266
+Málaga;Estados Unidos;Marzo;15.259
+Málaga;Estados Unidos;Abril;10.892
+Málaga;Estados Unidos;Mayo;12.733
+Málaga;Estados Unidos;Junio;12.470
+Málaga;Estados Unidos;Julio;11.930
+Málaga;Estados Unidos;Agosto;4.936
+Málaga;Estados Unidos;Septiembre;11.243
+Málaga;Estados Unidos;Octubre;9.802
+Málaga;Estados Unidos;Noviembre;8.860
+Málaga;Estados Unidos;Diciembre;9.977
+Málaga;Resto de América;Enero;10.834
+Málaga;Resto de América;Febrero;33.678
+Málaga;Resto de América;Marzo;26.328
+Málaga;Resto de América;Abril;18.142
+Málaga;Resto de América;Mayo;8.872
+Málaga;Resto de América;Junio;10.327
+Málaga;Resto de América;Julio;8.324
+Málaga;Resto de América;Agosto;7.083
+Málaga;Resto de América;Septiembre;13.232
+Málaga;Resto de América;Octubre;15.022
+Málaga;Resto de América;Noviembre;7.161
+Málaga;Resto de América;Diciembre;5.136
+Málaga;Países Africanos;Enero;10.764
+Málaga;Países Africanos;Febrero;6.597
+Málaga;Países Africanos;Marzo;3.155
+Málaga;Países Africanos;Abril;6.473
+Málaga;Países Africanos;Mayo;4.088
+Málaga;Países Africanos;Junio;6.394
+Málaga;Países Africanos;Julio;19.839
+Málaga;Países Africanos;Agosto;31.633
+Málaga;Países Africanos;Septiembre;9.382
+Málaga;Países Africanos;Octubre;3.269
+Málaga;Países Africanos;Noviembre;6.289
+Málaga;Países Africanos;Diciembre;7.006
+Málaga;Resto del mundo;Enero;11.137
+Málaga;Resto del mundo;Febrero;7.820
+Málaga;Resto del mundo;Marzo;6.440
+Málaga;Resto del mundo;Abril;9.512
+Málaga;Resto del mundo;Mayo;7.350
+Málaga;Resto del mundo;Junio;9.294
+Málaga;Resto del mundo;Julio;20.631
+Málaga;Resto del mundo;Agosto;25.892
+Málaga;Resto del mundo;Septiembre;14.453
+Málaga;Resto del mundo;Octubre;9.830
+Málaga;Resto del mundo;Noviembre;5.928
+Málaga;Resto del mundo;Diciembre;7.436
+Sevilla;Total;Enero;46.220
+Sevilla;Total;Febrero;48.020
+Sevilla;Total;Marzo;61.769
+Sevilla;Total;Abril;71.527
+Sevilla;Total;Mayo;70.039
+Sevilla;Total;Junio;61.521
+Sevilla;Total;Julio;60.285
+Sevilla;Total;Agosto;73.133
+Sevilla;Total;Septiembre;76.172
+Sevilla;Total;Octubre;86.476
+Sevilla;Total;Noviembre;67.880
+Sevilla;Total;Diciembre;68.349
+Sevilla;Residentes en España;Enero;24.621
+Sevilla;Residentes en España;Febrero;25.224
+Sevilla;Residentes en España;Marzo;33.878
+Sevilla;Residentes en España;Abril;29.965
+Sevilla;Residentes en España;Mayo;31.172
+Sevilla;Residentes en España;Junio;25.756
+Sevilla;Residentes en España;Julio;22.737
+Sevilla;Residentes en España;Agosto;28.767
+Sevilla;Residentes en España;Septiembre;32.544
+Sevilla;Residentes en España;Octubre;35.815
+Sevilla;Residentes en España;Noviembre;33.666
+Sevilla;Residentes en España;Diciembre;36.155
+Sevilla;No residentes en España;Enero;21.599
+Sevilla;No residentes en España;Febrero;22.796
+Sevilla;No residentes en España;Marzo;27.891
+Sevilla;No residentes en España;Abril;41.562
+Sevilla;No residentes en España;Mayo;38.867
+Sevilla;No residentes en España;Junio;35.765
+Sevilla;No residentes en España;Julio;37.548
+Sevilla;No residentes en España;Agosto;44.366
+Sevilla;No residentes en España;Septiembre;43.628
+Sevilla;No residentes en España;Octubre;50.661
+Sevilla;No residentes en España;Noviembre;34.214
+Sevilla;No residentes en España;Diciembre;32.194
+Sevilla;Unión Europea (sin España);Enero;11.859
+Sevilla;Unión Europea (sin España);Febrero;14.034
+Sevilla;Unión Europea (sin España);Marzo;17.159
+Sevilla;Unión Europea (sin España);Abril;29.450
+Sevilla;Unión Europea (sin España);Mayo;24.164
+Sevilla;Unión Europea (sin España);Junio;18.521
+Sevilla;Unión Europea (sin España);Julio;21.448
+Sevilla;Unión Europea (sin España);Agosto;30.408
+Sevilla;Unión Europea (sin España);Septiembre;23.961
+Sevilla;Unión Europea (sin España);Octubre;31.285
+Sevilla;Unión Europea (sin España);Noviembre;20.755
+Sevilla;Unión Europea (sin España);Diciembre;18.776
+Sevilla;Alemania;Enero;1.997
+Sevilla;Alemania;Febrero;1.461
+Sevilla;Alemania;Marzo;2.126
+Sevilla;Alemania;Abril;2.098
+Sevilla;Alemania;Mayo;2.387
+Sevilla;Alemania;Junio;1.297
+Sevilla;Alemania;Julio;1.139
+Sevilla;Alemania;Agosto;1.959
+Sevilla;Alemania;Septiembre;2.285
+Sevilla;Alemania;Octubre;2.851
+Sevilla;Alemania;Noviembre;2.424
+Sevilla;Alemania;Diciembre;1.181
+Sevilla;Austria;Enero;..
+Sevilla;Austria;Febrero;..
+Sevilla;Austria;Marzo;53
+Sevilla;Austria;Abril;92
+Sevilla;Austria;Mayo;392
+Sevilla;Austria;Junio;80
+Sevilla;Austria;Julio;368
+Sevilla;Austria;Agosto;279
+Sevilla;Austria;Septiembre;139
+Sevilla;Austria;Octubre;91
+Sevilla;Austria;Noviembre;179
+Sevilla;Austria;Diciembre;198
+Sevilla;Bélgica;Enero;132
+Sevilla;Bélgica;Febrero;298
+Sevilla;Bélgica;Marzo;1.096
+Sevilla;Bélgica;Abril;896
+Sevilla;Bélgica;Mayo;500
+Sevilla;Bélgica;Junio;583
+Sevilla;Bélgica;Julio;627
+Sevilla;Bélgica;Agosto;605
+Sevilla;Bélgica;Septiembre;1.099
+Sevilla;Bélgica;Octubre;672
+Sevilla;Bélgica;Noviembre;1.240
+Sevilla;Bélgica;Diciembre;746
+Sevilla;Dinamarca;Enero;..
+Sevilla;Dinamarca;Febrero;228
+Sevilla;Dinamarca;Marzo;193
+Sevilla;Dinamarca;Abril;718
+Sevilla;Dinamarca;Mayo;144
+Sevilla;Dinamarca;Junio;102
+Sevilla;Dinamarca;Julio;94
+Sevilla;Dinamarca;Agosto;65
+Sevilla;Dinamarca;Septiembre;114
+Sevilla;Dinamarca;Octubre;506
+Sevilla;Dinamarca;Noviembre;195
+Sevilla;Dinamarca;Diciembre;..
+Sevilla;Finlandia;Enero;..
+Sevilla;Finlandia;Febrero;..
+Sevilla;Finlandia;Marzo;96
+Sevilla;Finlandia;Abril;303
+Sevilla;Finlandia;Mayo;346
+Sevilla;Finlandia;Junio;111
+Sevilla;Finlandia;Julio;141
+Sevilla;Finlandia;Agosto;70
+Sevilla;Finlandia;Septiembre;53
+Sevilla;Finlandia;Octubre;120
+Sevilla;Finlandia;Noviembre;56
+Sevilla;Finlandia;Diciembre;121
+Sevilla;Francia;Enero;3.116
+Sevilla;Francia;Febrero;5.012
+Sevilla;Francia;Marzo;3.848
+Sevilla;Francia;Abril;13.496
+Sevilla;Francia;Mayo;6.650
+Sevilla;Francia;Junio;5.450
+Sevilla;Francia;Julio;8.108
+Sevilla;Francia;Agosto;10.153
+Sevilla;Francia;Septiembre;5.806
+Sevilla;Francia;Octubre;9.970
+Sevilla;Francia;Noviembre;4.577
+Sevilla;Francia;Diciembre;6.430
+Sevilla;Grecia;Enero;..
+Sevilla;Grecia;Febrero;104
+Sevilla;Grecia;Marzo;..
+Sevilla;Grecia;Abril;22
+Sevilla;Grecia;Mayo;111
+Sevilla;Grecia;Junio;135
+Sevilla;Grecia;Julio;48
+Sevilla;Grecia;Agosto;88
+Sevilla;Grecia;Septiembre;..
+Sevilla;Grecia;Octubre;65
+Sevilla;Grecia;Noviembre;167
+Sevilla;Grecia;Diciembre;..
+Sevilla;Irlanda;Enero;190
+Sevilla;Irlanda;Febrero;181
+Sevilla;Irlanda;Marzo;194
+Sevilla;Irlanda;Abril;568
+Sevilla;Irlanda;Mayo;461
+Sevilla;Irlanda;Junio;329
+Sevilla;Irlanda;Julio;195
+Sevilla;Irlanda;Agosto;321
+Sevilla;Irlanda;Septiembre;617
+Sevilla;Irlanda;Octubre;584
+Sevilla;Irlanda;Noviembre;945
+Sevilla;Irlanda;Diciembre;256
+Sevilla;Italia;Enero;2.850
+Sevilla;Italia;Febrero;1.410
+Sevilla;Italia;Marzo;2.399
+Sevilla;Italia;Abril;2.705
+Sevilla;Italia;Mayo;3.977
+Sevilla;Italia;Junio;3.250
+Sevilla;Italia;Julio;2.737
+Sevilla;Italia;Agosto;6.589
+Sevilla;Italia;Septiembre;3.883
+Sevilla;Italia;Octubre;3.934
+Sevilla;Italia;Noviembre;3.513
+Sevilla;Italia;Diciembre;4.827
+Sevilla;Luxemburgo;Enero;..
+Sevilla;Luxemburgo;Febrero;..
+Sevilla;Luxemburgo;Marzo;144
+Sevilla;Luxemburgo;Abril;164
+Sevilla;Luxemburgo;Mayo;135
+Sevilla;Luxemburgo;Junio;269
+Sevilla;Luxemburgo;Julio;156
+Sevilla;Luxemburgo;Agosto;..
+Sevilla;Luxemburgo;Septiembre;..
+Sevilla;Luxemburgo;Octubre;184
+Sevilla;Luxemburgo;Noviembre;175
+Sevilla;Luxemburgo;Diciembre;71
+Sevilla;Países Bajos;Enero;1.190
+Sevilla;Países Bajos;Febrero;1.572
+Sevilla;Países Bajos;Marzo;2.093
+Sevilla;Países Bajos;Abril;2.060
+Sevilla;Países Bajos;Mayo;2.570
+Sevilla;Países Bajos;Junio;1.195
+Sevilla;Países Bajos;Julio;1.324
+Sevilla;Países Bajos;Agosto;1.147
+Sevilla;Países Bajos;Septiembre;2.366
+Sevilla;Países Bajos;Octubre;3.635
+Sevilla;Países Bajos;Noviembre;2.243
+Sevilla;Países Bajos;Diciembre;1.156
+Sevilla;Polonia;Enero;98
+Sevilla;Polonia;Febrero;251
+Sevilla;Polonia;Marzo;108
+Sevilla;Polonia;Abril;281
+Sevilla;Polonia;Mayo;429
+Sevilla;Polonia;Junio;575
+Sevilla;Polonia;Julio;409
+Sevilla;Polonia;Agosto;390
+Sevilla;Polonia;Septiembre;719
+Sevilla;Polonia;Octubre;545
+Sevilla;Polonia;Noviembre;508
+Sevilla;Polonia;Diciembre;188
+Sevilla;Portugal;Enero;357
+Sevilla;Portugal;Febrero;669
+Sevilla;Portugal;Marzo;578
+Sevilla;Portugal;Abril;881
+Sevilla;Portugal;Mayo;1.112
+Sevilla;Portugal;Junio;1.772
+Sevilla;Portugal;Julio;2.547
+Sevilla;Portugal;Agosto;4.992
+Sevilla;Portugal;Septiembre;2.716
+Sevilla;Portugal;Octubre;1.100
+Sevilla;Portugal;Noviembre;505
+Sevilla;Portugal;Diciembre;673
+Sevilla;Reino Unido;Enero;1.200
+Sevilla;Reino Unido;Febrero;2.161
+Sevilla;Reino Unido;Marzo;2.916
+Sevilla;Reino Unido;Abril;3.707
+Sevilla;Reino Unido;Mayo;3.724
+Sevilla;Reino Unido;Junio;2.462
+Sevilla;Reino Unido;Julio;3.057
+Sevilla;Reino Unido;Agosto;2.867
+Sevilla;Reino Unido;Septiembre;3.523
+Sevilla;Reino Unido;Octubre;5.526
+Sevilla;Reino Unido;Noviembre;3.044
+Sevilla;Reino Unido;Diciembre;2.178
+Sevilla;Republica Checa;Enero;..
+Sevilla;Republica Checa;Febrero;..
+Sevilla;Republica Checa;Marzo;111
+Sevilla;Republica Checa;Abril;114
+Sevilla;Republica Checa;Mayo;55
+Sevilla;Republica Checa;Junio;..
+Sevilla;Republica Checa;Julio;199
+Sevilla;Republica Checa;Agosto;..
+Sevilla;Republica Checa;Septiembre;37
+Sevilla;Republica Checa;Octubre;137
+Sevilla;Republica Checa;Noviembre;159
+Sevilla;Republica Checa;Diciembre;85
+Sevilla;Suecia;Enero;..
+Sevilla;Suecia;Febrero;..
+Sevilla;Suecia;Marzo;388
+Sevilla;Suecia;Abril;216
+Sevilla;Suecia;Mayo;67
+Sevilla;Suecia;Junio;207
+Sevilla;Suecia;Julio;32
+Sevilla;Suecia;Agosto;135
+Sevilla;Suecia;Septiembre;137
+Sevilla;Suecia;Octubre;356
+Sevilla;Suecia;Noviembre;214
+Sevilla;Suecia;Diciembre;198
+Sevilla;Resto de la UE;Enero;367
+Sevilla;Resto de la UE;Febrero;290
+Sevilla;Resto de la UE;Marzo;803
+Sevilla;Resto de la UE;Abril;1.128
+Sevilla;Resto de la UE;Mayo;1.103
+Sevilla;Resto de la UE;Junio;684
+Sevilla;Resto de la UE;Julio;269
+Sevilla;Resto de la UE;Agosto;747
+Sevilla;Resto de la UE;Septiembre;464
+Sevilla;Resto de la UE;Octubre;1.007
+Sevilla;Resto de la UE;Noviembre;614
+Sevilla;Resto de la UE;Diciembre;462
+Sevilla;Noruega;Enero;..
+Sevilla;Noruega;Febrero;127
+Sevilla;Noruega;Marzo;43
+Sevilla;Noruega;Abril;146
+Sevilla;Noruega;Mayo;..
+Sevilla;Noruega;Junio;18
+Sevilla;Noruega;Julio;90
+Sevilla;Noruega;Agosto;..
+Sevilla;Noruega;Septiembre;131
+Sevilla;Noruega;Octubre;21
+Sevilla;Noruega;Noviembre;238
+Sevilla;Noruega;Diciembre;251
+Sevilla;Rusia;Enero;625
+Sevilla;Rusia;Febrero;183
+Sevilla;Rusia;Marzo;382
+Sevilla;Rusia;Abril;352
+Sevilla;Rusia;Mayo;696
+Sevilla;Rusia;Junio;605
+Sevilla;Rusia;Julio;451
+Sevilla;Rusia;Agosto;345
+Sevilla;Rusia;Septiembre;916
+Sevilla;Rusia;Octubre;635
+Sevilla;Rusia;Noviembre;550
+Sevilla;Rusia;Diciembre;628
+Sevilla;Suiza;Enero;170
+Sevilla;Suiza;Febrero;195
+Sevilla;Suiza;Marzo;461
+Sevilla;Suiza;Abril;444
+Sevilla;Suiza;Mayo;257
+Sevilla;Suiza;Junio;131
+Sevilla;Suiza;Julio;429
+Sevilla;Suiza;Agosto;32
+Sevilla;Suiza;Septiembre;374
+Sevilla;Suiza;Octubre;931
+Sevilla;Suiza;Noviembre;687
+Sevilla;Suiza;Diciembre;792
+Sevilla;Resto de Europa;Enero;101
+Sevilla;Resto de Europa;Febrero;67
+Sevilla;Resto de Europa;Marzo;147
+Sevilla;Resto de Europa;Abril;372
+Sevilla;Resto de Europa;Mayo;1.052
+Sevilla;Resto de Europa;Junio;363
+Sevilla;Resto de Europa;Julio;510
+Sevilla;Resto de Europa;Agosto;447
+Sevilla;Resto de Europa;Septiembre;766
+Sevilla;Resto de Europa;Octubre;662
+Sevilla;Resto de Europa;Noviembre;521
+Sevilla;Resto de Europa;Diciembre;1.358
+Sevilla;Estados Unidos;Enero;1.316
+Sevilla;Estados Unidos;Febrero;1.809
+Sevilla;Estados Unidos;Marzo;3.980
+Sevilla;Estados Unidos;Abril;2.669
+Sevilla;Estados Unidos;Mayo;2.758
+Sevilla;Estados Unidos;Junio;5.097
+Sevilla;Estados Unidos;Julio;2.625
+Sevilla;Estados Unidos;Agosto;1.689
+Sevilla;Estados Unidos;Septiembre;3.237
+Sevilla;Estados Unidos;Octubre;3.043
+Sevilla;Estados Unidos;Noviembre;3.075
+Sevilla;Estados Unidos;Diciembre;1.994
+Sevilla;Resto de América;Enero;2.098
+Sevilla;Resto de América;Febrero;2.109
+Sevilla;Resto de América;Marzo;2.110
+Sevilla;Resto de América;Abril;1.844
+Sevilla;Resto de América;Mayo;3.112
+Sevilla;Resto de América;Junio;2.661
+Sevilla;Resto de América;Julio;2.259
+Sevilla;Resto de América;Agosto;2.152
+Sevilla;Resto de América;Septiembre;3.566
+Sevilla;Resto de América;Octubre;3.463
+Sevilla;Resto de América;Noviembre;1.937
+Sevilla;Resto de América;Diciembre;2.211
+Sevilla;Países Africanos;Enero;1.525
+Sevilla;Países Africanos;Febrero;311
+Sevilla;Países Africanos;Marzo;556
+Sevilla;Países Africanos;Abril;297
+Sevilla;Países Africanos;Mayo;551
+Sevilla;Países Africanos;Junio;1.031
+Sevilla;Países Africanos;Julio;1.185
+Sevilla;Países Africanos;Agosto;1.870
+Sevilla;Países Africanos;Septiembre;1.542
+Sevilla;Países Africanos;Octubre;462
+Sevilla;Países Africanos;Noviembre;413
+Sevilla;Países Africanos;Diciembre;721
+Sevilla;Resto del mundo;Enero;3.869
+Sevilla;Resto del mundo;Febrero;3.960
+Sevilla;Resto del mundo;Marzo;3.052
+Sevilla;Resto del mundo;Abril;5.988
+Sevilla;Resto del mundo;Mayo;6.268
+Sevilla;Resto del mundo;Junio;7.338
+Sevilla;Resto del mundo;Julio;8.550
+Sevilla;Resto del mundo;Agosto;7.398
+Sevilla;Resto del mundo;Septiembre;9.135
+Sevilla;Resto del mundo;Octubre;10.159
+Sevilla;Resto del mundo;Noviembre;6.037
+Sevilla;Resto del mundo;Diciembre;5.463
+Valencia/Valéncia;Total;Enero;41.537
+Valencia/Valéncia;Total;Febrero;48.189
+Valencia/Valéncia;Total;Marzo;80.224
+Valencia/Valéncia;Total;Abril;64.664
+Valencia/Valéncia;Total;Mayo;81.673
+Valencia/Valéncia;Total;Junio;190.692
+Valencia/Valéncia;Total;Julio;383.013
+Valencia/Valéncia;Total;Agosto;482.227
+Valencia/Valéncia;Total;Septiembre;157.263
+Valencia/Valéncia;Total;Octubre;88.201
+Valencia/Valéncia;Total;Noviembre;61.040
+Valencia/Valéncia;Total;Diciembre;68.927
+Valencia/Valéncia;Residentes en España;Enero;18.326
+Valencia/Valéncia;Residentes en España;Febrero;19.570
+Valencia/Valéncia;Residentes en España;Marzo;45.044
+Valencia/Valéncia;Residentes en España;Abril;26.288
+Valencia/Valéncia;Residentes en España;Mayo;36.217
+Valencia/Valéncia;Residentes en España;Junio;125.768
+Valencia/Valéncia;Residentes en España;Julio;305.282
+Valencia/Valéncia;Residentes en España;Agosto;372.889
+Valencia/Valéncia;Residentes en España;Septiembre;99.775
+Valencia/Valéncia;Residentes en España;Octubre;28.593
+Valencia/Valéncia;Residentes en España;Noviembre;22.719
+Valencia/Valéncia;Residentes en España;Diciembre;31.303
+Valencia/Valéncia;No residentes en España;Enero;23.211
+Valencia/Valéncia;No residentes en España;Febrero;28.619
+Valencia/Valéncia;No residentes en España;Marzo;35.180
+Valencia/Valéncia;No residentes en España;Abril;38.375
+Valencia/Valéncia;No residentes en España;Mayo;45.456
+Valencia/Valéncia;No residentes en España;Junio;64.924
+Valencia/Valéncia;No residentes en España;Julio;77.731
+Valencia/Valéncia;No residentes en España;Agosto;109.337
+Valencia/Valéncia;No residentes en España;Septiembre;57.488
+Valencia/Valéncia;No residentes en España;Octubre;59.608
+Valencia/Valéncia;No residentes en España;Noviembre;38.322
+Valencia/Valéncia;No residentes en España;Diciembre;37.624
+Valencia/Valéncia;Unión Europea (sin España);Enero;17.551
+Valencia/Valéncia;Unión Europea (sin España);Febrero;21.916
+Valencia/Valéncia;Unión Europea (sin España);Marzo;27.093
+Valencia/Valéncia;Unión Europea (sin España);Abril;31.663
+Valencia/Valéncia;Unión Europea (sin España);Mayo;34.324
+Valencia/Valéncia;Unión Europea (sin España);Junio;44.212
+Valencia/Valéncia;Unión Europea (sin España);Julio;57.317
+Valencia/Valéncia;Unión Europea (sin España);Agosto;90.821
+Valencia/Valéncia;Unión Europea (sin España);Septiembre;42.997
+Valencia/Valéncia;Unión Europea (sin España);Octubre;43.210
+Valencia/Valéncia;Unión Europea (sin España);Noviembre;28.964
+Valencia/Valéncia;Unión Europea (sin España);Diciembre;27.469
+Valencia/Valéncia;Alemania;Enero;2.543
+Valencia/Valéncia;Alemania;Febrero;2.536
+Valencia/Valéncia;Alemania;Marzo;2.381
+Valencia/Valéncia;Alemania;Abril;2.131
+Valencia/Valéncia;Alemania;Mayo;5.214
+Valencia/Valéncia;Alemania;Junio;4.156
+Valencia/Valéncia;Alemania;Julio;2.949
+Valencia/Valéncia;Alemania;Agosto;4.791
+Valencia/Valéncia;Alemania;Septiembre;5.670
+Valencia/Valéncia;Alemania;Octubre;8.812
+Valencia/Valéncia;Alemania;Noviembre;4.450
+Valencia/Valéncia;Alemania;Diciembre;2.835
+Valencia/Valéncia;Austria;Enero;400
+Valencia/Valéncia;Austria;Febrero;308
+Valencia/Valéncia;Austria;Marzo;527
+Valencia/Valéncia;Austria;Abril;467
+Valencia/Valéncia;Austria;Mayo;493
+Valencia/Valéncia;Austria;Junio;125
+Valencia/Valéncia;Austria;Julio;356
+Valencia/Valéncia;Austria;Agosto;287
+Valencia/Valéncia;Austria;Septiembre;763
+Valencia/Valéncia;Austria;Octubre;554
+Valencia/Valéncia;Austria;Noviembre;533
+Valencia/Valéncia;Austria;Diciembre;17
+Valencia/Valéncia;Bélgica;Enero;416
+Valencia/Valéncia;Bélgica;Febrero;870
+Valencia/Valéncia;Bélgica;Marzo;1.438
+Valencia/Valéncia;Bélgica;Abril;1.291
+Valencia/Valéncia;Bélgica;Mayo;1.379
+Valencia/Valéncia;Bélgica;Junio;2.185
+Valencia/Valéncia;Bélgica;Julio;1.987
+Valencia/Valéncia;Bélgica;Agosto;1.550
+Valencia/Valéncia;Bélgica;Septiembre;4.130
+Valencia/Valéncia;Bélgica;Octubre;1.477
+Valencia/Valéncia;Bélgica;Noviembre;1.436
+Valencia/Valéncia;Bélgica;Diciembre;750
+Valencia/Valéncia;Dinamarca;Enero;290
+Valencia/Valéncia;Dinamarca;Febrero;486
+Valencia/Valéncia;Dinamarca;Marzo;442
+Valencia/Valéncia;Dinamarca;Abril;783
+Valencia/Valéncia;Dinamarca;Mayo;161
+Valencia/Valéncia;Dinamarca;Junio;218
+Valencia/Valéncia;Dinamarca;Julio;2.253
+Valencia/Valéncia;Dinamarca;Agosto;147
+Valencia/Valéncia;Dinamarca;Septiembre;98
+Valencia/Valéncia;Dinamarca;Octubre;538
+Valencia/Valéncia;Dinamarca;Noviembre;450
+Valencia/Valéncia;Dinamarca;Diciembre;161
+Valencia/Valéncia;Finlandia;Enero;422
+Valencia/Valéncia;Finlandia;Febrero;439
+Valencia/Valéncia;Finlandia;Marzo;624
+Valencia/Valéncia;Finlandia;Abril;657
+Valencia/Valéncia;Finlandia;Mayo;377
+Valencia/Valéncia;Finlandia;Junio;1.370
+Valencia/Valéncia;Finlandia;Julio;175
+Valencia/Valéncia;Finlandia;Agosto;367
+Valencia/Valéncia;Finlandia;Septiembre;474
+Valencia/Valéncia;Finlandia;Octubre;676
+Valencia/Valéncia;Finlandia;Noviembre;648
+Valencia/Valéncia;Finlandia;Diciembre;97
+Valencia/Valéncia;Francia;Enero;2.120
+Valencia/Valéncia;Francia;Febrero;3.098
+Valencia/Valéncia;Francia;Marzo;3.860
+Valencia/Valéncia;Francia;Abril;5.890
+Valencia/Valéncia;Francia;Mayo;3.842
+Valencia/Valéncia;Francia;Junio;8.143
+Valencia/Valéncia;Francia;Julio;16.438
+Valencia/Valéncia;Francia;Agosto;52.459
+Valencia/Valéncia;Francia;Septiembre;6.837
+Valencia/Valéncia;Francia;Octubre;5.474
+Valencia/Valéncia;Francia;Noviembre;2.490
+Valencia/Valéncia;Francia;Diciembre;3.889
+Valencia/Valéncia;Grecia;Enero;..
+Valencia/Valéncia;Grecia;Febrero;148
+Valencia/Valéncia;Grecia;Marzo;153
+Valencia/Valéncia;Grecia;Abril;..
+Valencia/Valéncia;Grecia;Mayo;..
+Valencia/Valéncia;Grecia;Junio;186
+Valencia/Valéncia;Grecia;Julio;..
+Valencia/Valéncia;Grecia;Agosto;69
+Valencia/Valéncia;Grecia;Septiembre;121
+Valencia/Valéncia;Grecia;Octubre;..
+Valencia/Valéncia;Grecia;Noviembre;127
+Valencia/Valéncia;Grecia;Diciembre;..
+Valencia/Valéncia;Irlanda;Enero;..
+Valencia/Valéncia;Irlanda;Febrero;213
+Valencia/Valéncia;Irlanda;Marzo;480
+Valencia/Valéncia;Irlanda;Abril;549
+Valencia/Valéncia;Irlanda;Mayo;340
+Valencia/Valéncia;Irlanda;Junio;1.077
+Valencia/Valéncia;Irlanda;Julio;681
+Valencia/Valéncia;Irlanda;Agosto;964
+Valencia/Valéncia;Irlanda;Septiembre;712
+Valencia/Valéncia;Irlanda;Octubre;323
+Valencia/Valéncia;Irlanda;Noviembre;612
+Valencia/Valéncia;Irlanda;Diciembre;..
+Valencia/Valéncia;Italia;Enero;4.564
+Valencia/Valéncia;Italia;Febrero;4.497
+Valencia/Valéncia;Italia;Marzo;4.765
+Valencia/Valéncia;Italia;Abril;4.914
+Valencia/Valéncia;Italia;Mayo;6.834
+Valencia/Valéncia;Italia;Junio;8.511
+Valencia/Valéncia;Italia;Julio;10.321
+Valencia/Valéncia;Italia;Agosto;11.712
+Valencia/Valéncia;Italia;Septiembre;7.793
+Valencia/Valéncia;Italia;Octubre;6.069
+Valencia/Valéncia;Italia;Noviembre;5.891
+Valencia/Valéncia;Italia;Diciembre;8.758
+Valencia/Valéncia;Luxemburgo;Enero;..
+Valencia/Valéncia;Luxemburgo;Febrero;..
+Valencia/Valéncia;Luxemburgo;Marzo;52
+Valencia/Valéncia;Luxemburgo;Abril;..
+Valencia/Valéncia;Luxemburgo;Mayo;172
+Valencia/Valéncia;Luxemburgo;Junio;47
+Valencia/Valéncia;Luxemburgo;Julio;..
+Valencia/Valéncia;Luxemburgo;Agosto;394
+Valencia/Valéncia;Luxemburgo;Septiembre;201
+Valencia/Valéncia;Luxemburgo;Octubre;..
+Valencia/Valéncia;Luxemburgo;Noviembre;86
+Valencia/Valéncia;Luxemburgo;Diciembre;..
+Valencia/Valéncia;Países Bajos;Enero;1.566
+Valencia/Valéncia;Países Bajos;Febrero;3.277
+Valencia/Valéncia;Países Bajos;Marzo;3.548
+Valencia/Valéncia;Países Bajos;Abril;4.084
+Valencia/Valéncia;Países Bajos;Mayo;4.391
+Valencia/Valéncia;Países Bajos;Junio;4.829
+Valencia/Valéncia;Países Bajos;Julio;6.674
+Valencia/Valéncia;Países Bajos;Agosto;4.781
+Valencia/Valéncia;Países Bajos;Septiembre;4.051
+Valencia/Valéncia;Países Bajos;Octubre;6.498
+Valencia/Valéncia;Países Bajos;Noviembre;3.092
+Valencia/Valéncia;Países Bajos;Diciembre;2.325
+Valencia/Valéncia;Polonia;Enero;372
+Valencia/Valéncia;Polonia;Febrero;1.129
+Valencia/Valéncia;Polonia;Marzo;213
+Valencia/Valéncia;Polonia;Abril;2.023
+Valencia/Valéncia;Polonia;Mayo;1.693
+Valencia/Valéncia;Polonia;Junio;956
+Valencia/Valéncia;Polonia;Julio;438
+Valencia/Valéncia;Polonia;Agosto;1.109
+Valencia/Valéncia;Polonia;Septiembre;514
+Valencia/Valéncia;Polonia;Octubre;394
+Valencia/Valéncia;Polonia;Noviembre;1.279
+Valencia/Valéncia;Polonia;Diciembre;350
+Valencia/Valéncia;Portugal;Enero;531
+Valencia/Valéncia;Portugal;Febrero;198
+Valencia/Valéncia;Portugal;Marzo;1.690
+Valencia/Valéncia;Portugal;Abril;972
+Valencia/Valéncia;Portugal;Mayo;685
+Valencia/Valéncia;Portugal;Junio;949
+Valencia/Valéncia;Portugal;Julio;2.887
+Valencia/Valéncia;Portugal;Agosto;1.403
+Valencia/Valéncia;Portugal;Septiembre;734
+Valencia/Valéncia;Portugal;Octubre;125
+Valencia/Valéncia;Portugal;Noviembre;423
+Valencia/Valéncia;Portugal;Diciembre;430
+Valencia/Valéncia;Reino Unido;Enero;2.335
+Valencia/Valéncia;Reino Unido;Febrero;2.683
+Valencia/Valéncia;Reino Unido;Marzo;3.677
+Valencia/Valéncia;Reino Unido;Abril;5.173
+Valencia/Valéncia;Reino Unido;Mayo;6.376
+Valencia/Valéncia;Reino Unido;Junio;7.702
+Valencia/Valéncia;Reino Unido;Julio;7.133
+Valencia/Valéncia;Reino Unido;Agosto;8.577
+Valencia/Valéncia;Reino Unido;Septiembre;7.835
+Valencia/Valéncia;Reino Unido;Octubre;9.129
+Valencia/Valéncia;Reino Unido;Noviembre;4.461
+Valencia/Valéncia;Reino Unido;Diciembre;3.634
+Valencia/Valéncia;Republica Checa;Enero;128
+Valencia/Valéncia;Republica Checa;Febrero;60
+Valencia/Valéncia;Republica Checa;Marzo;209
+Valencia/Valéncia;Republica Checa;Abril;..
+Valencia/Valéncia;Republica Checa;Mayo;..
+Valencia/Valéncia;Republica Checa;Junio;707
+Valencia/Valéncia;Republica Checa;Julio;971
+Valencia/Valéncia;Republica Checa;Agosto;529
+Valencia/Valéncia;Republica Checa;Septiembre;167
+Valencia/Valéncia;Republica Checa;Octubre;304
+Valencia/Valéncia;Republica Checa;Noviembre;305
+Valencia/Valéncia;Republica Checa;Diciembre;59
+Valencia/Valéncia;Suecia;Enero;211
+Valencia/Valéncia;Suecia;Febrero;612
+Valencia/Valéncia;Suecia;Marzo;1.142
+Valencia/Valéncia;Suecia;Abril;524
+Valencia/Valéncia;Suecia;Mayo;236
+Valencia/Valéncia;Suecia;Junio;988
+Valencia/Valéncia;Suecia;Julio;1.981
+Valencia/Valéncia;Suecia;Agosto;586
+Valencia/Valéncia;Suecia;Septiembre;825
+Valencia/Valéncia;Suecia;Octubre;1.571
+Valencia/Valéncia;Suecia;Noviembre;867
+Valencia/Valéncia;Suecia;Diciembre;652
+Valencia/Valéncia;Resto de la UE;Enero;1.500
+Valencia/Valéncia;Resto de la UE;Febrero;1.361
+Valencia/Valéncia;Resto de la UE;Marzo;1.892
+Valencia/Valéncia;Resto de la UE;Abril;2.152
+Valencia/Valéncia;Resto de la UE;Mayo;2.098
+Valencia/Valéncia;Resto de la UE;Junio;2.062
+Valencia/Valéncia;Resto de la UE;Julio;2.040
+Valencia/Valéncia;Resto de la UE;Agosto;1.096
+Valencia/Valéncia;Resto de la UE;Septiembre;2.073
+Valencia/Valéncia;Resto de la UE;Octubre;1.264
+Valencia/Valéncia;Resto de la UE;Noviembre;1.815
+Valencia/Valéncia;Resto de la UE;Diciembre;3.433
+Valencia/Valéncia;Noruega;Enero;98
+Valencia/Valéncia;Noruega;Febrero;482
+Valencia/Valéncia;Noruega;Marzo;471
+Valencia/Valéncia;Noruega;Abril;545
+Valencia/Valéncia;Noruega;Mayo;151
+Valencia/Valéncia;Noruega;Junio;522
+Valencia/Valéncia;Noruega;Julio;808
+Valencia/Valéncia;Noruega;Agosto;167
+Valencia/Valéncia;Noruega;Septiembre;1.099
+Valencia/Valéncia;Noruega;Octubre;1.025
+Valencia/Valéncia;Noruega;Noviembre;314
+Valencia/Valéncia;Noruega;Diciembre;399
+Valencia/Valéncia;Rusia;Enero;1.074
+Valencia/Valéncia;Rusia;Febrero;981
+Valencia/Valéncia;Rusia;Marzo;977
+Valencia/Valéncia;Rusia;Abril;954
+Valencia/Valéncia;Rusia;Mayo;1.796
+Valencia/Valéncia;Rusia;Junio;5.971
+Valencia/Valéncia;Rusia;Julio;7.187
+Valencia/Valéncia;Rusia;Agosto;7.022
+Valencia/Valéncia;Rusia;Septiembre;4.610
+Valencia/Valéncia;Rusia;Octubre;4.267
+Valencia/Valéncia;Rusia;Noviembre;1.947
+Valencia/Valéncia;Rusia;Diciembre;1.703
+Valencia/Valéncia;Suiza;Enero;417
+Valencia/Valéncia;Suiza;Febrero;1.135
+Valencia/Valéncia;Suiza;Marzo;709
+Valencia/Valéncia;Suiza;Abril;1.197
+Valencia/Valéncia;Suiza;Mayo;795
+Valencia/Valéncia;Suiza;Junio;1.739
+Valencia/Valéncia;Suiza;Julio;1.931
+Valencia/Valéncia;Suiza;Agosto;1.517
+Valencia/Valéncia;Suiza;Septiembre;929
+Valencia/Valéncia;Suiza;Octubre;1.804
+Valencia/Valéncia;Suiza;Noviembre;1.154
+Valencia/Valéncia;Suiza;Diciembre;494
+Valencia/Valéncia;Resto de Europa;Enero;755
+Valencia/Valéncia;Resto de Europa;Febrero;615
+Valencia/Valéncia;Resto de Europa;Marzo;1.576
+Valencia/Valéncia;Resto de Europa;Abril;521
+Valencia/Valéncia;Resto de Europa;Mayo;945
+Valencia/Valéncia;Resto de Europa;Junio;2.490
+Valencia/Valéncia;Resto de Europa;Julio;963
+Valencia/Valéncia;Resto de Europa;Agosto;848
+Valencia/Valéncia;Resto de Europa;Septiembre;1.457
+Valencia/Valéncia;Resto de Europa;Octubre;1.673
+Valencia/Valéncia;Resto de Europa;Noviembre;370
+Valencia/Valéncia;Resto de Europa;Diciembre;1.339
+Valencia/Valéncia;Estados Unidos;Enero;938
+Valencia/Valéncia;Estados Unidos;Febrero;595
+Valencia/Valéncia;Estados Unidos;Marzo;1.348
+Valencia/Valéncia;Estados Unidos;Abril;832
+Valencia/Valéncia;Estados Unidos;Mayo;3.545
+Valencia/Valéncia;Estados Unidos;Junio;4.520
+Valencia/Valéncia;Estados Unidos;Julio;3.909
+Valencia/Valéncia;Estados Unidos;Agosto;3.652
+Valencia/Valéncia;Estados Unidos;Septiembre;1.787
+Valencia/Valéncia;Estados Unidos;Octubre;1.462
+Valencia/Valéncia;Estados Unidos;Noviembre;1.507
+Valencia/Valéncia;Estados Unidos;Diciembre;1.058
+Valencia/Valéncia;Resto de América;Enero;1.202
+Valencia/Valéncia;Resto de América;Febrero;1.289
+Valencia/Valéncia;Resto de América;Marzo;1.483
+Valencia/Valéncia;Resto de América;Abril;874
+Valencia/Valéncia;Resto de América;Mayo;1.855
+Valencia/Valéncia;Resto de América;Junio;2.905
+Valencia/Valéncia;Resto de América;Julio;1.416
+Valencia/Valéncia;Resto de América;Agosto;1.248
+Valencia/Valéncia;Resto de América;Septiembre;1.879
+Valencia/Valéncia;Resto de América;Octubre;2.736
+Valencia/Valéncia;Resto de América;Noviembre;1.535
+Valencia/Valéncia;Resto de América;Diciembre;2.469
+Valencia/Valéncia;Países Africanos;Enero;243
+Valencia/Valéncia;Países Africanos;Febrero;432
+Valencia/Valéncia;Países Africanos;Marzo;379
+Valencia/Valéncia;Países Africanos;Abril;571
+Valencia/Valéncia;Países Africanos;Mayo;442
+Valencia/Valéncia;Países Africanos;Junio;267
+Valencia/Valéncia;Países Africanos;Julio;2.313
+Valencia/Valéncia;Países Africanos;Agosto;2.281
+Valencia/Valéncia;Países Africanos;Septiembre;459
+Valencia/Valéncia;Países Africanos;Octubre;897
+Valencia/Valéncia;Países Africanos;Noviembre;900
+Valencia/Valéncia;Países Africanos;Diciembre;998
+Valencia/Valéncia;Resto del mundo;Enero;935
+Valencia/Valéncia;Resto del mundo;Febrero;1.173
+Valencia/Valéncia;Resto del mundo;Marzo;1.144
+Valencia/Valéncia;Resto del mundo;Abril;1.218
+Valencia/Valéncia;Resto del mundo;Mayo;1.602
+Valencia/Valéncia;Resto del mundo;Junio;2.298
+Valencia/Valéncia;Resto del mundo;Julio;1.887
+Valencia/Valéncia;Resto del mundo;Agosto;1.780
+Valencia/Valéncia;Resto del mundo;Septiembre;2.271
+Valencia/Valéncia;Resto del mundo;Octubre;2.535
+Valencia/Valéncia;Resto del mundo;Noviembre;1.632
+Valencia/Valéncia;Resto del mundo;Diciembre;1.695

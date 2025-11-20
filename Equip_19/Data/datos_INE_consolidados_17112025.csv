@@ -23,18 +23,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2015,Octubre,Islas Baleares,España,46366.0,9280.0,5.0,2015-10-01
 2015,Noviembre,Islas Baleares,España,4902.0,1628.0,3.01,2015-11-01
 2015,Diciembre,Islas Baleares,España,3474.0,1058.0,3.28,2015-12-01
-2015,Enero,Islas Baleares,No residentes en España,20808.0,2382.0,8.74,2015-01-01
-2015,Febrero,Islas Baleares,No residentes en España,22760.0,2444.0,9.31,2015-02-01
-2015,Marzo,Islas Baleares,No residentes en España,39242.0,4716.0,8.32,2015-03-01
-2015,Abril,Islas Baleares,No residentes en España,200325.0,30024.0,6.67,2015-04-01
-2015,Mayo,Islas Baleares,No residentes en España,823572.0,130186.0,6.33,2015-05-01
-2015,Junio,Islas Baleares,No residentes en España,1439195.0,198333.0,7.26,2015-06-01
-2015,Julio,Islas Baleares,No residentes en España,1932061.0,250217.0,7.72,2015-07-01
-2015,Agosto,Islas Baleares,No residentes en España,1948957.0,245626.0,7.93,2015-08-01
-2015,Septiembre,Islas Baleares,No residentes en España,1431089.0,186580.0,7.67,2015-09-01
-2015,Octubre,Islas Baleares,No residentes en España,692392.0,82335.0,8.41,2015-10-01
-2015,Noviembre,Islas Baleares,No residentes en España,29732.0,3775.0,7.88,2015-11-01
-2015,Diciembre,Islas Baleares,No residentes en España,27609.0,3773.0,7.32,2015-12-01
+2015,Enero,Islas Baleares,Extranjeros,2382.0,2382.0,1.0,2015-01-01
+2015,Febrero,Islas Baleares,Extranjeros,2444.0,2444.0,1.0,2015-02-01
+2015,Marzo,Islas Baleares,Extranjeros,4716.0,4716.0,1.0,2015-03-01
+2015,Abril,Islas Baleares,Extranjeros,30024.0,30024.0,1.0,2015-04-01
+2015,Mayo,Islas Baleares,Extranjeros,130186.0,130186.0,1.0,2015-05-01
+2015,Junio,Islas Baleares,Extranjeros,198333.0,198333.0,1.0,2015-06-01
+2015,Julio,Islas Baleares,Extranjeros,250217.0,250217.0,1.0,2015-07-01
+2015,Agosto,Islas Baleares,Extranjeros,245626.0,245626.0,1.0,2015-08-01
+2015,Septiembre,Islas Baleares,Extranjeros,186580.0,186580.0,1.0,2015-09-01
+2015,Octubre,Islas Baleares,Extranjeros,82335.0,82335.0,1.0,2015-10-01
+2015,Noviembre,Islas Baleares,Extranjeros,3775.0,3775.0,1.0,2015-11-01
+2015,Diciembre,Islas Baleares,Extranjeros,3773.0,3773.0,1.0,2015-12-01
 2015,Enero,Islas Baleares,Unión Europea (sin España),18146.0,1950.0,9.31,2015-01-01
 2015,Febrero,Islas Baleares,Unión Europea (sin España),19650.0,2022.0,9.72,2015-02-01
 2015,Marzo,Islas Baleares,Unión Europea (sin España),35610.0,4135.0,8.61,2015-03-01
@@ -371,18 +371,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2015,Octubre,Barcelona,España,65010.0,9575.0,6.79,2015-10-01
 2015,Noviembre,Barcelona,España,63410.0,6091.0,10.41,2015-11-01
 2015,Diciembre,Barcelona,España,65034.0,6441.0,10.1,2015-12-01
-2015,Enero,Barcelona,No residentes en España,54064.0,10510.0,5.14,2015-01-01
-2015,Febrero,Barcelona,No residentes en España,53937.0,11043.0,4.88,2015-02-01
-2015,Marzo,Barcelona,No residentes en España,63487.0,13222.0,4.8,2015-03-01
-2015,Abril,Barcelona,No residentes en España,82581.0,19297.0,4.28,2015-04-01
-2015,Mayo,Barcelona,No residentes en España,89219.0,21217.0,4.21,2015-05-01
-2015,Junio,Barcelona,No residentes en España,93385.0,21308.0,4.38,2015-06-01
-2015,Julio,Barcelona,No residentes en España,115838.0,25970.0,4.46,2015-07-01
-2015,Agosto,Barcelona,No residentes en España,124367.0,25132.0,4.95,2015-08-01
-2015,Septiembre,Barcelona,No residentes en España,104368.0,22880.0,4.56,2015-09-01
-2015,Octubre,Barcelona,No residentes en España,92160.0,20748.0,4.44,2015-10-01
-2015,Noviembre,Barcelona,No residentes en España,58578.0,11382.0,5.15,2015-11-01
-2015,Diciembre,Barcelona,No residentes en España,61003.0,11252.0,5.42,2015-12-01
+2015,Enero,Barcelona,Extranjeros,10510.0,10510.0,1.0,2015-01-01
+2015,Febrero,Barcelona,Extranjeros,11043.0,11043.0,1.0,2015-02-01
+2015,Marzo,Barcelona,Extranjeros,13222.0,13222.0,1.0,2015-03-01
+2015,Abril,Barcelona,Extranjeros,19297.0,19297.0,1.0,2015-04-01
+2015,Mayo,Barcelona,Extranjeros,21217.0,21217.0,1.0,2015-05-01
+2015,Junio,Barcelona,Extranjeros,21308.0,21308.0,1.0,2015-06-01
+2015,Julio,Barcelona,Extranjeros,25970.0,25970.0,1.0,2015-07-01
+2015,Agosto,Barcelona,Extranjeros,25132.0,25132.0,1.0,2015-08-01
+2015,Septiembre,Barcelona,Extranjeros,22880.0,22880.0,1.0,2015-09-01
+2015,Octubre,Barcelona,Extranjeros,20748.0,20748.0,1.0,2015-10-01
+2015,Noviembre,Barcelona,Extranjeros,11382.0,11382.0,1.0,2015-11-01
+2015,Diciembre,Barcelona,Extranjeros,11252.0,11252.0,1.0,2015-12-01
 2015,Enero,Barcelona,Unión Europea (sin España),24711.0,5731.0,4.31,2015-01-01
 2015,Febrero,Barcelona,Unión Europea (sin España),31743.0,7542.0,4.21,2015-02-01
 2015,Marzo,Barcelona,Unión Europea (sin España),34551.0,8266.0,4.18,2015-03-01
@@ -719,18 +719,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2015,Octubre,Girona,España,19183.0,6209.0,3.09,2015-10-01
 2015,Noviembre,Girona,España,8849.0,2555.0,3.46,2015-11-01
 2015,Diciembre,Girona,España,18210.0,6106.0,2.98,2015-12-01
-2015,Enero,Girona,No residentes en España,6928.0,1217.0,5.69,2015-01-01
-2015,Febrero,Girona,No residentes en España,8262.0,1893.0,4.36,2015-02-01
-2015,Marzo,Girona,No residentes en España,8899.0,1411.0,6.31,2015-03-01
-2015,Abril,Girona,No residentes en España,33048.0,6589.0,5.02,2015-04-01
-2015,Mayo,Girona,No residentes en España,86846.0,15879.0,5.47,2015-05-01
-2015,Junio,Girona,No residentes en España,166081.0,21109.0,7.87,2015-06-01
-2015,Julio,Girona,No residentes en España,524735.0,61616.0,8.52,2015-07-01
-2015,Agosto,Girona,No residentes en España,725529.0,84151.0,8.62,2015-08-01
-2015,Septiembre,Girona,No residentes en España,185213.0,18619.0,9.95,2015-09-01
-2015,Octubre,Girona,No residentes en España,44474.0,6795.0,6.55,2015-10-01
-2015,Noviembre,Girona,No residentes en España,6487.0,1290.0,5.03,2015-11-01
-2015,Diciembre,Girona,No residentes en España,7652.0,1877.0,4.08,2015-12-01
+2015,Enero,Girona,Extranjeros,1217.0,1217.0,1.0,2015-01-01
+2015,Febrero,Girona,Extranjeros,1893.0,1893.0,1.0,2015-02-01
+2015,Marzo,Girona,Extranjeros,1411.0,1411.0,1.0,2015-03-01
+2015,Abril,Girona,Extranjeros,6589.0,6589.0,1.0,2015-04-01
+2015,Mayo,Girona,Extranjeros,15879.0,15879.0,1.0,2015-05-01
+2015,Junio,Girona,Extranjeros,21109.0,21109.0,1.0,2015-06-01
+2015,Julio,Girona,Extranjeros,61616.0,61616.0,1.0,2015-07-01
+2015,Agosto,Girona,Extranjeros,84151.0,84151.0,1.0,2015-08-01
+2015,Septiembre,Girona,Extranjeros,18619.0,18619.0,1.0,2015-09-01
+2015,Octubre,Girona,Extranjeros,6795.0,6795.0,1.0,2015-10-01
+2015,Noviembre,Girona,Extranjeros,1290.0,1290.0,1.0,2015-11-01
+2015,Diciembre,Girona,Extranjeros,1877.0,1877.0,1.0,2015-12-01
 2015,Enero,Girona,Unión Europea (sin España),6047.0,1095.0,5.52,2015-01-01
 2015,Febrero,Girona,Unión Europea (sin España),6701.0,1607.0,4.17,2015-02-01
 2015,Marzo,Girona,Unión Europea (sin España),7166.0,1115.0,6.43,2015-03-01
@@ -1067,18 +1067,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2015,Octubre,Madrid,España,65173.0,20534.0,3.17,2015-10-01
 2015,Noviembre,Madrid,España,59783.0,17671.0,3.38,2015-11-01
 2015,Diciembre,Madrid,España,72263.0,21840.0,3.31,2015-12-01
-2015,Enero,Madrid,No residentes en España,42422.0,7588.0,5.59,2015-01-01
-2015,Febrero,Madrid,No residentes en España,49388.0,9049.0,5.46,2015-02-01
-2015,Marzo,Madrid,No residentes en España,57401.0,12797.0,4.49,2015-03-01
-2015,Abril,Madrid,No residentes en España,62657.0,15804.0,3.96,2015-04-01
-2015,Mayo,Madrid,No residentes en España,71051.0,17219.0,4.13,2015-05-01
-2015,Junio,Madrid,No residentes en España,82409.0,19366.0,4.26,2015-06-01
-2015,Julio,Madrid,No residentes en España,79873.0,21059.0,3.79,2015-07-01
-2015,Agosto,Madrid,No residentes en España,73432.0,19281.0,3.81,2015-08-01
-2015,Septiembre,Madrid,No residentes en España,81852.0,22711.0,3.6,2015-09-01
-2015,Octubre,Madrid,No residentes en España,87897.0,26548.0,3.31,2015-10-01
-2015,Noviembre,Madrid,No residentes en España,68163.0,17236.0,3.95,2015-11-01
-2015,Diciembre,Madrid,No residentes en España,56527.0,12639.0,4.47,2015-12-01
+2015,Enero,Madrid,Extranjeros,7588.0,7588.0,1.0,2015-01-01
+2015,Febrero,Madrid,Extranjeros,9049.0,9049.0,1.0,2015-02-01
+2015,Marzo,Madrid,Extranjeros,12797.0,12797.0,1.0,2015-03-01
+2015,Abril,Madrid,Extranjeros,15804.0,15804.0,1.0,2015-04-01
+2015,Mayo,Madrid,Extranjeros,17219.0,17219.0,1.0,2015-05-01
+2015,Junio,Madrid,Extranjeros,19366.0,19366.0,1.0,2015-06-01
+2015,Julio,Madrid,Extranjeros,21059.0,21059.0,1.0,2015-07-01
+2015,Agosto,Madrid,Extranjeros,19281.0,19281.0,1.0,2015-08-01
+2015,Septiembre,Madrid,Extranjeros,22711.0,22711.0,1.0,2015-09-01
+2015,Octubre,Madrid,Extranjeros,26548.0,26548.0,1.0,2015-10-01
+2015,Noviembre,Madrid,Extranjeros,17236.0,17236.0,1.0,2015-11-01
+2015,Diciembre,Madrid,Extranjeros,12639.0,12639.0,1.0,2015-12-01
 2015,Enero,Madrid,Unión Europea (sin España),14615.0,3186.0,4.59,2015-01-01
 2015,Febrero,Madrid,Unión Europea (sin España),19373.0,4283.0,4.52,2015-02-01
 2015,Marzo,Madrid,Unión Europea (sin España),21178.0,5015.0,4.22,2015-03-01
@@ -1415,18 +1415,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2015,Octubre,Málaga,España,44147.0,14905.0,2.96,2015-10-01
 2015,Noviembre,Málaga,España,37560.0,12905.0,2.91,2015-11-01
 2015,Diciembre,Málaga,España,67403.0,22987.0,2.93,2015-12-01
-2015,Enero,Málaga,No residentes en España,198243.0,27743.0,7.15,2015-01-01
-2015,Febrero,Málaga,No residentes en España,245143.0,33856.0,7.24,2015-02-01
-2015,Marzo,Málaga,No residentes en España,315409.0,43031.0,7.33,2015-03-01
-2015,Abril,Málaga,No residentes en España,415492.0,64092.0,6.48,2015-04-01
-2015,Mayo,Málaga,No residentes en España,469794.0,77526.0,6.06,2015-05-01
-2015,Junio,Málaga,No residentes en España,480438.0,69542.0,6.91,2015-06-01
-2015,Julio,Málaga,No residentes en España,590472.0,80506.0,7.33,2015-07-01
-2015,Agosto,Málaga,No residentes en España,601559.0,84124.0,7.15,2015-08-01
-2015,Septiembre,Málaga,No residentes en España,514580.0,74914.0,6.87,2015-09-01
-2015,Octubre,Málaga,No residentes en España,498243.0,75105.0,6.63,2015-10-01
-2015,Noviembre,Málaga,No residentes en España,282987.0,38828.0,7.29,2015-11-01
-2015,Diciembre,Málaga,No residentes en España,213659.0,32406.0,6.59,2015-12-01
+2015,Enero,Málaga,Extranjeros,27743.0,27743.0,1.0,2015-01-01
+2015,Febrero,Málaga,Extranjeros,33856.0,33856.0,1.0,2015-02-01
+2015,Marzo,Málaga,Extranjeros,43031.0,43031.0,1.0,2015-03-01
+2015,Abril,Málaga,Extranjeros,64092.0,64092.0,1.0,2015-04-01
+2015,Mayo,Málaga,Extranjeros,77526.0,77526.0,1.0,2015-05-01
+2015,Junio,Málaga,Extranjeros,69542.0,69542.0,1.0,2015-06-01
+2015,Julio,Málaga,Extranjeros,80506.0,80506.0,1.0,2015-07-01
+2015,Agosto,Málaga,Extranjeros,84124.0,84124.0,1.0,2015-08-01
+2015,Septiembre,Málaga,Extranjeros,74914.0,74914.0,1.0,2015-09-01
+2015,Octubre,Málaga,Extranjeros,75105.0,75105.0,1.0,2015-10-01
+2015,Noviembre,Málaga,Extranjeros,38828.0,38828.0,1.0,2015-11-01
+2015,Diciembre,Málaga,Extranjeros,32406.0,32406.0,1.0,2015-12-01
 2015,Enero,Málaga,Unión Europea (sin España),153607.0,20548.0,7.48,2015-01-01
 2015,Febrero,Málaga,Unión Europea (sin España),195837.0,27303.0,7.17,2015-02-01
 2015,Marzo,Málaga,Unión Europea (sin España),256000.0,35363.0,7.24,2015-03-01
@@ -1763,18 +1763,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2015,Octubre,Sevilla,España,26633.0,10814.0,2.46,2015-10-01
 2015,Noviembre,Sevilla,España,24492.0,9163.0,2.67,2015-11-01
 2015,Diciembre,Sevilla,España,29881.0,11438.0,2.61,2015-12-01
-2015,Enero,Sevilla,No residentes en España,19703.0,6049.0,3.26,2015-01-01
-2015,Febrero,Sevilla,No residentes en España,26502.0,8270.0,3.2,2015-02-01
-2015,Marzo,Sevilla,No residentes en España,24090.0,7318.0,3.29,2015-03-01
-2015,Abril,Sevilla,No residentes en España,38110.0,12194.0,3.13,2015-04-01
-2015,Mayo,Sevilla,No residentes en España,40445.0,14126.0,2.86,2015-05-01
-2015,Junio,Sevilla,No residentes en España,32035.0,10845.0,2.95,2015-06-01
-2015,Julio,Sevilla,No residentes en España,31805.0,10269.0,3.1,2015-07-01
-2015,Agosto,Sevilla,No residentes en España,35447.0,12775.0,2.77,2015-08-01
-2015,Septiembre,Sevilla,No residentes en España,36932.0,13246.0,2.79,2015-09-01
-2015,Octubre,Sevilla,No residentes en España,41383.0,13853.0,2.99,2015-10-01
-2015,Noviembre,Sevilla,No residentes en España,23742.0,7170.0,3.31,2015-11-01
-2015,Diciembre,Sevilla,No residentes en España,22967.0,7061.0,3.25,2015-12-01
+2015,Enero,Sevilla,Extranjeros,6049.0,6049.0,1.0,2015-01-01
+2015,Febrero,Sevilla,Extranjeros,8270.0,8270.0,1.0,2015-02-01
+2015,Marzo,Sevilla,Extranjeros,7318.0,7318.0,1.0,2015-03-01
+2015,Abril,Sevilla,Extranjeros,12194.0,12194.0,1.0,2015-04-01
+2015,Mayo,Sevilla,Extranjeros,14126.0,14126.0,1.0,2015-05-01
+2015,Junio,Sevilla,Extranjeros,10845.0,10845.0,1.0,2015-06-01
+2015,Julio,Sevilla,Extranjeros,10269.0,10269.0,1.0,2015-07-01
+2015,Agosto,Sevilla,Extranjeros,12775.0,12775.0,1.0,2015-08-01
+2015,Septiembre,Sevilla,Extranjeros,13246.0,13246.0,1.0,2015-09-01
+2015,Octubre,Sevilla,Extranjeros,13853.0,13853.0,1.0,2015-10-01
+2015,Noviembre,Sevilla,Extranjeros,7170.0,7170.0,1.0,2015-11-01
+2015,Diciembre,Sevilla,Extranjeros,7061.0,7061.0,1.0,2015-12-01
 2015,Enero,Sevilla,Unión Europea (sin España),11234.0,3235.0,3.47,2015-01-01
 2015,Febrero,Sevilla,Unión Europea (sin España),17701.0,5089.0,3.48,2015-02-01
 2015,Marzo,Sevilla,Unión Europea (sin España),16823.0,4910.0,3.43,2015-03-01
@@ -2111,18 +2111,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2015,Octubre,Valencia,España,29224.0,8732.0,3.35,2015-10-01
 2015,Noviembre,Valencia,España,22065.0,6935.0,3.18,2015-11-01
 2015,Diciembre,Valencia,España,23325.0,7207.0,3.24,2015-12-01
-2015,Enero,Valencia,No residentes en España,20909.0,3797.0,5.51,2015-01-01
-2015,Febrero,Valencia,No residentes en España,31689.0,5587.0,5.67,2015-02-01
-2015,Marzo,Valencia,No residentes en España,32655.0,5942.0,5.5,2015-03-01
-2015,Abril,Valencia,No residentes en España,40411.0,7615.0,5.31,2015-04-01
-2015,Mayo,Valencia,No residentes en España,44229.0,10199.0,4.34,2015-05-01
-2015,Junio,Valencia,No residentes en España,56624.0,9612.0,5.89,2015-06-01
-2015,Julio,Valencia,No residentes en España,94735.0,13424.0,7.06,2015-07-01
-2015,Agosto,Valencia,No residentes en España,118476.0,16432.0,7.21,2015-08-01
-2015,Septiembre,Valencia,No residentes en España,56310.0,10960.0,5.14,2015-09-01
-2015,Octubre,Valencia,No residentes en España,46145.0,9767.0,4.72,2015-10-01
-2015,Noviembre,Valencia,No residentes en España,28863.0,6817.0,4.23,2015-11-01
-2015,Diciembre,Valencia,No residentes en España,21164.0,4997.0,4.24,2015-12-01
+2015,Enero,Valencia,Extranjeros,3797.0,3797.0,1.0,2015-01-01
+2015,Febrero,Valencia,Extranjeros,5587.0,5587.0,1.0,2015-02-01
+2015,Marzo,Valencia,Extranjeros,5942.0,5942.0,1.0,2015-03-01
+2015,Abril,Valencia,Extranjeros,7615.0,7615.0,1.0,2015-04-01
+2015,Mayo,Valencia,Extranjeros,10199.0,10199.0,1.0,2015-05-01
+2015,Junio,Valencia,Extranjeros,9612.0,9612.0,1.0,2015-06-01
+2015,Julio,Valencia,Extranjeros,13424.0,13424.0,1.0,2015-07-01
+2015,Agosto,Valencia,Extranjeros,16432.0,16432.0,1.0,2015-08-01
+2015,Septiembre,Valencia,Extranjeros,10960.0,10960.0,1.0,2015-09-01
+2015,Octubre,Valencia,Extranjeros,9767.0,9767.0,1.0,2015-10-01
+2015,Noviembre,Valencia,Extranjeros,6817.0,6817.0,1.0,2015-11-01
+2015,Diciembre,Valencia,Extranjeros,4997.0,4997.0,1.0,2015-12-01
 2015,Enero,Valencia,Unión Europea (sin España),14790.0,2655.0,5.57,2015-01-01
 2015,Febrero,Valencia,Unión Europea (sin España),23453.0,4044.0,5.8,2015-02-01
 2015,Marzo,Valencia,Unión Europea (sin España),24958.0,4425.0,5.64,2015-03-01
@@ -2459,18 +2459,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2016,Octubre,Islas Baleares,España,44474.0,9095.0,4.89,2016-10-01
 2016,Noviembre,Islas Baleares,España,6533.0,1289.0,5.07,2016-11-01
 2016,Diciembre,Islas Baleares,España,7009.0,1627.0,4.31,2016-12-01
-2016,Enero,Islas Baleares,No residentes en España,18818.0,1624.0,11.59,2016-01-01
-2016,Febrero,Islas Baleares,No residentes en España,29463.0,4001.0,7.36,2016-02-01
-2016,Marzo,Islas Baleares,No residentes en España,82484.0,13983.0,5.9,2016-03-01
-2016,Abril,Islas Baleares,No residentes en España,193816.0,31791.0,6.1,2016-04-01
-2016,Mayo,Islas Baleares,No residentes en España,1038224.0,170383.0,6.09,2016-05-01
-2016,Junio,Islas Baleares,No residentes en España,1459748.0,215717.0,6.77,2016-06-01
-2016,Julio,Islas Baleares,No residentes en España,1889663.0,252718.0,7.48,2016-07-01
-2016,Agosto,Islas Baleares,No residentes en España,1986326.0,269877.0,7.36,2016-08-01
-2016,Septiembre,Islas Baleares,No residentes en España,1522796.0,211435.0,7.2,2016-09-01
-2016,Octubre,Islas Baleares,No residentes en España,792757.0,103079.0,7.69,2016-10-01
-2016,Noviembre,Islas Baleares,No residentes en España,32813.0,3482.0,9.42,2016-11-01
-2016,Diciembre,Islas Baleares,No residentes en España,28537.0,3439.0,8.3,2016-12-01
+2016,Enero,Islas Baleares,Extranjeros,1624.0,1624.0,1.0,2016-01-01
+2016,Febrero,Islas Baleares,Extranjeros,4001.0,4001.0,1.0,2016-02-01
+2016,Marzo,Islas Baleares,Extranjeros,13983.0,13983.0,1.0,2016-03-01
+2016,Abril,Islas Baleares,Extranjeros,31791.0,31791.0,1.0,2016-04-01
+2016,Mayo,Islas Baleares,Extranjeros,170383.0,170383.0,1.0,2016-05-01
+2016,Junio,Islas Baleares,Extranjeros,215717.0,215717.0,1.0,2016-06-01
+2016,Julio,Islas Baleares,Extranjeros,252718.0,252718.0,1.0,2016-07-01
+2016,Agosto,Islas Baleares,Extranjeros,269877.0,269877.0,1.0,2016-08-01
+2016,Septiembre,Islas Baleares,Extranjeros,211435.0,211435.0,1.0,2016-09-01
+2016,Octubre,Islas Baleares,Extranjeros,103079.0,103079.0,1.0,2016-10-01
+2016,Noviembre,Islas Baleares,Extranjeros,3482.0,3482.0,1.0,2016-11-01
+2016,Diciembre,Islas Baleares,Extranjeros,3439.0,3439.0,1.0,2016-12-01
 2016,Enero,Islas Baleares,Unión Europea (sin España),16580.0,1341.0,12.36,2016-01-01
 2016,Febrero,Islas Baleares,Unión Europea (sin España),26993.0,3657.0,7.38,2016-02-01
 2016,Marzo,Islas Baleares,Unión Europea (sin España),76697.0,12730.0,6.02,2016-03-01
@@ -2807,18 +2807,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2016,Octubre,Barcelona,España,69569.0,8043.0,8.65,2016-10-01
 2016,Noviembre,Barcelona,España,61572.0,6009.0,10.25,2016-11-01
 2016,Diciembre,Barcelona,España,66505.0,7364.0,9.03,2016-12-01
-2016,Enero,Barcelona,No residentes en España,61076.0,11740.0,5.2,2016-01-01
-2016,Febrero,Barcelona,No residentes en España,68566.0,13730.0,4.99,2016-02-01
-2016,Marzo,Barcelona,No residentes en España,73890.0,16116.0,4.58,2016-03-01
-2016,Abril,Barcelona,No residentes en España,92377.0,21467.0,4.3,2016-04-01
-2016,Mayo,Barcelona,No residentes en España,95933.0,22425.0,4.28,2016-05-01
-2016,Junio,Barcelona,No residentes en España,105691.0,25007.0,4.23,2016-06-01
-2016,Julio,Barcelona,No residentes en España,115814.0,26751.0,4.33,2016-07-01
-2016,Agosto,Barcelona,No residentes en España,127471.0,26030.0,4.9,2016-08-01
-2016,Septiembre,Barcelona,No residentes en España,97927.0,23149.0,4.23,2016-09-01
-2016,Octubre,Barcelona,No residentes en España,107789.0,24843.0,4.34,2016-10-01
-2016,Noviembre,Barcelona,No residentes en España,74053.0,14360.0,5.16,2016-11-01
-2016,Diciembre,Barcelona,No residentes en España,72860.0,14661.0,4.97,2016-12-01
+2016,Enero,Barcelona,Extranjeros,11740.0,11740.0,1.0,2016-01-01
+2016,Febrero,Barcelona,Extranjeros,13730.0,13730.0,1.0,2016-02-01
+2016,Marzo,Barcelona,Extranjeros,16116.0,16116.0,1.0,2016-03-01
+2016,Abril,Barcelona,Extranjeros,21467.0,21467.0,1.0,2016-04-01
+2016,Mayo,Barcelona,Extranjeros,22425.0,22425.0,1.0,2016-05-01
+2016,Junio,Barcelona,Extranjeros,25007.0,25007.0,1.0,2016-06-01
+2016,Julio,Barcelona,Extranjeros,26751.0,26751.0,1.0,2016-07-01
+2016,Agosto,Barcelona,Extranjeros,26030.0,26030.0,1.0,2016-08-01
+2016,Septiembre,Barcelona,Extranjeros,23149.0,23149.0,1.0,2016-09-01
+2016,Octubre,Barcelona,Extranjeros,24843.0,24843.0,1.0,2016-10-01
+2016,Noviembre,Barcelona,Extranjeros,14360.0,14360.0,1.0,2016-11-01
+2016,Diciembre,Barcelona,Extranjeros,14661.0,14661.0,1.0,2016-12-01
 2016,Enero,Barcelona,Unión Europea (sin España),26475.0,6060.0,4.37,2016-01-01
 2016,Febrero,Barcelona,Unión Europea (sin España),35627.0,8687.0,4.1,2016-02-01
 2016,Marzo,Barcelona,Unión Europea (sin España),40583.0,10584.0,3.83,2016-03-01
@@ -3155,18 +3155,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2016,Octubre,Girona,España,31555.0,11031.0,2.86,2016-10-01
 2016,Noviembre,Girona,España,7431.0,3534.0,2.1,2016-11-01
 2016,Diciembre,Girona,España,20764.0,8754.0,2.37,2016-12-01
-2016,Enero,Girona,No residentes en España,6137.0,787.0,7.8,2016-01-01
-2016,Febrero,Girona,No residentes en España,12340.0,1832.0,6.74,2016-02-01
-2016,Marzo,Girona,No residentes en España,11020.0,2311.0,4.77,2016-03-01
-2016,Abril,Girona,No residentes en España,36633.0,7497.0,4.89,2016-04-01
-2016,Mayo,Girona,No residentes en España,79813.0,14453.0,5.52,2016-05-01
-2016,Junio,Girona,No residentes en España,140786.0,18356.0,7.67,2016-06-01
-2016,Julio,Girona,No residentes en España,457718.0,63265.0,7.23,2016-07-01
-2016,Agosto,Girona,No residentes en España,612872.0,63646.0,9.63,2016-08-01
-2016,Septiembre,Girona,No residentes en España,203002.0,22337.0,9.09,2016-09-01
-2016,Octubre,Girona,No residentes en España,57062.0,10384.0,5.5,2016-10-01
-2016,Noviembre,Girona,No residentes en España,4438.0,1130.0,3.93,2016-11-01
-2016,Diciembre,Girona,No residentes en España,6565.0,1890.0,3.47,2016-12-01
+2016,Enero,Girona,Extranjeros,787.0,787.0,1.0,2016-01-01
+2016,Febrero,Girona,Extranjeros,1832.0,1832.0,1.0,2016-02-01
+2016,Marzo,Girona,Extranjeros,2311.0,2311.0,1.0,2016-03-01
+2016,Abril,Girona,Extranjeros,7497.0,7497.0,1.0,2016-04-01
+2016,Mayo,Girona,Extranjeros,14453.0,14453.0,1.0,2016-05-01
+2016,Junio,Girona,Extranjeros,18356.0,18356.0,1.0,2016-06-01
+2016,Julio,Girona,Extranjeros,63265.0,63265.0,1.0,2016-07-01
+2016,Agosto,Girona,Extranjeros,63646.0,63646.0,1.0,2016-08-01
+2016,Septiembre,Girona,Extranjeros,22337.0,22337.0,1.0,2016-09-01
+2016,Octubre,Girona,Extranjeros,10384.0,10384.0,1.0,2016-10-01
+2016,Noviembre,Girona,Extranjeros,1130.0,1130.0,1.0,2016-11-01
+2016,Diciembre,Girona,Extranjeros,1890.0,1890.0,1.0,2016-12-01
 2016,Enero,Girona,Unión Europea (sin España),5034.0,645.0,7.8,2016-01-01
 2016,Febrero,Girona,Unión Europea (sin España),11366.0,1709.0,6.65,2016-02-01
 2016,Marzo,Girona,Unión Europea (sin España),8898.0,1858.0,4.79,2016-03-01
@@ -3503,18 +3503,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2016,Octubre,Madrid,España,75329.0,22667.0,3.32,2016-10-01
 2016,Noviembre,Madrid,España,67899.0,21367.0,3.18,2016-11-01
 2016,Diciembre,Madrid,España,84297.0,26760.0,3.15,2016-12-01
-2016,Enero,Madrid,No residentes en España,60347.0,12617.0,4.78,2016-01-01
-2016,Febrero,Madrid,No residentes en España,67069.0,14917.0,4.5,2016-02-01
-2016,Marzo,Madrid,No residentes en España,80968.0,20695.0,3.91,2016-03-01
-2016,Abril,Madrid,No residentes en España,84172.0,21052.0,4.0,2016-04-01
-2016,Mayo,Madrid,No residentes en España,94395.0,25484.0,3.7,2016-05-01
-2016,Junio,Madrid,No residentes en España,79902.0,22612.0,3.53,2016-06-01
-2016,Julio,Madrid,No residentes en España,83799.0,21836.0,3.84,2016-07-01
-2016,Agosto,Madrid,No residentes en España,75012.0,18976.0,3.95,2016-08-01
-2016,Septiembre,Madrid,No residentes en España,82365.0,22585.0,3.65,2016-09-01
-2016,Octubre,Madrid,No residentes en España,90836.0,24549.0,3.7,2016-10-01
-2016,Noviembre,Madrid,No residentes en España,74845.0,17053.0,4.39,2016-11-01
-2016,Diciembre,Madrid,No residentes en España,64159.0,14386.0,4.46,2016-12-01
+2016,Enero,Madrid,Extranjeros,12617.0,12617.0,1.0,2016-01-01
+2016,Febrero,Madrid,Extranjeros,14917.0,14917.0,1.0,2016-02-01
+2016,Marzo,Madrid,Extranjeros,20695.0,20695.0,1.0,2016-03-01
+2016,Abril,Madrid,Extranjeros,21052.0,21052.0,1.0,2016-04-01
+2016,Mayo,Madrid,Extranjeros,25484.0,25484.0,1.0,2016-05-01
+2016,Junio,Madrid,Extranjeros,22612.0,22612.0,1.0,2016-06-01
+2016,Julio,Madrid,Extranjeros,21836.0,21836.0,1.0,2016-07-01
+2016,Agosto,Madrid,Extranjeros,18976.0,18976.0,1.0,2016-08-01
+2016,Septiembre,Madrid,Extranjeros,22585.0,22585.0,1.0,2016-09-01
+2016,Octubre,Madrid,Extranjeros,24549.0,24549.0,1.0,2016-10-01
+2016,Noviembre,Madrid,Extranjeros,17053.0,17053.0,1.0,2016-11-01
+2016,Diciembre,Madrid,Extranjeros,14386.0,14386.0,1.0,2016-12-01
 2016,Enero,Madrid,Unión Europea (sin España),24676.0,5430.0,4.54,2016-01-01
 2016,Febrero,Madrid,Unión Europea (sin España),27913.0,7167.0,3.89,2016-02-01
 2016,Marzo,Madrid,Unión Europea (sin España),37159.0,10820.0,3.43,2016-03-01
@@ -3851,18 +3851,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2016,Octubre,Málaga,España,48843.0,15689.0,3.11,2016-10-01
 2016,Noviembre,Málaga,España,41839.0,13469.0,3.11,2016-11-01
 2016,Diciembre,Málaga,España,69372.0,24351.0,2.85,2016-12-01
-2016,Enero,Málaga,No residentes en España,244540.0,37863.0,6.46,2016-01-01
-2016,Febrero,Málaga,No residentes en España,325328.0,45641.0,7.13,2016-02-01
-2016,Marzo,Málaga,No residentes en España,355553.0,51882.0,6.85,2016-03-01
-2016,Abril,Málaga,No residentes en España,443751.0,74925.0,5.92,2016-04-01
-2016,Mayo,Málaga,No residentes en España,471103.0,80113.0,5.88,2016-05-01
-2016,Junio,Málaga,No residentes en España,535511.0,82270.0,6.51,2016-06-01
-2016,Julio,Málaga,No residentes en España,590474.0,86570.0,6.82,2016-07-01
-2016,Agosto,Málaga,No residentes en España,578724.0,78916.0,7.33,2016-08-01
-2016,Septiembre,Málaga,No residentes en España,496022.0,80095.0,6.19,2016-09-01
-2016,Octubre,Málaga,No residentes en España,527812.0,84020.0,6.28,2016-10-01
-2016,Noviembre,Málaga,No residentes en España,312872.0,47159.0,6.63,2016-11-01
-2016,Diciembre,Málaga,No residentes en España,248277.0,42825.0,5.8,2016-12-01
+2016,Enero,Málaga,Extranjeros,37863.0,37863.0,1.0,2016-01-01
+2016,Febrero,Málaga,Extranjeros,45641.0,45641.0,1.0,2016-02-01
+2016,Marzo,Málaga,Extranjeros,51882.0,51882.0,1.0,2016-03-01
+2016,Abril,Málaga,Extranjeros,74925.0,74925.0,1.0,2016-04-01
+2016,Mayo,Málaga,Extranjeros,80113.0,80113.0,1.0,2016-05-01
+2016,Junio,Málaga,Extranjeros,82270.0,82270.0,1.0,2016-06-01
+2016,Julio,Málaga,Extranjeros,86570.0,86570.0,1.0,2016-07-01
+2016,Agosto,Málaga,Extranjeros,78916.0,78916.0,1.0,2016-08-01
+2016,Septiembre,Málaga,Extranjeros,80095.0,80095.0,1.0,2016-09-01
+2016,Octubre,Málaga,Extranjeros,84020.0,84020.0,1.0,2016-10-01
+2016,Noviembre,Málaga,Extranjeros,47159.0,47159.0,1.0,2016-11-01
+2016,Diciembre,Málaga,Extranjeros,42825.0,42825.0,1.0,2016-12-01
 2016,Enero,Málaga,Unión Europea (sin España),184000.0,25946.0,7.09,2016-01-01
 2016,Febrero,Málaga,Unión Europea (sin España),249259.0,33582.0,7.42,2016-02-01
 2016,Marzo,Málaga,Unión Europea (sin España),280998.0,41647.0,6.75,2016-03-01
@@ -4199,18 +4199,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2016,Octubre,Sevilla,España,35815.0,14853.0,2.41,2016-10-01
 2016,Noviembre,Sevilla,España,33666.0,14802.0,2.27,2016-11-01
 2016,Diciembre,Sevilla,España,36155.0,15161.0,2.38,2016-12-01
-2016,Enero,Sevilla,No residentes en España,21599.0,7269.0,2.97,2016-01-01
-2016,Febrero,Sevilla,No residentes en España,22796.0,8406.0,2.71,2016-02-01
-2016,Marzo,Sevilla,No residentes en España,27891.0,9744.0,2.86,2016-03-01
-2016,Abril,Sevilla,No residentes en España,41562.0,15153.0,2.74,2016-04-01
-2016,Mayo,Sevilla,No residentes en España,38867.0,14448.0,2.69,2016-05-01
-2016,Junio,Sevilla,No residentes en España,35765.0,14033.0,2.55,2016-06-01
-2016,Julio,Sevilla,No residentes en España,37548.0,14593.0,2.57,2016-07-01
-2016,Agosto,Sevilla,No residentes en España,44366.0,16727.0,2.65,2016-08-01
-2016,Septiembre,Sevilla,No residentes en España,43628.0,16462.0,2.65,2016-09-01
-2016,Octubre,Sevilla,No residentes en España,50661.0,18493.0,2.74,2016-10-01
-2016,Noviembre,Sevilla,No residentes en España,34214.0,13380.0,2.56,2016-11-01
-2016,Diciembre,Sevilla,No residentes en España,32194.0,11394.0,2.83,2016-12-01
+2016,Enero,Sevilla,Extranjeros,7269.0,7269.0,1.0,2016-01-01
+2016,Febrero,Sevilla,Extranjeros,8406.0,8406.0,1.0,2016-02-01
+2016,Marzo,Sevilla,Extranjeros,9744.0,9744.0,1.0,2016-03-01
+2016,Abril,Sevilla,Extranjeros,15153.0,15153.0,1.0,2016-04-01
+2016,Mayo,Sevilla,Extranjeros,14448.0,14448.0,1.0,2016-05-01
+2016,Junio,Sevilla,Extranjeros,14033.0,14033.0,1.0,2016-06-01
+2016,Julio,Sevilla,Extranjeros,14593.0,14593.0,1.0,2016-07-01
+2016,Agosto,Sevilla,Extranjeros,16727.0,16727.0,1.0,2016-08-01
+2016,Septiembre,Sevilla,Extranjeros,16462.0,16462.0,1.0,2016-09-01
+2016,Octubre,Sevilla,Extranjeros,18493.0,18493.0,1.0,2016-10-01
+2016,Noviembre,Sevilla,Extranjeros,13380.0,13380.0,1.0,2016-11-01
+2016,Diciembre,Sevilla,Extranjeros,11394.0,11394.0,1.0,2016-12-01
 2016,Enero,Sevilla,Unión Europea (sin España),11859.0,3425.0,3.46,2016-01-01
 2016,Febrero,Sevilla,Unión Europea (sin España),14034.0,4406.0,3.19,2016-02-01
 2016,Marzo,Sevilla,Unión Europea (sin España),17159.0,5759.0,2.98,2016-03-01
@@ -4547,18 +4547,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2016,Octubre,Valencia,España,28593.0,8255.0,3.46,2016-10-01
 2016,Noviembre,Valencia,España,22719.0,7172.0,3.17,2016-11-01
 2016,Diciembre,Valencia,España,31303.0,9967.0,3.14,2016-12-01
-2016,Enero,Valencia,No residentes en España,23211.0,4795.0,4.84,2016-01-01
-2016,Febrero,Valencia,No residentes en España,28619.0,5212.0,5.49,2016-02-01
-2016,Marzo,Valencia,No residentes en España,35180.0,7620.0,4.62,2016-03-01
-2016,Abril,Valencia,No residentes en España,38375.0,9034.0,4.25,2016-04-01
-2016,Mayo,Valencia,No residentes en España,45456.0,9736.0,4.67,2016-05-01
-2016,Junio,Valencia,No residentes en España,64924.0,11406.0,5.69,2016-06-01
-2016,Julio,Valencia,No residentes en España,77731.0,13096.0,5.94,2016-07-01
-2016,Agosto,Valencia,No residentes en España,109337.0,16907.0,6.47,2016-08-01
-2016,Septiembre,Valencia,No residentes en España,57488.0,11970.0,4.8,2016-09-01
-2016,Octubre,Valencia,No residentes en España,59608.0,11421.0,5.22,2016-10-01
-2016,Noviembre,Valencia,No residentes en España,38322.0,8223.0,4.66,2016-11-01
-2016,Diciembre,Valencia,No residentes en España,37624.0,8387.0,4.49,2016-12-01
+2016,Enero,Valencia,Extranjeros,4795.0,4795.0,1.0,2016-01-01
+2016,Febrero,Valencia,Extranjeros,5212.0,5212.0,1.0,2016-02-01
+2016,Marzo,Valencia,Extranjeros,7620.0,7620.0,1.0,2016-03-01
+2016,Abril,Valencia,Extranjeros,9034.0,9034.0,1.0,2016-04-01
+2016,Mayo,Valencia,Extranjeros,9736.0,9736.0,1.0,2016-05-01
+2016,Junio,Valencia,Extranjeros,11406.0,11406.0,1.0,2016-06-01
+2016,Julio,Valencia,Extranjeros,13096.0,13096.0,1.0,2016-07-01
+2016,Agosto,Valencia,Extranjeros,16907.0,16907.0,1.0,2016-08-01
+2016,Septiembre,Valencia,Extranjeros,11970.0,11970.0,1.0,2016-09-01
+2016,Octubre,Valencia,Extranjeros,11421.0,11421.0,1.0,2016-10-01
+2016,Noviembre,Valencia,Extranjeros,8223.0,8223.0,1.0,2016-11-01
+2016,Diciembre,Valencia,Extranjeros,8387.0,8387.0,1.0,2016-12-01
 2016,Enero,Valencia,Unión Europea (sin España),17551.0,3305.0,5.31,2016-01-01
 2016,Febrero,Valencia,Unión Europea (sin España),21916.0,3914.0,5.6,2016-02-01
 2016,Marzo,Valencia,Unión Europea (sin España),27093.0,5653.0,4.79,2016-03-01
@@ -4895,18 +4895,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2017,Octubre,Islas Baleares,España,65259.0,15040.0,4.34,2017-10-01
 2017,Noviembre,Islas Baleares,España,5312.0,1068.0,4.97,2017-11-01
 2017,Diciembre,Islas Baleares,España,6309.0,1691.0,3.73,2017-12-01
-2017,Enero,Islas Baleares,No residentes en España,23665.0,2938.0,8.05,2017-01-01
-2017,Febrero,Islas Baleares,No residentes en España,32876.0,4503.0,7.3,2017-02-01
-2017,Marzo,Islas Baleares,No residentes en España,51599.0,7582.0,6.81,2017-03-01
-2017,Abril,Islas Baleares,No residentes en España,277269.0,48130.0,5.76,2017-04-01
-2017,Mayo,Islas Baleares,No residentes en España,1068187.0,184242.0,5.8,2017-05-01
-2017,Junio,Islas Baleares,No residentes en España,1537043.0,243153.0,6.32,2017-06-01
-2017,Julio,Islas Baleares,No residentes en España,1833426.0,269154.0,6.81,2017-07-01
-2017,Agosto,Islas Baleares,No residentes en España,1862529.0,247940.0,7.51,2017-08-01
-2017,Septiembre,Islas Baleares,No residentes en España,1466676.0,217087.0,6.76,2017-09-01
-2017,Octubre,Islas Baleares,No residentes en España,826421.0,113596.0,7.28,2017-10-01
-2017,Noviembre,Islas Baleares,No residentes en España,34551.0,3935.0,8.78,2017-11-01
-2017,Diciembre,Islas Baleares,No residentes en España,21457.0,2617.0,8.2,2017-12-01
+2017,Enero,Islas Baleares,Extranjeros,2938.0,2938.0,1.0,2017-01-01
+2017,Febrero,Islas Baleares,Extranjeros,4503.0,4503.0,1.0,2017-02-01
+2017,Marzo,Islas Baleares,Extranjeros,7582.0,7582.0,1.0,2017-03-01
+2017,Abril,Islas Baleares,Extranjeros,48130.0,48130.0,1.0,2017-04-01
+2017,Mayo,Islas Baleares,Extranjeros,184242.0,184242.0,1.0,2017-05-01
+2017,Junio,Islas Baleares,Extranjeros,243153.0,243153.0,1.0,2017-06-01
+2017,Julio,Islas Baleares,Extranjeros,269154.0,269154.0,1.0,2017-07-01
+2017,Agosto,Islas Baleares,Extranjeros,247940.0,247940.0,1.0,2017-08-01
+2017,Septiembre,Islas Baleares,Extranjeros,217087.0,217087.0,1.0,2017-09-01
+2017,Octubre,Islas Baleares,Extranjeros,113596.0,113596.0,1.0,2017-10-01
+2017,Noviembre,Islas Baleares,Extranjeros,3935.0,3935.0,1.0,2017-11-01
+2017,Diciembre,Islas Baleares,Extranjeros,2617.0,2617.0,1.0,2017-12-01
 2017,Enero,Islas Baleares,Unión Europea (sin España),20052.0,2432.0,8.25,2017-01-01
 2017,Febrero,Islas Baleares,Unión Europea (sin España),28751.0,3973.0,7.24,2017-02-01
 2017,Marzo,Islas Baleares,Unión Europea (sin España),45284.0,6582.0,6.88,2017-03-01
@@ -5243,18 +5243,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2017,Octubre,Barcelona,España,77234.0,8691.0,8.89,2017-10-01
 2017,Noviembre,Barcelona,España,72259.0,9794.0,7.38,2017-11-01
 2017,Diciembre,Barcelona,España,80749.0,8296.0,9.73,2017-12-01
-2017,Enero,Barcelona,No residentes en España,61405.0,10383.0,5.91,2017-01-01
-2017,Febrero,Barcelona,No residentes en España,64228.0,11688.0,5.5,2017-02-01
-2017,Marzo,Barcelona,No residentes en España,73234.0,14736.0,4.97,2017-03-01
-2017,Abril,Barcelona,No residentes en España,112477.0,24562.0,4.58,2017-04-01
-2017,Mayo,Barcelona,No residentes en España,115080.0,25230.0,4.56,2017-05-01
-2017,Junio,Barcelona,No residentes en España,120513.0,25440.0,4.74,2017-06-01
-2017,Julio,Barcelona,No residentes en España,130752.0,29925.0,4.37,2017-07-01
-2017,Agosto,Barcelona,No residentes en España,128155.0,26681.0,4.8,2017-08-01
-2017,Septiembre,Barcelona,No residentes en España,117367.0,24887.0,4.72,2017-09-01
-2017,Octubre,Barcelona,No residentes en España,99631.0,21362.0,4.66,2017-10-01
-2017,Noviembre,Barcelona,No residentes en España,71912.0,13768.0,5.22,2017-11-01
-2017,Diciembre,Barcelona,No residentes en España,65852.0,11802.0,5.58,2017-12-01
+2017,Enero,Barcelona,Extranjeros,10383.0,10383.0,1.0,2017-01-01
+2017,Febrero,Barcelona,Extranjeros,11688.0,11688.0,1.0,2017-02-01
+2017,Marzo,Barcelona,Extranjeros,14736.0,14736.0,1.0,2017-03-01
+2017,Abril,Barcelona,Extranjeros,24562.0,24562.0,1.0,2017-04-01
+2017,Mayo,Barcelona,Extranjeros,25230.0,25230.0,1.0,2017-05-01
+2017,Junio,Barcelona,Extranjeros,25440.0,25440.0,1.0,2017-06-01
+2017,Julio,Barcelona,Extranjeros,29925.0,29925.0,1.0,2017-07-01
+2017,Agosto,Barcelona,Extranjeros,26681.0,26681.0,1.0,2017-08-01
+2017,Septiembre,Barcelona,Extranjeros,24887.0,24887.0,1.0,2017-09-01
+2017,Octubre,Barcelona,Extranjeros,21362.0,21362.0,1.0,2017-10-01
+2017,Noviembre,Barcelona,Extranjeros,13768.0,13768.0,1.0,2017-11-01
+2017,Diciembre,Barcelona,Extranjeros,11802.0,11802.0,1.0,2017-12-01
 2017,Enero,Barcelona,Unión Europea (sin España),36806.0,5773.0,6.38,2017-01-01
 2017,Febrero,Barcelona,Unión Europea (sin España),43266.0,7702.0,5.62,2017-02-01
 2017,Marzo,Barcelona,Unión Europea (sin España),46181.0,9141.0,5.05,2017-03-01
@@ -5591,18 +5591,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2017,Octubre,Girona,España,27598.0,10308.0,2.68,2017-10-01
 2017,Noviembre,Girona,España,8968.0,4219.0,2.13,2017-11-01
 2017,Diciembre,Girona,España,25431.0,8769.0,2.9,2017-12-01
-2017,Enero,Girona,No residentes en España,5449.0,665.0,8.19,2017-01-01
-2017,Febrero,Girona,No residentes en España,10460.0,1824.0,5.73,2017-02-01
-2017,Marzo,Girona,No residentes en España,5998.0,1129.0,5.31,2017-03-01
-2017,Abril,Girona,No residentes en España,40407.0,9040.0,4.47,2017-04-01
-2017,Mayo,Girona,No residentes en España,81401.0,14807.0,5.5,2017-05-01
-2017,Junio,Girona,No residentes en España,170459.0,25695.0,6.63,2017-06-01
-2017,Julio,Girona,No residentes en España,473256.0,62280.0,7.6,2017-07-01
-2017,Agosto,Girona,No residentes en España,647532.0,78760.0,8.22,2017-08-01
-2017,Septiembre,Girona,No residentes en España,207753.0,27872.0,7.45,2017-09-01
-2017,Octubre,Girona,No residentes en España,42110.0,7768.0,5.42,2017-10-01
-2017,Noviembre,Girona,No residentes en España,4403.0,796.0,5.53,2017-11-01
-2017,Diciembre,Girona,No residentes en España,6859.0,1585.0,4.33,2017-12-01
+2017,Enero,Girona,Extranjeros,665.0,665.0,1.0,2017-01-01
+2017,Febrero,Girona,Extranjeros,1824.0,1824.0,1.0,2017-02-01
+2017,Marzo,Girona,Extranjeros,1129.0,1129.0,1.0,2017-03-01
+2017,Abril,Girona,Extranjeros,9040.0,9040.0,1.0,2017-04-01
+2017,Mayo,Girona,Extranjeros,14807.0,14807.0,1.0,2017-05-01
+2017,Junio,Girona,Extranjeros,25695.0,25695.0,1.0,2017-06-01
+2017,Julio,Girona,Extranjeros,62280.0,62280.0,1.0,2017-07-01
+2017,Agosto,Girona,Extranjeros,78760.0,78760.0,1.0,2017-08-01
+2017,Septiembre,Girona,Extranjeros,27872.0,27872.0,1.0,2017-09-01
+2017,Octubre,Girona,Extranjeros,7768.0,7768.0,1.0,2017-10-01
+2017,Noviembre,Girona,Extranjeros,796.0,796.0,1.0,2017-11-01
+2017,Diciembre,Girona,Extranjeros,1585.0,1585.0,1.0,2017-12-01
 2017,Enero,Girona,Unión Europea (sin España),4306.0,533.0,8.08,2017-01-01
 2017,Febrero,Girona,Unión Europea (sin España),8671.0,1571.0,5.52,2017-02-01
 2017,Marzo,Girona,Unión Europea (sin España),5495.0,958.0,5.74,2017-03-01
@@ -5939,18 +5939,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2017,Octubre,Madrid,España,65661.0,18788.0,3.49,2017-10-01
 2017,Noviembre,Madrid,España,66898.0,21002.0,3.19,2017-11-01
 2017,Diciembre,Madrid,España,79073.0,25242.0,3.13,2017-12-01
-2017,Enero,Madrid,No residentes en España,69525.0,16333.0,4.26,2017-01-01
-2017,Febrero,Madrid,No residentes en España,72987.0,19171.0,3.81,2017-02-01
-2017,Marzo,Madrid,No residentes en España,83392.0,22476.0,3.71,2017-03-01
-2017,Abril,Madrid,No residentes en España,96150.0,27406.0,3.51,2017-04-01
-2017,Mayo,Madrid,No residentes en España,96216.0,28168.0,3.42,2017-05-01
-2017,Junio,Madrid,No residentes en España,93885.0,28463.0,3.3,2017-06-01
-2017,Julio,Madrid,No residentes en España,91515.0,24639.0,3.71,2017-07-01
-2017,Agosto,Madrid,No residentes en España,89818.0,25703.0,3.49,2017-08-01
-2017,Septiembre,Madrid,No residentes en España,98730.0,28997.0,3.4,2017-09-01
-2017,Octubre,Madrid,No residentes en España,92314.0,26111.0,3.54,2017-10-01
-2017,Noviembre,Madrid,No residentes en España,74964.0,19264.0,3.89,2017-11-01
-2017,Diciembre,Madrid,No residentes en España,63298.0,14381.0,4.4,2017-12-01
+2017,Enero,Madrid,Extranjeros,16333.0,16333.0,1.0,2017-01-01
+2017,Febrero,Madrid,Extranjeros,19171.0,19171.0,1.0,2017-02-01
+2017,Marzo,Madrid,Extranjeros,22476.0,22476.0,1.0,2017-03-01
+2017,Abril,Madrid,Extranjeros,27406.0,27406.0,1.0,2017-04-01
+2017,Mayo,Madrid,Extranjeros,28168.0,28168.0,1.0,2017-05-01
+2017,Junio,Madrid,Extranjeros,28463.0,28463.0,1.0,2017-06-01
+2017,Julio,Madrid,Extranjeros,24639.0,24639.0,1.0,2017-07-01
+2017,Agosto,Madrid,Extranjeros,25703.0,25703.0,1.0,2017-08-01
+2017,Septiembre,Madrid,Extranjeros,28997.0,28997.0,1.0,2017-09-01
+2017,Octubre,Madrid,Extranjeros,26111.0,26111.0,1.0,2017-10-01
+2017,Noviembre,Madrid,Extranjeros,19264.0,19264.0,1.0,2017-11-01
+2017,Diciembre,Madrid,Extranjeros,14381.0,14381.0,1.0,2017-12-01
 2017,Enero,Madrid,Unión Europea (sin España),23270.0,6490.0,3.59,2017-01-01
 2017,Febrero,Madrid,Unión Europea (sin España),31193.0,9329.0,3.34,2017-02-01
 2017,Marzo,Madrid,Unión Europea (sin España),36611.0,11146.0,3.28,2017-03-01
@@ -6287,18 +6287,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2017,Octubre,Málaga,España,67151.0,23723.0,2.83,2017-10-01
 2017,Noviembre,Málaga,España,45553.0,16393.0,2.78,2017-11-01
 2017,Diciembre,Málaga,España,77573.0,28189.0,2.75,2017-12-01
-2017,Enero,Málaga,No residentes en España,292053.0,48137.0,6.07,2017-01-01
-2017,Febrero,Málaga,No residentes en España,338442.0,53162.0,6.37,2017-02-01
-2017,Marzo,Málaga,No residentes en España,389637.0,63058.0,6.18,2017-03-01
-2017,Abril,Málaga,No residentes en España,505676.0,95061.0,5.32,2017-04-01
-2017,Mayo,Málaga,No residentes en España,527292.0,95343.0,5.53,2017-05-01
-2017,Junio,Málaga,No residentes en España,573807.0,101313.0,5.66,2017-06-01
-2017,Julio,Málaga,No residentes en España,644836.0,102026.0,6.32,2017-07-01
-2017,Agosto,Málaga,No residentes en España,624218.0,93112.0,6.7,2017-08-01
-2017,Septiembre,Málaga,No residentes en España,521709.0,92591.0,5.63,2017-09-01
-2017,Octubre,Málaga,No residentes en España,539198.0,92171.0,5.85,2017-10-01
-2017,Noviembre,Málaga,No residentes en España,323650.0,50996.0,6.35,2017-11-01
-2017,Diciembre,Málaga,No residentes en España,246496.0,43371.0,5.68,2017-12-01
+2017,Enero,Málaga,Extranjeros,48137.0,48137.0,1.0,2017-01-01
+2017,Febrero,Málaga,Extranjeros,53162.0,53162.0,1.0,2017-02-01
+2017,Marzo,Málaga,Extranjeros,63058.0,63058.0,1.0,2017-03-01
+2017,Abril,Málaga,Extranjeros,95061.0,95061.0,1.0,2017-04-01
+2017,Mayo,Málaga,Extranjeros,95343.0,95343.0,1.0,2017-05-01
+2017,Junio,Málaga,Extranjeros,101313.0,101313.0,1.0,2017-06-01
+2017,Julio,Málaga,Extranjeros,102026.0,102026.0,1.0,2017-07-01
+2017,Agosto,Málaga,Extranjeros,93112.0,93112.0,1.0,2017-08-01
+2017,Septiembre,Málaga,Extranjeros,92591.0,92591.0,1.0,2017-09-01
+2017,Octubre,Málaga,Extranjeros,92171.0,92171.0,1.0,2017-10-01
+2017,Noviembre,Málaga,Extranjeros,50996.0,50996.0,1.0,2017-11-01
+2017,Diciembre,Málaga,Extranjeros,43371.0,43371.0,1.0,2017-12-01
 2017,Enero,Málaga,Unión Europea (sin España),226359.0,34417.0,6.58,2017-01-01
 2017,Febrero,Málaga,Unión Europea (sin España),255027.0,40552.0,6.29,2017-02-01
 2017,Marzo,Málaga,Unión Europea (sin España),301458.0,49734.0,6.06,2017-03-01
@@ -6635,18 +6635,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2017,Octubre,Sevilla,España,35496.0,16279.0,2.18,2017-10-01
 2017,Noviembre,Sevilla,España,34228.0,14360.0,2.38,2017-11-01
 2017,Diciembre,Sevilla,España,40832.0,17379.0,2.35,2017-12-01
-2017,Enero,Sevilla,No residentes en España,33780.0,15228.0,2.22,2017-01-01
-2017,Febrero,Sevilla,No residentes en España,38418.0,15289.0,2.51,2017-02-01
-2017,Marzo,Sevilla,No residentes en España,40336.0,13959.0,2.89,2017-03-01
-2017,Abril,Sevilla,No residentes en España,48419.0,18802.0,2.58,2017-04-01
-2017,Mayo,Sevilla,No residentes en España,50706.0,19636.0,2.58,2017-05-01
-2017,Junio,Sevilla,No residentes en España,44502.0,18040.0,2.47,2017-06-01
-2017,Julio,Sevilla,No residentes en España,48551.0,20231.0,2.4,2017-07-01
-2017,Agosto,Sevilla,No residentes en España,55302.0,22897.0,2.42,2017-08-01
-2017,Septiembre,Sevilla,No residentes en España,50013.0,21558.0,2.32,2017-09-01
-2017,Octubre,Sevilla,No residentes en España,55760.0,23395.0,2.38,2017-10-01
-2017,Noviembre,Sevilla,No residentes en España,41030.0,16382.0,2.5,2017-11-01
-2017,Diciembre,Sevilla,No residentes en España,30890.0,12791.0,2.41,2017-12-01
+2017,Enero,Sevilla,Extranjeros,15228.0,15228.0,1.0,2017-01-01
+2017,Febrero,Sevilla,Extranjeros,15289.0,15289.0,1.0,2017-02-01
+2017,Marzo,Sevilla,Extranjeros,13959.0,13959.0,1.0,2017-03-01
+2017,Abril,Sevilla,Extranjeros,18802.0,18802.0,1.0,2017-04-01
+2017,Mayo,Sevilla,Extranjeros,19636.0,19636.0,1.0,2017-05-01
+2017,Junio,Sevilla,Extranjeros,18040.0,18040.0,1.0,2017-06-01
+2017,Julio,Sevilla,Extranjeros,20231.0,20231.0,1.0,2017-07-01
+2017,Agosto,Sevilla,Extranjeros,22897.0,22897.0,1.0,2017-08-01
+2017,Septiembre,Sevilla,Extranjeros,21558.0,21558.0,1.0,2017-09-01
+2017,Octubre,Sevilla,Extranjeros,23395.0,23395.0,1.0,2017-10-01
+2017,Noviembre,Sevilla,Extranjeros,16382.0,16382.0,1.0,2017-11-01
+2017,Diciembre,Sevilla,Extranjeros,12791.0,12791.0,1.0,2017-12-01
 2017,Enero,Sevilla,Unión Europea (sin España),14219.0,4849.0,2.93,2017-01-01
 2017,Febrero,Sevilla,Unión Europea (sin España),23178.0,7033.0,3.3,2017-02-01
 2017,Marzo,Sevilla,Unión Europea (sin España),24055.0,6147.0,3.91,2017-03-01
@@ -6983,18 +6983,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2017,Octubre,Valencia,España,27006.0,7517.0,3.59,2017-10-01
 2017,Noviembre,Valencia,España,29529.0,9632.0,3.07,2017-11-01
 2017,Diciembre,Valencia,España,37175.0,10560.0,3.52,2017-12-01
-2017,Enero,Valencia,No residentes en España,25688.0,4906.0,5.24,2017-01-01
-2017,Febrero,Valencia,No residentes en España,41303.0,8956.0,4.61,2017-02-01
-2017,Marzo,Valencia,No residentes en España,47954.0,9862.0,4.86,2017-03-01
-2017,Abril,Valencia,No residentes en España,49209.0,10522.0,4.68,2017-04-01
-2017,Mayo,Valencia,No residentes en España,62161.0,13726.0,4.53,2017-05-01
-2017,Junio,Valencia,No residentes en España,71691.0,14777.0,4.85,2017-06-01
-2017,Julio,Valencia,No residentes en España,104931.0,18245.0,5.75,2017-07-01
-2017,Agosto,Valencia,No residentes en España,119208.0,19679.0,6.06,2017-08-01
-2017,Septiembre,Valencia,No residentes en España,73443.0,13801.0,5.32,2017-09-01
-2017,Octubre,Valencia,No residentes en España,62006.0,12846.0,4.83,2017-10-01
-2017,Noviembre,Valencia,No residentes en España,50758.0,12363.0,4.11,2017-11-01
-2017,Diciembre,Valencia,No residentes en España,29620.0,7568.0,3.91,2017-12-01
+2017,Enero,Valencia,Extranjeros,4906.0,4906.0,1.0,2017-01-01
+2017,Febrero,Valencia,Extranjeros,8956.0,8956.0,1.0,2017-02-01
+2017,Marzo,Valencia,Extranjeros,9862.0,9862.0,1.0,2017-03-01
+2017,Abril,Valencia,Extranjeros,10522.0,10522.0,1.0,2017-04-01
+2017,Mayo,Valencia,Extranjeros,13726.0,13726.0,1.0,2017-05-01
+2017,Junio,Valencia,Extranjeros,14777.0,14777.0,1.0,2017-06-01
+2017,Julio,Valencia,Extranjeros,18245.0,18245.0,1.0,2017-07-01
+2017,Agosto,Valencia,Extranjeros,19679.0,19679.0,1.0,2017-08-01
+2017,Septiembre,Valencia,Extranjeros,13801.0,13801.0,1.0,2017-09-01
+2017,Octubre,Valencia,Extranjeros,12846.0,12846.0,1.0,2017-10-01
+2017,Noviembre,Valencia,Extranjeros,12363.0,12363.0,1.0,2017-11-01
+2017,Diciembre,Valencia,Extranjeros,7568.0,7568.0,1.0,2017-12-01
 2017,Enero,Valencia,Unión Europea (sin España),16742.0,3149.0,5.32,2017-01-01
 2017,Febrero,Valencia,Unión Europea (sin España),27641.0,6657.0,4.15,2017-02-01
 2017,Marzo,Valencia,Unión Europea (sin España),34523.0,7217.0,4.78,2017-03-01
@@ -7331,18 +7331,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2018,Octubre,Islas Baleares,España,57891.0,13557.0,4.27,2018-10-01
 2018,Noviembre,Islas Baleares,España,6050.0,1463.0,4.14,2018-11-01
 2018,Diciembre,Islas Baleares,España,6709.0,1147.0,5.85,2018-12-01
-2018,Enero,Islas Baleares,No residentes en España,17437.0,1748.0,9.98,2018-01-01
-2018,Febrero,Islas Baleares,No residentes en España,31391.0,4284.0,7.33,2018-02-01
-2018,Marzo,Islas Baleares,No residentes en España,59215.0,9626.0,6.15,2018-03-01
-2018,Abril,Islas Baleares,No residentes en España,267194.0,46722.0,5.72,2018-04-01
-2018,Mayo,Islas Baleares,No residentes en España,1048772.0,174186.0,6.02,2018-05-01
-2018,Junio,Islas Baleares,No residentes en España,1392729.0,213250.0,6.53,2018-06-01
-2018,Julio,Islas Baleares,No residentes en España,1709291.0,248515.0,6.88,2018-07-01
-2018,Agosto,Islas Baleares,No residentes en España,1790392.0,239271.0,7.48,2018-08-01
-2018,Septiembre,Islas Baleares,No residentes en España,1384878.0,211203.0,6.56,2018-09-01
-2018,Octubre,Islas Baleares,No residentes en España,776216.0,99562.0,7.8,2018-10-01
-2018,Noviembre,Islas Baleares,No residentes en España,31830.0,4042.0,7.87,2018-11-01
-2018,Diciembre,Islas Baleares,No residentes en España,27599.0,3750.0,7.36,2018-12-01
+2018,Enero,Islas Baleares,Extranjeros,1748.0,1748.0,1.0,2018-01-01
+2018,Febrero,Islas Baleares,Extranjeros,4284.0,4284.0,1.0,2018-02-01
+2018,Marzo,Islas Baleares,Extranjeros,9626.0,9626.0,1.0,2018-03-01
+2018,Abril,Islas Baleares,Extranjeros,46722.0,46722.0,1.0,2018-04-01
+2018,Mayo,Islas Baleares,Extranjeros,174186.0,174186.0,1.0,2018-05-01
+2018,Junio,Islas Baleares,Extranjeros,213250.0,213250.0,1.0,2018-06-01
+2018,Julio,Islas Baleares,Extranjeros,248515.0,248515.0,1.0,2018-07-01
+2018,Agosto,Islas Baleares,Extranjeros,239271.0,239271.0,1.0,2018-08-01
+2018,Septiembre,Islas Baleares,Extranjeros,211203.0,211203.0,1.0,2018-09-01
+2018,Octubre,Islas Baleares,Extranjeros,99562.0,99562.0,1.0,2018-10-01
+2018,Noviembre,Islas Baleares,Extranjeros,4042.0,4042.0,1.0,2018-11-01
+2018,Diciembre,Islas Baleares,Extranjeros,3750.0,3750.0,1.0,2018-12-01
 2018,Enero,Islas Baleares,Unión Europea (sin España),13298.0,1422.0,9.35,2018-01-01
 2018,Febrero,Islas Baleares,Unión Europea (sin España),26363.0,3660.0,7.2,2018-02-01
 2018,Marzo,Islas Baleares,Unión Europea (sin España),51002.0,7934.0,6.43,2018-03-01
@@ -7679,18 +7679,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2018,Octubre,Barcelona,España,77297.0,8265.0,9.35,2018-10-01
 2018,Noviembre,Barcelona,España,71767.0,7134.0,10.06,2018-11-01
 2018,Diciembre,Barcelona,España,76374.0,8055.0,9.48,2018-12-01
-2018,Enero,Barcelona,No residentes en España,71979.0,11975.0,6.01,2018-01-01
-2018,Febrero,Barcelona,No residentes en España,72463.0,13865.0,5.23,2018-02-01
-2018,Marzo,Barcelona,No residentes en España,82384.0,16788.0,4.91,2018-03-01
-2018,Abril,Barcelona,No residentes en España,90588.0,18946.0,4.78,2018-04-01
-2018,Mayo,Barcelona,No residentes en España,97626.0,22928.0,4.26,2018-05-01
-2018,Junio,Barcelona,No residentes en España,106687.0,24294.0,4.39,2018-06-01
-2018,Julio,Barcelona,No residentes en España,108614.0,26262.0,4.14,2018-07-01
-2018,Agosto,Barcelona,No residentes en España,107876.0,24682.0,4.37,2018-08-01
-2018,Septiembre,Barcelona,No residentes en España,93057.0,20087.0,4.63,2018-09-01
-2018,Octubre,Barcelona,No residentes en España,96573.0,20214.0,4.78,2018-10-01
-2018,Noviembre,Barcelona,No residentes en España,74969.0,14230.0,5.27,2018-11-01
-2018,Diciembre,Barcelona,No residentes en España,71178.0,12022.0,5.92,2018-12-01
+2018,Enero,Barcelona,Extranjeros,11975.0,11975.0,1.0,2018-01-01
+2018,Febrero,Barcelona,Extranjeros,13865.0,13865.0,1.0,2018-02-01
+2018,Marzo,Barcelona,Extranjeros,16788.0,16788.0,1.0,2018-03-01
+2018,Abril,Barcelona,Extranjeros,18946.0,18946.0,1.0,2018-04-01
+2018,Mayo,Barcelona,Extranjeros,22928.0,22928.0,1.0,2018-05-01
+2018,Junio,Barcelona,Extranjeros,24294.0,24294.0,1.0,2018-06-01
+2018,Julio,Barcelona,Extranjeros,26262.0,26262.0,1.0,2018-07-01
+2018,Agosto,Barcelona,Extranjeros,24682.0,24682.0,1.0,2018-08-01
+2018,Septiembre,Barcelona,Extranjeros,20087.0,20087.0,1.0,2018-09-01
+2018,Octubre,Barcelona,Extranjeros,20214.0,20214.0,1.0,2018-10-01
+2018,Noviembre,Barcelona,Extranjeros,14230.0,14230.0,1.0,2018-11-01
+2018,Diciembre,Barcelona,Extranjeros,12022.0,12022.0,1.0,2018-12-01
 2018,Enero,Barcelona,Unión Europea (sin España),31330.0,6424.0,4.88,2018-01-01
 2018,Febrero,Barcelona,Unión Europea (sin España),35983.0,7738.0,4.65,2018-02-01
 2018,Marzo,Barcelona,Unión Europea (sin España),41941.0,10682.0,3.93,2018-03-01
@@ -8027,18 +8027,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2018,Octubre,Girona,España,29406.0,10036.0,2.93,2018-10-01
 2018,Noviembre,Girona,España,9072.0,3923.0,2.31,2018-11-01
 2018,Diciembre,Girona,España,16671.0,6553.0,2.54,2018-12-01
-2018,Enero,Girona,No residentes en España,5308.0,830.0,6.4,2018-01-01
-2018,Febrero,Girona,No residentes en España,10105.0,2217.0,4.56,2018-02-01
-2018,Marzo,Girona,No residentes en España,10879.0,2730.0,3.98,2018-03-01
-2018,Abril,Girona,No residentes en España,37784.0,8103.0,4.66,2018-04-01
-2018,Mayo,Girona,No residentes en España,104703.0,18314.0,5.72,2018-05-01
-2018,Junio,Girona,No residentes en España,176975.0,29158.0,6.07,2018-06-01
-2018,Julio,Girona,No residentes en España,406801.0,53069.0,7.67,2018-07-01
-2018,Agosto,Girona,No residentes en España,512702.0,60446.0,8.48,2018-08-01
-2018,Septiembre,Girona,No residentes en España,189337.0,27654.0,6.85,2018-09-01
-2018,Octubre,Girona,No residentes en España,56199.0,10571.0,5.32,2018-10-01
-2018,Noviembre,Girona,No residentes en España,3593.0,908.0,3.96,2018-11-01
-2018,Diciembre,Girona,No residentes en España,6699.0,1496.0,4.48,2018-12-01
+2018,Enero,Girona,Extranjeros,830.0,830.0,1.0,2018-01-01
+2018,Febrero,Girona,Extranjeros,2217.0,2217.0,1.0,2018-02-01
+2018,Marzo,Girona,Extranjeros,2730.0,2730.0,1.0,2018-03-01
+2018,Abril,Girona,Extranjeros,8103.0,8103.0,1.0,2018-04-01
+2018,Mayo,Girona,Extranjeros,18314.0,18314.0,1.0,2018-05-01
+2018,Junio,Girona,Extranjeros,29158.0,29158.0,1.0,2018-06-01
+2018,Julio,Girona,Extranjeros,53069.0,53069.0,1.0,2018-07-01
+2018,Agosto,Girona,Extranjeros,60446.0,60446.0,1.0,2018-08-01
+2018,Septiembre,Girona,Extranjeros,27654.0,27654.0,1.0,2018-09-01
+2018,Octubre,Girona,Extranjeros,10571.0,10571.0,1.0,2018-10-01
+2018,Noviembre,Girona,Extranjeros,908.0,908.0,1.0,2018-11-01
+2018,Diciembre,Girona,Extranjeros,1496.0,1496.0,1.0,2018-12-01
 2018,Enero,Girona,Unión Europea (sin España),4634.0,699.0,6.63,2018-01-01
 2018,Febrero,Girona,Unión Europea (sin España),8991.0,1989.0,4.52,2018-02-01
 2018,Marzo,Girona,Unión Europea (sin España),8263.0,2058.0,4.02,2018-03-01
@@ -8375,18 +8375,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2018,Octubre,Madrid,España,68604.0,19917.0,3.44,2018-10-01
 2018,Noviembre,Madrid,España,65633.0,20711.0,3.17,2018-11-01
 2018,Diciembre,Madrid,España,75775.0,21916.0,3.46,2018-12-01
-2018,Enero,Madrid,No residentes en España,69870.0,16086.0,4.34,2018-01-01
-2018,Febrero,Madrid,No residentes en España,69711.0,18651.0,3.74,2018-02-01
-2018,Marzo,Madrid,No residentes en España,79181.0,21818.0,3.63,2018-03-01
-2018,Abril,Madrid,No residentes en España,90594.0,25826.0,3.51,2018-04-01
-2018,Mayo,Madrid,No residentes en España,87912.0,24940.0,3.52,2018-05-01
-2018,Junio,Madrid,No residentes en España,91020.0,26937.0,3.38,2018-06-01
-2018,Julio,Madrid,No residentes en España,94224.0,25800.0,3.65,2018-07-01
-2018,Agosto,Madrid,No residentes en España,78139.0,21567.0,3.62,2018-08-01
-2018,Septiembre,Madrid,No residentes en España,92174.0,26094.0,3.53,2018-09-01
-2018,Octubre,Madrid,No residentes en España,98438.0,26308.0,3.74,2018-10-01
-2018,Noviembre,Madrid,No residentes en España,76319.0,19910.0,3.83,2018-11-01
-2018,Diciembre,Madrid,No residentes en España,68516.0,15443.0,4.44,2018-12-01
+2018,Enero,Madrid,Extranjeros,16086.0,16086.0,1.0,2018-01-01
+2018,Febrero,Madrid,Extranjeros,18651.0,18651.0,1.0,2018-02-01
+2018,Marzo,Madrid,Extranjeros,21818.0,21818.0,1.0,2018-03-01
+2018,Abril,Madrid,Extranjeros,25826.0,25826.0,1.0,2018-04-01
+2018,Mayo,Madrid,Extranjeros,24940.0,24940.0,1.0,2018-05-01
+2018,Junio,Madrid,Extranjeros,26937.0,26937.0,1.0,2018-06-01
+2018,Julio,Madrid,Extranjeros,25800.0,25800.0,1.0,2018-07-01
+2018,Agosto,Madrid,Extranjeros,21567.0,21567.0,1.0,2018-08-01
+2018,Septiembre,Madrid,Extranjeros,26094.0,26094.0,1.0,2018-09-01
+2018,Octubre,Madrid,Extranjeros,26308.0,26308.0,1.0,2018-10-01
+2018,Noviembre,Madrid,Extranjeros,19910.0,19910.0,1.0,2018-11-01
+2018,Diciembre,Madrid,Extranjeros,15443.0,15443.0,1.0,2018-12-01
 2018,Enero,Madrid,Unión Europea (sin España),26363.0,6562.0,4.02,2018-01-01
 2018,Febrero,Madrid,Unión Europea (sin España),28734.0,8569.0,3.35,2018-02-01
 2018,Marzo,Madrid,Unión Europea (sin España),31351.0,8698.0,3.6,2018-03-01
@@ -8723,18 +8723,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2018,Octubre,Málaga,España,48926.0,19052.0,2.57,2018-10-01
 2018,Noviembre,Málaga,España,43603.0,17846.0,2.44,2018-11-01
 2018,Diciembre,Málaga,España,71017.0,26647.0,2.67,2018-12-01
-2018,Enero,Málaga,No residentes en España,270536.0,43068.0,6.28,2018-01-01
-2018,Febrero,Málaga,No residentes en España,323759.0,49663.0,6.52,2018-02-01
-2018,Marzo,Málaga,No residentes en España,365770.0,58526.0,6.25,2018-03-01
-2018,Abril,Málaga,No residentes en España,487311.0,90363.0,5.39,2018-04-01
-2018,Mayo,Málaga,No residentes en España,517437.0,93790.0,5.52,2018-05-01
-2018,Junio,Málaga,No residentes en España,530593.0,90398.0,5.87,2018-06-01
-2018,Julio,Málaga,No residentes en España,620089.0,100897.0,6.15,2018-07-01
-2018,Agosto,Málaga,No residentes en España,624927.0,95740.0,6.53,2018-08-01
-2018,Septiembre,Málaga,No residentes en España,507719.0,89968.0,5.64,2018-09-01
-2018,Octubre,Málaga,No residentes en España,520577.0,84242.0,6.18,2018-10-01
-2018,Noviembre,Málaga,No residentes en España,289234.0,46642.0,6.2,2018-11-01
-2018,Diciembre,Málaga,No residentes en España,237993.0,44697.0,5.32,2018-12-01
+2018,Enero,Málaga,Extranjeros,43068.0,43068.0,1.0,2018-01-01
+2018,Febrero,Málaga,Extranjeros,49663.0,49663.0,1.0,2018-02-01
+2018,Marzo,Málaga,Extranjeros,58526.0,58526.0,1.0,2018-03-01
+2018,Abril,Málaga,Extranjeros,90363.0,90363.0,1.0,2018-04-01
+2018,Mayo,Málaga,Extranjeros,93790.0,93790.0,1.0,2018-05-01
+2018,Junio,Málaga,Extranjeros,90398.0,90398.0,1.0,2018-06-01
+2018,Julio,Málaga,Extranjeros,100897.0,100897.0,1.0,2018-07-01
+2018,Agosto,Málaga,Extranjeros,95740.0,95740.0,1.0,2018-08-01
+2018,Septiembre,Málaga,Extranjeros,89968.0,89968.0,1.0,2018-09-01
+2018,Octubre,Málaga,Extranjeros,84242.0,84242.0,1.0,2018-10-01
+2018,Noviembre,Málaga,Extranjeros,46642.0,46642.0,1.0,2018-11-01
+2018,Diciembre,Málaga,Extranjeros,44697.0,44697.0,1.0,2018-12-01
 2018,Enero,Málaga,Unión Europea (sin España),208304.0,30756.0,6.77,2018-01-01
 2018,Febrero,Málaga,Unión Europea (sin España),248617.0,38201.0,6.51,2018-02-01
 2018,Marzo,Málaga,Unión Europea (sin España),285621.0,46091.0,6.2,2018-03-01
@@ -9071,18 +9071,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2018,Octubre,Sevilla,España,38899.0,17341.0,2.24,2018-10-01
 2018,Noviembre,Sevilla,España,40365.0,17770.0,2.27,2018-11-01
 2018,Diciembre,Sevilla,España,44561.0,18782.0,2.37,2018-12-01
-2018,Enero,Sevilla,No residentes en España,41538.0,15068.0,2.76,2018-01-01
-2018,Febrero,Sevilla,No residentes en España,47613.0,15563.0,3.06,2018-02-01
-2018,Marzo,Sevilla,No residentes en España,41579.0,13114.0,3.17,2018-03-01
-2018,Abril,Sevilla,No residentes en España,60545.0,23585.0,2.57,2018-04-01
-2018,Mayo,Sevilla,No residentes en España,54809.0,22429.0,2.44,2018-05-01
-2018,Junio,Sevilla,No residentes en España,48844.0,20123.0,2.43,2018-06-01
-2018,Julio,Sevilla,No residentes en España,54242.0,20989.0,2.58,2018-07-01
-2018,Agosto,Sevilla,No residentes en España,64321.0,27211.0,2.36,2018-08-01
-2018,Septiembre,Sevilla,No residentes en España,63202.0,26346.0,2.4,2018-09-01
-2018,Octubre,Sevilla,No residentes en España,69460.0,27316.0,2.54,2018-10-01
-2018,Noviembre,Sevilla,No residentes en España,48929.0,19105.0,2.56,2018-11-01
-2018,Diciembre,Sevilla,No residentes en España,43286.0,16510.0,2.62,2018-12-01
+2018,Enero,Sevilla,Extranjeros,15068.0,15068.0,1.0,2018-01-01
+2018,Febrero,Sevilla,Extranjeros,15563.0,15563.0,1.0,2018-02-01
+2018,Marzo,Sevilla,Extranjeros,13114.0,13114.0,1.0,2018-03-01
+2018,Abril,Sevilla,Extranjeros,23585.0,23585.0,1.0,2018-04-01
+2018,Mayo,Sevilla,Extranjeros,22429.0,22429.0,1.0,2018-05-01
+2018,Junio,Sevilla,Extranjeros,20123.0,20123.0,1.0,2018-06-01
+2018,Julio,Sevilla,Extranjeros,20989.0,20989.0,1.0,2018-07-01
+2018,Agosto,Sevilla,Extranjeros,27211.0,27211.0,1.0,2018-08-01
+2018,Septiembre,Sevilla,Extranjeros,26346.0,26346.0,1.0,2018-09-01
+2018,Octubre,Sevilla,Extranjeros,27316.0,27316.0,1.0,2018-10-01
+2018,Noviembre,Sevilla,Extranjeros,19105.0,19105.0,1.0,2018-11-01
+2018,Diciembre,Sevilla,Extranjeros,16510.0,16510.0,1.0,2018-12-01
 2018,Enero,Sevilla,Unión Europea (sin España),20275.0,6088.0,3.33,2018-01-01
 2018,Febrero,Sevilla,Unión Europea (sin España),28303.0,8120.0,3.49,2018-02-01
 2018,Marzo,Sevilla,Unión Europea (sin España),24238.0,6967.0,3.48,2018-03-01
@@ -9419,18 +9419,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2018,Octubre,Valencia,España,24001.0,8290.0,2.9,2018-10-01
 2018,Noviembre,Valencia,España,24294.0,7812.0,3.11,2018-11-01
 2018,Diciembre,Valencia,España,26773.0,9323.0,2.87,2018-12-01
-2018,Enero,Valencia,No residentes en España,37204.0,8875.0,4.19,2018-01-01
-2018,Febrero,Valencia,No residentes en España,44647.0,10770.0,4.15,2018-02-01
-2018,Marzo,Valencia,No residentes en España,61236.0,13136.0,4.66,2018-03-01
-2018,Abril,Valencia,No residentes en España,53437.0,13283.0,4.02,2018-04-01
-2018,Mayo,Valencia,No residentes en España,63068.0,14499.0,4.35,2018-05-01
-2018,Junio,Valencia,No residentes en España,69758.0,16662.0,4.19,2018-06-01
-2018,Julio,Valencia,No residentes en España,109110.0,19845.0,5.5,2018-07-01
-2018,Agosto,Valencia,No residentes en España,136506.0,22714.0,6.01,2018-08-01
-2018,Septiembre,Valencia,No residentes en España,68816.0,15367.0,4.48,2018-09-01
-2018,Octubre,Valencia,No residentes en España,76485.0,16831.0,4.54,2018-10-01
-2018,Noviembre,Valencia,No residentes en España,47334.0,11804.0,4.01,2018-11-01
-2018,Diciembre,Valencia,No residentes en España,45551.0,10973.0,4.15,2018-12-01
+2018,Enero,Valencia,Extranjeros,8875.0,8875.0,1.0,2018-01-01
+2018,Febrero,Valencia,Extranjeros,10770.0,10770.0,1.0,2018-02-01
+2018,Marzo,Valencia,Extranjeros,13136.0,13136.0,1.0,2018-03-01
+2018,Abril,Valencia,Extranjeros,13283.0,13283.0,1.0,2018-04-01
+2018,Mayo,Valencia,Extranjeros,14499.0,14499.0,1.0,2018-05-01
+2018,Junio,Valencia,Extranjeros,16662.0,16662.0,1.0,2018-06-01
+2018,Julio,Valencia,Extranjeros,19845.0,19845.0,1.0,2018-07-01
+2018,Agosto,Valencia,Extranjeros,22714.0,22714.0,1.0,2018-08-01
+2018,Septiembre,Valencia,Extranjeros,15367.0,15367.0,1.0,2018-09-01
+2018,Octubre,Valencia,Extranjeros,16831.0,16831.0,1.0,2018-10-01
+2018,Noviembre,Valencia,Extranjeros,11804.0,11804.0,1.0,2018-11-01
+2018,Diciembre,Valencia,Extranjeros,10973.0,10973.0,1.0,2018-12-01
 2018,Enero,Valencia,Unión Europea (sin España),27284.0,6520.0,4.18,2018-01-01
 2018,Febrero,Valencia,Unión Europea (sin España),33660.0,8340.0,4.04,2018-02-01
 2018,Marzo,Valencia,Unión Europea (sin España),45862.0,9791.0,4.68,2018-03-01
@@ -9767,18 +9767,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2019,Octubre,Islas Baleares,España,59435.0,15026.0,3.96,2019-10-01
 2019,Noviembre,Islas Baleares,España,6887.0,1822.0,3.78,2019-11-01
 2019,Diciembre,Islas Baleares,España,7554.0,1960.0,3.85,2019-12-01
-2019,Enero,Islas Baleares,No residentes en España,17598.0,1541.0,11.42,2019-01-01
-2019,Febrero,Islas Baleares,No residentes en España,29230.0,3936.0,7.43,2019-02-01
-2019,Marzo,Islas Baleares,No residentes en España,50270.0,7128.0,7.05,2019-03-01
-2019,Abril,Islas Baleares,No residentes en España,222549.0,36870.0,6.04,2019-04-01
-2019,Mayo,Islas Baleares,No residentes en España,880404.0,147791.0,5.96,2019-05-01
-2019,Junio,Islas Baleares,No residentes en España,1282728.0,201808.0,6.36,2019-06-01
-2019,Julio,Islas Baleares,No residentes en España,1546124.0,247631.0,6.24,2019-07-01
-2019,Agosto,Islas Baleares,No residentes en España,1637862.0,268290.0,6.1,2019-08-01
-2019,Septiembre,Islas Baleares,No residentes en España,1265869.0,196939.0,6.43,2019-09-01
-2019,Octubre,Islas Baleares,No residentes en España,626317.0,92753.0,6.75,2019-10-01
-2019,Noviembre,Islas Baleares,No residentes en España,30622.0,4632.0,6.61,2019-11-01
-2019,Diciembre,Islas Baleares,No residentes en España,25498.0,4294.0,5.94,2019-12-01
+2019,Enero,Islas Baleares,Extranjeros,1541.0,1541.0,1.0,2019-01-01
+2019,Febrero,Islas Baleares,Extranjeros,3936.0,3936.0,1.0,2019-02-01
+2019,Marzo,Islas Baleares,Extranjeros,7128.0,7128.0,1.0,2019-03-01
+2019,Abril,Islas Baleares,Extranjeros,36870.0,36870.0,1.0,2019-04-01
+2019,Mayo,Islas Baleares,Extranjeros,147791.0,147791.0,1.0,2019-05-01
+2019,Junio,Islas Baleares,Extranjeros,201808.0,201808.0,1.0,2019-06-01
+2019,Julio,Islas Baleares,Extranjeros,247631.0,247631.0,1.0,2019-07-01
+2019,Agosto,Islas Baleares,Extranjeros,268290.0,268290.0,1.0,2019-08-01
+2019,Septiembre,Islas Baleares,Extranjeros,196939.0,196939.0,1.0,2019-09-01
+2019,Octubre,Islas Baleares,Extranjeros,92753.0,92753.0,1.0,2019-10-01
+2019,Noviembre,Islas Baleares,Extranjeros,4632.0,4632.0,1.0,2019-11-01
+2019,Diciembre,Islas Baleares,Extranjeros,4294.0,4294.0,1.0,2019-12-01
 2019,Enero,Islas Baleares,Unión Europea (sin España),14412.0,1179.0,12.22,2019-01-01
 2019,Febrero,Islas Baleares,Unión Europea (sin España),25103.0,3309.0,7.59,2019-02-01
 2019,Marzo,Islas Baleares,Unión Europea (sin España),44816.0,5809.0,7.71,2019-03-01
@@ -10115,18 +10115,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2019,Octubre,Barcelona,España,82376.0,8965.0,9.19,2019-10-01
 2019,Noviembre,Barcelona,España,72381.0,7669.0,9.44,2019-11-01
 2019,Diciembre,Barcelona,España,73063.0,8321.0,8.78,2019-12-01
-2019,Enero,Barcelona,No residentes en España,73520.0,13159.0,5.59,2019-01-01
-2019,Febrero,Barcelona,No residentes en España,86705.0,15801.0,5.49,2019-02-01
-2019,Marzo,Barcelona,No residentes en España,88398.0,18758.0,4.71,2019-03-01
-2019,Abril,Barcelona,No residentes en España,107857.0,24460.0,4.41,2019-04-01
-2019,Mayo,Barcelona,No residentes en España,103337.0,24149.0,4.28,2019-05-01
-2019,Junio,Barcelona,No residentes en España,112752.0,27498.0,4.1,2019-06-01
-2019,Julio,Barcelona,No residentes en España,116039.0,30744.0,3.77,2019-07-01
-2019,Agosto,Barcelona,No residentes en España,122400.0,29430.0,4.16,2019-08-01
-2019,Septiembre,Barcelona,No residentes en España,115982.0,27708.0,4.19,2019-09-01
-2019,Octubre,Barcelona,No residentes en España,104835.0,24179.0,4.34,2019-10-01
-2019,Noviembre,Barcelona,No residentes en España,72817.0,15743.0,4.63,2019-11-01
-2019,Diciembre,Barcelona,No residentes en España,80309.0,16811.0,4.78,2019-12-01
+2019,Enero,Barcelona,Extranjeros,13159.0,13159.0,1.0,2019-01-01
+2019,Febrero,Barcelona,Extranjeros,15801.0,15801.0,1.0,2019-02-01
+2019,Marzo,Barcelona,Extranjeros,18758.0,18758.0,1.0,2019-03-01
+2019,Abril,Barcelona,Extranjeros,24460.0,24460.0,1.0,2019-04-01
+2019,Mayo,Barcelona,Extranjeros,24149.0,24149.0,1.0,2019-05-01
+2019,Junio,Barcelona,Extranjeros,27498.0,27498.0,1.0,2019-06-01
+2019,Julio,Barcelona,Extranjeros,30744.0,30744.0,1.0,2019-07-01
+2019,Agosto,Barcelona,Extranjeros,29430.0,29430.0,1.0,2019-08-01
+2019,Septiembre,Barcelona,Extranjeros,27708.0,27708.0,1.0,2019-09-01
+2019,Octubre,Barcelona,Extranjeros,24179.0,24179.0,1.0,2019-10-01
+2019,Noviembre,Barcelona,Extranjeros,15743.0,15743.0,1.0,2019-11-01
+2019,Diciembre,Barcelona,Extranjeros,16811.0,16811.0,1.0,2019-12-01
 2019,Enero,Barcelona,Unión Europea (sin España),29900.0,6110.0,4.89,2019-01-01
 2019,Febrero,Barcelona,Unión Europea (sin España),41812.0,9375.0,4.46,2019-02-01
 2019,Marzo,Barcelona,Unión Europea (sin España),40315.0,10198.0,3.95,2019-03-01
@@ -10463,18 +10463,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2019,Octubre,Girona,España,19617.0,7439.0,2.64,2019-10-01
 2019,Noviembre,Girona,España,11542.0,5080.0,2.27,2019-11-01
 2019,Diciembre,Girona,España,15491.0,5731.0,2.7,2019-12-01
-2019,Enero,Girona,No residentes en España,7455.0,1568.0,4.75,2019-01-01
-2019,Febrero,Girona,No residentes en España,9376.0,2274.0,4.12,2019-02-01
-2019,Marzo,Girona,No residentes en España,13198.0,3256.0,4.05,2019-03-01
-2019,Abril,Girona,No residentes en España,35785.0,8239.0,4.34,2019-04-01
-2019,Mayo,Girona,No residentes en España,83330.0,17848.0,4.67,2019-05-01
-2019,Junio,Girona,No residentes en España,166873.0,27431.0,6.08,2019-06-01
-2019,Julio,Girona,No residentes en España,424193.0,54184.0,7.83,2019-07-01
-2019,Agosto,Girona,No residentes en España,537935.0,63154.0,8.52,2019-08-01
-2019,Septiembre,Girona,No residentes en España,204643.0,28938.0,7.07,2019-09-01
-2019,Octubre,Girona,No residentes en España,43181.0,7699.0,5.61,2019-10-01
-2019,Noviembre,Girona,No residentes en España,4046.0,1154.0,3.51,2019-11-01
-2019,Diciembre,Girona,No residentes en España,8694.0,2502.0,3.47,2019-12-01
+2019,Enero,Girona,Extranjeros,1568.0,1568.0,1.0,2019-01-01
+2019,Febrero,Girona,Extranjeros,2274.0,2274.0,1.0,2019-02-01
+2019,Marzo,Girona,Extranjeros,3256.0,3256.0,1.0,2019-03-01
+2019,Abril,Girona,Extranjeros,8239.0,8239.0,1.0,2019-04-01
+2019,Mayo,Girona,Extranjeros,17848.0,17848.0,1.0,2019-05-01
+2019,Junio,Girona,Extranjeros,27431.0,27431.0,1.0,2019-06-01
+2019,Julio,Girona,Extranjeros,54184.0,54184.0,1.0,2019-07-01
+2019,Agosto,Girona,Extranjeros,63154.0,63154.0,1.0,2019-08-01
+2019,Septiembre,Girona,Extranjeros,28938.0,28938.0,1.0,2019-09-01
+2019,Octubre,Girona,Extranjeros,7699.0,7699.0,1.0,2019-10-01
+2019,Noviembre,Girona,Extranjeros,1154.0,1154.0,1.0,2019-11-01
+2019,Diciembre,Girona,Extranjeros,2502.0,2502.0,1.0,2019-12-01
 2019,Enero,Girona,Unión Europea (sin España),6094.0,1299.0,4.69,2019-01-01
 2019,Febrero,Girona,Unión Europea (sin España),7296.0,1824.0,4.0,2019-02-01
 2019,Marzo,Girona,Unión Europea (sin España),10773.0,2887.0,3.73,2019-03-01
@@ -10811,18 +10811,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2019,Octubre,Madrid,España,71464.0,24911.0,2.87,2019-10-01
 2019,Noviembre,Madrid,España,75256.0,25971.0,2.9,2019-11-01
 2019,Diciembre,Madrid,España,84955.0,29042.0,2.93,2019-12-01
-2019,Enero,Madrid,No residentes en España,64634.0,14500.0,4.46,2019-01-01
-2019,Febrero,Madrid,No residentes en España,67501.0,17054.0,3.96,2019-02-01
-2019,Marzo,Madrid,No residentes en España,92945.0,24978.0,3.72,2019-03-01
-2019,Abril,Madrid,No residentes en España,102992.0,29988.0,3.43,2019-04-01
-2019,Mayo,Madrid,No residentes en España,100587.0,30174.0,3.33,2019-05-01
-2019,Junio,Madrid,No residentes en España,106689.0,32604.0,3.27,2019-06-01
-2019,Julio,Madrid,No residentes en España,104443.0,30913.0,3.38,2019-07-01
-2019,Agosto,Madrid,No residentes en España,92105.0,26989.0,3.41,2019-08-01
-2019,Septiembre,Madrid,No residentes en España,107575.0,31292.0,3.44,2019-09-01
-2019,Octubre,Madrid,No residentes en España,116743.0,34137.0,3.42,2019-10-01
-2019,Noviembre,Madrid,No residentes en España,94418.0,25508.0,3.7,2019-11-01
-2019,Diciembre,Madrid,No residentes en España,90781.0,22273.0,4.08,2019-12-01
+2019,Enero,Madrid,Extranjeros,14500.0,14500.0,1.0,2019-01-01
+2019,Febrero,Madrid,Extranjeros,17054.0,17054.0,1.0,2019-02-01
+2019,Marzo,Madrid,Extranjeros,24978.0,24978.0,1.0,2019-03-01
+2019,Abril,Madrid,Extranjeros,29988.0,29988.0,1.0,2019-04-01
+2019,Mayo,Madrid,Extranjeros,30174.0,30174.0,1.0,2019-05-01
+2019,Junio,Madrid,Extranjeros,32604.0,32604.0,1.0,2019-06-01
+2019,Julio,Madrid,Extranjeros,30913.0,30913.0,1.0,2019-07-01
+2019,Agosto,Madrid,Extranjeros,26989.0,26989.0,1.0,2019-08-01
+2019,Septiembre,Madrid,Extranjeros,31292.0,31292.0,1.0,2019-09-01
+2019,Octubre,Madrid,Extranjeros,34137.0,34137.0,1.0,2019-10-01
+2019,Noviembre,Madrid,Extranjeros,25508.0,25508.0,1.0,2019-11-01
+2019,Diciembre,Madrid,Extranjeros,22273.0,22273.0,1.0,2019-12-01
 2019,Enero,Madrid,Unión Europea (sin España),22158.0,5508.0,4.02,2019-01-01
 2019,Febrero,Madrid,Unión Europea (sin España),26296.0,7412.0,3.55,2019-02-01
 2019,Marzo,Madrid,Unión Europea (sin España),37188.0,10822.0,3.44,2019-03-01
@@ -11159,18 +11159,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2019,Octubre,Málaga,España,59828.0,24141.0,2.48,2019-10-01
 2019,Noviembre,Málaga,España,51654.0,23737.0,2.18,2019-11-01
 2019,Diciembre,Málaga,España,78333.0,31300.0,2.5,2019-12-01
-2019,Enero,Málaga,No residentes en España,268491.0,44397.0,6.05,2019-01-01
-2019,Febrero,Málaga,No residentes en España,311399.0,51261.0,6.07,2019-02-01
-2019,Marzo,Málaga,No residentes en España,378624.0,63695.0,5.94,2019-03-01
-2019,Abril,Málaga,No residentes en España,470335.0,88200.0,5.33,2019-04-01
-2019,Mayo,Málaga,No residentes en España,492667.0,94101.0,5.24,2019-05-01
-2019,Junio,Málaga,No residentes en España,550792.0,99717.0,5.52,2019-06-01
-2019,Julio,Málaga,No residentes en España,629618.0,102764.0,6.13,2019-07-01
-2019,Agosto,Málaga,No residentes en España,635630.0,104502.0,6.08,2019-08-01
-2019,Septiembre,Málaga,No residentes en España,523376.0,91932.0,5.69,2019-09-01
-2019,Octubre,Málaga,No residentes en España,525897.0,91166.0,5.77,2019-10-01
-2019,Noviembre,Málaga,No residentes en España,295461.0,51425.0,5.75,2019-11-01
-2019,Diciembre,Málaga,No residentes en España,240842.0,42628.0,5.65,2019-12-01
+2019,Enero,Málaga,Extranjeros,44397.0,44397.0,1.0,2019-01-01
+2019,Febrero,Málaga,Extranjeros,51261.0,51261.0,1.0,2019-02-01
+2019,Marzo,Málaga,Extranjeros,63695.0,63695.0,1.0,2019-03-01
+2019,Abril,Málaga,Extranjeros,88200.0,88200.0,1.0,2019-04-01
+2019,Mayo,Málaga,Extranjeros,94101.0,94101.0,1.0,2019-05-01
+2019,Junio,Málaga,Extranjeros,99717.0,99717.0,1.0,2019-06-01
+2019,Julio,Málaga,Extranjeros,102764.0,102764.0,1.0,2019-07-01
+2019,Agosto,Málaga,Extranjeros,104502.0,104502.0,1.0,2019-08-01
+2019,Septiembre,Málaga,Extranjeros,91932.0,91932.0,1.0,2019-09-01
+2019,Octubre,Málaga,Extranjeros,91166.0,91166.0,1.0,2019-10-01
+2019,Noviembre,Málaga,Extranjeros,51425.0,51425.0,1.0,2019-11-01
+2019,Diciembre,Málaga,Extranjeros,42628.0,42628.0,1.0,2019-12-01
 2019,Enero,Málaga,Unión Europea (sin España),203937.0,31974.0,6.38,2019-01-01
 2019,Febrero,Málaga,Unión Europea (sin España),240399.0,40779.0,5.9,2019-02-01
 2019,Marzo,Málaga,Unión Europea (sin España),290489.0,50405.0,5.76,2019-03-01
@@ -11507,18 +11507,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2019,Octubre,Sevilla,España,34605.0,15624.0,2.21,2019-10-01
 2019,Noviembre,Sevilla,España,34482.0,15775.0,2.19,2019-11-01
 2019,Diciembre,Sevilla,España,38419.0,15413.0,2.49,2019-12-01
-2019,Enero,Sevilla,No residentes en España,48343.0,18809.0,2.57,2019-01-01
-2019,Febrero,Sevilla,No residentes en España,48382.0,18770.0,2.58,2019-02-01
-2019,Marzo,Sevilla,No residentes en España,55079.0,21860.0,2.52,2019-03-01
-2019,Abril,Sevilla,No residentes en España,64482.0,24967.0,2.58,2019-04-01
-2019,Mayo,Sevilla,No residentes en España,58064.0,23716.0,2.45,2019-05-01
-2019,Junio,Sevilla,No residentes en España,59986.0,24994.0,2.4,2019-06-01
-2019,Julio,Sevilla,No residentes en España,56382.0,21764.0,2.59,2019-07-01
-2019,Agosto,Sevilla,No residentes en España,60614.0,25164.0,2.41,2019-08-01
-2019,Septiembre,Sevilla,No residentes en España,59888.0,24712.0,2.42,2019-09-01
-2019,Octubre,Sevilla,No residentes en España,64449.0,26756.0,2.41,2019-10-01
-2019,Noviembre,Sevilla,No residentes en España,45302.0,18426.0,2.46,2019-11-01
-2019,Diciembre,Sevilla,No residentes en España,40761.0,15026.0,2.71,2019-12-01
+2019,Enero,Sevilla,Extranjeros,18809.0,18809.0,1.0,2019-01-01
+2019,Febrero,Sevilla,Extranjeros,18770.0,18770.0,1.0,2019-02-01
+2019,Marzo,Sevilla,Extranjeros,21860.0,21860.0,1.0,2019-03-01
+2019,Abril,Sevilla,Extranjeros,24967.0,24967.0,1.0,2019-04-01
+2019,Mayo,Sevilla,Extranjeros,23716.0,23716.0,1.0,2019-05-01
+2019,Junio,Sevilla,Extranjeros,24994.0,24994.0,1.0,2019-06-01
+2019,Julio,Sevilla,Extranjeros,21764.0,21764.0,1.0,2019-07-01
+2019,Agosto,Sevilla,Extranjeros,25164.0,25164.0,1.0,2019-08-01
+2019,Septiembre,Sevilla,Extranjeros,24712.0,24712.0,1.0,2019-09-01
+2019,Octubre,Sevilla,Extranjeros,26756.0,26756.0,1.0,2019-10-01
+2019,Noviembre,Sevilla,Extranjeros,18426.0,18426.0,1.0,2019-11-01
+2019,Diciembre,Sevilla,Extranjeros,15026.0,15026.0,1.0,2019-12-01
 2019,Enero,Sevilla,Unión Europea (sin España),23422.0,6893.0,3.4,2019-01-01
 2019,Febrero,Sevilla,Unión Europea (sin España),29800.0,9177.0,3.25,2019-02-01
 2019,Marzo,Sevilla,Unión Europea (sin España),37246.0,11761.0,3.17,2019-03-01
@@ -11855,18 +11855,18 @@ año,mes,provincia,pais_residencia,pernoctaciones,total_viajeros,media_pernoctac
 2019,Octubre,Valencia,España,27097.0,11642.0,2.33,2019-10-01
 2019,Noviembre,Valencia,España,30159.0,11852.0,2.54,2019-11-01
 2019,Diciembre,Valencia,España,40275.0,13698.0,2.94,2019-12-01
-2019,Enero,Valencia,No residentes en España,38543.0,9914.0,3.89,2019-01-01
-2019,Febrero,Valencia,No residentes en España,41788.0,10407.0,4.02,2019-02-01
-2019,Marzo,Valencia,No residentes en España,53815.0,12755.0,4.22,2019-03-01
-2019,Abril,Valencia,No residentes en España,87837.0,24411.0,3.6,2019-04-01
-2019,Mayo,Valencia,No residentes en España,89298.0,25244.0,3.54,2019-05-01
-2019,Junio,Valencia,No residentes en España,93830.0,23461.0,4.0,2019-06-01
-2019,Julio,Valencia,No residentes en España,135923.0,29544.0,4.6,2019-07-01
-2019,Agosto,Valencia,No residentes en España,161250.0,34574.0,4.66,2019-08-01
-2019,Septiembre,Valencia,No residentes en España,99778.0,24530.0,4.07,2019-09-01
-2019,Octubre,Valencia,No residentes en España,96917.0,25697.0,3.77,2019-10-01
-2019,Noviembre,Valencia,No residentes en España,64899.0,18061.0,3.59,2019-11-01
-2019,Diciembre,Valencia,No residentes en España,55873.0,14568.0,3.84,2019-12-01
+2019,Enero,Valencia,Extranjeros,9914.0,9914.0,1.0,2019-01-01
+2019,Febrero,Valencia,Extranjeros,10407.0,10407.0,1.0,2019-02-01
+2019,Marzo,Valencia,Extranjeros,12755.0,12755.0,1.0,2019-03-01
+2019,Abril,Valencia,Extranjeros,24411.0,24411.0,1.0,2019-04-01
+2019,Mayo,Valencia,Extranjeros,25244.0,25244.0,1.0,2019-05-01
+2019,Junio,Valencia,Extranjeros,23461.0,23461.0,1.0,2019-06-01
+2019,Julio,Valencia,Extranjeros,29544.0,29544.0,1.0,2019-07-01
+2019,Agosto,Valencia,Extranjeros,34574.0,34574.0,1.0,2019-08-01
+2019,Septiembre,Valencia,Extranjeros,24530.0,24530.0,1.0,2019-09-01
+2019,Octubre,Valencia,Extranjeros,25697.0,25697.0,1.0,2019-10-01
+2019,Noviembre,Valencia,Extranjeros,18061.0,18061.0,1.0,2019-11-01
+2019,Diciembre,Valencia,Extranjeros,14568.0,14568.0,1.0,2019-12-01
 2019,Enero,Valencia,Unión Europea (sin España),27235.0,6922.0,3.93,2019-01-01
 2019,Febrero,Valencia,Unión Europea (sin España),32868.0,8084.0,4.07,2019-02-01
 2019,Marzo,Valencia,Unión Europea (sin España),42051.0,10114.0,4.16,2019-03-01

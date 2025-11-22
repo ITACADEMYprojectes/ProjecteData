@@ -1,9 +1,0 @@
-- Apartamentos:
-Fuente:https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176962&menu=resultados&idp=1254735576863#_tabs-1254736195412
-
-
-Notas: 
-
-"El símbolo '..' significa dato no significativo"
-
-En la categoría País de residencia se incluyen agregaciones: Total, No residentes en España, Unión Europea (sin España)

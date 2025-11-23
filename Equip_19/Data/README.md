@@ -16,3 +16,5 @@
 ### - Potencial_optimización_barrios_10112025.csv: Selección de datos limpios para el análisis del departamento de márketing de la semana del 10.11.2025.
 
 ### - datos_INE_consolidados_17112025.csv: Datos limpios de demanda de viajeros por año, mes, provincias visitadas (en las que StaySpain opera), país de procedencia y media de pernoctaciones, referentes al periodo 2015-2021. Empleado en el análisis del 17.11.2025.
+
+### - Carpeta INE: Archivos csv para la semana del 17.

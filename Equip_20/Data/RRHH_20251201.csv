@@ -1,0 +1,1107 @@
+,id,reason_id,absence_reason,justified,Absenteeism_hours,Month_absence_num,Month_absence,Day_week,Day_of_week,Season,tr_expense,dist2work,Service_time,work_load_avg,Hit_target,disciplined,Age,Education,Social_drinker,Social_smoker,children,pets,weight,height,bmi,Group,Absence_type,distance_categories
+0,14,11,Diseases of the digestive system,1,120,11,November,2,Monday,Spring,155,12,14,284.031,97,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+1,36,13,Diseases of the musculoskeletal system and connective tissue,1,120,4,April,4,Wednesday,Winter,118,13,18,239.409,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+2,9,6,Diseases of the nervous system,1,120,7,July,3,Tuesday,Summer,228,14,16,264.604,93,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+3,28,9,Diseases of the circulatory system,1,112,7,July,3,Tuesday,Summer,225,26,9,230.29,92,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+4,9,12,Diseases of the skin and subcutaneous tissue,1,112,3,March,3,Tuesday,Autumn,228,14,16,222.196,99,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+5,11,19,"Injury, poisoning and certain other consequences of external causes",1,104,3,March,2,Monday,Winter,289,36,13,222.196,99,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+6,36,13,Diseases of the musculoskeletal system and connective tissue,1,80,6,June,4,Wednesday,Winter,118,13,18,377.55,94,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+7,14,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,80,12,December,3,Tuesday,Autumn,155,12,14,280.549,98,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+8,13,13,Diseases of the musculoskeletal system and connective tissue,1,80,7,July,2,Monday,Summer,369,17,12,264.604,93,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+9,34,19,"Injury, poisoning and certain other consequences of external causes",1,64,12,December,3,Tuesday,Spring,118,10,10,261.306,97,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+10,22,1,Certain infectious and parasitic diseases,1,64,10,October,4,Wednesday,Spring,179,26,9,265.017,88,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+11,26,19,"Injury, poisoning and certain other consequences of external causes",1,64,5,May,6,Friday,Winter,300,26,13,237.656,99,0,43,1,1,1,2,1,77,175,25,36-45,Justified,entre 21 y 30 km
+12,34,19,"Injury, poisoning and certain other consequences of external causes",1,56,12,December,3,Tuesday,Spring,118,10,10,261.306,97,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+13,20,19,"Injury, poisoning and certain other consequences of external causes",1,56,4,April,6,Friday,Winter,260,50,11,326.452,96,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+14,14,10,Diseases of the respiratory system,1,48,5,May,2,Monday,Winter,155,12,14,237.656,99,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+15,14,19,"Injury, poisoning and certain other consequences of external causes",1,40,7,July,2,Monday,Summer,155,12,14,239.554,97,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+16,10,13,Diseases of the musculoskeletal system and connective tissue,1,40,8,August,2,Monday,Summer,361,52,3,205.917,92,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+17,15,14,Diseases of the genitourinary system,1,40,11,November,2,Monday,Spring,291,31,12,306.345,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+18,20,13,Diseases of the musculoskeletal system and connective tissue,1,40,3,March,6,Friday,Autumn,260,50,11,343.253,95,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+19,17,11,Diseases of the digestive system,1,40,3,March,2,Monday,Autumn,179,22,17,343.253,95,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+20,15,7,Diseases of the eye and adnexa,1,40,9,September,2,Monday,Spring,291,31,12,294.217,81,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+21,15,13,Diseases of the musculoskeletal system and connective tissue,1,40,6,June,2,Monday,Winter,291,31,12,253.957,95,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+22,15,14,Diseases of the genitourinary system,1,32,9,September,2,Monday,Spring,291,31,12,241.476,92,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+23,14,10,Diseases of the respiratory system,1,32,11,November,2,Monday,Spring,155,12,14,306.345,93,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+24,11,19,"Injury, poisoning and certain other consequences of external causes",1,32,7,July,2,Monday,Summer,289,36,13,275.312,98,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+25,24,9,Diseases of the circulatory system,1,32,9,September,4,Wednesday,Summer,246,25,16,294.217,81,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+26,34,19,"Injury, poisoning and certain other consequences of external causes",1,32,1,January,2,Monday,Autumn,118,10,10,330.061,100,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+27,3,13,Diseases of the musculoskeletal system and connective tissue,1,32,12,December,3,Tuesday,Spring,179,51,18,280.549,98,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+28,11,7,Diseases of the eye and adnexa,1,24,11,November,4,Wednesday,Spring,289,36,13,306.345,93,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+29,3,13,Diseases of the musculoskeletal system and connective tissue,1,24,3,March,3,Tuesday,Autumn,179,51,18,343.253,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+30,24,13,Diseases of the musculoskeletal system and connective tissue,1,24,4,April,4,Wednesday,Winter,246,25,16,326.452,96,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+31,3,13,Diseases of the musculoskeletal system and connective tissue,1,24,4,April,4,Wednesday,Winter,179,51,18,326.452,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+32,14,12,Diseases of the skin and subcutaneous tissue,1,24,4,April,4,Wednesday,Winter,155,12,14,326.452,96,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+33,11,13,Diseases of the musculoskeletal system and connective tissue,1,24,5,May,4,Wednesday,Winter,289,36,13,378.884,92,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+34,36,13,Diseases of the musculoskeletal system and connective tissue,1,24,5,May,4,Wednesday,Winter,118,13,18,378.884,92,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+35,24,10,Diseases of the respiratory system,1,24,6,June,3,Tuesday,Winter,246,25,16,377.55,94,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+36,11,19,"Injury, poisoning and certain other consequences of external causes",1,24,9,September,4,Wednesday,Summer,289,36,13,294.217,81,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+37,24,10,Diseases of the respiratory system,1,24,2,February,6,Friday,Autumn,246,25,16,251.818,96,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+38,3,28,dental consultation,1,24,6,June,2,Monday,Winter,179,51,18,253.957,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+39,18,2,Neoplasms,1,24,11,November,4,Wednesday,Spring,330,16,4,268.519,93,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+40,22,12,Diseases of the skin and subcutaneous tissue,1,24,1,January,2,Monday,Autumn,179,26,9,313.532,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+41,14,13,Diseases of the musculoskeletal system and connective tissue,1,24,3,March,4,Wednesday,Winter,155,12,14,222.196,99,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+42,13,7,Diseases of the eye and adnexa,1,24,4,April,2,Monday,Winter,369,17,12,246.288,91,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+43,36,19,"Injury, poisoning and certain other consequences of external causes",1,24,6,June,5,Thursday,Winter,118,13,18,275.089,96,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+44,20,19,"Injury, poisoning and certain other consequences of external causes",1,16,10,October,5,Thursday,Spring,260,50,11,253.465,93,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+45,14,1,Certain infectious and parasitic diseases,1,16,3,March,2,Monday,Autumn,155,12,14,343.253,95,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+46,20,26,unjustified absence,0,16,3,March,2,Monday,Autumn,260,50,11,343.253,95,0,36,1,1,0,4,0,65,168,23,36-45,Unjustified,entre 41 y 50 km
+47,28,11,Diseases of the digestive system,1,16,3,March,4,Wednesday,Winter,225,26,9,343.253,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+48,7,14,Diseases of the genitourinary system,1,16,3,March,5,Thursday,Winter,279,5,14,343.253,95,0,39,1,1,1,2,0,68,168,24,36-45,Justified,menos de 10 km
+49,11,13,Diseases of the musculoskeletal system and connective tissue,1,16,4,April,5,Thursday,Winter,289,36,13,326.452,96,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+50,1,13,Diseases of the musculoskeletal system and connective tissue,1,16,6,June,6,Friday,Winter,235,11,14,377.55,94,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+51,14,19,"Injury, poisoning and certain other consequences of external causes",1,16,7,July,3,Tuesday,Summer,155,12,14,275.312,98,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+52,24,9,Diseases of the circulatory system,1,16,9,September,2,Monday,Summer,246,25,16,294.217,81,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+53,11,19,"Injury, poisoning and certain other consequences of external causes",1,16,10,October,5,Thursday,Spring,289,36,13,265.017,88,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+54,22,23,medical consultation,1,16,10,October,5,Thursday,Spring,179,26,9,265.017,88,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+55,30,11,Diseases of the digestive system,1,16,2,February,4,Wednesday,Autumn,157,27,6,251.818,96,0,29,1,1,1,0,0,75,185,22,26-35,Justified,entre 21 y 30 km
+56,24,19,"Injury, poisoning and certain other consequences of external causes",1,16,3,March,4,Wednesday,Autumn,246,25,16,244.387,98,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+57,3,28,dental consultation,1,16,3,March,2,Monday,Autumn,179,51,18,244.387,98,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+58,5,13,Diseases of the musculoskeletal system and connective tissue,1,16,5,May,2,Monday,Winter,235,20,13,246.074,99,0,43,1,1,0,1,0,106,167,38,36-45,Justified,entre 10 y 20 km
+59,18,23,medical consultation,1,16,8,August,5,Thursday,Summer,330,16,4,249.797,93,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+60,22,13,Diseases of the musculoskeletal system and connective tissue,1,16,12,December,3,Tuesday,Spring,179,26,9,280.549,98,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+61,22,12,Diseases of the skin and subcutaneous tissue,1,16,1,January,5,Thursday,Autumn,179,26,9,313.532,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+62,6,22,Patient fol-up,1,16,7,July,3,Tuesday,Summer,189,29,13,264.604,93,0,33,1,0,0,2,2,69,167,25,26-35,Justified,entre 21 y 30 km
+63,10,22,Patient fol-up,1,8,7,July,6,Friday,Summer,361,52,3,239.554,97,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+64,1,22,Patient fol-up,1,8,7,July,2,Monday,Summer,235,11,14,239.554,97,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+65,20,1,Certain infectious and parasitic diseases,1,8,7,July,2,Monday,Summer,260,50,11,239.554,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+66,20,1,Certain infectious and parasitic diseases,1,8,7,July,3,Tuesday,Summer,260,50,11,239.554,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+67,20,11,Diseases of the digestive system,1,8,7,July,4,Wednesday,Summer,260,50,11,239.554,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+68,24,14,Diseases of the genitourinary system,1,8,7,July,6,Friday,Summer,246,25,16,239.554,97,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+69,3,21,Factors influencing health status and contact with health services.,1,8,7,July,2,Monday,Summer,179,51,18,239.554,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+70,6,11,Diseases of the digestive system,1,8,7,July,5,Thursday,Summer,189,29,13,239.554,97,0,33,1,0,0,2,2,69,167,25,26-35,Justified,entre 21 y 30 km
+71,18,10,Diseases of the respiratory system,1,8,8,August,4,Wednesday,Summer,330,16,4,205.917,92,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+72,11,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,8,August,2,Monday,Summer,289,36,13,205.917,92,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+73,11,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,8,August,4,Wednesday,Summer,289,36,13,205.917,92,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+74,3,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,8,August,2,Monday,Summer,179,51,18,205.917,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+75,2,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,8,August,5,Thursday,Summer,235,29,12,205.917,92,0,48,1,0,1,1,5,88,163,33,46-54,Justified,entre 21 y 30 km
+76,2,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,8,August,2,Monday,Summer,235,29,12,205.917,92,0,48,1,0,1,1,5,88,163,33,46-54,Justified,entre 21 y 30 km
+77,11,24,"blood, donation",1,8,8,August,3,Tuesday,Summer,289,36,13,205.917,92,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+78,2,28,dental consultation,1,8,8,August,6,Friday,Summer,235,29,12,205.917,92,0,48,1,0,1,1,5,88,163,33,46-54,Justified,entre 21 y 30 km
+79,5,19,"Injury, poisoning and certain other consequences of external causes",1,8,9,September,3,Tuesday,Summer,235,20,13,241.476,92,0,43,1,1,0,1,0,106,167,38,36-45,Justified,entre 10 y 20 km
+80,20,22,Patient fol-up,1,8,9,September,6,Friday,Summer,260,50,11,241.476,92,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+81,3,23,medical consultation,1,8,10,October,4,Wednesday,Spring,179,51,18,253.465,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+82,15,14,Diseases of the genitourinary system,1,8,10,October,3,Tuesday,Spring,291,31,12,253.465,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+83,11,26,unjustified absence,0,8,10,October,4,Wednesday,Spring,289,36,13,253.465,93,0,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+84,3,13,Diseases of the musculoskeletal system and connective tissue,1,8,11,November,5,Thursday,Spring,179,51,18,306.345,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+85,17,21,Factors influencing health status and contact with health services.,1,8,11,November,5,Thursday,Spring,179,22,17,306.345,93,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+86,6,22,Patient fol-up,1,8,11,November,2,Monday,Spring,189,29,13,306.345,93,0,33,1,0,0,2,2,69,167,25,26-35,Justified,entre 21 y 30 km
+87,14,6,Diseases of the nervous system,1,8,11,November,6,Friday,Spring,155,12,14,306.345,93,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+88,17,21,Factors influencing health status and contact with health services.,1,8,11,November,4,Wednesday,Spring,179,22,17,306.345,93,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+89,1,26,unjustified absence,0,8,12,December,4,Wednesday,Spring,235,11,14,261.306,97,0,37,3,0,0,1,1,88,172,30,36-45,Unjustified,entre 10 y 20 km
+90,20,26,unjustified absence,0,8,12,December,6,Friday,Spring,260,50,11,261.306,97,0,36,1,1,0,4,0,65,168,23,36-45,Unjustified,entre 41 y 50 km
+91,10,22,Patient fol-up,1,8,12,December,4,Wednesday,Spring,361,52,3,261.306,97,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+92,10,22,Patient fol-up,1,8,12,December,4,Wednesday,Spring,361,52,3,261.306,97,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+93,24,19,"Injury, poisoning and certain other consequences of external causes",1,8,12,December,6,Friday,Autumn,246,25,16,261.306,97,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+94,14,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,1,January,3,Tuesday,Autumn,155,12,14,308.593,95,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+95,22,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,1,January,3,Tuesday,Autumn,179,26,9,308.593,95,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+96,11,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,1,January,3,Tuesday,Autumn,289,36,13,308.593,95,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+97,24,1,Certain infectious and parasitic diseases,1,8,2,February,4,Wednesday,Autumn,246,25,16,302.585,99,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+98,3,11,Diseases of the digestive system,1,8,2,February,4,Wednesday,Autumn,179,51,18,302.585,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+99,6,23,medical consultation,1,8,2,February,5,Thursday,Autumn,189,29,13,302.585,99,0,33,1,0,0,2,2,69,167,25,26-35,Justified,entre 21 y 30 km
+100,11,22,Patient fol-up,1,8,2,February,6,Friday,Autumn,289,36,13,302.585,99,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+101,31,11,Diseases of the digestive system,1,8,2,February,2,Monday,Autumn,388,15,9,302.585,99,0,50,1,0,0,0,0,76,178,24,46-54,Justified,entre 10 y 20 km
+102,31,1,Certain infectious and parasitic diseases,1,8,2,February,3,Tuesday,Autumn,388,15,9,302.585,99,0,50,1,0,0,0,0,76,178,24,46-54,Justified,entre 10 y 20 km
+103,27,23,medical consultation,1,8,2,February,3,Tuesday,Autumn,184,42,7,302.585,99,0,27,1,0,0,0,0,58,167,21,26-35,Justified,entre 41 y 50 km
+104,18,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,2,February,2,Monday,Autumn,330,16,4,302.585,99,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+105,6,19,"Injury, poisoning and certain other consequences of external causes",1,8,2,February,5,Thursday,Autumn,189,29,13,302.585,99,0,33,1,0,0,2,2,69,167,25,26-35,Justified,entre 21 y 30 km
+106,20,19,"Injury, poisoning and certain other consequences of external causes",1,8,3,March,3,Tuesday,Autumn,260,50,11,343.253,95,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+107,17,17,"Congenital malformations, deformations and chromosomal abnormalities",1,8,3,March,3,Tuesday,Autumn,179,22,17,343.253,95,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+108,15,22,Patient fol-up,1,8,3,March,4,Wednesday,Autumn,291,31,12,343.253,95,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+109,20,13,Diseases of the musculoskeletal system and connective tissue,1,8,3,March,4,Wednesday,Autumn,260,50,11,343.253,95,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+110,22,13,Diseases of the musculoskeletal system and connective tissue,1,8,3,March,5,Thursday,Autumn,179,26,9,343.253,95,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+111,14,13,Diseases of the musculoskeletal system and connective tissue,1,8,3,March,3,Tuesday,Autumn,155,12,14,343.253,95,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+112,11,6,Diseases of the nervous system,1,8,3,March,5,Thursday,Autumn,289,36,13,343.253,95,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+113,17,8,Diseases of the ear and mastoid process,1,8,3,March,5,Thursday,Autumn,179,22,17,343.253,95,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+114,7,14,Diseases of the genitourinary system,1,8,3,March,2,Monday,Autumn,279,5,14,343.253,95,0,39,1,1,1,2,0,68,168,24,36-45,Justified,menos de 10 km
+115,28,11,Diseases of the digestive system,1,8,3,March,2,Monday,Winter,225,26,9,343.253,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+116,28,11,Diseases of the digestive system,1,8,3,March,3,Tuesday,Winter,225,26,9,343.253,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+117,24,14,Diseases of the genitourinary system,1,8,4,April,6,Friday,Winter,246,25,16,326.452,96,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+118,33,28,dental consultation,1,8,4,April,6,Friday,Winter,248,25,14,326.452,96,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+119,11,19,"Injury, poisoning and certain other consequences of external causes",1,8,4,April,3,Tuesday,Winter,289,36,13,326.452,96,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+120,23,19,"Injury, poisoning and certain other consequences of external causes",1,8,4,April,4,Wednesday,Winter,378,49,11,326.452,96,0,36,1,0,1,2,4,65,174,21,36-45,Justified,entre 41 y 50 km
+121,11,13,Diseases of the musculoskeletal system and connective tissue,1,8,5,May,4,Wednesday,Winter,289,36,13,378.884,92,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+122,3,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,5,May,3,Tuesday,Winter,179,51,18,378.884,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+123,28,19,"Injury, poisoning and certain other consequences of external causes",1,8,5,May,3,Tuesday,Winter,225,26,9,378.884,92,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+124,10,22,Patient fol-up,1,8,5,May,6,Friday,Winter,361,52,3,378.884,92,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+125,24,19,"Injury, poisoning and certain other consequences of external causes",1,8,6,June,2,Monday,Winter,246,25,16,377.55,94,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+126,10,22,Patient fol-up,1,8,6,June,2,Monday,Winter,361,52,3,377.55,94,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+127,24,10,Diseases of the respiratory system,1,8,6,June,6,Friday,Winter,246,25,16,377.55,94,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+128,3,11,Diseases of the digestive system,1,8,6,June,2,Monday,Winter,179,51,18,377.55,94,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+129,24,10,Diseases of the respiratory system,1,8,6,June,2,Monday,Winter,246,25,16,377.55,94,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+130,36,13,Diseases of the musculoskeletal system and connective tissue,1,8,6,June,4,Wednesday,Winter,118,13,18,377.55,94,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+131,23,22,Patient fol-up,1,8,6,June,5,Thursday,Winter,378,49,11,377.55,94,0,36,1,0,1,2,4,65,174,21,36-45,Justified,entre 41 y 50 km
+132,36,1,Certain infectious and parasitic diseases,1,8,7,July,4,Wednesday,Summer,118,13,18,275.312,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+133,34,5,Mental and behavioural disorders,1,8,7,July,6,Friday,Summer,118,10,10,275.312,98,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+134,18,26,unjustified absence,0,8,7,July,3,Tuesday,Summer,330,16,4,275.312,98,0,28,2,0,0,0,0,84,182,25,26-35,Unjustified,entre 10 y 20 km
+135,22,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,7,July,5,Thursday,Summer,179,26,9,275.312,98,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+136,18,1,Certain infectious and parasitic diseases,1,8,7,July,2,Monday,Summer,330,16,4,275.312,98,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+137,18,1,Certain infectious and parasitic diseases,1,8,7,July,3,Tuesday,Summer,330,16,4,275.312,98,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+138,10,22,Patient fol-up,1,8,7,July,3,Tuesday,Summer,361,52,3,275.312,98,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+139,11,26,unjustified absence,0,8,7,July,4,Wednesday,Summer,289,36,13,275.312,98,0,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+140,3,26,unjustified absence,0,8,7,July,5,Thursday,Summer,179,51,18,275.312,98,0,38,1,1,0,0,0,89,170,31,36-45,Unjustified,mas de 50 km
+141,11,19,"Injury, poisoning and certain other consequences of external causes",1,8,7,July,5,Thursday,Summer,289,36,13,275.312,98,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+142,11,19,"Injury, poisoning and certain other consequences of external causes",1,8,8,August,6,Friday,Summer,289,36,13,265.615,94,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+143,9,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,8,August,3,Tuesday,Summer,228,14,16,265.615,94,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+144,21,11,Diseases of the digestive system,1,8,8,August,5,Thursday,Summer,268,11,8,265.615,94,0,33,2,0,0,0,0,79,178,25,26-35,Justified,entre 10 y 20 km
+145,1,19,"Injury, poisoning and certain other consequences of external causes",1,8,8,August,5,Thursday,Summer,235,11,14,265.615,94,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+146,10,8,Diseases of the ear and mastoid process,1,8,8,August,3,Tuesday,Summer,361,52,3,265.615,94,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+147,27,6,Diseases of the nervous system,1,8,8,August,4,Wednesday,Summer,184,42,7,265.615,94,0,27,1,0,0,0,0,58,167,21,26-35,Justified,entre 41 y 50 km
+148,3,11,Diseases of the digestive system,1,8,9,September,2,Monday,Summer,179,51,18,294.217,81,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+149,3,13,Diseases of the musculoskeletal system and connective tissue,1,8,9,September,4,Wednesday,Summer,179,51,18,294.217,81,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+150,5,26,unjustified absence,0,8,9,September,4,Wednesday,Spring,235,20,13,294.217,81,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+151,3,13,Diseases of the musculoskeletal system and connective tissue,1,8,9,September,2,Monday,Spring,179,51,18,294.217,81,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+152,11,24,"blood, donation",1,8,10,October,2,Monday,Spring,289,36,13,265.017,88,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+153,11,26,unjustified absence,0,8,10,October,2,Monday,Spring,289,36,13,265.017,88,0,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+154,11,22,Patient fol-up,1,8,10,October,6,Friday,Spring,289,36,13,265.017,88,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+155,22,1,Certain infectious and parasitic diseases,1,8,10,October,2,Monday,Spring,179,26,9,265.017,88,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+156,13,22,Patient fol-up,1,8,10,October,2,Monday,Spring,369,17,12,265.017,88,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+157,10,10,Diseases of the respiratory system,1,8,10,October,2,Monday,Spring,361,52,3,265.017,88,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+158,34,11,Diseases of the digestive system,1,8,11,November,2,Monday,Spring,118,10,10,284.031,97,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+159,3,6,Diseases of the nervous system,1,8,11,November,3,Tuesday,Spring,179,51,18,284.031,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+160,23,1,Certain infectious and parasitic diseases,1,8,11,November,2,Monday,Spring,378,49,11,284.031,97,0,36,1,0,1,2,4,65,174,21,36-45,Justified,entre 41 y 50 km
+161,5,26,unjustified absence,0,8,11,November,2,Monday,Spring,235,20,13,284.031,97,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+162,24,13,Diseases of the musculoskeletal system and connective tissue,1,8,11,November,6,Friday,Spring,246,25,16,284.031,97,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+163,24,13,Diseases of the musculoskeletal system and connective tissue,1,8,11,November,2,Monday,Spring,246,25,16,284.031,97,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+164,20,10,Diseases of the respiratory system,1,8,11,November,4,Wednesday,Spring,260,50,11,284.031,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+165,20,15,"Pregnancy, childbirth and the puerperium",1,8,11,November,6,Friday,Spring,260,50,11,284.031,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+166,24,4,"Endocrine, nutritional and metabolic diseases",1,8,12,December,5,Thursday,Spring,246,25,16,236.629,93,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+167,34,25,laboratory examination,1,8,12,December,3,Tuesday,Spring,118,10,10,236.629,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+168,5,13,Diseases of the musculoskeletal system and connective tissue,1,8,12,December,3,Tuesday,Autumn,235,20,13,236.629,93,0,43,1,1,0,1,0,106,167,38,36-45,Justified,entre 10 y 20 km
+169,20,26,unjustified absence,0,8,12,December,4,Wednesday,Autumn,260,50,11,236.629,93,0,36,1,1,0,4,0,65,168,23,36-45,Unjustified,entre 41 y 50 km
+170,11,19,"Injury, poisoning and certain other consequences of external causes",1,8,12,December,2,Monday,Autumn,289,36,13,236.629,93,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+171,11,26,unjustified absence,0,8,1,January,2,Monday,Autumn,289,36,13,330.061,100,0,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+172,15,3,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1,8,1,January,4,Wednesday,Autumn,291,31,12,330.061,100,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+173,5,26,unjustified absence,0,8,1,January,2,Monday,Autumn,235,20,13,330.061,100,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+174,3,10,Diseases of the respiratory system,1,8,2,February,5,Thursday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+175,24,26,unjustified absence,0,8,2,February,5,Thursday,Autumn,246,25,16,251.818,96,0,41,1,1,0,0,0,67,170,23,36-45,Unjustified,entre 21 y 30 km
+176,6,22,Patient fol-up,1,8,2,February,2,Monday,Autumn,189,29,13,251.818,96,0,33,1,0,0,2,2,69,167,25,26-35,Justified,entre 21 y 30 km
+177,34,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,3,March,3,Tuesday,Autumn,118,10,10,244.387,98,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+178,1,22,Patient fol-up,1,8,3,March,2,Monday,Autumn,235,11,14,244.387,98,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+179,17,22,Patient fol-up,1,8,3,March,3,Tuesday,Autumn,179,22,17,244.387,98,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+180,23,22,Patient fol-up,1,8,3,March,3,Tuesday,Autumn,378,49,11,244.387,98,0,36,1,0,1,2,4,65,174,21,36-45,Justified,entre 41 y 50 km
+181,10,22,Patient fol-up,1,8,3,March,4,Wednesday,Autumn,361,52,3,244.387,98,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+182,1,21,Factors influencing health status and contact with health services.,1,8,3,March,5,Thursday,Autumn,235,11,14,244.387,98,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+183,36,13,Diseases of the musculoskeletal system and connective tissue,1,8,3,March,4,Wednesday,Winter,118,13,18,244.387,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+184,3,28,dental consultation,1,8,3,March,6,Friday,Winter,179,51,18,244.387,98,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+185,11,22,Patient fol-up,1,8,3,March,6,Friday,Winter,289,36,13,244.387,98,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+186,20,19,"Injury, poisoning and certain other consequences of external causes",1,8,3,March,2,Monday,Winter,260,50,11,244.387,98,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+187,18,23,medical consultation,1,8,4,April,4,Wednesday,Winter,330,16,4,239.409,98,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+188,3,28,dental consultation,1,8,4,April,4,Wednesday,Winter,179,51,18,239.409,98,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+189,26,28,dental consultation,1,8,4,April,6,Friday,Winter,300,26,13,239.409,98,0,43,1,1,1,2,1,77,175,25,36-45,Justified,entre 21 y 30 km
+190,13,10,Diseases of the respiratory system,1,8,5,May,2,Monday,Winter,369,17,12,246.074,99,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+191,9,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,5,May,4,Wednesday,Winter,228,14,16,246.074,99,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+192,18,13,Diseases of the musculoskeletal system and connective tissue,1,8,5,May,6,Friday,Winter,330,16,4,246.074,99,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+193,1,1,Certain infectious and parasitic diseases,1,8,5,May,2,Monday,Winter,235,11,14,246.074,99,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+194,5,26,unjustified absence,0,8,6,June,3,Tuesday,Winter,235,20,13,253.957,95,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+195,3,5,Mental and behavioural disorders,1,8,6,June,4,Wednesday,Summer,179,51,18,253.957,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+196,1,13,Diseases of the musculoskeletal system and connective tissue,1,8,6,June,3,Tuesday,Summer,235,11,14,253.957,95,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+197,20,13,Diseases of the musculoskeletal system and connective tissue,1,8,7,July,6,Friday,Summer,260,50,11,230.29,92,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+198,21,7,Diseases of the eye and adnexa,1,8,7,July,2,Monday,Summer,268,11,8,230.29,92,0,33,2,0,0,0,0,79,178,25,26-35,Justified,entre 10 y 20 km
+199,18,25,laboratory examination,1,8,7,July,6,Friday,Summer,330,16,4,230.29,92,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+200,34,26,unjustified absence,0,8,7,July,6,Friday,Summer,118,10,10,230.29,92,0,37,1,0,0,0,0,83,172,28,36-45,Unjustified,entre 10 y 20 km
+201,34,28,dental consultation,1,8,7,July,3,Tuesday,Summer,118,10,10,230.29,92,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+202,26,15,"Pregnancy, childbirth and the puerperium",1,8,7,July,2,Monday,Summer,300,26,13,230.29,92,0,43,1,1,1,2,1,77,175,25,36-45,Justified,entre 21 y 30 km
+203,10,22,Patient fol-up,1,8,7,July,6,Friday,Summer,361,52,3,230.29,92,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+204,11,22,Patient fol-up,1,8,7,July,2,Monday,Summer,289,36,13,230.29,92,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+205,5,26,unjustified absence,0,8,7,July,2,Monday,Summer,235,20,13,230.29,92,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+206,11,26,unjustified absence,0,8,8,August,3,Tuesday,Summer,289,36,13,249.797,93,0,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+207,5,26,unjustified absence,0,8,8,August,3,Tuesday,Summer,235,20,13,249.797,93,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+208,17,25,laboratory examination,1,8,8,August,3,Tuesday,Summer,179,22,17,249.797,93,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+209,22,23,medical consultation,1,8,9,September,6,Friday,Summer,179,26,9,261.756,87,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+210,13,23,medical consultation,1,8,9,September,3,Tuesday,Spring,369,17,12,261.756,87,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+211,10,22,Patient fol-up,1,8,9,September,3,Tuesday,Spring,361,52,3,261.756,87,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+212,24,26,unjustified absence,0,8,10,October,6,Friday,Spring,246,25,16,284.853,91,0,41,1,1,0,0,0,67,170,23,36-45,Unjustified,entre 21 y 30 km
+213,13,23,medical consultation,1,8,10,October,3,Tuesday,Spring,369,17,12,284.853,91,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+214,13,26,unjustified absence,0,8,10,October,3,Tuesday,Spring,369,17,12,284.853,91,0,31,1,1,0,3,0,70,169,25,26-35,Unjustified,entre 10 y 20 km
+215,13,10,Diseases of the respiratory system,1,8,10,October,5,Thursday,Spring,369,17,12,284.853,91,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+216,13,10,Diseases of the respiratory system,1,8,10,October,6,Friday,Spring,369,17,12,284.853,91,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+217,6,23,medical consultation,1,8,10,October,2,Monday,Spring,189,29,13,284.853,91,0,33,1,0,0,2,2,69,167,25,26-35,Justified,entre 21 y 30 km
+218,25,6,Diseases of the nervous system,1,8,10,October,2,Monday,Spring,235,16,8,284.853,91,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+219,33,10,Diseases of the respiratory system,1,8,10,October,2,Monday,Spring,248,25,14,284.853,91,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+220,34,9,Diseases of the circulatory system,1,8,11,November,3,Tuesday,Spring,118,10,10,268.519,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+221,11,24,"blood, donation",1,8,11,November,4,Wednesday,Spring,289,36,13,268.519,93,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+222,25,1,Certain infectious and parasitic diseases,1,8,11,November,6,Friday,Spring,235,16,8,268.519,93,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+223,10,22,Patient fol-up,1,8,11,November,3,Tuesday,Spring,361,52,3,268.519,93,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+224,34,23,medical consultation,1,8,11,November,2,Monday,Spring,118,10,10,268.519,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+225,34,8,Diseases of the ear and mastoid process,1,8,11,November,3,Tuesday,Spring,118,10,10,268.519,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+226,13,26,unjustified absence,0,8,11,November,6,Friday,Spring,369,17,12,268.519,93,0,31,1,1,0,3,0,70,169,25,26-35,Unjustified,entre 10 y 20 km
+227,5,26,unjustified absence,0,8,12,December,6,Friday,Spring,235,20,13,280.549,98,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+228,12,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,12,December,2,Monday,Spring,233,51,1,280.549,98,0,31,2,1,0,1,8,68,178,21,26-35,Justified,mas de 50 km
+229,32,10,Diseases of the respiratory system,1,8,1,January,5,Thursday,Autumn,289,48,29,313.532,96,0,49,1,0,0,0,2,108,172,37,46-54,Justified,entre 41 y 50 km
+230,14,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,1,January,3,Tuesday,Autumn,155,12,14,313.532,96,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+231,11,13,Diseases of the musculoskeletal system and connective tissue,1,8,1,January,4,Wednesday,Autumn,289,36,13,313.532,96,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+232,3,13,Diseases of the musculoskeletal system and connective tissue,1,8,2,February,3,Tuesday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+233,33,1,Certain infectious and parasitic diseases,1,8,2,February,4,Wednesday,Autumn,248,25,14,264.249,97,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+234,28,7,Diseases of the eye and adnexa,1,8,2,February,3,Tuesday,Autumn,225,26,9,264.249,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+235,3,13,Diseases of the musculoskeletal system and connective tissue,1,8,2,February,5,Thursday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+236,10,19,"Injury, poisoning and certain other consequences of external causes",1,8,3,March,2,Monday,Autumn,361,52,3,222.196,99,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+237,3,13,Diseases of the musculoskeletal system and connective tissue,1,8,3,March,3,Tuesday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+238,28,7,Diseases of the eye and adnexa,1,8,3,March,2,Monday,Autumn,225,26,9,222.196,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+239,11,23,medical consultation,1,8,3,March,4,Wednesday,Autumn,289,36,13,222.196,99,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+240,16,23,medical consultation,1,8,3,March,4,Wednesday,Winter,118,15,24,222.196,99,0,46,1,1,1,2,0,75,175,24,46-54,Justified,entre 10 y 20 km
+241,13,22,Patient fol-up,1,8,3,March,4,Wednesday,Winter,369,17,12,222.196,99,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+242,28,13,Diseases of the musculoskeletal system and connective tissue,1,8,4,April,2,Monday,Winter,225,26,9,246.288,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+243,34,10,Diseases of the respiratory system,1,8,4,April,2,Monday,Winter,118,10,10,246.288,91,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+244,10,19,"Injury, poisoning and certain other consequences of external causes",1,8,4,April,3,Tuesday,Winter,361,52,3,246.288,91,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+245,33,19,"Injury, poisoning and certain other consequences of external causes",1,8,4,April,4,Wednesday,Winter,248,25,14,246.288,91,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+246,6,13,Diseases of the musculoskeletal system and connective tissue,1,8,4,April,5,Thursday,Winter,189,29,13,246.288,91,0,33,1,0,0,2,2,69,167,25,26-35,Justified,entre 21 y 30 km
+247,1,22,Patient fol-up,1,8,4,April,6,Friday,Winter,235,11,14,246.288,91,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+248,28,19,"Injury, poisoning and certain other consequences of external causes",1,8,4,April,2,Monday,Winter,225,26,9,246.288,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+249,28,19,"Injury, poisoning and certain other consequences of external causes",1,8,4,April,5,Thursday,Winter,225,26,9,246.288,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+250,1,22,Patient fol-up,1,8,5,May,2,Monday,Winter,235,11,14,237.656,99,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+251,5,26,unjustified absence,0,8,5,May,4,Wednesday,Winter,235,20,13,237.656,99,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+252,29,14,Diseases of the genitourinary system,1,8,5,May,5,Thursday,Winter,225,15,15,237.656,99,0,41,4,1,0,2,2,94,182,28,36-45,Justified,entre 10 y 20 km
+253,29,22,Patient fol-up,1,8,5,May,6,Friday,Winter,225,15,15,237.656,99,0,41,4,1,0,2,2,94,182,28,36-45,Justified,entre 10 y 20 km
+254,25,10,Diseases of the respiratory system,1,8,5,May,2,Monday,Winter,235,16,8,237.656,99,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+255,15,22,Patient fol-up,1,8,5,May,4,Wednesday,Winter,291,31,12,237.656,99,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+256,17,10,Diseases of the respiratory system,1,8,5,May,4,Wednesday,Winter,179,22,17,237.656,99,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+257,18,10,Diseases of the respiratory system,1,8,5,May,5,Thursday,Winter,330,16,4,237.656,99,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+258,10,7,Diseases of the eye and adnexa,1,8,5,May,2,Monday,Winter,361,52,3,237.656,99,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+259,17,25,laboratory examination,1,8,5,May,6,Friday,Winter,179,22,17,237.656,99,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+260,14,10,Diseases of the respiratory system,1,8,5,May,6,Friday,Winter,155,12,14,237.656,99,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+261,16,7,Diseases of the eye and adnexa,1,8,6,June,4,Wednesday,Winter,118,15,24,275.089,96,0,46,1,1,1,2,0,75,175,24,46-54,Justified,entre 10 y 20 km
+262,34,26,unjustified absence,0,8,6,June,6,Friday,Winter,118,10,10,275.089,96,0,37,1,0,0,0,0,83,172,28,36-45,Unjustified,entre 10 y 20 km
+263,34,10,Diseases of the respiratory system,1,8,6,June,4,Wednesday,Winter,118,10,10,275.089,96,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+264,23,22,Patient fol-up,1,8,6,June,5,Thursday,Winter,378,49,11,275.089,96,0,36,1,0,1,2,4,65,174,21,36-45,Justified,entre 41 y 50 km
+265,12,19,"Injury, poisoning and certain other consequences of external causes",1,8,6,June,6,Friday,Winter,233,51,1,275.089,96,0,31,2,1,0,1,8,68,178,21,26-35,Justified,mas de 50 km
+266,12,22,Patient fol-up,1,8,6,June,5,Thursday,Summer,233,51,1,275.089,96,0,31,2,1,0,1,8,68,178,21,26-35,Justified,mas de 50 km
+267,9,6,Diseases of the nervous system,1,8,7,July,2,Monday,Summer,228,14,16,264.604,93,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+268,10,22,Patient fol-up,1,8,7,July,4,Wednesday,Summer,361,52,3,264.604,93,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+269,28,22,Patient fol-up,1,8,7,July,4,Wednesday,Summer,225,26,9,264.604,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+270,11,14,Diseases of the genitourinary system,1,8,7,July,3,Tuesday,Summer,289,36,13,264.604,93,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+271,10,25,laboratory examination,1,7,8,August,2,Monday,Summer,361,52,3,205.917,92,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+272,15,23,medical consultation,1,5,10,October,5,Thursday,Spring,291,31,12,253.465,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+273,15,23,medical consultation,1,5,11,November,5,Thursday,Spring,291,31,12,306.345,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+274,22,1,Certain infectious and parasitic diseases,1,5,10,October,4,Wednesday,Spring,179,26,9,265.017,88,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+275,22,7,Diseases of the eye and adnexa,1,5,10,October,4,Wednesday,Spring,179,26,9,265.017,88,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+276,28,23,medical consultation,1,5,1,January,4,Wednesday,Autumn,225,26,9,330.061,100,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+277,34,28,dental consultation,1,5,8,August,3,Tuesday,Summer,118,10,10,249.797,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+278,14,25,laboratory examination,1,5,2,February,2,Monday,Autumn,155,12,14,264.249,97,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+279,11,26,unjustified absence,0,4,7,July,3,Tuesday,Summer,289,36,13,239.554,97,0,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+280,7,7,Diseases of the eye and adnexa,1,4,7,July,5,Thursday,Summer,279,5,14,239.554,97,0,39,1,1,1,2,0,68,168,24,36-45,Justified,menos de 10 km
+281,20,23,medical consultation,1,4,7,July,6,Friday,Summer,260,50,11,239.554,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+282,3,23,medical consultation,1,4,7,July,4,Wednesday,Summer,179,51,18,239.554,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+283,20,28,dental consultation,1,4,8,August,6,Friday,Summer,260,50,11,205.917,92,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+284,30,28,dental consultation,1,4,8,August,4,Wednesday,Summer,157,27,6,205.917,92,0,29,1,1,1,0,0,75,185,22,26-35,Justified,entre 21 y 30 km
+285,1,23,medical consultation,1,4,8,August,5,Thursday,Summer,235,11,14,205.917,92,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+286,19,11,Diseases of the digestive system,1,4,8,August,5,Thursday,Summer,291,50,12,205.917,92,0,32,1,1,0,0,0,65,169,23,26-35,Justified,entre 41 y 50 km
+287,20,23,medical consultation,1,4,8,August,6,Friday,Summer,260,50,11,205.917,92,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+288,34,23,medical consultation,1,4,9,September,2,Monday,Summer,118,10,10,241.476,92,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+289,3,23,medical consultation,1,4,9,September,3,Tuesday,Summer,179,51,18,241.476,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+290,15,23,medical consultation,1,4,9,September,5,Thursday,Summer,291,31,12,241.476,92,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+291,20,23,medical consultation,1,4,9,September,6,Friday,Spring,260,50,11,241.476,92,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+292,20,28,dental consultation,1,4,11,November,6,Friday,Spring,260,50,11,306.345,93,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+293,20,28,dental consultation,1,4,3,March,6,Friday,Autumn,260,50,11,343.253,95,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+294,20,28,dental consultation,1,4,4,April,6,Friday,Winter,260,50,11,326.452,96,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+295,27,7,Diseases of the eye and adnexa,1,4,5,May,4,Wednesday,Winter,184,42,7,378.884,92,0,27,1,0,0,0,0,58,167,21,26-35,Justified,entre 41 y 50 km
+296,15,23,medical consultation,1,4,6,June,5,Thursday,Winter,291,31,12,377.55,94,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+297,14,23,medical consultation,1,4,6,June,2,Monday,Winter,155,12,14,377.55,94,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+298,34,26,unjustified absence,0,4,7,July,6,Friday,Summer,118,10,10,275.312,98,0,37,1,0,0,0,0,83,172,28,36-45,Unjustified,entre 10 y 20 km
+299,20,28,dental consultation,1,4,8,August,6,Friday,Summer,260,50,11,265.615,94,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+300,11,23,medical consultation,1,4,8,August,3,Tuesday,Summer,289,36,13,265.615,94,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+301,15,28,dental consultation,1,4,9,September,6,Friday,Summer,291,31,12,294.217,81,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+302,20,28,dental consultation,1,4,9,September,6,Friday,Summer,260,50,11,294.217,81,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+303,1,26,unjustified absence,0,4,10,October,2,Monday,Spring,235,11,14,265.017,88,0,37,3,0,0,1,1,88,172,30,36-45,Unjustified,entre 10 y 20 km
+304,15,28,dental consultation,1,4,10,October,3,Tuesday,Spring,291,31,12,265.017,88,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+305,15,12,Diseases of the skin and subcutaneous tissue,1,4,11,November,6,Friday,Spring,291,31,12,284.031,97,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+306,20,28,dental consultation,1,4,12,December,6,Friday,Spring,260,50,11,236.629,93,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+307,1,14,Diseases of the genitourinary system,1,4,12,December,3,Tuesday,Autumn,235,11,14,236.629,93,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+308,14,23,medical consultation,1,4,1,January,3,Tuesday,Autumn,155,12,14,330.061,100,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+309,36,26,unjustified absence,0,4,1,January,2,Monday,Autumn,118,13,18,330.061,100,0,50,1,1,0,1,0,98,178,31,46-54,Unjustified,entre 10 y 20 km
+310,20,28,dental consultation,1,4,3,March,6,Friday,Autumn,260,50,11,244.387,98,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+311,3,28,dental consultation,1,4,4,April,4,Wednesday,Winter,179,51,18,239.409,98,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+312,18,26,unjustified absence,0,4,4,April,6,Friday,Winter,330,16,4,239.409,98,0,28,2,0,0,0,0,84,182,25,26-35,Unjustified,entre 10 y 20 km
+313,13,22,Patient fol-up,1,4,4,April,2,Monday,Winter,369,17,12,239.409,98,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+314,33,26,unjustified absence,0,4,4,April,2,Monday,Winter,248,25,14,239.409,98,0,47,1,0,0,2,1,86,165,32,46-54,Unjustified,entre 21 y 30 km
+315,20,28,dental consultation,1,4,4,April,6,Friday,Winter,260,50,11,239.409,98,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+316,3,28,dental consultation,1,4,4,April,2,Monday,Winter,179,51,18,239.409,98,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+317,3,28,dental consultation,1,4,5,May,4,Wednesday,Winter,179,51,18,246.074,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+318,28,23,medical consultation,1,4,6,June,5,Thursday,Winter,225,26,9,253.957,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+319,20,28,dental consultation,1,4,6,June,6,Friday,Winter,260,50,11,253.957,95,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+320,3,28,dental consultation,1,4,6,June,2,Monday,Winter,179,51,18,253.957,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+321,28,25,laboratory examination,1,4,7,July,5,Thursday,Summer,225,26,9,230.29,92,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+322,20,26,unjustified absence,0,4,7,July,2,Monday,Summer,260,50,11,230.29,92,0,36,1,1,0,4,0,65,168,23,36-45,Unjustified,entre 41 y 50 km
+323,3,25,laboratory examination,1,4,8,August,5,Thursday,Summer,179,51,18,249.797,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+324,24,28,dental consultation,1,4,8,August,3,Tuesday,Summer,246,25,16,249.797,93,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+325,34,28,dental consultation,1,4,8,August,3,Tuesday,Summer,118,10,10,249.797,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+326,15,28,dental consultation,1,4,8,August,5,Thursday,Summer,291,31,12,249.797,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+327,3,25,laboratory examination,1,4,8,August,2,Monday,Summer,179,51,18,249.797,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+328,1,23,medical consultation,1,4,8,August,3,Tuesday,Summer,235,11,14,249.797,93,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+329,3,23,medical consultation,1,4,9,September,2,Monday,Summer,179,51,18,261.756,87,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+330,28,23,medical consultation,1,4,10,October,3,Tuesday,Spring,225,26,9,284.853,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+331,28,23,medical consultation,1,4,11,November,6,Friday,Spring,225,26,9,268.519,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+332,33,14,Diseases of the genitourinary system,1,4,11,November,5,Thursday,Spring,248,25,14,268.519,93,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+333,10,14,Diseases of the genitourinary system,1,4,12,December,5,Thursday,Spring,361,52,3,280.549,98,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+334,3,10,Diseases of the respiratory system,1,4,3,March,2,Monday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+335,14,28,dental consultation,1,4,4,April,3,Tuesday,Winter,155,12,14,246.288,91,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+336,5,26,unjustified absence,0,4,7,July,4,Wednesday,Summer,235,20,13,264.604,93,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+337,34,28,dental consultation,1,4,7,July,2,Monday,Summer,118,10,10,264.604,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+338,1,11,Diseases of the digestive system,1,4,7,July,3,Tuesday,Summer,235,11,14,264.604,93,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+339,34,23,medical consultation,1,3,9,September,2,Monday,Summer,118,10,10,241.476,92,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+340,3,23,medical consultation,1,3,9,September,3,Tuesday,Summer,179,51,18,241.476,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+341,28,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,3,9,September,4,Wednesday,Spring,225,26,9,241.476,92,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+342,3,23,medical consultation,1,3,9,September,4,Wednesday,Spring,179,51,18,241.476,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+343,3,23,medical consultation,1,3,9,September,6,Friday,Spring,179,51,18,241.476,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+344,3,23,medical consultation,1,3,10,October,3,Tuesday,Spring,179,51,18,253.465,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+345,34,23,medical consultation,1,3,10,October,3,Tuesday,Spring,118,10,10,253.465,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+346,3,23,medical consultation,1,3,10,October,6,Friday,Spring,179,51,18,253.465,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+347,28,23,medical consultation,1,3,10,October,6,Friday,Spring,225,26,9,253.465,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+348,34,23,medical consultation,1,3,10,October,3,Tuesday,Spring,118,10,10,253.465,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+349,28,23,medical consultation,1,3,10,October,4,Wednesday,Spring,225,26,9,253.465,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+350,20,28,dental consultation,1,3,10,October,6,Friday,Spring,260,50,11,253.465,93,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+351,28,23,medical consultation,1,3,11,November,4,Wednesday,Spring,225,26,9,306.345,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+352,28,13,Diseases of the musculoskeletal system and connective tissue,1,3,11,November,6,Friday,Spring,225,26,9,306.345,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+353,28,28,dental consultation,1,3,11,November,3,Tuesday,Spring,225,26,9,306.345,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+354,15,23,medical consultation,1,3,11,November,5,Thursday,Spring,291,31,12,306.345,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+355,28,28,dental consultation,1,3,12,December,5,Thursday,Spring,225,26,9,261.306,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+356,20,28,dental consultation,1,3,12,December,6,Friday,Spring,260,50,11,261.306,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+357,11,22,Patient fol-up,1,3,1,January,5,Thursday,Autumn,289,36,13,308.593,95,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+358,28,25,laboratory examination,1,3,2,February,5,Thursday,Autumn,225,26,9,302.585,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+359,30,19,"Injury, poisoning and certain other consequences of external causes",1,3,3,March,3,Tuesday,Autumn,157,27,6,343.253,95,0,29,1,1,1,0,0,75,185,22,26-35,Justified,entre 21 y 30 km
+360,33,14,Diseases of the genitourinary system,1,3,3,March,6,Friday,Autumn,248,25,14,343.253,95,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+361,3,13,Diseases of the musculoskeletal system and connective tissue,1,3,3,March,4,Wednesday,Winter,179,51,18,343.253,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+362,33,14,Diseases of the genitourinary system,1,3,3,March,6,Friday,Winter,248,25,14,343.253,95,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+363,15,23,medical consultation,1,3,4,April,6,Friday,Winter,291,31,12,326.452,96,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+364,1,7,Diseases of the eye and adnexa,1,3,4,April,6,Friday,Winter,235,11,14,326.452,96,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+365,30,25,laboratory examination,1,3,7,July,2,Monday,Summer,157,27,6,275.312,98,0,29,1,1,1,0,0,75,185,22,26-35,Justified,entre 21 y 30 km
+366,30,19,"Injury, poisoning and certain other consequences of external causes",1,3,8,August,6,Friday,Summer,157,27,6,265.615,94,0,29,1,1,1,0,0,75,185,22,26-35,Justified,entre 21 y 30 km
+367,36,13,Diseases of the musculoskeletal system and connective tissue,1,3,8,August,5,Thursday,Summer,118,13,18,265.615,94,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+368,3,23,medical consultation,1,3,9,September,6,Friday,Summer,179,51,18,294.217,81,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+369,15,28,dental consultation,1,3,9,September,3,Tuesday,Summer,291,31,12,294.217,81,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+370,15,28,dental consultation,1,3,9,September,6,Friday,Spring,291,31,12,294.217,81,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+371,34,7,Diseases of the eye and adnexa,1,3,10,October,2,Monday,Spring,118,10,10,265.017,88,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+372,20,28,dental consultation,1,3,10,October,6,Friday,Spring,260,50,11,265.017,88,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+373,20,28,dental consultation,1,3,11,November,6,Friday,Spring,260,50,11,284.031,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+374,34,11,Diseases of the digestive system,1,3,11,November,4,Wednesday,Spring,118,10,10,284.031,97,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+375,3,28,dental consultation,1,3,11,November,5,Thursday,Spring,179,51,18,284.031,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+376,28,12,Diseases of the skin and subcutaneous tissue,1,3,12,December,2,Monday,Spring,225,26,9,236.629,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+377,1,23,medical consultation,1,3,12,December,2,Monday,Spring,235,11,14,236.629,93,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+378,3,28,dental consultation,1,3,12,December,2,Monday,Autumn,179,51,18,236.629,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+379,3,27,physiotherapy,1,3,2,February,4,Wednesday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+380,11,22,Patient fol-up,1,3,2,February,6,Friday,Autumn,289,36,13,251.818,96,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+381,20,28,dental consultation,1,3,2,February,6,Friday,Autumn,260,50,11,251.818,96,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+382,3,23,medical consultation,1,3,2,February,6,Friday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+383,3,27,physiotherapy,1,3,2,February,4,Wednesday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+384,3,27,physiotherapy,1,3,2,February,6,Friday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+385,3,27,physiotherapy,1,3,2,February,2,Monday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+386,3,27,physiotherapy,1,3,2,February,4,Wednesday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+387,3,27,physiotherapy,1,3,2,February,6,Friday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+388,3,27,physiotherapy,1,3,2,February,4,Wednesday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+389,3,27,physiotherapy,1,3,2,February,6,Friday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+390,36,14,Diseases of the genitourinary system,1,3,3,March,3,Tuesday,Winter,118,13,18,244.387,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+391,20,28,dental consultation,1,3,4,April,6,Friday,Winter,260,50,11,239.409,98,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+392,22,23,medical consultation,1,3,5,May,4,Wednesday,Winter,179,26,9,246.074,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+393,20,28,dental consultation,1,3,5,May,6,Friday,Winter,260,50,11,246.074,99,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+394,17,8,Diseases of the ear and mastoid process,1,3,5,May,2,Monday,Winter,179,22,17,246.074,99,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+395,28,25,laboratory examination,1,3,5,May,4,Wednesday,Winter,225,26,9,246.074,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+396,22,23,medical consultation,1,3,5,May,4,Wednesday,Winter,179,26,9,246.074,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+397,34,23,medical consultation,1,3,6,June,2,Monday,Winter,118,10,10,253.957,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+398,3,28,dental consultation,1,3,6,June,2,Monday,Winter,179,51,18,253.957,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+399,24,28,dental consultation,1,3,6,June,3,Tuesday,Winter,246,25,16,253.957,95,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+400,20,28,dental consultation,1,3,8,August,2,Monday,Summer,260,50,11,249.797,93,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+401,34,28,dental consultation,1,3,9,September,3,Tuesday,Summer,118,10,10,261.756,87,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+402,25,11,Diseases of the digestive system,1,3,10,October,5,Thursday,Spring,235,16,8,284.853,91,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+403,32,14,Diseases of the genitourinary system,1,3,10,October,4,Wednesday,Spring,289,48,29,284.853,91,0,49,1,0,0,0,2,108,172,37,46-54,Justified,entre 41 y 50 km
+404,13,23,medical consultation,1,3,10,October,3,Tuesday,Spring,369,17,12,284.853,91,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+405,3,28,dental consultation,1,3,10,October,4,Wednesday,Spring,179,51,18,284.853,91,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+406,28,10,Diseases of the respiratory system,1,3,10,October,6,Friday,Spring,225,26,9,284.853,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+407,28,13,Diseases of the musculoskeletal system and connective tissue,1,3,10,October,3,Tuesday,Spring,225,26,9,284.853,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+408,34,28,dental consultation,1,3,11,November,4,Wednesday,Spring,118,10,10,268.519,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+409,28,14,Diseases of the genitourinary system,1,3,11,November,5,Thursday,Spring,225,26,9,268.519,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+410,28,23,medical consultation,1,3,12,December,4,Wednesday,Spring,225,26,9,280.549,98,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+411,28,23,medical consultation,1,3,12,December,6,Friday,Spring,225,26,9,280.549,98,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+412,28,23,medical consultation,1,3,12,December,4,Wednesday,Spring,225,26,9,280.549,98,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+413,28,23,medical consultation,1,3,12,December,5,Thursday,Spring,225,26,9,280.549,98,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+414,22,13,Diseases of the musculoskeletal system and connective tissue,1,3,1,January,2,Monday,Autumn,179,26,9,313.532,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+415,17,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,3,1,January,6,Friday,Autumn,179,22,17,313.532,96,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+416,3,27,physiotherapy,1,3,1,January,4,Wednesday,Autumn,179,51,18,313.532,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+417,3,27,physiotherapy,1,3,1,January,5,Thursday,Autumn,179,51,18,313.532,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+418,28,23,medical consultation,1,3,2,February,3,Tuesday,Autumn,225,26,9,264.249,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+419,28,28,dental consultation,1,3,2,February,5,Thursday,Autumn,225,26,9,264.249,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+420,3,27,physiotherapy,1,3,2,February,4,Wednesday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+421,3,27,physiotherapy,1,3,2,February,5,Thursday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+422,28,25,laboratory examination,1,3,2,February,5,Thursday,Autumn,225,26,9,264.249,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+423,3,27,physiotherapy,1,3,2,February,6,Friday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+424,12,12,Diseases of the skin and subcutaneous tissue,1,3,2,February,4,Wednesday,Autumn,233,51,1,264.249,97,0,31,2,1,0,1,8,68,178,21,26-35,Justified,mas de 50 km
+425,25,25,laboratory examination,1,3,2,February,2,Monday,Autumn,235,16,8,264.249,97,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+426,9,25,laboratory examination,1,3,3,March,3,Tuesday,Autumn,228,14,16,222.196,99,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+427,33,25,laboratory examination,1,3,3,March,3,Tuesday,Autumn,248,25,14,222.196,99,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+428,3,27,physiotherapy,1,3,3,March,5,Thursday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+429,22,27,physiotherapy,1,3,3,March,6,Friday,Autumn,179,26,9,222.196,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+430,25,25,laboratory examination,1,3,3,March,2,Monday,Autumn,235,16,8,222.196,99,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+431,3,27,physiotherapy,1,3,3,March,5,Thursday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+432,3,27,physiotherapy,1,3,3,March,2,Monday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+433,33,23,medical consultation,1,3,3,March,5,Thursday,Autumn,248,25,14,222.196,99,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+434,3,27,physiotherapy,1,3,3,March,5,Thursday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+435,3,27,physiotherapy,1,3,3,March,6,Friday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+436,3,27,physiotherapy,1,3,3,March,3,Tuesday,Winter,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+437,3,27,physiotherapy,1,3,3,March,4,Wednesday,Winter,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+438,3,27,physiotherapy,1,3,3,March,5,Thursday,Winter,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+439,36,23,medical consultation,1,3,4,April,3,Tuesday,Winter,118,13,18,246.288,91,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+440,25,16,Certain conditions originating in the perinatal period,1,3,4,April,3,Tuesday,Winter,235,16,8,246.288,91,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+441,29,19,"Injury, poisoning and certain other consequences of external causes",1,3,5,May,4,Wednesday,Winter,225,15,15,237.656,99,0,41,4,1,0,2,2,94,182,28,36-45,Justified,entre 10 y 20 km
+442,34,8,Diseases of the ear and mastoid process,1,3,5,May,4,Wednesday,Winter,118,10,10,237.656,99,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+443,36,5,Mental and behavioural disorders,1,3,5,May,3,Tuesday,Winter,118,13,18,237.656,99,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+444,28,6,Diseases of the nervous system,1,3,5,May,4,Wednesday,Winter,225,26,9,237.656,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+445,22,27,physiotherapy,1,3,6,June,4,Wednesday,Winter,179,26,9,275.089,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+446,36,19,"Injury, poisoning and certain other consequences of external causes",1,3,6,June,5,Thursday,Winter,118,13,18,275.089,96,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+447,22,13,Diseases of the musculoskeletal system and connective tissue,1,3,6,June,2,Monday,Summer,179,26,9,275.089,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+448,34,25,laboratory examination,1,3,6,June,2,Monday,Summer,118,10,10,275.089,96,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+449,34,10,Diseases of the respiratory system,1,3,6,June,4,Wednesday,Summer,118,10,10,275.089,96,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+450,12,22,Patient fol-up,1,3,6,June,4,Wednesday,Summer,233,51,1,275.089,96,0,31,2,1,0,1,8,68,178,21,26-35,Justified,mas de 50 km
+451,3,23,medical consultation,1,2,7,July,4,Wednesday,Summer,179,51,18,239.554,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+452,11,23,medical consultation,1,2,7,July,5,Thursday,Summer,289,36,13,239.554,97,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+453,3,23,medical consultation,1,2,7,July,6,Friday,Summer,179,51,18,239.554,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+454,3,23,medical consultation,1,2,7,July,6,Friday,Summer,179,51,18,239.554,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+455,33,23,medical consultation,1,2,8,August,4,Wednesday,Summer,248,25,14,205.917,92,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+456,3,23,medical consultation,1,2,8,August,6,Friday,Summer,179,51,18,205.917,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+457,3,23,medical consultation,1,2,8,August,2,Monday,Summer,179,51,18,205.917,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+458,27,23,medical consultation,1,2,9,September,3,Tuesday,Summer,184,42,7,241.476,92,0,27,1,0,0,0,0,58,167,21,26-35,Justified,entre 41 y 50 km
+459,14,23,medical consultation,1,2,9,September,4,Wednesday,Summer,155,12,14,241.476,92,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+460,28,23,medical consultation,1,2,9,September,3,Tuesday,Spring,225,26,9,241.476,92,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+461,34,23,medical consultation,1,2,9,September,3,Tuesday,Spring,118,10,10,241.476,92,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+462,28,23,medical consultation,1,2,10,October,4,Wednesday,Spring,225,26,9,253.465,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+463,33,23,medical consultation,1,2,10,October,4,Wednesday,Spring,248,25,14,253.465,93,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+464,28,28,dental consultation,1,2,10,October,3,Tuesday,Spring,225,26,9,253.465,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+465,36,23,medical consultation,1,2,12,December,4,Wednesday,Spring,118,13,18,261.306,97,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+466,28,23,medical consultation,1,2,12,December,5,Thursday,Spring,225,26,9,261.306,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+467,28,23,medical consultation,1,2,12,December,3,Tuesday,Spring,225,26,9,261.306,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+468,34,27,physiotherapy,1,2,12,December,6,Friday,Spring,118,10,10,261.306,97,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+469,28,23,medical consultation,1,2,12,December,6,Friday,Autumn,225,26,9,261.306,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+470,28,27,physiotherapy,1,2,1,January,4,Wednesday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+471,27,23,medical consultation,1,2,1,January,5,Thursday,Autumn,184,42,7,308.593,95,0,27,1,0,0,0,0,58,167,21,26-35,Justified,entre 41 y 50 km
+472,28,28,dental consultation,1,2,1,January,5,Thursday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+473,34,27,physiotherapy,1,2,1,January,2,Monday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+474,28,27,physiotherapy,1,2,1,January,3,Tuesday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+475,34,27,physiotherapy,1,2,1,January,3,Tuesday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+476,34,27,physiotherapy,1,2,1,January,4,Wednesday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+477,34,27,physiotherapy,1,2,1,January,5,Thursday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+478,34,27,physiotherapy,1,2,1,January,6,Friday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+479,34,27,physiotherapy,1,2,1,January,2,Monday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+480,34,27,physiotherapy,1,2,1,January,3,Tuesday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+481,34,27,physiotherapy,1,2,1,January,4,Wednesday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+482,27,23,medical consultation,1,2,1,January,5,Thursday,Autumn,184,42,7,308.593,95,0,27,1,0,0,0,0,58,167,21,26-35,Justified,entre 41 y 50 km
+483,34,27,physiotherapy,1,2,1,January,5,Thursday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+484,14,28,dental consultation,1,2,2,February,5,Thursday,Autumn,155,12,14,302.585,99,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+485,20,28,dental consultation,1,2,2,February,6,Friday,Autumn,260,50,11,302.585,99,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+486,28,28,dental consultation,1,2,2,February,2,Monday,Autumn,225,26,9,302.585,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+487,28,23,medical consultation,1,2,2,February,3,Tuesday,Autumn,225,26,9,302.585,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+488,19,28,dental consultation,1,2,3,March,3,Tuesday,Autumn,291,50,12,343.253,95,0,32,1,1,0,0,0,65,169,23,26-35,Justified,entre 41 y 50 km
+489,28,23,medical consultation,1,2,3,March,4,Wednesday,Autumn,225,26,9,343.253,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+490,28,28,dental consultation,1,2,3,March,6,Friday,Winter,225,26,9,343.253,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+491,28,28,dental consultation,1,2,4,April,6,Friday,Winter,225,26,9,326.452,96,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+492,14,28,dental consultation,1,2,5,May,5,Thursday,Winter,155,12,14,378.884,92,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+493,14,28,dental consultation,1,2,5,May,2,Monday,Winter,155,12,14,378.884,92,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+494,3,11,Diseases of the digestive system,1,2,6,June,6,Friday,Winter,179,51,18,377.55,94,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+495,32,28,dental consultation,1,2,6,June,2,Monday,Summer,289,48,29,377.55,94,0,49,1,0,0,0,2,108,172,37,46-54,Justified,entre 41 y 50 km
+496,28,28,dental consultation,1,2,6,June,5,Thursday,Summer,225,26,9,377.55,94,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+497,14,25,laboratory examination,1,2,7,July,6,Friday,Summer,155,12,14,275.312,98,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+498,26,14,Diseases of the genitourinary system,1,2,8,August,5,Thursday,Summer,300,26,13,265.615,94,0,43,1,1,1,2,1,77,175,25,36-45,Justified,entre 21 y 30 km
+499,33,25,laboratory examination,1,2,8,August,2,Monday,Summer,248,25,14,265.615,94,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+500,5,23,medical consultation,1,2,10,October,2,Monday,Spring,235,20,13,265.017,88,0,43,1,1,0,1,0,106,167,38,36-45,Justified,entre 10 y 20 km
+501,5,23,medical consultation,1,2,10,October,2,Monday,Spring,235,20,13,265.017,88,0,43,1,1,0,1,0,106,167,38,36-45,Justified,entre 10 y 20 km
+502,33,23,medical consultation,1,2,11,November,2,Monday,Spring,248,25,14,284.031,97,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+503,1,25,laboratory examination,1,2,11,November,5,Thursday,Spring,235,11,14,284.031,97,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+504,3,28,dental consultation,1,2,12,December,2,Monday,Spring,179,51,18,236.629,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+505,1,25,laboratory examination,1,2,12,December,5,Thursday,Spring,235,11,14,236.629,93,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+506,30,28,dental consultation,1,2,12,December,2,Monday,Autumn,157,27,6,236.629,93,0,29,1,1,1,0,0,75,185,22,26-35,Justified,entre 21 y 30 km
+507,14,23,medical consultation,1,2,1,January,2,Monday,Autumn,155,12,14,330.061,100,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+508,34,28,dental consultation,1,2,2,February,3,Tuesday,Autumn,118,10,10,251.818,96,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+509,3,27,physiotherapy,1,2,2,February,2,Monday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+510,24,23,medical consultation,1,2,2,February,3,Tuesday,Autumn,246,25,16,251.818,96,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+511,15,23,medical consultation,1,2,2,February,3,Tuesday,Autumn,291,31,12,251.818,96,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+512,24,28,dental consultation,1,2,3,March,6,Friday,Autumn,246,25,16,244.387,98,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+513,3,28,dental consultation,1,2,3,March,2,Monday,Autumn,179,51,18,244.387,98,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+514,36,23,medical consultation,1,2,3,March,6,Friday,Winter,118,13,18,244.387,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+515,24,28,dental consultation,1,2,3,March,3,Tuesday,Winter,246,25,16,244.387,98,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+516,34,11,Diseases of the digestive system,1,2,4,April,4,Wednesday,Winter,118,10,10,239.409,98,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+517,33,23,medical consultation,1,2,5,May,4,Wednesday,Winter,248,25,14,246.074,99,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+518,17,11,Diseases of the digestive system,1,2,5,May,2,Monday,Winter,179,22,17,246.074,99,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+519,22,25,laboratory examination,1,2,5,May,2,Monday,Winter,179,26,9,246.074,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+520,34,28,dental consultation,1,2,6,June,3,Tuesday,Winter,118,10,10,253.957,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+521,3,28,dental consultation,1,2,6,June,2,Monday,Summer,179,51,18,253.957,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+522,28,23,medical consultation,1,2,6,June,4,Wednesday,Summer,225,26,9,253.957,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+523,36,23,medical consultation,1,2,6,June,4,Wednesday,Summer,118,13,18,253.957,95,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+524,22,21,Factors influencing health status and contact with health services.,1,2,6,June,4,Wednesday,Summer,179,26,9,253.957,95,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+525,24,28,dental consultation,1,2,6,June,6,Friday,Summer,246,25,16,253.957,95,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+526,22,23,medical consultation,1,2,7,July,5,Thursday,Summer,179,26,9,230.29,92,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+527,24,28,dental consultation,1,2,7,July,3,Tuesday,Summer,246,25,16,230.29,92,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+528,24,28,dental consultation,1,2,7,July,3,Tuesday,Summer,246,25,16,230.29,92,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+529,7,23,medical consultation,1,2,7,July,5,Thursday,Summer,279,5,14,230.29,92,0,39,1,1,1,2,0,68,168,24,36-45,Justified,menos de 10 km
+530,15,28,dental consultation,1,2,8,August,5,Thursday,Summer,291,31,12,249.797,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+531,14,23,medical consultation,1,2,9,September,3,Tuesday,Summer,155,12,14,261.756,87,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+532,15,28,dental consultation,1,2,9,September,5,Thursday,Summer,291,31,12,261.756,87,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+533,22,23,medical consultation,1,2,9,September,2,Monday,Summer,179,26,9,261.756,87,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+534,15,28,dental consultation,1,2,10,October,4,Wednesday,Spring,291,31,12,284.853,91,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+535,34,23,medical consultation,1,2,10,October,3,Tuesday,Spring,118,10,10,284.853,91,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+536,32,23,medical consultation,1,2,10,October,5,Thursday,Spring,289,48,29,284.853,91,0,49,1,0,0,0,2,108,172,37,46-54,Justified,entre 41 y 50 km
+537,28,23,medical consultation,1,2,10,October,3,Tuesday,Spring,225,26,9,284.853,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+538,15,28,dental consultation,1,2,11,November,4,Wednesday,Spring,291,31,12,268.519,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+539,34,13,Diseases of the musculoskeletal system and connective tissue,1,2,11,November,5,Thursday,Spring,118,10,10,268.519,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+540,28,23,medical consultation,1,2,11,November,3,Tuesday,Spring,225,26,9,268.519,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+541,28,23,medical consultation,1,2,11,November,6,Friday,Spring,225,26,9,268.519,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+542,10,28,dental consultation,1,2,11,November,2,Monday,Spring,361,52,3,268.519,93,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+543,17,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,2,12,December,6,Friday,Spring,179,22,17,280.549,98,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+544,28,23,medical consultation,1,2,12,December,3,Tuesday,Spring,225,26,9,280.549,98,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+545,28,23,medical consultation,1,2,12,December,2,Monday,Spring,225,26,9,280.549,98,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+546,17,25,laboratory examination,1,2,1,January,5,Thursday,Autumn,179,22,17,313.532,96,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+547,17,25,laboratory examination,1,2,1,January,6,Friday,Autumn,179,22,17,313.532,96,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+548,17,25,laboratory examination,1,2,1,January,4,Wednesday,Autumn,179,22,17,313.532,96,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+549,22,27,physiotherapy,1,2,1,January,2,Monday,Autumn,179,26,9,313.532,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+550,22,27,physiotherapy,1,2,1,January,4,Wednesday,Autumn,179,26,9,313.532,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+551,3,27,physiotherapy,1,2,1,January,6,Friday,Autumn,179,51,18,313.532,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+552,3,27,physiotherapy,1,2,2,February,4,Wednesday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+553,3,27,physiotherapy,1,2,2,February,5,Thursday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+554,22,27,physiotherapy,1,2,2,February,5,Thursday,Autumn,179,26,9,264.249,97,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+555,29,28,dental consultation,1,2,2,February,6,Friday,Autumn,225,15,15,264.249,97,0,41,4,1,0,2,2,94,182,28,36-45,Justified,entre 10 y 20 km
+556,3,27,physiotherapy,1,2,2,February,6,Friday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+557,12,19,"Injury, poisoning and certain other consequences of external causes",1,2,2,February,2,Monday,Autumn,233,51,1,264.249,97,0,31,2,1,0,1,8,68,178,21,26-35,Justified,mas de 50 km
+558,3,27,physiotherapy,1,2,2,February,2,Monday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+559,22,13,Diseases of the musculoskeletal system and connective tissue,1,2,2,February,5,Thursday,Autumn,179,26,9,264.249,97,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+560,17,23,medical consultation,1,2,2,February,6,Friday,Autumn,179,22,17,264.249,97,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+561,22,27,physiotherapy,1,2,2,February,4,Wednesday,Autumn,179,26,9,264.249,97,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+562,3,27,physiotherapy,1,2,2,February,4,Wednesday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+563,3,27,physiotherapy,1,2,2,February,6,Friday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+564,3,27,physiotherapy,1,2,2,February,2,Monday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+565,28,7,Diseases of the eye and adnexa,1,2,2,February,2,Monday,Autumn,225,26,9,264.249,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+566,3,27,physiotherapy,1,2,2,February,3,Tuesday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+567,33,23,medical consultation,1,2,2,February,3,Tuesday,Autumn,248,25,14,264.249,97,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+568,28,25,laboratory examination,1,2,2,February,3,Tuesday,Autumn,225,26,9,264.249,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+569,3,27,physiotherapy,1,2,2,February,4,Wednesday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+570,3,27,physiotherapy,1,2,2,February,5,Thursday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+571,25,25,laboratory examination,1,2,2,February,6,Friday,Autumn,235,16,8,264.249,97,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+572,3,27,physiotherapy,1,2,3,March,2,Monday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+573,33,23,medical consultation,1,2,3,March,2,Monday,Autumn,248,25,14,222.196,99,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+574,3,27,physiotherapy,1,2,3,March,4,Wednesday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+575,28,27,physiotherapy,1,2,3,March,5,Thursday,Autumn,225,26,9,222.196,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+576,28,25,laboratory examination,1,2,3,March,5,Thursday,Autumn,225,26,9,222.196,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+577,3,27,physiotherapy,1,2,3,March,4,Wednesday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+578,22,27,physiotherapy,1,2,3,March,6,Friday,Autumn,179,26,9,222.196,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+579,33,13,Diseases of the musculoskeletal system and connective tissue,1,2,3,March,2,Monday,Autumn,248,25,14,222.196,99,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+580,3,27,physiotherapy,1,2,3,March,3,Tuesday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+581,9,25,laboratory examination,1,2,3,March,4,Wednesday,Autumn,228,14,16,222.196,99,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+582,3,27,physiotherapy,1,2,3,March,4,Wednesday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+583,22,23,medical consultation,1,2,3,March,6,Friday,Autumn,179,26,9,222.196,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+584,22,13,Diseases of the musculoskeletal system and connective tissue,1,2,3,March,2,Monday,Winter,179,26,9,222.196,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+585,22,27,physiotherapy,1,2,4,April,6,Friday,Winter,179,26,9,246.288,91,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+586,17,16,Certain conditions originating in the perinatal period,1,2,4,April,3,Tuesday,Winter,179,22,17,246.288,91,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+587,10,23,medical consultation,1,2,4,April,3,Tuesday,Winter,361,52,3,246.288,91,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+588,34,10,Diseases of the respiratory system,1,2,4,April,4,Wednesday,Winter,118,10,10,246.288,91,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+589,22,27,physiotherapy,1,2,4,April,6,Friday,Winter,179,26,9,246.288,91,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+590,22,27,physiotherapy,1,2,4,April,6,Friday,Winter,179,26,9,246.288,91,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+591,36,14,Diseases of the genitourinary system,1,2,4,April,5,Thursday,Winter,118,13,18,246.288,91,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+592,22,27,physiotherapy,1,2,4,April,6,Friday,Winter,179,26,9,246.288,91,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+593,25,28,dental consultation,1,2,5,May,4,Wednesday,Winter,235,16,8,237.656,99,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+594,15,28,dental consultation,1,2,5,May,5,Thursday,Winter,291,31,12,237.656,99,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+595,22,27,physiotherapy,1,2,5,May,6,Friday,Winter,179,26,9,237.656,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+596,36,23,medical consultation,1,2,5,May,2,Monday,Winter,118,13,18,237.656,99,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+597,22,27,physiotherapy,1,2,5,May,4,Wednesday,Winter,179,26,9,237.656,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+598,25,23,medical consultation,1,2,5,May,5,Thursday,Winter,235,16,8,237.656,99,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+599,15,28,dental consultation,1,2,5,May,5,Thursday,Winter,291,31,12,237.656,99,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+600,22,27,physiotherapy,1,2,5,May,6,Friday,Winter,179,26,9,237.656,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+601,14,23,medical consultation,1,2,5,May,4,Wednesday,Winter,155,12,14,237.656,99,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+602,22,27,physiotherapy,1,2,6,June,6,Friday,Winter,179,26,9,275.089,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+603,22,13,Diseases of the musculoskeletal system and connective tissue,1,2,6,June,5,Thursday,Winter,179,26,9,275.089,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+604,15,28,dental consultation,1,2,6,June,5,Thursday,Winter,291,31,12,275.089,96,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+605,34,8,Diseases of the ear and mastoid process,1,2,6,June,6,Friday,Summer,118,10,10,275.089,96,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+606,12,19,"Injury, poisoning and certain other consequences of external causes",1,2,7,July,6,Friday,Summer,233,51,1,264.604,93,0,31,2,1,0,1,8,68,178,21,26-35,Justified,mas de 50 km
+607,34,23,medical consultation,1,2,7,July,4,Wednesday,Summer,118,10,10,264.604,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+608,3,11,Diseases of the digestive system,1,1,7,July,4,Wednesday,Summer,179,51,18,239.554,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+609,3,11,Diseases of the digestive system,1,1,8,August,2,Monday,Summer,179,51,18,205.917,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+610,11,23,medical consultation,1,1,8,August,3,Tuesday,Summer,289,36,13,205.917,92,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+611,10,23,medical consultation,1,1,8,August,2,Monday,Summer,361,52,3,205.917,92,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+612,33,23,medical consultation,1,1,9,September,6,Friday,Spring,248,25,14,241.476,92,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+613,22,23,medical consultation,1,1,10,October,5,Thursday,Spring,179,26,9,253.465,93,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+614,10,23,medical consultation,1,1,10,October,6,Friday,Spring,361,52,3,253.465,93,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+615,3,23,medical consultation,1,1,11,November,5,Thursday,Spring,179,51,18,306.345,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+616,28,23,medical consultation,1,1,11,November,4,Wednesday,Spring,225,26,9,306.345,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+617,28,23,medical consultation,1,1,11,November,4,Wednesday,Spring,225,26,9,306.345,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+618,33,28,dental consultation,1,1,11,November,2,Monday,Spring,248,25,14,306.345,93,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+619,33,23,medical consultation,1,1,12,December,3,Tuesday,Spring,248,25,14,261.306,97,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+620,28,23,medical consultation,1,1,1,January,4,Wednesday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+621,34,19,"Injury, poisoning and certain other consequences of external causes",1,1,1,January,2,Monday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+622,34,27,physiotherapy,1,1,1,January,3,Tuesday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+623,28,27,physiotherapy,1,1,1,January,6,Friday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+624,28,23,medical consultation,1,1,1,January,3,Tuesday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+625,27,23,medical consultation,1,1,2,February,6,Friday,Autumn,184,42,7,302.585,99,0,27,1,0,0,0,0,58,167,21,26-35,Justified,entre 41 y 50 km
+626,22,23,medical consultation,1,1,2,February,3,Tuesday,Autumn,179,26,9,302.585,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+627,18,23,medical consultation,1,1,2,February,3,Tuesday,Autumn,330,16,4,302.585,99,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+628,28,23,medical consultation,1,1,2,February,4,Wednesday,Autumn,225,26,9,302.585,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+629,28,23,medical consultation,1,1,3,March,6,Friday,Autumn,225,26,9,343.253,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+630,22,13,Diseases of the musculoskeletal system and connective tissue,1,1,3,March,2,Monday,Winter,179,26,9,343.253,95,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+631,28,28,dental consultation,1,1,3,March,2,Monday,Winter,225,26,9,343.253,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+632,15,28,dental consultation,1,1,4,April,4,Wednesday,Winter,291,31,12,326.452,96,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+633,28,23,medical consultation,1,1,4,April,4,Wednesday,Winter,225,26,9,326.452,96,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+634,14,28,dental consultation,1,1,4,April,3,Tuesday,Winter,155,12,14,326.452,96,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+635,14,23,medical consultation,1,1,4,April,5,Thursday,Winter,155,12,14,326.452,96,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+636,36,23,medical consultation,1,1,4,April,5,Thursday,Winter,118,13,18,326.452,96,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+637,15,28,dental consultation,1,1,4,April,6,Friday,Winter,291,31,12,326.452,96,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+638,14,28,dental consultation,1,1,5,May,2,Monday,Winter,155,12,14,378.884,92,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+639,3,12,Diseases of the skin and subcutaneous tissue,1,1,5,May,3,Tuesday,Winter,179,51,18,378.884,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+640,3,11,Diseases of the digestive system,1,1,5,May,3,Tuesday,Winter,179,51,18,378.884,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+641,36,23,medical consultation,1,1,6,June,3,Tuesday,Winter,118,13,18,377.55,94,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+642,11,23,medical consultation,1,1,8,August,2,Monday,Summer,289,36,13,265.615,94,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+643,26,13,Diseases of the musculoskeletal system and connective tissue,1,1,8,August,5,Thursday,Summer,300,26,13,265.615,94,0,43,1,1,1,2,1,77,175,25,36-45,Justified,entre 21 y 30 km
+644,33,23,medical consultation,1,1,8,August,4,Wednesday,Summer,248,25,14,265.615,94,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+645,22,23,medical consultation,1,1,8,August,5,Thursday,Summer,179,26,9,265.615,94,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+646,1,23,medical consultation,1,1,8,August,3,Tuesday,Summer,235,11,14,265.615,94,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+647,36,23,medical consultation,1,1,8,August,5,Thursday,Summer,118,13,18,265.615,94,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+648,3,23,medical consultation,1,1,9,September,5,Thursday,Summer,179,51,18,294.217,81,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+649,36,28,dental consultation,1,1,9,September,5,Thursday,Spring,118,13,18,294.217,81,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+650,3,28,dental consultation,1,1,10,October,4,Wednesday,Spring,179,51,18,265.017,88,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+651,36,28,dental consultation,1,1,10,October,3,Tuesday,Spring,118,13,18,265.017,88,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+652,36,28,dental consultation,1,1,10,October,5,Thursday,Spring,118,13,18,265.017,88,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+653,36,23,medical consultation,1,1,10,October,5,Thursday,Spring,118,13,18,265.017,88,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+654,15,23,medical consultation,1,1,11,November,2,Monday,Spring,291,31,12,284.031,97,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+655,1,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,1,11,November,4,Wednesday,Spring,235,11,14,284.031,97,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+656,3,28,dental consultation,1,1,11,November,3,Tuesday,Spring,179,51,18,284.031,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+657,3,23,medical consultation,1,1,11,November,5,Thursday,Spring,179,51,18,284.031,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+658,3,28,dental consultation,1,1,12,December,2,Monday,Spring,179,51,18,236.629,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+659,36,28,dental consultation,1,1,12,December,3,Tuesday,Spring,118,13,18,236.629,93,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+660,3,28,dental consultation,1,1,12,December,5,Thursday,Spring,179,51,18,236.629,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+661,3,28,dental consultation,1,1,12,December,6,Friday,Spring,179,51,18,236.629,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+662,22,23,medical consultation,1,1,12,December,3,Tuesday,Spring,179,26,9,236.629,93,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+663,3,28,dental consultation,1,1,12,December,6,Friday,Spring,179,51,18,236.629,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+664,1,13,Diseases of the musculoskeletal system and connective tissue,1,1,1,January,3,Tuesday,Autumn,235,11,14,330.061,100,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+665,3,28,dental consultation,1,1,1,January,4,Wednesday,Autumn,179,51,18,330.061,100,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+666,3,28,dental consultation,1,1,1,January,6,Friday,Autumn,179,51,18,330.061,100,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+667,28,7,Diseases of the eye and adnexa,1,1,2,February,4,Wednesday,Autumn,225,26,9,251.818,96,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+668,36,23,medical consultation,1,1,4,April,2,Monday,Winter,118,13,18,239.409,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+669,10,23,medical consultation,1,1,5,May,5,Thursday,Winter,361,52,3,246.074,99,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+670,34,28,dental consultation,1,1,5,May,2,Monday,Winter,118,10,10,246.074,99,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+671,18,11,Diseases of the digestive system,1,1,6,June,3,Tuesday,Summer,330,16,4,253.957,95,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+672,2,23,medical consultation,1,1,7,July,2,Monday,Summer,235,29,12,230.29,92,0,48,1,0,1,1,5,88,163,33,46-54,Justified,entre 21 y 30 km
+673,3,28,dental consultation,1,1,7,July,3,Tuesday,Summer,179,51,18,230.29,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+674,36,23,medical consultation,1,1,7,July,6,Friday,Summer,118,13,18,230.29,92,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+675,15,28,dental consultation,1,1,7,July,5,Thursday,Summer,291,31,12,230.29,92,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+676,17,25,laboratory examination,1,1,8,August,2,Monday,Summer,179,22,17,249.797,93,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+677,24,28,dental consultation,1,1,8,August,3,Tuesday,Summer,246,25,16,249.797,93,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+678,24,28,dental consultation,1,1,9,September,3,Tuesday,Summer,246,25,16,261.756,87,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+679,24,28,dental consultation,1,1,9,September,3,Tuesday,Summer,246,25,16,261.756,87,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+680,33,23,medical consultation,1,1,9,September,6,Friday,Summer,248,25,14,261.756,87,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+681,28,23,medical consultation,1,1,9,September,4,Wednesday,Summer,225,26,9,261.756,87,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+682,32,4,"Endocrine, nutritional and metabolic diseases",1,1,10,October,5,Thursday,Spring,289,48,29,284.853,91,0,49,1,0,0,0,2,108,172,37,46-54,Justified,entre 41 y 50 km
+683,15,23,medical consultation,1,1,10,October,6,Friday,Spring,291,31,12,284.853,91,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+684,9,1,Certain infectious and parasitic diseases,1,1,10,October,4,Wednesday,Spring,228,14,16,284.853,91,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+685,15,23,medical consultation,1,1,10,October,4,Wednesday,Spring,291,31,12,284.853,91,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+686,28,13,Diseases of the musculoskeletal system and connective tissue,1,1,10,October,5,Thursday,Spring,225,26,9,284.853,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+687,3,21,Factors influencing health status and contact with health services.,1,1,11,November,3,Tuesday,Spring,179,51,18,268.519,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+688,3,28,dental consultation,1,1,11,November,6,Friday,Spring,179,51,18,268.519,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+689,3,28,dental consultation,1,1,11,November,2,Monday,Spring,179,51,18,268.519,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+690,15,28,dental consultation,1,1,12,December,4,Wednesday,Spring,291,31,12,280.549,98,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+691,22,13,Diseases of the musculoskeletal system and connective tissue,1,1,12,December,6,Friday,Spring,179,26,9,280.549,98,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+692,22,13,Diseases of the musculoskeletal system and connective tissue,1,1,5,May,5,Thursday,Winter,179,26,9,237.656,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+693,34,28,dental consultation,1,1,5,May,3,Tuesday,Winter,118,10,10,237.656,99,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+694,17,16,Certain conditions originating in the perinatal period,1,1,5,May,6,Friday,Winter,179,22,17,237.656,99,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+695,28,11,Diseases of the digestive system,1,1,5,May,2,Monday,Winter,225,26,9,237.656,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+696,36,0,Unknown,0,0,7,July,3,Tuesday,Summer,118,13,18,239.554,97,1,50,1,1,0,1,0,98,178,31,46-54,Unjustified,entre 10 y 20 km
+697,20,0,Unknown,0,0,9,September,2,Monday,Spring,260,50,11,241.476,92,1,36,1,1,0,4,0,65,168,23,36-45,Unjustified,entre 41 y 50 km
+698,29,0,Unknown,0,0,9,September,2,Monday,Spring,225,26,9,241.476,92,1,28,1,0,0,1,2,69,169,24,26-35,Unjustified,entre 21 y 30 km
+699,11,0,Unknown,0,0,9,September,3,Tuesday,Spring,289,36,13,241.476,92,1,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+700,36,0,Unknown,0,0,9,September,3,Tuesday,Spring,118,13,18,241.476,92,1,50,1,1,0,1,0,98,178,31,46-54,Unjustified,entre 10 y 20 km
+701,13,0,Unknown,0,0,9,September,4,Wednesday,Spring,369,17,12,241.476,92,1,31,1,1,0,3,0,70,169,25,26-35,Unjustified,entre 10 y 20 km
+702,36,0,Unknown,0,0,10,October,4,Wednesday,Spring,118,13,18,253.465,93,1,50,1,1,0,1,0,98,178,31,46-54,Unjustified,entre 10 y 20 km
+703,34,27,physiotherapy,1,0,1,January,2,Monday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+704,2,0,Unknown,0,0,4,April,2,Monday,Winter,235,29,12,326.452,96,1,48,1,0,1,1,5,88,163,33,46-54,Unjustified,entre 21 y 30 km
+705,7,0,Unknown,0,0,5,May,4,Wednesday,Winter,279,5,14,378.884,92,1,39,1,1,1,2,0,68,168,24,36-45,Unjustified,menos de 10 km
+706,18,0,Unknown,0,0,5,May,4,Wednesday,Winter,330,16,4,378.884,92,1,28,2,0,0,0,0,84,182,25,26-35,Unjustified,entre 10 y 20 km
+707,23,0,Unknown,0,0,5,May,4,Wednesday,Winter,378,49,11,378.884,92,1,36,1,0,1,2,4,65,174,21,36-45,Unjustified,entre 41 y 50 km
+708,31,0,Unknown,0,0,5,May,4,Wednesday,Winter,388,15,9,378.884,92,1,50,1,0,0,0,0,76,178,24,46-54,Unjustified,entre 10 y 20 km
+709,20,0,Unknown,0,0,7,July,5,Thursday,Summer,260,50,11,275.312,98,1,36,1,1,0,4,0,65,168,23,36-45,Unjustified,entre 41 y 50 km
+710,5,0,Unknown,0,0,9,September,5,Thursday,Summer,235,20,13,294.217,81,1,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+711,8,0,Unknown,0,0,9,September,3,Tuesday,Summer,231,35,14,294.217,81,1,39,1,1,0,2,2,100,170,35,36-45,Unjustified,entre 31 y 40 km
+712,19,0,Unknown,0,0,9,September,3,Tuesday,Summer,291,50,12,294.217,81,1,32,1,1,0,0,0,65,169,23,26-35,Unjustified,entre 41 y 50 km
+713,5,0,Unknown,0,0,9,September,5,Thursday,Spring,235,20,13,294.217,81,1,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+714,36,0,Unknown,0,0,10,October,6,Friday,Spring,118,13,18,265.017,88,1,50,1,1,0,1,0,98,178,31,46-54,Unjustified,entre 10 y 20 km
+715,33,0,Unknown,0,0,10,October,6,Friday,Spring,248,25,14,265.017,88,1,47,1,0,0,2,1,86,165,32,46-54,Unjustified,entre 21 y 30 km
+716,5,0,Unknown,0,0,10,October,4,Wednesday,Spring,235,20,13,265.017,88,1,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+717,5,0,Unknown,0,0,10,October,6,Friday,Spring,235,20,13,265.017,88,1,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+718,20,0,Unknown,0,0,10,October,3,Tuesday,Spring,260,50,11,265.017,88,1,36,1,1,0,4,0,65,168,23,36-45,Unjustified,entre 41 y 50 km
+719,15,0,Unknown,0,0,10,October,3,Tuesday,Spring,291,31,12,265.017,88,1,40,1,1,0,1,1,73,171,25,36-45,Unjustified,entre 31 y 40 km
+720,30,0,Unknown,0,0,10,October,3,Tuesday,Spring,157,27,6,265.017,88,1,29,1,1,1,0,0,75,185,22,26-35,Unjustified,entre 21 y 30 km
+721,18,0,Unknown,0,0,11,November,3,Tuesday,Spring,330,16,4,284.031,97,1,28,2,0,0,0,0,84,182,25,26-35,Unjustified,entre 10 y 20 km
+722,23,0,Unknown,0,0,11,November,6,Friday,Spring,378,49,11,284.031,97,1,36,1,0,1,2,4,65,174,21,36-45,Unjustified,entre 41 y 50 km
+723,7,0,Unknown,0,0,11,November,3,Tuesday,Spring,279,5,14,284.031,97,1,39,1,1,1,2,0,68,168,24,36-45,Unjustified,menos de 10 km
+724,13,0,Unknown,0,0,3,March,4,Wednesday,Autumn,369,17,12,244.387,98,1,31,1,1,0,3,0,70,169,25,26-35,Unjustified,entre 10 y 20 km
+725,1,0,Unknown,0,0,3,March,5,Thursday,Winter,235,11,14,244.387,98,1,37,3,0,0,1,1,88,172,30,36-45,Unjustified,entre 10 y 20 km
+726,24,0,Unknown,0,0,3,March,5,Thursday,Winter,246,25,16,244.387,98,1,41,1,1,0,0,0,67,170,23,36-45,Unjustified,entre 21 y 30 km
+727,36,0,Unknown,0,0,3,March,5,Thursday,Winter,118,13,18,244.387,98,1,50,1,1,0,1,0,98,178,31,46-54,Unjustified,entre 10 y 20 km
+728,3,0,Unknown,0,0,6,June,6,Friday,Winter,179,51,18,253.957,95,1,38,1,1,0,0,0,89,170,31,36-45,Unjustified,mas de 50 km
+729,28,0,Unknown,0,0,10,October,2,Monday,Spring,225,26,9,284.853,91,1,28,1,0,0,1,2,69,169,24,26-35,Unjustified,entre 21 y 30 km
+730,15,0,Unknown,0,0,11,November,3,Tuesday,Spring,291,31,12,268.519,93,1,40,1,1,0,1,1,73,171,25,36-45,Unjustified,entre 31 y 40 km
+731,11,0,Unknown,0,0,11,November,4,Wednesday,Spring,289,36,13,268.519,93,1,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+732,5,0,Unknown,0,0,11,November,5,Thursday,Spring,235,20,13,268.519,93,1,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+733,36,0,Unknown,0,0,5,May,3,Tuesday,Winter,118,13,18,237.656,99,1,50,1,1,0,1,0,98,178,31,46-54,Unjustified,entre 10 y 20 km
+734,23,0,Unknown,0,0,5,May,4,Wednesday,Winter,378,49,11,237.656,99,1,36,1,0,1,2,4,65,174,21,36-45,Unjustified,entre 41 y 50 km
+735,2,0,Unknown,0,0,6,June,2,Monday,Winter,235,29,12,275.089,96,1,48,1,0,1,1,5,88,163,33,46-54,Unjustified,entre 21 y 30 km
+736,21,0,Unknown,0,0,6,June,2,Monday,Winter,268,11,8,275.089,96,1,33,2,0,0,0,0,79,178,25,26-35,Unjustified,entre 10 y 20 km
+737,37,10,Diseases of the respiratory system,1,48,5,May,2,Monday,Winter,155,12,14,237.656,99,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+738,38,16,Certain conditions originating in the perinatal period,1,1,5,May,6,Friday,Winter,179,22,17,237.656,99,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+739,39,26,unjustified absence,0,8,10,October,6,Friday,Spring,246,25,16,284.853,91,0,41,1,1,0,0,0,67,170,23,36-45,Unjustified,entre 21 y 30 km
+740,40,0,Unknown,0,0,9,September,3,Tuesday,Summer,291,50,12,294.217,81,1,32,1,1,0,0,0,65,169,23,26-35,Unjustified,entre 41 y 50 km
+741,41,26,unjustified absence,0,8,8,August,3,Tuesday,Summer,235,20,13,249.797,93,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+742,42,0,Unknown,0,0,3,March,5,Thursday,Winter,118,13,18,244.387,98,1,50,1,1,0,1,0,98,178,31,46-54,Unjustified,entre 10 y 20 km
+743,43,23,medical consultation,1,2,1,January,5,Thursday,Autumn,184,42,7,308.593,95,0,27,1,0,0,0,0,58,167,21,26-35,Justified,entre 41 y 50 km
+744,44,28,dental consultation,1,4,12,December,6,Friday,Spring,260,50,11,236.629,93,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+745,45,8,Diseases of the ear and mastoid process,1,3,5,May,2,Monday,Winter,179,22,17,246.074,99,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+746,46,22,Patient fol-up,1,8,2,February,6,Friday,Autumn,289,36,13,302.585,99,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+747,47,27,physiotherapy,1,2,1,January,4,Wednesday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+748,48,23,medical consultation,1,2,12,December,6,Friday,Autumn,225,26,9,261.306,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+749,49,9,Diseases of the circulatory system,1,32,9,September,4,Wednesday,Summer,246,25,16,294.217,81,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+750,50,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,3,1,January,6,Friday,Autumn,179,22,17,313.532,96,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+751,51,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,1,January,3,Tuesday,Autumn,179,26,9,308.593,95,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+752,52,13,Diseases of the musculoskeletal system and connective tissue,1,8,6,June,3,Tuesday,Summer,235,11,14,253.957,95,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+753,53,23,medical consultation,1,2,6,June,4,Wednesday,Summer,225,26,9,253.957,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+754,54,22,Patient fol-up,1,3,2,February,6,Friday,Autumn,289,36,13,251.818,96,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+755,55,25,laboratory examination,1,3,3,March,3,Tuesday,Autumn,248,25,14,222.196,99,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+756,56,14,Diseases of the genitourinary system,1,4,12,December,5,Thursday,Spring,361,52,3,280.549,98,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+757,57,13,Diseases of the musculoskeletal system and connective tissue,1,40,8,August,2,Monday,Summer,361,52,3,205.917,92,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+758,58,28,dental consultation,1,2,5,May,5,Thursday,Winter,155,12,14,378.884,92,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+759,59,28,dental consultation,1,1,1,January,4,Wednesday,Autumn,179,51,18,330.061,100,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+760,60,26,unjustified absence,0,8,7,July,5,Thursday,Summer,179,51,18,275.312,98,0,38,1,1,0,0,0,89,170,31,36-45,Unjustified,mas de 50 km
+761,61,7,Diseases of the eye and adnexa,1,4,7,July,5,Thursday,Summer,279,5,14,239.554,97,0,39,1,1,1,2,0,68,168,24,36-45,Justified,menos de 10 km
+762,62,23,medical consultation,1,3,9,September,6,Friday,Summer,179,51,18,294.217,81,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+763,63,23,medical consultation,1,3,10,October,3,Tuesday,Spring,118,10,10,253.465,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+764,64,27,physiotherapy,1,3,6,June,4,Wednesday,Winter,179,26,9,275.089,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+765,65,23,medical consultation,1,5,1,January,4,Wednesday,Autumn,225,26,9,330.061,100,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+766,66,25,laboratory examination,1,2,1,January,5,Thursday,Autumn,179,22,17,313.532,96,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+767,67,23,medical consultation,1,3,10,October,4,Wednesday,Spring,225,26,9,253.465,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+768,68,23,medical consultation,1,1,9,September,6,Friday,Summer,248,25,14,261.756,87,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+769,69,26,unjustified absence,0,8,7,July,3,Tuesday,Summer,330,16,4,275.312,98,0,28,2,0,0,0,0,84,182,25,26-35,Unjustified,entre 10 y 20 km
+770,70,22,Patient fol-up,1,8,3,March,4,Wednesday,Autumn,361,52,3,244.387,98,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+771,71,22,Patient fol-up,1,8,7,July,4,Wednesday,Summer,361,52,3,264.604,93,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+772,72,23,medical consultation,1,3,10,October,3,Tuesday,Spring,118,10,10,253.465,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+773,73,7,Diseases of the eye and adnexa,1,8,3,March,2,Monday,Autumn,225,26,9,222.196,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+774,74,22,Patient fol-up,1,8,7,July,4,Wednesday,Summer,225,26,9,264.604,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+775,75,23,medical consultation,1,1,11,November,4,Wednesday,Spring,225,26,9,306.345,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+776,76,23,medical consultation,1,3,12,December,4,Wednesday,Spring,225,26,9,280.549,98,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+777,77,13,Diseases of the musculoskeletal system and connective tissue,1,8,12,December,3,Tuesday,Autumn,235,20,13,236.629,93,0,43,1,1,0,1,0,106,167,38,36-45,Justified,entre 10 y 20 km
+778,78,19,"Injury, poisoning and certain other consequences of external causes",1,8,6,June,2,Monday,Winter,246,25,16,377.55,94,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+779,79,13,Diseases of the musculoskeletal system and connective tissue,1,16,6,June,6,Friday,Winter,235,11,14,377.55,94,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+780,80,27,physiotherapy,1,3,1,January,4,Wednesday,Autumn,179,51,18,313.532,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+781,81,23,medical consultation,1,1,2,February,3,Tuesday,Autumn,330,16,4,302.585,99,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+782,82,13,Diseases of the musculoskeletal system and connective tissue,1,8,11,November,6,Friday,Spring,246,25,16,284.031,97,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+783,83,14,Diseases of the genitourinary system,1,32,9,September,2,Monday,Spring,291,31,12,241.476,92,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+784,84,19,"Injury, poisoning and certain other consequences of external causes",1,16,3,March,4,Wednesday,Autumn,246,25,16,244.387,98,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+785,85,22,Patient fol-up,1,4,4,April,2,Monday,Winter,369,17,12,239.409,98,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+786,86,13,Diseases of the musculoskeletal system and connective tissue,1,2,3,March,2,Monday,Winter,179,26,9,222.196,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+787,87,3,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,1,8,1,January,4,Wednesday,Autumn,291,31,12,330.061,100,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+788,88,0,Unknown,0,0,5,May,4,Wednesday,Winter,388,15,9,378.884,92,1,50,1,0,0,0,0,76,178,24,46-54,Unjustified,entre 10 y 20 km
+789,89,26,unjustified absence,0,8,7,July,6,Friday,Summer,118,10,10,230.29,92,0,37,1,0,0,0,0,83,172,28,36-45,Unjustified,entre 10 y 20 km
+790,90,13,Diseases of the musculoskeletal system and connective tissue,1,3,8,August,5,Thursday,Summer,118,13,18,265.615,94,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+791,91,10,Diseases of the respiratory system,1,8,2,February,5,Thursday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+792,92,22,Patient fol-up,1,8,3,March,3,Tuesday,Autumn,378,49,11,244.387,98,0,36,1,0,1,2,4,65,174,21,36-45,Justified,entre 41 y 50 km
+793,93,8,Diseases of the ear and mastoid process,1,8,3,March,5,Thursday,Autumn,179,22,17,343.253,95,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+794,94,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,5,May,3,Tuesday,Winter,179,51,18,378.884,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+795,95,28,dental consultation,1,2,10,October,4,Wednesday,Spring,291,31,12,284.853,91,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+796,96,28,dental consultation,1,2,2,February,3,Tuesday,Autumn,118,10,10,251.818,96,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+797,97,25,laboratory examination,1,4,8,August,5,Thursday,Summer,179,51,18,249.797,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+798,98,10,Diseases of the respiratory system,1,32,11,November,2,Monday,Spring,155,12,14,306.345,93,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+799,99,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,1,11,November,4,Wednesday,Spring,235,11,14,284.031,97,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+800,100,27,physiotherapy,1,2,3,March,4,Wednesday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+801,101,28,dental consultation,1,4,4,April,6,Friday,Winter,260,50,11,326.452,96,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+802,102,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,8,August,5,Thursday,Summer,235,29,12,205.917,92,0,48,1,0,1,1,5,88,163,33,46-54,Justified,entre 21 y 30 km
+803,103,23,medical consultation,1,2,7,July,4,Wednesday,Summer,118,10,10,264.604,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+804,104,13,Diseases of the musculoskeletal system and connective tissue,1,8,9,September,2,Monday,Spring,179,51,18,294.217,81,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+805,105,19,"Injury, poisoning and certain other consequences of external causes",1,1,1,January,2,Monday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+806,106,9,Diseases of the circulatory system,1,8,11,November,3,Tuesday,Spring,118,10,10,268.519,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+807,107,25,laboratory examination,1,4,7,July,5,Thursday,Summer,225,26,9,230.29,92,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+808,108,28,dental consultation,1,3,10,October,6,Friday,Spring,260,50,11,253.465,93,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+809,109,14,Diseases of the genitourinary system,1,8,7,July,3,Tuesday,Summer,289,36,13,264.604,93,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+810,110,23,medical consultation,1,2,10,October,4,Wednesday,Spring,248,25,14,253.465,93,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+811,111,28,dental consultation,1,4,5,May,4,Wednesday,Winter,179,51,18,246.074,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+812,112,23,medical consultation,1,16,10,October,5,Thursday,Spring,179,26,9,265.017,88,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+813,113,27,physiotherapy,1,2,4,April,6,Friday,Winter,179,26,9,246.288,91,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+814,114,13,Diseases of the musculoskeletal system and connective tissue,1,16,5,May,2,Monday,Winter,235,20,13,246.074,99,0,43,1,1,0,1,0,106,167,38,36-45,Justified,entre 10 y 20 km
+815,115,7,Diseases of the eye and adnexa,1,8,7,July,2,Monday,Summer,268,11,8,230.29,92,0,33,2,0,0,0,0,79,178,25,26-35,Justified,entre 10 y 20 km
+816,116,28,dental consultation,1,2,5,May,2,Monday,Winter,155,12,14,378.884,92,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+817,117,26,unjustified absence,0,8,8,August,3,Tuesday,Summer,289,36,13,249.797,93,0,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+818,118,23,medical consultation,1,3,12,December,6,Friday,Spring,225,26,9,280.549,98,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+819,119,26,unjustified absence,0,8,9,September,4,Wednesday,Spring,235,20,13,294.217,81,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+820,120,1,Certain infectious and parasitic diseases,1,8,2,February,3,Tuesday,Autumn,388,15,9,302.585,99,0,50,1,0,0,0,0,76,178,24,46-54,Justified,entre 10 y 20 km
+821,121,28,dental consultation,1,4,8,August,6,Friday,Summer,260,50,11,265.615,94,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+822,122,28,dental consultation,1,3,2,February,5,Thursday,Autumn,225,26,9,264.249,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+823,123,24,"blood, donation",1,8,10,October,2,Monday,Spring,289,36,13,265.017,88,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+824,124,13,Diseases of the musculoskeletal system and connective tissue,1,8,2,February,5,Thursday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+825,125,0,Unknown,0,0,10,October,6,Friday,Spring,248,25,14,265.017,88,1,47,1,0,0,2,1,86,165,32,46-54,Unjustified,entre 21 y 30 km
+826,126,28,dental consultation,1,1,11,November,2,Monday,Spring,179,51,18,268.519,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+827,127,28,dental consultation,1,2,8,August,5,Thursday,Summer,291,31,12,249.797,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+828,128,23,medical consultation,1,2,9,September,3,Tuesday,Spring,118,10,10,241.476,92,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+829,129,11,Diseases of the digestive system,1,1,5,May,3,Tuesday,Winter,179,51,18,378.884,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+830,130,28,dental consultation,1,2,11,November,4,Wednesday,Spring,291,31,12,268.519,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+831,131,1,Certain infectious and parasitic diseases,1,8,5,May,2,Monday,Winter,235,11,14,246.074,99,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+832,132,10,Diseases of the respiratory system,1,8,10,October,2,Monday,Spring,361,52,3,265.017,88,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+833,133,11,Diseases of the digestive system,1,8,6,June,2,Monday,Winter,179,51,18,377.55,94,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+834,134,11,Diseases of the digestive system,1,4,7,July,3,Tuesday,Summer,235,11,14,264.604,93,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+835,135,23,medical consultation,1,3,12,December,2,Monday,Spring,235,11,14,236.629,93,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+836,136,23,medical consultation,1,8,2,February,3,Tuesday,Autumn,184,42,7,302.585,99,0,27,1,0,0,0,0,58,167,21,26-35,Justified,entre 41 y 50 km
+837,14,11,Diseases of the digestive system,1,120,11,November,2,Monday,Spring,155,12,14,284.031,97,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+838,36,13,Diseases of the musculoskeletal system and connective tissue,1,120,4,April,4,Wednesday,Winter,118,13,18,239.409,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+839,9,6,Diseases of the nervous system,1,120,7,July,3,Tuesday,Summer,228,14,16,264.604,93,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+840,28,9,Diseases of the circulatory system,1,112,7,July,3,Tuesday,Summer,225,26,9,230.29,92,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+841,9,12,Diseases of the skin and subcutaneous tissue,1,112,3,March,3,Tuesday,Autumn,228,14,16,222.196,99,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+842,137,1,Certain infectious and parasitic diseases,1,8,2,February,3,Tuesday,Autumn,388,15,9,302.585,99,0,50,1,0,0,0,0,76,178,24,46-54,Justified,entre 10 y 20 km
+843,138,28,dental consultation,1,4,12,December,6,Friday,Spring,260,50,11,236.629,93,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+844,139,23,medical consultation,1,1,8,August,2,Monday,Summer,289,36,13,265.615,94,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+845,140,28,dental consultation,1,3,10,October,6,Friday,Spring,260,50,11,265.017,88,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+846,141,0,Unknown,0,0,9,September,3,Tuesday,Summer,291,50,12,294.217,81,1,32,1,1,0,0,0,65,169,23,26-35,Unjustified,entre 41 y 50 km
+847,142,23,medical consultation,1,3,10,October,4,Wednesday,Spring,225,26,9,253.465,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+848,143,22,Patient fol-up,1,8,7,July,4,Wednesday,Summer,225,26,9,264.604,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+849,144,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,1,January,3,Tuesday,Autumn,179,26,9,308.593,95,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+850,145,22,Patient fol-up,1,8,3,March,4,Wednesday,Autumn,361,52,3,244.387,98,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+851,146,26,unjustified absence,0,8,11,November,6,Friday,Spring,369,17,12,268.519,93,0,31,1,1,0,3,0,70,169,25,26-35,Unjustified,entre 10 y 20 km
+852,147,19,"Injury, poisoning and certain other consequences of external causes",1,8,7,July,5,Thursday,Summer,289,36,13,275.312,98,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+853,148,27,physiotherapy,1,2,1,January,6,Friday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+854,149,11,Diseases of the digestive system,1,2,5,May,2,Monday,Winter,179,22,17,246.074,99,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+855,150,23,medical consultation,1,8,3,March,4,Wednesday,Autumn,289,36,13,222.196,99,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+856,151,23,medical consultation,1,4,8,August,3,Tuesday,Summer,235,11,14,249.797,93,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+857,152,5,Mental and behavioural disorders,1,8,7,July,6,Friday,Summer,118,10,10,275.312,98,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+858,153,19,"Injury, poisoning and certain other consequences of external causes",1,16,3,March,4,Wednesday,Autumn,246,25,16,244.387,98,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+859,154,0,Unknown,0,0,11,November,5,Thursday,Spring,235,20,13,268.519,93,1,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+860,155,19,"Injury, poisoning and certain other consequences of external causes",1,24,6,June,5,Thursday,Winter,118,13,18,275.089,96,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+861,156,27,physiotherapy,1,2,1,January,4,Wednesday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+862,157,27,physiotherapy,1,3,3,March,6,Friday,Autumn,179,26,9,222.196,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+863,158,27,physiotherapy,1,2,12,December,6,Friday,Spring,118,10,10,261.306,97,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+864,159,28,dental consultation,1,8,4,April,6,Friday,Winter,300,26,13,239.409,98,0,43,1,1,1,2,1,77,175,25,36-45,Justified,entre 21 y 30 km
+865,160,6,Diseases of the nervous system,1,8,10,October,2,Monday,Spring,235,16,8,284.853,91,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+866,161,28,dental consultation,1,1,5,May,3,Tuesday,Winter,118,10,10,237.656,99,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+867,162,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,2,12,December,6,Friday,Spring,179,22,17,280.549,98,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+868,163,28,dental consultation,1,2,2,February,5,Thursday,Autumn,155,12,14,302.585,99,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+869,164,23,medical consultation,1,2,2,February,3,Tuesday,Autumn,225,26,9,302.585,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+870,165,10,Diseases of the respiratory system,1,8,5,May,5,Thursday,Winter,330,16,4,237.656,99,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+871,166,0,Unknown,0,0,10,October,2,Monday,Spring,225,26,9,284.853,91,1,28,1,0,0,1,2,69,169,24,26-35,Unjustified,entre 21 y 30 km
+872,167,13,Diseases of the musculoskeletal system and connective tissue,1,1,10,October,5,Thursday,Spring,225,26,9,284.853,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+873,168,8,Diseases of the ear and mastoid process,1,8,11,November,3,Tuesday,Spring,118,10,10,268.519,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+874,169,28,dental consultation,1,2,5,May,5,Thursday,Winter,291,31,12,237.656,99,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+875,170,23,medical consultation,1,1,1,January,3,Tuesday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+876,171,28,dental consultation,1,3,6,June,2,Monday,Winter,179,51,18,253.957,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+877,172,10,Diseases of the respiratory system,1,2,4,April,4,Wednesday,Winter,118,10,10,246.288,91,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+878,173,19,"Injury, poisoning and certain other consequences of external causes",1,8,4,April,3,Tuesday,Winter,361,52,3,246.288,91,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+879,174,11,Diseases of the digestive system,1,8,2,February,2,Monday,Autumn,388,15,9,302.585,99,0,50,1,0,0,0,0,76,178,24,46-54,Justified,entre 10 y 20 km
+880,175,23,medical consultation,1,2,5,May,4,Wednesday,Winter,248,25,14,246.074,99,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+881,176,14,Diseases of the genitourinary system,1,3,3,March,3,Tuesday,Winter,118,13,18,244.387,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+882,177,25,laboratory examination,1,2,2,February,6,Friday,Autumn,235,16,8,264.249,97,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+883,178,28,dental consultation,1,2,2,February,6,Friday,Autumn,225,15,15,264.249,97,0,41,4,1,0,2,2,94,182,28,36-45,Justified,entre 10 y 20 km
+884,179,28,dental consultation,1,3,2,February,5,Thursday,Autumn,225,26,9,264.249,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+885,180,26,unjustified absence,0,8,1,January,2,Monday,Autumn,235,20,13,330.061,100,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+886,181,28,dental consultation,1,24,6,June,2,Monday,Winter,179,51,18,253.957,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+887,182,14,Diseases of the genitourinary system,1,3,11,November,5,Thursday,Spring,225,26,9,268.519,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+888,183,28,dental consultation,1,1,11,November,3,Tuesday,Spring,179,51,18,284.031,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+889,184,27,physiotherapy,1,2,2,February,2,Monday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+890,185,26,unjustified absence,0,4,7,July,3,Tuesday,Summer,289,36,13,239.554,97,0,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+891,186,23,medical consultation,1,1,7,July,6,Friday,Summer,118,13,18,230.29,92,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+892,187,13,Diseases of the musculoskeletal system and connective tissue,1,80,7,July,2,Monday,Summer,369,17,12,264.604,93,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+893,188,28,dental consultation,1,4,8,August,6,Friday,Summer,260,50,11,265.615,94,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+894,189,28,dental consultation,1,2,10,October,4,Wednesday,Spring,291,31,12,284.853,91,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+895,190,28,dental consultation,1,2,4,April,6,Friday,Winter,225,26,9,326.452,96,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+896,191,10,Diseases of the respiratory system,1,24,6,June,3,Tuesday,Winter,246,25,16,377.55,94,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+897,192,13,Diseases of the musculoskeletal system and connective tissue,1,2,3,March,2,Monday,Autumn,248,25,14,222.196,99,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+898,193,13,Diseases of the musculoskeletal system and connective tissue,1,24,5,May,4,Wednesday,Winter,118,13,18,378.884,92,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+899,194,23,medical consultation,1,1,2,February,4,Wednesday,Autumn,225,26,9,302.585,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+900,195,28,dental consultation,1,2,2,February,6,Friday,Autumn,260,50,11,302.585,99,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+901,196,11,Diseases of the digestive system,1,8,6,June,2,Monday,Winter,179,51,18,377.55,94,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+902,197,28,dental consultation,1,3,12,December,5,Thursday,Spring,225,26,9,261.306,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+903,198,16,Certain conditions originating in the perinatal period,1,1,5,May,6,Friday,Winter,179,22,17,237.656,99,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+904,199,10,Diseases of the respiratory system,1,8,10,October,2,Monday,Spring,361,52,3,265.017,88,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+905,200,23,medical consultation,1,3,10,October,4,Wednesday,Spring,225,26,9,253.465,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+906,201,19,"Injury, poisoning and certain other consequences of external causes",1,8,12,December,2,Monday,Autumn,289,36,13,236.629,93,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+907,202,9,Diseases of the circulatory system,1,16,9,September,2,Monday,Summer,246,25,16,294.217,81,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+908,203,22,Patient fol-up,1,8,5,May,4,Wednesday,Winter,291,31,12,237.656,99,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+909,204,23,medical consultation,1,1,4,April,2,Monday,Winter,118,13,18,239.409,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+910,205,28,dental consultation,1,16,3,March,2,Monday,Autumn,179,51,18,244.387,98,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+911,206,19,"Injury, poisoning and certain other consequences of external causes",1,1,1,January,2,Monday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+912,207,27,physiotherapy,1,2,4,April,6,Friday,Winter,179,26,9,246.288,91,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+913,208,11,Diseases of the digestive system,1,2,4,April,4,Wednesday,Winter,118,10,10,239.409,98,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+914,209,28,dental consultation,1,2,5,May,4,Wednesday,Winter,235,16,8,237.656,99,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+915,210,25,laboratory examination,1,8,5,May,6,Friday,Winter,179,22,17,237.656,99,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+916,211,27,physiotherapy,1,2,3,March,5,Thursday,Autumn,225,26,9,222.196,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+917,212,13,Diseases of the musculoskeletal system and connective tissue,1,120,4,April,4,Wednesday,Winter,118,13,18,239.409,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+918,213,27,physiotherapy,1,2,1,January,2,Monday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+919,214,13,Diseases of the musculoskeletal system and connective tissue,1,3,1,January,2,Monday,Autumn,179,26,9,313.532,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+920,215,25,laboratory examination,1,2,3,March,5,Thursday,Autumn,225,26,9,222.196,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+921,216,10,Diseases of the respiratory system,1,8,10,October,2,Monday,Spring,361,52,3,265.017,88,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+922,217,28,dental consultation,1,1,11,November,2,Monday,Spring,179,51,18,268.519,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+923,218,23,medical consultation,1,3,10,October,3,Tuesday,Spring,179,51,18,253.465,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+924,219,23,medical consultation,1,2,8,August,4,Wednesday,Summer,248,25,14,205.917,92,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+925,220,28,dental consultation,1,1,12,December,4,Wednesday,Spring,291,31,12,280.549,98,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+926,221,23,medical consultation,1,1,5,May,5,Thursday,Winter,361,52,3,246.074,99,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+927,222,13,Diseases of the musculoskeletal system and connective tissue,1,8,3,March,4,Wednesday,Autumn,260,50,11,343.253,95,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+928,223,19,"Injury, poisoning and certain other consequences of external causes",1,8,4,April,5,Thursday,Winter,225,26,9,246.288,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+929,224,23,medical consultation,1,2,1,January,5,Thursday,Autumn,184,42,7,308.593,95,0,27,1,0,0,0,0,58,167,21,26-35,Justified,entre 41 y 50 km
+930,225,25,laboratory examination,1,4,7,July,5,Thursday,Summer,225,26,9,230.29,92,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+931,226,28,dental consultation,1,4,8,August,4,Wednesday,Summer,157,27,6,205.917,92,0,29,1,1,1,0,0,75,185,22,26-35,Justified,entre 21 y 30 km
+932,227,27,physiotherapy,1,3,3,March,3,Tuesday,Winter,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+933,228,25,laboratory examination,1,3,3,March,3,Tuesday,Autumn,248,25,14,222.196,99,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+934,229,19,"Injury, poisoning and certain other consequences of external causes",1,8,8,August,6,Friday,Summer,289,36,13,265.615,94,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+935,230,11,Diseases of the digestive system,1,8,7,July,4,Wednesday,Summer,260,50,11,239.554,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+936,231,23,medical consultation,1,2,9,September,4,Wednesday,Summer,155,12,14,241.476,92,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+937,232,23,medical consultation,1,1,8,August,3,Tuesday,Summer,235,11,14,265.615,94,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+938,233,23,medical consultation,1,2,5,May,2,Monday,Winter,118,13,18,237.656,99,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+939,234,26,unjustified absence,0,8,7,July,6,Friday,Summer,118,10,10,230.29,92,0,37,1,0,0,0,0,83,172,28,36-45,Unjustified,entre 10 y 20 km
+940,235,13,Diseases of the musculoskeletal system and connective tissue,1,2,3,March,2,Monday,Winter,179,26,9,222.196,99,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+941,236,13,Diseases of the musculoskeletal system and connective tissue,1,24,3,March,4,Wednesday,Winter,155,12,14,222.196,99,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+942,237,23,medical consultation,1,2,12,December,3,Tuesday,Spring,225,26,9,280.549,98,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+943,238,23,medical consultation,1,2,3,March,4,Wednesday,Autumn,225,26,9,343.253,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+944,239,23,medical consultation,1,4,10,October,3,Tuesday,Spring,225,26,9,284.853,91,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+945,240,28,dental consultation,1,4,7,July,2,Monday,Summer,118,10,10,264.604,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+946,241,1,Certain infectious and parasitic diseases,1,5,10,October,4,Wednesday,Spring,179,26,9,265.017,88,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+947,242,28,dental consultation,1,1,11,November,6,Friday,Spring,179,51,18,268.519,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+948,243,23,medical consultation,1,4,7,July,4,Wednesday,Summer,179,51,18,239.554,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+949,244,0,Unknown,0,0,9,September,3,Tuesday,Spring,289,36,13,241.476,92,1,33,1,1,0,2,1,90,172,30,26-35,Unjustified,entre 31 y 40 km
+950,245,14,Diseases of the genitourinary system,1,8,10,October,3,Tuesday,Spring,291,31,12,253.465,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+951,246,13,Diseases of the musculoskeletal system and connective tissue,1,8,1,January,4,Wednesday,Autumn,289,36,13,313.532,96,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+952,247,23,medical consultation,1,4,8,August,3,Tuesday,Summer,289,36,13,265.615,94,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+953,248,14,Diseases of the genitourinary system,1,8,7,July,6,Friday,Summer,246,25,16,239.554,97,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+954,249,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,2,February,2,Monday,Autumn,330,16,4,302.585,99,0,28,2,0,0,0,0,84,182,25,26-35,Justified,entre 10 y 20 km
+955,250,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,5,May,3,Tuesday,Winter,179,51,18,378.884,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+956,251,0,Unknown,0,0,10,October,3,Tuesday,Spring,260,50,11,265.017,88,1,36,1,1,0,4,0,65,168,23,36-45,Unjustified,entre 41 y 50 km
+957,252,23,medical consultation,1,4,11,November,6,Friday,Spring,225,26,9,268.519,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+958,253,10,Diseases of the respiratory system,1,32,11,November,2,Monday,Spring,155,12,14,306.345,93,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+959,254,1,Certain infectious and parasitic diseases,1,8,7,July,3,Tuesday,Summer,260,50,11,239.554,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+960,255,19,"Injury, poisoning and certain other consequences of external causes",1,24,9,September,4,Wednesday,Summer,289,36,13,294.217,81,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+961,256,28,dental consultation,1,2,10,October,3,Tuesday,Spring,225,26,9,253.465,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+962,257,14,Diseases of the genitourinary system,1,8,7,July,3,Tuesday,Summer,289,36,13,264.604,93,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+963,258,23,medical consultation,1,1,8,August,2,Monday,Summer,361,52,3,205.917,92,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+964,259,22,Patient fol-up,1,8,11,November,2,Monday,Spring,189,29,13,306.345,93,0,33,1,0,0,2,2,69,167,25,26-35,Justified,entre 21 y 30 km
+965,260,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,8,1,January,3,Tuesday,Autumn,179,26,9,308.593,95,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+966,261,27,physiotherapy,1,2,3,March,3,Tuesday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+967,262,0,Unknown,0,0,9,September,3,Tuesday,Summer,291,50,12,294.217,81,1,32,1,1,0,0,0,65,169,23,26-35,Unjustified,entre 41 y 50 km
+968,263,28,dental consultation,1,4,8,August,3,Tuesday,Summer,118,10,10,249.797,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+969,264,0,Unknown,0,0,10,October,3,Tuesday,Spring,291,31,12,265.017,88,1,40,1,1,0,1,1,73,171,25,36-45,Unjustified,entre 31 y 40 km
+970,265,23,medical consultation,1,3,4,April,6,Friday,Winter,291,31,12,326.452,96,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+971,266,19,"Injury, poisoning and certain other consequences of external causes",1,16,10,October,5,Thursday,Spring,289,36,13,265.017,88,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+972,267,14,Diseases of the genitourinary system,1,4,12,December,5,Thursday,Spring,361,52,3,280.549,98,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+973,268,23,medical consultation,1,4,9,September,3,Tuesday,Summer,179,51,18,241.476,92,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+974,269,19,"Injury, poisoning and certain other consequences of external causes",1,8,6,June,6,Friday,Winter,233,51,1,275.089,96,0,31,2,1,0,1,8,68,178,21,26-35,Justified,mas de 50 km
+975,270,6,Diseases of the nervous system,1,8,7,July,2,Monday,Summer,228,14,16,264.604,93,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+976,271,23,medical consultation,1,2,4,April,3,Tuesday,Winter,361,52,3,246.288,91,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+977,272,19,"Injury, poisoning and certain other consequences of external causes",1,64,12,December,3,Tuesday,Spring,118,10,10,261.306,97,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+978,273,23,medical consultation,1,2,12,December,5,Thursday,Spring,225,26,9,261.306,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+979,274,23,medical consultation,1,2,7,July,6,Friday,Summer,179,51,18,239.554,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+980,275,23,medical consultation,1,1,7,July,2,Monday,Summer,235,29,12,230.29,92,0,48,1,0,1,1,5,88,163,33,46-54,Justified,entre 21 y 30 km
+981,276,7,Diseases of the eye and adnexa,1,8,3,March,2,Monday,Autumn,225,26,9,222.196,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+982,277,22,Patient fol-up,1,8,5,May,2,Monday,Winter,235,11,14,237.656,99,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+983,278,28,dental consultation,1,1,1,January,4,Wednesday,Autumn,179,51,18,330.061,100,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+984,279,23,medical consultation,1,2,7,July,5,Thursday,Summer,179,26,9,230.29,92,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+985,280,28,dental consultation,1,1,9,September,3,Tuesday,Summer,246,25,16,261.756,87,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+986,281,28,dental consultation,1,4,8,August,3,Tuesday,Summer,246,25,16,249.797,93,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+987,282,27,physiotherapy,1,1,1,January,6,Friday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+988,283,26,unjustified absence,0,8,12,December,4,Wednesday,Spring,235,11,14,261.306,97,0,37,3,0,0,1,1,88,172,30,36-45,Unjustified,entre 10 y 20 km
+989,284,10,Diseases of the respiratory system,1,8,5,May,2,Monday,Winter,235,16,8,237.656,99,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+990,285,28,dental consultation,1,2,1,January,5,Thursday,Autumn,225,26,9,308.593,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+991,286,27,physiotherapy,1,2,2,February,4,Wednesday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+992,287,12,Diseases of the skin and subcutaneous tissue,1,3,2,February,4,Wednesday,Autumn,233,51,1,264.249,97,0,31,2,1,0,1,8,68,178,21,26-35,Justified,mas de 50 km
+993,288,4,"Endocrine, nutritional and metabolic diseases",1,1,10,October,5,Thursday,Spring,289,48,29,284.853,91,0,49,1,0,0,0,2,108,172,37,46-54,Justified,entre 41 y 50 km
+994,289,5,Mental and behavioural disorders,1,8,6,June,4,Wednesday,Summer,179,51,18,253.957,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+995,290,6,Diseases of the nervous system,1,8,11,November,6,Friday,Spring,155,12,14,306.345,93,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+996,291,28,dental consultation,1,8,4,April,6,Friday,Winter,248,25,14,326.452,96,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+997,292,0,Unknown,0,0,5,May,4,Wednesday,Winter,330,16,4,378.884,92,1,28,2,0,0,0,0,84,182,25,26-35,Unjustified,entre 10 y 20 km
+998,293,12,Diseases of the skin and subcutaneous tissue,1,3,12,December,2,Monday,Spring,225,26,9,236.629,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+999,294,28,dental consultation,1,2,5,May,5,Thursday,Winter,291,31,12,237.656,99,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+1000,295,27,physiotherapy,1,2,3,March,4,Wednesday,Autumn,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1001,296,13,Diseases of the musculoskeletal system and connective tissue,1,1,12,December,6,Friday,Spring,179,26,9,280.549,98,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+1002,297,23,medical consultation,1,3,12,December,2,Monday,Spring,235,11,14,236.629,93,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+1003,298,19,"Injury, poisoning and certain other consequences of external causes",1,8,4,April,3,Tuesday,Winter,289,36,13,326.452,96,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+1004,299,13,Diseases of the musculoskeletal system and connective tissue,1,2,11,November,5,Thursday,Spring,118,10,10,268.519,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+1005,300,26,unjustified absence,0,8,7,July,3,Tuesday,Summer,330,16,4,275.312,98,0,28,2,0,0,0,0,84,182,25,26-35,Unjustified,entre 10 y 20 km
+1006,301,9,Diseases of the circulatory system,1,8,11,November,3,Tuesday,Spring,118,10,10,268.519,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+1007,302,13,Diseases of the musculoskeletal system and connective tissue,1,1,1,January,3,Tuesday,Autumn,235,11,14,330.061,100,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+1008,303,23,medical consultation,1,4,6,June,5,Thursday,Winter,291,31,12,377.55,94,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+1009,304,27,physiotherapy,1,0,1,January,2,Monday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+1010,305,19,"Injury, poisoning and certain other consequences of external causes",1,8,2,February,5,Thursday,Autumn,189,29,13,302.585,99,0,33,1,0,0,2,2,69,167,25,26-35,Justified,entre 21 y 30 km
+1011,306,23,medical consultation,1,2,11,November,3,Tuesday,Spring,225,26,9,268.519,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+1012,307,0,Unknown,0,0,5,May,4,Wednesday,Winter,388,15,9,378.884,92,1,50,1,0,0,0,0,76,178,24,46-54,Unjustified,entre 10 y 20 km
+1013,308,11,Diseases of the digestive system,1,8,8,August,5,Thursday,Summer,268,11,8,265.615,94,0,33,2,0,0,0,0,79,178,25,26-35,Justified,entre 10 y 20 km
+1014,309,12,Diseases of the skin and subcutaneous tissue,1,112,3,March,3,Tuesday,Autumn,228,14,16,222.196,99,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+1015,310,28,dental consultation,1,1,9,September,5,Thursday,Spring,118,13,18,294.217,81,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+1016,311,28,dental consultation,1,8,3,March,6,Friday,Winter,179,51,18,244.387,98,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1017,312,22,Patient fol-up,1,8,7,July,6,Friday,Summer,361,52,3,239.554,97,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+1018,313,19,"Injury, poisoning and certain other consequences of external causes",1,32,7,July,2,Monday,Summer,289,36,13,275.312,98,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+1019,314,27,physiotherapy,1,3,2,February,4,Wednesday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1020,315,25,laboratory examination,1,2,7,July,6,Friday,Summer,155,12,14,275.312,98,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+1021,316,23,medical consultation,1,2,11,November,2,Monday,Spring,248,25,14,284.031,97,0,47,1,0,0,2,1,86,165,32,46-54,Justified,entre 21 y 30 km
+1022,317,27,physiotherapy,1,2,1,January,2,Monday,Autumn,179,26,9,313.532,96,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+1023,318,23,medical consultation,1,4,9,September,6,Friday,Spring,260,50,11,241.476,92,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+1024,319,12,Diseases of the skin and subcutaneous tissue,1,112,3,March,3,Tuesday,Autumn,228,14,16,222.196,99,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+1025,320,28,dental consultation,1,1,12,December,6,Friday,Spring,179,51,18,236.629,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1026,321,28,dental consultation,1,2,7,July,3,Tuesday,Summer,246,25,16,230.29,92,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+1027,322,10,Diseases of the respiratory system,1,8,1,January,5,Thursday,Autumn,289,48,29,313.532,96,0,49,1,0,0,0,2,108,172,37,46-54,Justified,entre 41 y 50 km
+1028,323,25,laboratory examination,1,2,1,January,5,Thursday,Autumn,179,22,17,313.532,96,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+1029,324,8,Diseases of the ear and mastoid process,1,8,8,August,3,Tuesday,Summer,361,52,3,265.615,94,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+1030,325,11,Diseases of the digestive system,1,1,7,July,4,Wednesday,Summer,179,51,18,239.554,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1031,326,25,laboratory examination,1,2,1,January,5,Thursday,Autumn,179,22,17,313.532,96,0,40,2,0,1,2,0,63,170,22,36-45,Justified,entre 21 y 30 km
+1032,327,28,dental consultation,1,2,5,May,2,Monday,Winter,155,12,14,378.884,92,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+1033,328,14,Diseases of the genitourinary system,1,4,12,December,5,Thursday,Spring,361,52,3,280.549,98,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+1034,329,28,dental consultation,1,4,8,August,5,Thursday,Summer,291,31,12,249.797,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+1035,330,26,unjustified absence,0,8,10,October,6,Friday,Spring,246,25,16,284.853,91,0,41,1,1,0,0,0,67,170,23,36-45,Unjustified,entre 21 y 30 km
+1036,331,23,medical consultation,1,2,10,October,2,Monday,Spring,235,20,13,265.017,88,0,43,1,1,0,1,0,106,167,38,36-45,Justified,entre 10 y 20 km
+1037,332,26,unjustified absence,0,8,12,December,6,Friday,Spring,260,50,11,261.306,97,0,36,1,1,0,4,0,65,168,23,36-45,Unjustified,entre 41 y 50 km
+1038,333,27,physiotherapy,1,2,1,January,3,Tuesday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+1039,334,28,dental consultation,1,2,2,February,2,Monday,Autumn,225,26,9,302.585,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+1040,335,28,dental consultation,1,3,11,November,6,Friday,Spring,260,50,11,284.031,97,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+1041,336,26,unjustified absence,0,16,3,March,2,Monday,Autumn,260,50,11,343.253,95,0,36,1,1,0,4,0,65,168,23,36-45,Unjustified,entre 41 y 50 km
+1042,337,23,medical consultation,1,8,9,September,6,Friday,Summer,179,26,9,261.756,87,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+1043,338,7,Diseases of the eye and adnexa,1,5,10,October,4,Wednesday,Spring,179,26,9,265.017,88,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+1044,339,27,physiotherapy,1,3,2,February,6,Friday,Autumn,179,51,18,251.818,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1045,340,13,Diseases of the musculoskeletal system and connective tissue,1,8,9,September,2,Monday,Spring,179,51,18,294.217,81,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1046,341,22,Patient fol-up,1,8,7,July,4,Wednesday,Summer,361,52,3,264.604,93,0,28,1,1,0,1,4,80,172,27,26-35,Justified,mas de 50 km
+1047,342,23,medical consultation,1,2,7,July,6,Friday,Summer,179,51,18,239.554,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1048,343,28,dental consultation,1,1,5,May,2,Monday,Winter,118,10,10,246.074,99,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+1049,344,25,laboratory examination,1,3,2,February,5,Thursday,Autumn,225,26,9,302.585,99,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+1050,345,11,Diseases of the digestive system,1,16,3,March,4,Wednesday,Winter,225,26,9,343.253,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+1051,346,19,"Injury, poisoning and certain other consequences of external causes",1,104,3,March,2,Monday,Winter,289,36,13,222.196,99,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+1052,347,28,dental consultation,1,1,1,January,6,Friday,Autumn,179,51,18,330.061,100,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1053,348,28,dental consultation,1,4,4,April,6,Friday,Winter,260,50,11,326.452,96,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+1054,349,28,dental consultation,1,4,4,April,2,Monday,Winter,179,51,18,239.409,98,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1055,350,13,Diseases of the musculoskeletal system and connective tissue,1,3,8,August,5,Thursday,Summer,118,13,18,265.615,94,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+1056,351,0,Unknown,0,0,10,October,4,Wednesday,Spring,118,13,18,253.465,93,1,50,1,1,0,1,0,98,178,31,46-54,Unjustified,entre 10 y 20 km
+1057,352,23,medical consultation,1,3,10,October,3,Tuesday,Spring,118,10,10,253.465,93,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+1058,353,14,Diseases of the genitourinary system,1,8,4,April,6,Friday,Winter,246,25,16,326.452,96,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+1059,354,23,medical consultation,1,2,12,December,6,Friday,Autumn,225,26,9,261.306,97,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+1060,355,23,medical consultation,1,1,11,November,4,Wednesday,Spring,225,26,9,306.345,93,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+1061,356,28,dental consultation,1,2,11,November,4,Wednesday,Spring,291,31,12,268.519,93,0,40,1,1,0,1,1,73,171,25,36-45,Justified,entre 31 y 40 km
+1062,357,11,Diseases of the digestive system,1,3,11,November,4,Wednesday,Spring,118,10,10,284.031,97,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+1063,358,9,Diseases of the circulatory system,1,32,9,September,4,Wednesday,Summer,246,25,16,294.217,81,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+1064,359,11,Diseases of the digestive system,1,8,2,February,4,Wednesday,Autumn,179,51,18,302.585,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1065,360,0,Unknown,0,0,5,May,3,Tuesday,Winter,118,13,18,237.656,99,1,50,1,1,0,1,0,98,178,31,46-54,Unjustified,entre 10 y 20 km
+1066,361,11,Diseases of the digestive system,1,3,10,October,5,Thursday,Spring,235,16,8,284.853,91,0,32,3,0,0,0,0,75,178,24,26-35,Justified,entre 10 y 20 km
+1067,363,14,Diseases of the genitourinary system,1,2,8,August,5,Thursday,Summer,300,26,13,265.615,94,0,43,1,1,1,2,1,77,175,25,36-45,Justified,entre 21 y 30 km
+1068,364,13,Diseases of the musculoskeletal system and connective tissue,1,24,4,April,4,Wednesday,Winter,179,51,18,326.452,96,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1069,365,26,unjustified absence,0,8,8,August,3,Tuesday,Summer,235,20,13,249.797,93,0,43,1,1,0,1,0,106,167,38,36-45,Unjustified,entre 10 y 20 km
+1070,366,27,physiotherapy,1,2,4,April,6,Friday,Winter,179,26,9,246.288,91,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+1071,367,22,Patient fol-up,1,8,5,May,6,Friday,Winter,225,15,15,237.656,99,0,41,4,1,0,2,2,94,182,28,36-45,Justified,entre 10 y 20 km
+1072,368,23,medical consultation,1,3,4,April,3,Tuesday,Winter,118,13,18,246.288,91,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+1073,369,13,Diseases of the musculoskeletal system and connective tissue,1,24,3,March,3,Tuesday,Autumn,179,51,18,343.253,95,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1074,370,27,physiotherapy,1,1,1,January,3,Tuesday,Autumn,118,10,10,308.593,95,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+1075,371,22,Patient fol-up,1,8,2,February,6,Friday,Autumn,289,36,13,302.585,99,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+1076,372,22,Patient fol-up,1,3,2,February,6,Friday,Autumn,289,36,13,251.818,96,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+1077,373,27,physiotherapy,1,3,3,March,5,Thursday,Winter,179,51,18,222.196,99,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1078,374,28,dental consultation,1,2,3,March,6,Friday,Winter,225,26,9,343.253,95,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+1079,375,0,Unknown,0,0,4,April,2,Monday,Winter,235,29,12,326.452,96,1,48,1,0,1,1,5,88,163,33,46-54,Unjustified,entre 21 y 30 km
+1080,376,28,dental consultation,1,1,9,September,3,Tuesday,Summer,246,25,16,261.756,87,0,41,1,1,0,0,0,67,170,23,36-45,Justified,entre 21 y 30 km
+1081,377,19,"Injury, poisoning and certain other consequences of external causes",1,8,5,May,3,Tuesday,Winter,225,26,9,378.884,92,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+1082,378,13,Diseases of the musculoskeletal system and connective tissue,1,16,6,June,6,Friday,Winter,235,11,14,377.55,94,0,37,3,0,0,1,1,88,172,30,36-45,Justified,entre 10 y 20 km
+1083,379,23,medical consultation,1,3,12,December,5,Thursday,Spring,225,26,9,280.549,98,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+1084,380,1,Certain infectious and parasitic diseases,1,8,7,July,4,Wednesday,Summer,118,13,18,275.312,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+1085,381,27,physiotherapy,1,3,2,February,4,Wednesday,Autumn,179,51,18,264.249,97,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1086,382,22,Patient fol-up,1,8,9,September,6,Friday,Summer,260,50,11,241.476,92,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+1087,383,1,Certain infectious and parasitic diseases,1,1,10,October,4,Wednesday,Spring,228,14,16,284.853,91,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+1088,384,14,Diseases of the genitourinary system,1,3,10,October,4,Wednesday,Spring,289,48,29,284.853,91,0,49,1,0,0,0,2,108,172,37,46-54,Justified,entre 41 y 50 km
+1089,385,13,Diseases of the musculoskeletal system and connective tissue,1,40,3,March,6,Friday,Autumn,260,50,11,343.253,95,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+1090,386,28,dental consultation,1,1,11,November,2,Monday,Spring,179,51,18,268.519,93,0,38,1,1,0,0,0,89,170,31,36-45,Justified,mas de 50 km
+1091,14,11,Diseases of the digestive system,1,120,11,November,2,Monday,Spring,155,12,14,284.031,97,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+1092,36,13,Diseases of the musculoskeletal system and connective tissue,1,120,4,April,4,Wednesday,Winter,118,13,18,239.409,98,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+1093,9,6,Diseases of the nervous system,1,120,7,July,3,Tuesday,Summer,228,14,16,264.604,93,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+1094,28,9,Diseases of the circulatory system,1,112,7,July,3,Tuesday,Summer,225,26,9,230.29,92,0,28,1,0,0,1,2,69,169,24,26-35,Justified,entre 21 y 30 km
+1095,9,12,Diseases of the skin and subcutaneous tissue,1,112,3,March,3,Tuesday,Autumn,228,14,16,222.196,99,0,58,1,0,0,2,1,65,172,22,55-65,Justified,entre 10 y 20 km
+1096,11,19,"Injury, poisoning and certain other consequences of external causes",1,104,3,March,2,Monday,Winter,289,36,13,222.196,99,0,33,1,1,0,2,1,90,172,30,26-35,Justified,entre 31 y 40 km
+1097,36,13,Diseases of the musculoskeletal system and connective tissue,1,80,6,June,4,Wednesday,Winter,118,13,18,377.55,94,0,50,1,1,0,1,0,98,178,31,46-54,Justified,entre 10 y 20 km
+1098,14,18,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",1,80,12,December,3,Tuesday,Autumn,155,12,14,280.549,98,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km
+1099,13,13,Diseases of the musculoskeletal system and connective tissue,1,80,7,July,2,Monday,Summer,369,17,12,264.604,93,0,31,1,1,0,3,0,70,169,25,26-35,Justified,entre 10 y 20 km
+1100,34,19,"Injury, poisoning and certain other consequences of external causes",1,64,12,December,3,Tuesday,Spring,118,10,10,261.306,97,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+1101,22,1,Certain infectious and parasitic diseases,1,64,10,October,4,Wednesday,Spring,179,26,9,265.017,88,0,30,3,0,0,0,0,56,171,19,26-35,Justified,entre 21 y 30 km
+1102,26,19,"Injury, poisoning and certain other consequences of external causes",1,64,5,May,6,Friday,Winter,300,26,13,237.656,99,0,43,1,1,1,2,1,77,175,25,36-45,Justified,entre 21 y 30 km
+1103,34,19,"Injury, poisoning and certain other consequences of external causes",1,56,12,December,3,Tuesday,Spring,118,10,10,261.306,97,0,37,1,0,0,0,0,83,172,28,36-45,Justified,entre 10 y 20 km
+1104,20,19,"Injury, poisoning and certain other consequences of external causes",1,56,4,April,6,Friday,Winter,260,50,11,326.452,96,0,36,1,1,0,4,0,65,168,23,36-45,Justified,entre 41 y 50 km
+1105,14,10,Diseases of the respiratory system,1,48,5,May,2,Monday,Winter,155,12,14,237.656,99,0,34,1,1,0,2,0,95,196,25,26-35,Justified,entre 10 y 20 km

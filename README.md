@@ -29,7 +29,7 @@ Rols possibles:
 - De **dimarts a dijous** es revisarà la planificació del treball de la setmana i es coordinarà les tasques entre membres de 
   l'equip.
 - Cada dues setmanes, **els dijous**, es realitza una retrospectiva dels sprints realitzades.
-- El projecte requereix una dedicació setmanal, per estudiant, de 20 hores aproximadament.
+- El projecte requereix una dedicació setmanal, per estudiant, de 30 hores aproximadament.
 
 ### Estructura del repositori
 

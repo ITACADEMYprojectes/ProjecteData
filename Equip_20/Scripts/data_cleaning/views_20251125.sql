@@ -96,9 +96,26 @@ CREATE OR REPLACE VIEW ausentismo AS
 CREATE OR REPLACE VIEW long_absence AS
    SELECT ID
         , ROUND(SUM(Absenteeism_hours)/8, 2) AS work_days_absent
+        , CASE WHEN SUM(Absenteeism_hours)/8 < 8  THEN 1
+               WHEN SUM(Absenteeism_hours)/8 < 22 THEN 2
+               WHEN SUM(Absenteeism_hours)/8 < 43 THEN 3
+               ELSE 4
+          END  AS `ab_level`
         , CASE WHEN SUM(Absenteeism_hours)/8 < 8  THEN "Bajo"
                WHEN SUM(Absenteeism_hours)/8 < 22 THEN "Medio"
                WHEN SUM(Absenteeism_hours)/8 < 43 THEN "Alto"
                ELSE "Muy alto"
           END  AS `level`
      FROM ausentismo GROUP BY ID HAVING SUM(Absenteeism_hours) > 7;
+
+-- Vista de niveles de ausentismo dos categorías con todos los empleados
+CREATE OR REPLACE VIEW long_absence AS
+   SELECT ID
+        , ROUND(SUM(Absenteeism_hours)/8, 2) AS work_days_absent
+        , CASE WHEN SUM(Absenteeism_hours)/8 < 22 THEN 0
+               ELSE 1
+          END  AS `ab_level`
+        , CASE WHEN SUM(Absenteeism_hours)/8 < 22 THEN "Bajo"
+               ELSE THEN "Medio-Alto"
+          END  AS `level`
+     FROM ausentismo GROUP BY ID;

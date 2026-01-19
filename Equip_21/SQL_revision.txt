@@ -1,0 +1,3 @@
+TOTAL REGISTROS ->SELECT COUNT(id) AS usuarios_unicos FROM BANK_marketing;
+
+IDs UNICOS -> SELECT COUNT(DISTINCT id) AS usuarios_unicos FROM BANK_marketing;

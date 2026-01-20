@@ -1,0 +1,13 @@
+TOTAL REGISTROS ->SELECT COUNT(id) AS usuarios_unicos FROM BANK_marketing;
+
+TOTAL DE ID EXTRAS -> SELECT id, COUNT(*) AS repeated
+			FROM Equip_21.BANK_marketing
+			GROUP BY id
+			HAVING COUNT(*) > 1;
+
+TOTAL IDs UNICOS -> SELECT COUNT(DISTINCT id) AS usuarios_unicos FROM BANK_marketing;
+
+TOTAL DUPLICADOS ABSOLUTOS -> SELECT id, age, job, marital, education, balance, housing, loan, contact, day, month, duration, campaign, pdays, previous, poutcome, deposit, COUNT(*) AS cuenta
+			FROM Equip_21.BANK_marketing
+			GROUP BY id, age, job, marital, education,balance, housing, loan, contact, day, month, duration, campaign, pdays, previous, poutcome, deposit
+			HAVING COUNT(*) > 1;

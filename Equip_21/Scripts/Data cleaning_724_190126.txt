@@ -1,3 +1,26 @@
+Tratamiento de valores faltantes: Se han analizado los NULL detectándose en los campos “age”, “marital” y “education”.
+
+También se han encontrado registros UNKNOWN en los campos “job”, “education”, “contact”, “poutcome”.
+
+Eliminación o corrección de duplicados: Se ha revisado la existencia de registros duplicados y la existencia de “id” extras y no se han detectado.
+
+Validación y corrección de valores atípicos: Se ha revisado en rango de “age” (18-95) siendo los valores normales. 
+En “balance” se ha considerado también normal la existencia de valores negativos y 0. No se han detectado valores atípicos en los campos
+ “day”, “duration”, “campaign” ni “previous”. En refercia al campo “pdays” se ha acordado desagregarlo en dos columnas (boolean e int)
+para eliminar el signo negativo en la fase de Data Transformation.
+
+Estandarización de formatos: Hemos considerado UNKNOWN como una categoria propia y válida por lo que se han mantenido como están. 
+Con respecto a los NULL, si se trata de una variable categórica ("marital" y "education"), se han convertido en UNKNOWN, y si la variable es numérica, 
+no se han realizado cambios para evitar incompatibilidades con el literal y/o errores en consultas futuras. 
+
+Se ha revisado también que no hubiera errores tipográficos en las variables categóricas que generaran “falsas categorias”, no encontrándose ninguno.
+
+Corrección de tipos de datos. Se ha transformado los campos “default”, “housing”, “loan” y “deposit” al literal boolean. 
+
+Adicionalmente, dado que "default" es una palabra reservada, le hemos cambiado el nombre al campo por "credit_default".
+
+
+
 SELECT * FROM  BANK_marketing;
 
 -- Cuantificar los NULL
@@ -81,7 +104,7 @@ SELECT DISTINCT deposit FROM BANK_marketing;
 -- Conversión de los valores de las columnas a booleano
 UPDATE BANK_marketing
 SET
-  default = CASE
+  credit_default = CASE
     WHEN credit_default = 'yes' THEN 1
     WHEN credit_default = 'no' THEN 0
     ELSE NULL
@@ -103,7 +126,7 @@ SET
   END;
   
   -- Canvio de tipo de valor de las columnas en tabla
-  ALTER TABLE BANK_marketing
+ALTER TABLE BANK_marketing
 MODIFY credit_default BOOLEAN,
 MODIFY housing BOOLEAN,
 MODIFY loan BOOLEAN,

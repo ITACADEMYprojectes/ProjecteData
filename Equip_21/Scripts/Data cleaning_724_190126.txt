@@ -81,7 +81,7 @@ SELECT DISTINCT deposit FROM BANK_marketing;
 -- Conversión de los valores de las columnas a booleano
 UPDATE BANK_marketing
 SET
-  default = CASE
+  `default`= CASE
     WHEN credit_default = 'yes' THEN 1
     WHEN credit_default = 'no' THEN 0
     ELSE NULL

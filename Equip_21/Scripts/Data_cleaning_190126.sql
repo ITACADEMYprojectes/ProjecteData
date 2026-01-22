@@ -20,7 +20,6 @@
 -- Adicionalmente, dado que "default" es una palabra reservada, le hemos cambiado el nombre al campo por "credit_default".
 
 
-
 SELECT * FROM  BANK_marketing;
 
 -- Cuantificar los NULL
@@ -95,7 +94,40 @@ DESCRIBE BANK_marketing;
 ALTER TABLE BANK_marketing
 CHANGE `default` credit_default VARCHAR(3);
 
-SELECT DISTINCT default FROM BANK_marketing;
+-- Verificación de datos booleanos en las columnas
+SELECT DISTINCT credit_default FROM BANK_marketing;
 SELECT DISTINCT housing FROM BANK_marketing;
 SELECT DISTINCT loan FROM BANK_marketing;
 SELECT DISTINCT deposit FROM BANK_marketing;
+
+-- Conversión de los valores de las columnas a booleano
+UPDATE BANK_marketing
+SET
+  credit_default = CASE
+    WHEN credit_default = 'yes' THEN 1
+    WHEN credit_default = 'no' THEN 0
+    ELSE NULL
+  END,
+  housing = CASE
+    WHEN housing = 'yes' THEN 1
+    WHEN housing = 'no' THEN 0
+    ELSE NULL
+  END,
+  loan = CASE
+    WHEN loan = 'yes' THEN 1
+    WHEN loan = 'no' THEN 0
+    ELSE NULL
+  END,
+  deposit = CASE
+    WHEN deposit = 'yes' THEN 1
+    WHEN deposit = 'no' THEN 0
+    ELSE NULL
+  END;
+  
+  -- Canvio de tipo de valor de las columnas en tabla
+ALTER TABLE BANK_marketing
+MODIFY credit_default BOOLEAN,
+MODIFY housing BOOLEAN,
+MODIFY loan BOOLEAN,
+MODIFY deposit BOOLEAN;
+

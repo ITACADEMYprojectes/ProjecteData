@@ -144,23 +144,34 @@ WHERE b.education = 'unknown';
 SET SQL_SAFE_UPDATES = 1;
 
 -- CONTACT --> Traspasamos a marketing la gestión de los UNKNOWNS
+SET SQL_SAFE_UPDATES = 0;
+
+ALTER TABLE BANK_marketing
+MODIFY contact varchar(20);
+
+UPDATE BANK_marketing
+SET contact = 'low_quality'
+WHERE contact = 'unknown';
+
+SET SQL_SAFE_UPDATES = 1;
+
 -- POUTCOME --> Traspasamos a marketing la gestión de los UNKNOWNS
 
 -- 2. Eliminación o corrección de duplicados
--- 2.1 Id duplicados exactos 
+-- 2.1. Id duplicados exactos 
 SELECT id, age, job, marital, education, balance, housing, loan, contact, day, month, duration, campaign, pdays, previous, poutcome, deposit, COUNT(*) AS cuenta
 FROM Equip_21.BANK_marketing
 GROUP BY id, age, job, marital, education,balance, housing, loan, contact, day, month, duration, campaign, pdays, previous, poutcome, deposit
 HAVING COUNT(*) > 1;
 
--- 2.2 Creamos una columna id unico
-SET SQL_SAFE_UPDATES = 1;
+-- 2.2. Creamos una columna id unico Y Eliminamos duplicados perfectos, conserva el id más pequeño de los duplicados
+-------- SET SQL_SAFE_UPDATES = 0;
 
-ALTER TABLE Equip_21.BANK_marketing
+-------- ALTER TABLE Equip_21.BANK_marketing
 ADD COLUMN uniq_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY;
 
--- 2.3 Eliminamos duplicados perfectos, conserva el id más pequeño de los duplicados
-DELETE t1
+-- 2.3. Eliminamos duplicados perfectos, conserva el id más pequeño de los duplicados
+-------- DELETE t1
 FROM Equip_21.BANK_marketing t1
 JOIN Equip_21.BANK_marketing t2
 ON t1.age = t2.age
@@ -182,18 +193,18 @@ AND t1.deposit = t2.deposit
 AND t1.uniq_id > t2.uniq_id;
 
 -- 2.4. Eliminamos columna temporal de id unico 
-ALTER TABLE Equip_21.BANK_marketing
+-------- ALTER TABLE Equip_21.BANK_marketing
 DROP COLUMN uniq_id;
 
-SET SQL_SAFE_UPDATES = 0;
+-------- SET SQL_SAFE_UPDATES = 1;
 
 -- 3. Validación y corrección de valores atípicos
 
--- AGE --> No vemos valors atípicos
+-- AGE --> No vemos valores atípicos
 SELECT MIN(age), MAX(age)
 FROM BANK_marketing;
 
--- BALANCE --> No vemos valors atípicos
+-- BALANCE --> No vemos valores atípicos
 SELECT
   MIN(balance),
   MAX(balance),
@@ -203,20 +214,88 @@ FROM BANK_marketing;
 -- 4. Estandarización de formatos
 -- 4.1. Creamos la columna pcontact (boolean) para saber si se ha contactado antes o no
 
-ALTER TABLE BANK_marketing
+-------- SET SQL_SAFE_UPDATES = 0;
+
+-------- ALTER TABLE BANK_marketing
 ADD COLUMN pcontact BOOLEAN;
 
-SET
+-------- SET
   pcontact = CASE
     WHEN pdays < '0' THEN 0
     WHEN pdays >= '0' THEN 1
     ELSE NULL
   END;
+  
+-------- SET SQL_SAFE_UPDATES = 1;
+
 
 -- 4.2. LO TRASPASAMOS A MARKETING: modificamos la columna pdays para que no haya negativos y solo contabilice los dias desde la ultima llamada (los -1 pasaran a ser 1? o 0?)
 
 -- 5. Corrección de tipos de datos
 -- 5.1. Canvio de tipo de valor de las columna age
 
+SET SQL_SAFE_UPDATES = 0;
+
 ALTER TABLE BANK_marketing
 MODIFY age INT;
+
+SET SQL_SAFE_UPDATES = 1;
+
+-- 6. Exportar base de datos sin duplicados exacto a traves de VIEW 
+
+CREATE OR REPLACE VIEW Equip_21.BANK_marketing_deduplicated AS
+SELECT
+    id,
+    age,
+    job,
+    marital,
+    education,
+    credit_default,
+    balance,
+    housing,
+    loan,
+    contact,
+    day,
+    month,
+    duration,
+    campaign,
+    pdays,
+    previous,
+    poutcome,
+    deposit
+FROM (
+    SELECT
+        *,
+        ROW_NUMBER() OVER (
+            PARTITION BY
+                id,
+                age,
+                job,
+                marital,
+                education,
+                credit_default,
+                balance,
+                housing,
+                loan,
+                contact,
+                day,
+                month,
+                duration,
+                campaign,
+                pdays,
+                previous,
+                poutcome,
+                deposit
+            ORDER BY id
+        ) AS rn
+    FROM Equip_21.BANK_marketing
+) t
+WHERE rn = 1;
+
+-- check num de rows
+SELECT COUNT(*) FROM Equip_21.BANK_marketing;
+SELECT COUNT(*) FROM Equip_21.BANK_marketing_deduplicated;
+
+
+-- select para exportar la tabla view de-duplicated
+SELECT * FROM Equip_21.BANK_marketing_dedup;

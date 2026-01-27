@@ -1,7 +1,7 @@
+-- DATA CLEANING 260126
 
--- 1. tratiamento de valores faltantes (NULLs and unknown )
-
--- 1.a Cuantificar los NULL
+-- 1. Tratamiento de valores faltantes
+-- 1.a NULLS
 SELECT
   SUM(age IS NULL) AS age_nulls,
   SUM(job IS NULL) AS job_nulls,
@@ -21,14 +21,12 @@ SELECT
   SUM(deposit IS NULL) AS deposit_nulls
 FROM BANK_marketing;
 
-
--- detalle NULL en age
+-- Detalle NULLS en age
 SELECT *
 FROM BANK_marketing
 WHERE age IS NULL;
 
-
--- 1.b Cuantificar los unknown
+-- 1.b UNKNOWN
 SELECT
   SUM(job = 'unknown') AS job_unknown,
   SUM(marital = 'unknown') AS marital_unknown,
@@ -38,151 +36,187 @@ SELECT
   SUM(poutcome = 'unknown') AS poutcome_unknown
 FROM BANK_marketing;
 
--- detalle poutcome = 'unknown y  previous (COUNT) 
+-- Detalle poutcome = 'unknown' y  previous (COUNT) 
 SELECT previous, poutcome, COUNT(*) AS num_contactos
 FROM BANK_marketing
 GROUP BY previous, poutcome
 HAVING poutcome = 'unknown';
 
--- detalle contact = 'unknown y  previous (COUNT) 
+-- Detalle contact = 'unknown' y  previous (COUNT) 
 SELECT previous, contact, COUNT(*) AS num_contactos
 FROM BANK_marketing
 GROUP BY previous, contact
 HAVING contact = 'unknown';
+ 
+-- Se ha detectado que previous, pdays y poutcome tienen ambos el mismo número de registros 
+SELECT previous, pdays, poutcome, COUNT(*) AS num_contactos
+FROM BANK_marketing
+GROUP BY previous, poutcome,pdays
+HAVING poutcome = 'unknown'
+AND pdays = -1 ;
 
-------------------------------------------------------------------
--- 1.c clasificacion de NULLs y unknown
-
--- age --> media?mediana?moda?
----- UPDATE BANK_marketing
+-- 1.c Transformación de NULLs y UNKNOWNS
+-- AGE --> A los NULLS imputamos la mediana para que no dé error al hacer clustering
+SET SQL_SAFE_UPDATES = 0; 
+UPDATE BANK_marketing
 SET age = (
-    SELECT AVG(age) ------- DECIDIR media? mediana? otra cosa?
-    FROM BANK_marketing
-    WHERE age IS NOT NULL
+    SELECT AVG(age)
+    FROM (
+        SELECT 
+            age,
+            ROW_NUMBER() OVER (ORDER BY age) AS rn,
+            COUNT(*) OVER () AS cnt
+        FROM BANK_marketing
+        WHERE age IS NOT NULL
+    ) t
+    WHERE rn IN (FLOOR((cnt + 1) / 2), FLOOR((cnt + 2) / 2))
 )
 WHERE age IS NULL;
+SET SQL_SAFE_UPDATES = 1;
 
---  job --> ponderada
----- WITH job_dist AS (
-    SELECT
+--  JOB --> Los UNKNOWNS aplicamos las probabilidades ponderadas de cada categoría
+SET SQL_SAFE_UPDATES = 0; 
+
+UPDATE BANK_marketing AS b
+JOIN (
+    SELECT 
         job,
-        COUNT(*)::float / SUM(COUNT(*)) OVER () AS prob
-    FROM BANK_marketing
-    WHERE job IS NOT NULL
-      AND job <> 'unknown'
-    GROUP BY job
-)
-SELECT * FROM job_dist;
+        SUM(prob) OVER (ORDER BY prob DESC) AS cum_prob
+    FROM (
+        SELECT 
+            job,
+            COUNT(*) / SUM(COUNT(*)) OVER () AS prob
+        FROM BANK_marketing
+        WHERE job <> 'unknown'
+        GROUP BY job
+    ) AS dist
+) AS d
+ON RAND() <= d.cum_prob
+SET b.job = d.job
+WHERE b.job = 'unknown';
 
---  marital --> ponderada
----- UPDATE BANK_marketing
-SET marital = (
-    SELECT -- FORMULA AQUI
-    FROM BANK_marketing
-    WHERE marital IS NOT NULL
-)
-WHERE age IS NULL;
+SET SQL_SAFE_UPDATES = 1;
 
--- contact unknown AND previous == 0
-UPDATE BANK_marketing
-SET contact = 'inbound'
-WHERE contact = 'unknown' AND previous = 0;
+--  MARITAL --> Los UNKNOWNS aplicamos las probabilidades ponderadas de cada categoría
+SET SQL_SAFE_UPDATES = 0;
 
--- contact unknown (  AND previous != 0)
-UPDATE BANK_marketing
-SET contact = -- TRATAR SEGUN TENDECIA PONDERADA
-WHERE contact = 'unknown' AND previous != 0;
-------------------------------------------------------------------
--- 2. 
+UPDATE BANK_marketing AS b
+JOIN (
+    SELECT 
+        marital,
+        SUM(prob) OVER (ORDER BY prob DESC) AS cum_prob
+    FROM (
+        SELECT 
+            marital,
+            COUNT(*) / SUM(COUNT(*)) OVER () AS prob
+        FROM BANK_marketing
+        WHERE marital <> 'unknown'
+        GROUP BY marital
+    ) AS dist
+) AS d
+ON RAND() <= d.cum_prob
+SET b.marital = d.marital
+WHERE b.marital = 'unknown';
 
-------------------------------------------------------------------
--- Encontrar valores atípicos en la edad
+SET SQL_SAFE_UPDATES = 1;
+
+--  EDUCATION --> Los UNKNOWNS aplicamos las probabilidades ponderadas de cada categoría
+SET SQL_SAFE_UPDATES = 0;
+
+UPDATE BANK_marketing AS b
+JOIN (
+    SELECT 
+        education,
+        SUM(prob) OVER (ORDER BY prob DESC) AS cum_prob
+    FROM (
+        SELECT 
+            education,
+            COUNT(*) / SUM(COUNT(*)) OVER () AS prob
+        FROM BANK_marketing
+        WHERE education <> 'unknown'
+        GROUP BY education
+    ) AS dist
+) AS d
+ON RAND() <= d.cum_prob
+SET b.education = d.education
+WHERE b.education = 'unknown';
+
+SET SQL_SAFE_UPDATES = 1;
+
+-- CONTACT --> Traspasamos a marketing la gestión de los UNKNOWNS
+-- POUTCOME --> Traspasamos a marketing la gestión de los UNKNOWNS
+
+-- 2. Eliminación o corrección de duplicados
+-- 2.1 Id duplicados exactos 
+SELECT id, age, job, marital, education, balance, housing, loan, contact, day, month, duration, campaign, pdays, previous, poutcome, deposit, COUNT(*) AS cuenta
+FROM Equip_21.BANK_marketing
+GROUP BY id, age, job, marital, education,balance, housing, loan, contact, day, month, duration, campaign, pdays, previous, poutcome, deposit
+HAVING COUNT(*) > 1;
+
+-- 2.2 Creamos una columna id unico
+SET SQL_SAFE_UPDATES = 1;
+
+ALTER TABLE Equip_21.BANK_marketing
+ADD COLUMN uniq_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY;
+
+-- 2.3 Eliminamos duplicados perfectos, conserva el id más pequeño de los duplicados
+DELETE t1
+FROM Equip_21.BANK_marketing t1
+JOIN Equip_21.BANK_marketing t2
+ON t1.age = t2.age
+AND t1.job = t2.job
+AND t1.marital = t2.marital
+AND t1.education = t2.education
+AND t1.balance = t2.balance
+AND t1.housing = t2.housing
+AND t1.loan = t2.loan
+AND t1.contact = t2.contact
+AND t1.day = t2.day
+AND t1.month = t2.month
+AND t1.duration = t2.duration
+AND t1.campaign = t2.campaign
+AND t1.pdays = t2.pdays
+AND t1.previous = t2.previous
+AND t1.poutcome = t2.poutcome
+AND t1.deposit = t2.deposit
+AND t1.uniq_id > t2.uniq_id;
+
+-- 2.4. Eliminamos columna temporal de id unico 
+ALTER TABLE Equip_21.BANK_marketing
+DROP COLUMN uniq_id;
+
+SET SQL_SAFE_UPDATES = 0;
+
+-- 3. Validación y corrección de valores atípicos
+
+-- AGE --> No vemos valors atípicos
 SELECT MIN(age), MAX(age)
 FROM BANK_marketing;
 
--- Encontrar valores atípicos en el balance
+-- BALANCE --> No vemos valors atípicos
 SELECT
   MIN(balance),
   MAX(balance),
   AVG(balance)
 FROM BANK_marketing;
 
--- Selección de los Null en edad
-SELECT *
-FROM BANK_marketing
-WHERE age IS NULL;
+-- 4. Estandarización de formatos
+-- 4.1. Creamos la columna pcontact (boolean) para saber si se ha contactado antes o no
 
--- Selección de los Null en marital
-SELECT *
-FROM BANK_marketing
-WHERE marital IS NULL;
-
--- Selección de los Null en education
-SELECT *
-FROM BANK_marketing
-WHERE education IS NULL;
-
--- Selección de unknown en job
-SELECT *
-FROM BANK_marketing
-WHERE job = "unknown";
-
--- Selección de los unknown en contact
-SELECT *
-FROM BANK_marketing
-WHERE contact = "unknown";
-
--- Modificación de los valores categóricos null por unknown de marital
-UPDATE BANK_marketing
-SET marital = 'unknown'
-WHERE marital IS NULL;
-
--- Modificación de los valores categóricos null por unknown de education
-UPDATE BANK_marketing
-SET education = 'unknown'
-WHERE education IS NULL;
-
--- Descripción de la tabla
-DESCRIBE BANK_marketing;
-
--- Mofificación del nombre de columna default
 ALTER TABLE BANK_marketing
-CHANGE `default` credit_default VARCHAR(3);
+ADD COLUMN pcontact BOOLEAN;
 
--- Verificación de datos booleanos en las columnas
-SELECT DISTINCT credit_default FROM BANK_marketing;
-SELECT DISTINCT housing FROM BANK_marketing;
-SELECT DISTINCT loan FROM BANK_marketing;
-SELECT DISTINCT deposit FROM BANK_marketing;
-
--- Conversión de los valores de las columnas a booleano
-UPDATE BANK_marketing
 SET
-  credit_default = CASE
-    WHEN credit_default = 'yes' THEN 1
-    WHEN credit_default = 'no' THEN 0
-    ELSE NULL
-  END,
-  housing = CASE
-    WHEN housing = 'yes' THEN 1
-    WHEN housing = 'no' THEN 0
-    ELSE NULL
-  END,
-  loan = CASE
-    WHEN loan = 'yes' THEN 1
-    WHEN loan = 'no' THEN 0
-    ELSE NULL
-  END,
-  deposit = CASE
-    WHEN deposit = 'yes' THEN 1
-    WHEN deposit = 'no' THEN 0
+  pcontact = CASE
+    WHEN pdays < '0' THEN 0
+    WHEN pdays >= '0' THEN 1
     ELSE NULL
   END;
-  
-  -- Canvio de tipo de valor de las columnas en tabla
-ALTER TABLE BANK_marketing
-MODIFY credit_default BOOLEAN,
-MODIFY housing BOOLEAN,
-MODIFY loan BOOLEAN,
-MODIFY deposit BOOLEAN;
 
+-- 4.2. LO TRASPASAMOS A MARKETING: modificamos la columna pdays para que no haya negativos y solo contabilice los dias desde la ultima llamada (los -1 pasaran a ser 1? o 0?)
+
+-- 5. Corrección de tipos de datos
+-- 5.1. Canvio de tipo de valor de las columna age
+
+ALTER TABLE BANK_marketing
+MODIFY age INT;

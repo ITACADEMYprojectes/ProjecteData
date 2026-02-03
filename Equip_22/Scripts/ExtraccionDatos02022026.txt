@@ -1,0 +1,2 @@
+Se exporta la base de datos crudos 'TouristAccommodationRaw02022026.csv',
+directamente con la opción "export" en la consulta de datos completos en MYSQL Workbench.

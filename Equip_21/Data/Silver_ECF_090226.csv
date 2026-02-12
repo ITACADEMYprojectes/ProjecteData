@@ -1,4 +1,4 @@
-educacion_cat,labor_status,household_type,residence_type,ahorro,deuda,adq_ahorro2,adq_deuda2,adq_otro,ahorra_12m,consumo_ahorros,cred_inf,cred_line,cred_add,impago,ayudas,rechazo,semirechazo,nopiden,age,ID,year,inflacion_ok,interes_comp_ok,diversificacion_ok
+cat_educacion,estado_laboral,familia,riq_inmob,ahorro,deuda,adq_ahorro2,adq_deuda2,adq_otro,ahorra_12m,consumo_ahorros,cred_inf,cred_form,cred_add,impago,ayudas,rechazo,semirechazo,nopiden,age,ID,year,inflacion_ok,interes_comp_ok,diversificacion_ok
 Universidad,Asalariado,Vive con pareja,Solo residencia principal,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,40,1,2022,0,0,-1
 Universidad,Asalariado,Otros adultos,Residencia principal y otras,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,54,2,2022,1,-1,-1
 Educación Secundaria,Asalariado,Vive solo,Residencia principal y otras,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,54,3,2022,1,1,1

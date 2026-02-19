@@ -1,5 +1,0 @@
-- [Valor por dinero](https://raw.githack.com/ITACADEMYprojectes/ProjecteData/main/Equip_10/Results/Sprint_3/Graficos%20HTML%20Cliente/valor_por_dinero.html)
-- [Comparación correlación](https://raw.githack.com/ITACADEMYprojectes/ProjecteData/main/Equip_10/Results/Sprint_3/Graficos%20HTML%20Cliente/comparacion_correlacion.html)
-- [Comparación indice](https://raw.githack.com/ITACADEMYprojectes/ProjecteData/main/Equip_10/Results/Sprint_3/Graficos%20HTML%20Cliente/comparacion_indice.html)
-- [Anova alojamiento](https://raw.githack.com/ITACADEMYprojectes/ProjecteData/main/Equip_10/Results/Sprint_3/Graficos%20HTML%20Cliente/anova_alojamiento.html)
-- [Anova ciudad](https://raw.githack.com/ITACADEMYprojectes/ProjecteData/main/Equip_10/Results/Sprint_3/Graficos%20HTML%20Cliente/violin_precios_por_ciudad.html)

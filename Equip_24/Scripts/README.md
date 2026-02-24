@@ -1,1 +1,2 @@
-# Scripts Carpeta para almacenar los scripts y código fuente.
+### Exploración de Datos 
+Este módulo de Exploración de Datos analiza 740 registros para identificar los patrones que elevan el ausentismo promedio a 6.9 horas. Se determinó la necesidad de optimizar los tipos de datos en Pandas, convirtiendo variables de etiquetas a category, indicadores de comportamiento a bool y métricas de rendimiento a float o int según su naturaleza. Entre los hallazgos críticos destacan una redundancia del 90% entre el peso y el BMI, una fuerte relación entre la antigüedad y la edad (0.67), y un impacto negativo directo del ausentismo sobre el cumplimiento de metas del equipo (-0.46).

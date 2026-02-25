@@ -1,0 +1,29 @@
+Reason_ID,Reason_Description
+1,Infectious/Parasitic
+2,Neoplasms
+3,Blood/Immune diseases
+4,Endocrine/Nutritional/Metabolic
+5,Mental/Behavioural disorders
+6,Nervous system diseases
+7,Eye/Adnexa diseases
+8,Ear/Mastoid diseases
+9,Circulatory system diseases
+10,Respiratory system diseases
+11,Digestive system diseases
+12,Skin/Subcutaneous diseases
+13,Musculoskeletal/Connective tissue
+14,Genitourinary system diseases
+15,Pregnancy/Childbirth
+16,Perinatal conditions
+17,Congenital malformations
+18,Symptoms/Abnormal findings
+19,Injury/Poisoning
+20,External causes
+21,Factors influencing health status
+22,Patient follow-up
+23,Medical consultation
+24,Blood donation
+25,Laboratory examination
+26,Unjustified absence
+27,Physiotherapy
+28,Dental consultation

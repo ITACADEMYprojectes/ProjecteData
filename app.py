@@ -1,3 +1,5 @@
+from sklearn.metrics import davies_bouldin_score
+from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
@@ -40,6 +42,11 @@ st.title("Diagnóstico Sociodemográfico y Plan de Fidelización")
 # ==========================================
 
 # Agrupación inicial
+# Para variables continuas (Age, Body_mass_index, Son) tomaste la media.
+# Para variables categóricas (Education) tomaste la primera observación.
+# Para variables binarias (Social_drinker, Social_smoker) tomaste el valor máximo (es decir, si alguna vez fueron “sí”, se marca como sí).
+
+
 df_id = RRHH_full.groupby('ID').agg({
     'Age': 'mean',
     'Body_mass_index': 'mean',
@@ -49,12 +56,18 @@ df_id = RRHH_full.groupby('ID').agg({
     'Social_smoker': 'max'
 }).reset_index()
 
-# Pre-procesamiento y Clustering
+# Pre-procesamiento y Clustering # variables numéricas + dummies para categóricas
+# Aplicaste KMeans con 3 clusters, generando un label para cada empleado.
+
+# Transformaste variables categóricas en dummies (0/1) para que KMeans pueda procesarlas.
 df_numeric = pd.get_dummies(
     df_id, columns=['Education', 'Social_drinker', 'Social_smoker'])
 X = df_numeric.drop(columns=['ID'])
+
+# Escalaste las variables numéricas con StandardScaler para que todas tengan la misma importancia.
 X_scaled = StandardScaler().fit_transform(X)
 
+# Aplicaste KMeans con 3 clusters, generando un label para cada empleado.
 kmeans = KMeans(n_clusters=3, random_state=42, n_init=10)
 cluster_labels = kmeans.fit_predict(X_scaled)
 
@@ -67,7 +80,10 @@ mapeo_nombres = {
 df_id['Cluster_ID'] = cluster_labels.astype(str)
 df_id['Segmento'] = df_id['Cluster_ID'].map(mapeo_nombres)
 
+
 # PCA para las coordenadas del gráfico
+# Redujiste la dimensión de los datos a 2 componentes principales para poder graficarlos.
+# Esto es útil para mostrar un scatter plot de los clusters y ver cómo se separan visualmente.
 pca = PCA(n_components=2)
 pca_data = pca.fit_transform(X_scaled)
 df_id['PCA1'] = pca_data[:, 0]
@@ -76,11 +92,42 @@ df_id['PCA2'] = pca_data[:, 1]
 # ==========================================
 # 2. CÁLCULO DE MÉTRICAS (Basado en los DFs ya listos)
 # ==========================================
+# Calculaste tamaño de cada cluster (cuántos empleados tiene cada segmento).
+# Calculaste promedio de hijos para ver características demográficas generales.
+
 total_a = len(df_id[df_id['Cluster_ID'] == "0"])
 total_b = len(df_id[df_id['Cluster_ID'] == "1"])
 total_c = len(df_id[df_id['Cluster_ID'] == "2"])
 promedio_hijos = df_id['Son'].mean()
 
+
+st.set_page_config(page_title="Segmentación RRHH", layout="wide")
+
+st.write("## KPIs del clustering")
+
+# Tamaño de cada cluster
+cluster_sizes = df_id['Segmento'].value_counts()
+st.write("### Tamaño de cada cluster")
+st.bar_chart(cluster_sizes)
+
+# Promedio por cluster
+st.write("### Promedios por cluster")
+st.dataframe(df_id.groupby('Segmento')[
+             ['Age', 'Body_mass_index', 'Son']].mean())
+
+#### CLUSTERS TESTS ####
+
+# Silhouette score
+score = silhouette_score(X_scaled, cluster_labels)
+st.write(f"**Silhouette Score:** {score:.2f}")
+
+# Inertia
+st.write(f"**Inertia (WCSS):** {kmeans.inertia_:.2f}")
+
+# Davies-Bouldin Score
+db_score = davies_bouldin_score(X_scaled, cluster_labels)
+print(f"Davies-Bouldin Score: {db_score:.2f}")
+st.write(f"**Davies-Bouldin Score:** {db_score:.2f}")
 # ==========================================
 # 3. RENDERIZADO VISUAL (STREAMLIT)
 # ==========================================

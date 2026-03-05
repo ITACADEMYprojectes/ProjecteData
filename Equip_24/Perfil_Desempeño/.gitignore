@@ -1,0 +1,18 @@
+# Archivos de sistema Mac
+.DS_Store
+._*
+
+# Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Archivos de datos grandes o temporales
+*.db
+*.csv
+!RRHH_raw.csv  # Esto significa: Ignora todos los CSV menos el principal
+
+
+
+			
+.DS_Store

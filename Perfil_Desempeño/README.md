@@ -1,4 +1,4 @@
-# ProjecteData
+# ProjecteddData
 ## Simulador Empresarial
 
 El simulador empresarial és un projecte que recrea un entorn professional per a posar en pràctica les habilitats tècniques i col·laboratives dels estudiants de IT Academy de Barcelona Activa.

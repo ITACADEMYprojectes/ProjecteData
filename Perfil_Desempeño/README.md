@@ -1,45 +1,31 @@
-# ProjecteddData
-## Simulador Empresarial
+# Perfil & Desempeño
 
-El simulador empresarial és un projecte que recrea un entorn professional per a posar en pràctica les habilitats tècniques i col·laboratives dels estudiants de IT Academy de Barcelona Activa.
+Analítica avanzada de Recursos Humanos para la optimización del bienestar y rendimiento laboral. Desarrollado para la **IT Academy - Proyecto Equip_24**.
 
-Si recentment ingresses al projecte, llegeix tot abans de començar.
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-## Estudiants nous
+---
 
-¡Benvingut al repositori de Projecte Data GitHub de IT Academy de Barcelona Activa! En aquesta secció et guiarem sobre els elements claus del projecte perquè puguis aprofitar al màxim aquesta experiència d'aprenentatge.
+## 📋 Descripción del Proyecto
+Este ecosistema digital permite analizar el perfil de los empleados mediante técnicas de **Machine Learning** y visualización interactiva. El objetivo principal es identificar patrones de comportamiento, salud y desempeño para la toma de decisiones estratégicas en RRHH.
 
-### Escenar
-Integraràs el Departament d'Analistes de Dades d'una empresa.
+### ✨ Características Principales
+* **Clustering de Empleados:** Segmentación mediante algoritmo **K-Means** basada en factores demográficos y hábitos.
+* **Análisis Predictivo:** Visualización de tendencias de ausentismo y desempeño.
+* **Workflow Táctico:** Dashboard interactivo desarrollado en Streamlit con diseño minimalista (`#EEEEEE`).
+* **Reducción de Dimensionalidad:** Implementación de **PCA** (Análisis de Componentes Principales) para visualización de clusters.
 
-### Equip
-En el teu equip haurà de 3 a 5 estudiants que integraran un Departament d'Analista de Dades.
-Rols possibles:
-- Analistes de Màrqueting i Comunicació
-- Analistes de Finances i Risc Creditici
-- Analistes del Perfil del Client
-- Analista d'operacions i gestió d'inventari
-- Analista d'experiència del client
-- Responsable de Qualitat del Repositori (rol rotatiu)
-- Facilitadora/ Directora del departament: Mentora
+---
 
-### Reunions importants
-
-- Cada **dilluns** s'alliberarà el desafiament setmanal i es presentaran els resultats del desafiament anterior.
-- De **dimarts a dijous** es revisarà la planificació del treball de la setmana i es coordinarà les tasques entre membres de 
-  l'equip.
-- Cada dues setmanes, **els dijous**, es realitza una retrospectiva dels sprints realitzades.
-- El projecte requereix una dedicació setmanal, per estudiant, de 20 hores aproximadament.
-
-### Estructura del repositori
-
-- Equip: Hauràs de seleccionar la carpeta del teu equip per a treballar.
-- Data: Conté tots els fitxers essencials per treballar amb la base de dades, incloent els scripts SQL i els datasets originals en csv.
-- Scripts: Emmagatzemar tots els scripts de codi que s'utilitzen per a processar dades, realitzar anàlisis i generar resultats.
-- Results: Almacenar los resultados finales del análisis, tales como gráficos e informes.
-
-
-### ¡TREBALLA EN EQUIP!
--  Tota la planificació del treball la trobaràs en el tauler Kanban corresponent al projecte del **teu equip**. Per exemple: @ITACADEMYprojectes's Equip B
-
-  
+## 🛠️ Estructura del Repositorio
+```text
+Equip_24/
+├── Perfil_Desempeño/
+│   ├── app.py              # Aplicación principal de Streamlit
+│   ├── logo.png            # Identidad visual del proyecto
+│   ├── requirements.txt    # Librerías necesarias para el despliegue
+│   └── Data/               # Carpeta de conjuntos de datos (CSV)
+├── full_RRHH.csv           # Base de datos principal
+└── README.md               # Este archivo

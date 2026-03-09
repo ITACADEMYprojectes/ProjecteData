@@ -1,0 +1,22 @@
+KPI - Tourist_Accommodation
+
+BY DEPT
+· Oferta (inventario) y disponibilidad: 
+Cantidad de alojamientos - by room_type y by city
+Avg availability (30,60,90,365)
+Ratio de ocupación estimada (30,60,90,365)
+
+· Precio y bookings: 
+Medio general - by room_type
+Mediano general
+Avg number_of_reviews (total reviews = reservas aprox)
+
+· Calidad (reviews):
+Avg rating (todos scores)
+Avg reviews per month
+
+OVERVIEW GENERAL
+- Total alojamientos general
+- Avg Price
+- Avg rating (scores_rating)
+- Ratio de ocupación estimada

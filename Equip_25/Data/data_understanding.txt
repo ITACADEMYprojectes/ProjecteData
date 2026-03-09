@@ -1,0 +1,26 @@
+Data understanding - Touristic_Accomodation
+
+- 35 columnas 
+- Variables tipo varchar, int y text:
+	· Identificación: apartment_id, host_id, name, description, insert_date
+	· Pricing: price
+	· Localización: country, city, neighbourhood_name, neighbourhood_district
+	· Reviews: number_of_reviews, first_review_date, last_review_date, 	review_scores_(rating,accuracy,cleaning,checkin,communication,location,value), reviews_per_month
+	· Bookings: minimum_nights, maximum_nights, has_availability, availability_(30,60,90,365), is_instant_bookable
+	· Características: room_type, accommodates, bathrooms, bedrooms, beds, amenities_list
+
+- Tipo de datos inconsistentes:
+	· date varchar --> datetime
+	· bathrooms/bedrooms varchar --> int/tinyint
+	· has_availability varchar --> boolean (null by default si es falso?)
+
+- NO PK/FK --> hace posible que existan filas duplicadas (idealmente, apartment_id = PK y host_id = FK).
+
+- Default null --> Muy posible que haya datos incompletos o atributos opcionales.
+
+- DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci --> la configuración de carácteres está bien, así que los símbolos que aparecen en el output de MySQL debe de ser un error heredado al traer el dataset desde el origen de los datos.
+
+- 268 filas duplicadas --> Si apartment_id debe identificar de forma única los anuncios, se deben investigar las filas duplicadas. Si los duplicados corresponden a actualizaciones a lo largo del tiempo, sería razonable conservar el registro más reciente basado en insert_date.
+
+
+

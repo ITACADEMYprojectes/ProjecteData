@@ -1,12 +1,96 @@
-## Data Understanding
+📊 Data Understanding — Rapid Express
 
-El conjunto de datos analizado corresponde a registros de ausentismo laboral.  
-Cada fila representa una instancia de ausencia registrada para un empleado, y las columnas recogen tanto variables demográficas y de salud como información relacionada con el contexto laboral y personal del trabajador.
+Este proyecto analiza un conjunto de datos relacionado con el ausentismo laboral en la empresa Rapid Express. El objetivo es comprender los factores que pueden influir en las ausencias de los empleados y preparar los datos para análisis posteriores.
 
-En cuanto a la estructura del dataset, se identifican variables de distinta naturaleza. Por un lado, variables de identificación y contexto temporal, como el ID del empleado, el mes y el día de la semana en que se produjo la ausencia, y la estación del año. Por otro lado, se incluyen variables relacionadas con el entorno laboral, como la razón de la ausencia, el tiempo de servicio, la carga de trabajo promedio diaria y si el empleado alcanzó o no el objetivo fijado.
+📁 Descripción del Dataset
 
-El dataset también recoge información sobre el perfil personal y de salud del empleado: la edad, el peso, la altura y el índice de masa corporal, así como variables sobre hábitos y estilo de vida como el consumo de alcohol, el tabaquismo y la tenencia de mascotas. Adicionalmente, se incluye el nivel educativo y el número de hijos, junto con la distancia desde el domicilio al lugar de trabajo y el gasto en transporte.
+El conjunto de datos contiene 740 registros y 21 variables.
+Cada fila representa un episodio de ausencia laboral de un empleado, mientras que las columnas describen características relacionadas con el trabajador, su entorno laboral y su contexto personal.
 
-La variable objetivo del análisis es el tiempo de ausentismo en horas, que cuantifica el número de horas de ausencia registradas en cada incidencia. Los valores de esta variable presentan una distribución variada, con registros que van desde 0 horas hasta casos excepcionales que alcanzan las 40 horas, lo que sugiere la presencia de valores atípicos que deberán ser considerados en fases posteriores del análisis.
+Una ventaja importante del dataset es que no contiene valores faltantes, lo que facilita el proceso de análisis y modelado.
 
-Tras una inspección inicial del dataset, se confirmó que el conjunto de datos cuenta con 740 registros y 21 variables, sin valores ausentes en ninguna de ellas, lo cual representa una ventaja importante de cara al procesamiento posterior. No obstante, se detectaron algunas inconsistencias en el formato de ciertas variables que requirieron correcciones para garantizar una interpretación correcta de los datos. Asimismo, algunas variables que estaban codificadas como números representan en realidad categorías sin orden jerárquico, por lo que fueron tratadas como tal. Estas correcciones se aplicaron como paso previo al análisis, con el objetivo de asegurar la calidad y fiabilidad de los resultados obtenidos.
+🧾 Tipos de Variables
+
+Las variables del dataset se pueden agrupar en distintas categorías:
+
+⏱️ Variables de Identificación y Contexto Temporal
+
+Estas variables ayudan a identificar el momento y contexto en que ocurrió la ausencia:
+
+Employee ID — Identificador único del empleado
+
+Month of Absence — Mes en que ocurrió la ausencia
+
+Day of the Week — Día de la semana
+
+Seasons — Estación del año
+
+🏢 Variables del Entorno Laboral
+
+Describen características relacionadas con el trabajo dentro de Rapid Express:
+
+Reason for Absence — Motivo de la ausencia
+
+Service Time — Tiempo de servicio en la empresa
+
+Workload Average per Day — Carga de trabajo promedio diaria
+
+Hit Target — Indica si el empleado alcanzó el objetivo establecido
+
+👤 Perfil Personal y de Salud
+
+Incluyen información demográfica y condiciones de salud de los empleados:
+
+Age — Edad
+
+Weight — Peso
+
+Height — Altura
+
+Body Mass Index (BMI) — Índice de masa corporal
+
+🧬 Hábitos y Estilo de Vida
+
+Factores personales que pueden influir indirectamente en el ausentismo:
+
+Social Drinker — Consumo de alcohol
+
+Social Smoker — Tabaquismo
+
+Pet — Número de mascotas
+
+🎓 Información Socio-Demográfica
+
+Variables relacionadas con el contexto familiar y educativo:
+
+Education — Nivel educativo
+
+Son — Número de hijos
+
+🚗 Factores de Movilidad
+
+Aspectos relacionados con el desplazamiento al trabajo:
+
+Distance from Residence to Work — Distancia entre el hogar y el lugar de trabajo
+
+Transportation Expense — Gasto en transporte
+
+🎯 Variable Objetivo
+
+La variable principal del análisis es:
+
+Absenteeism Time in Hours
+
+Esta variable mide el número de horas de ausencia registradas en cada incidencia.
+
+Los valores presentan una distribución amplia, desde 0 horas hasta casos extremos de 40 horas, lo que sugiere la posible presencia de valores atípicos (outliers) que deberán analizarse en etapas posteriores del proyecto.
+
+🔎 Calidad y Preparación de los Datos
+
+Durante la inspección inicial del dataset se identificaron algunos aspectos relevantes:
+
+✔️ No existen valores nulos en el conjunto de datos.
+✔️ Se detectaron inconsistencias en el formato de algunas variables, que fueron corregidas.
+✔️ Algunas variables codificadas como números representaban categorías sin orden jerárquico, por lo que se trataron como variables categóricas.
+
+Estas correcciones se realizaron como parte de la fase de preprocesamiento, con el objetivo de garantizar la calidad, coherencia y fiabilidad de los datos antes de avanzar hacia análisis exploratorios y modelos predictivos.

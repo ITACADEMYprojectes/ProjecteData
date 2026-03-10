@@ -22,87 +22,43 @@ import numpy as np
 
 st.set_page_config(page_title="RRHH Analytics Dashboard", layout="wide")
 
-# --- CONFIGURACIÓN DE ESTILO GLOBAL (CSS) ---
+# # --- CONFIGURACIÓN DE ESTILO GLOBAL (CSS) ÚNICO Y CORREGIDO ---
 st.markdown("""
     <style>
-    /* 1. Elimina la barra de decoración de colores arriba del todo */
-    [data-testid="stDecoration"] {
-        display: none;
+    /* 1. Importación de Fuente */
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
+
+    /* 2. Configuración de Fondo y Limpieza de UI */
+    .stApp {
+        background-color: #EEEEEE;
+    }
+    [data-testid="stDecoration"] { display: none; }
+    header[data-testid="stHeader"] { background: transparent !important; }
+    .block-container { padding-top: 2rem !important; }
+
+   
+   
+
+    /* 5. Estilo de Métricas (KPIs) */
+    [data-testid="stMetricValue"] {
+        font-family: 'Inter', sans-serif !important;
+        font-weight: 700 !important;
+        color: #353639 !important;
+    }
+    [data-testid="stMetricLabel"] p {
+        color: #353639 !important;
+        font-size: 1rem !important;
     }
 
-    /* 2. Hace el Header totalmente transparente */
-    header[data-testid="stHeader"] {
-        background-color: rgba(0,0,0,0) !important;
-        background: transparent !important;
-    }
+  
+  
 
-    /* 3. Asegura que el contenedor de la página no tenga padding superior extra */
-    .block-container {
-        padding-top: 2rem !important; /* Puedes bajar este número a 1rem si quieres menos espacio */
-    }
-
-    /* 4. Por si la barra blanca es el Toolbar de Streamlit */
+    /* 7. Arreglo para el Toolbar (opcional) */
     [data-testid="stToolbar"] {
         right: 2rem;
     }
     </style>
     """, unsafe_allow_html=True)
-
-st.markdown("""
-    <style>
-    /* Importamos una fuente moderna de Google Fonts */
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
-
-    /* Aplicamos la fuente a toda la app */
-    html, body, [class*="css"], .stMarkdown, p, h1, h2, h3, h4, h5, h6, label {
-        font-family: 'Inter', sans-serif !important;
-    }
-
-    /* Opcional: Ajustar el tamaño de los títulos para que se vean más "Tech" */
-    h1 {
-        font-weight: 700 !important;
-        letter-spacing: -1px;
-    }
-    
-    /* Estilo para las métricas (KPIs) */
-    [data-testid="stMetricValue"] {
-        font-family: 'Inter', sans-serif !important;
-        font-weight: 700 !important;
-    }
-    </style>
-    """, unsafe_allow_html=True)
-
-st.markdown("""
-    <style>
-    /* 1. Importar Fuente */
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap');
-
-    /* 2. Color de fondo para toda la App (#eeeeeeff) */
-    .stApp {
-        background-color: #EEEEEE; /* El 'ff' final es opacidad al 100% */
-    }
-
-    /* 3. Aplicar Fuente Global */
-    html, body, [class*="css"], .stMarkdown, p, h1, h2, h3, h4, h5, h6, label {
-        font-family: 'Inter', sans-serif !important;
-        color: #31333F; /* Un gris oscuro para que resalte sobre el fondo claro */
-    }
-
-    /* 4. Opcional: Hacer que las tarjetas (expander) sean blancas puras 
-       para que resalten sobre el fondo gris claro */
-    .streamlit-expanderHeader {
-        background-color: white !important;
-        border-radius: 5px;
-    }
-    
-    [data-testid="stExpander"] {
-        background-color: white !important;
-        border-radius: 10px;
-        border: 1px solid #ddd;
-    }
-    </style>
-    """, unsafe_allow_html=True)
-
 # 2. Carga de datos
 base_path = os.path.dirname(os.path.abspath(__file__))
 file_name = 'full_RRHH.csv'
@@ -136,6 +92,9 @@ st.markdown(
 # Para variables continuas (Age, Body_mass_index, Son) tomaste la media.
 # Para variables categóricas (Education) tomaste la primera observación.
 # Para variables binarias (Social_drinker, Social_smoker) tomaste el valor máximo (es decir, si alguna vez fueron “sí”, se marca como sí).
+# ==========================================
+# AGRUPACIÓN DE EMPLEADOS
+# ==========================================
 
 df_id = RRHH_full.groupby('ID').agg({
     'Age': 'mean',
@@ -146,53 +105,101 @@ df_id = RRHH_full.groupby('ID').agg({
     'Social_smoker': 'max'
 }).reset_index()
 
-# Pre-procesamiento y Clustering # variables numéricas + dummies para categóricas
-# Aplicaste KMeans con 3 clusters, generando un label para cada empleado.
-# Transformaste variables categóricas en dummies (0/1) para que KMeans pueda procesarlas.
+# ==========================================
+# 1. PREPROCESAMIENTO (REFORZADO)
+# ==========================================
 
-df_numeric = pd.get_dummies(
-    df_id, columns=['Education', 'Social_drinker', 'Social_smoker'])
-X = df_numeric.drop(columns=['ID'])
+# Aseguramos que Education sea numérica (Ordinal) para que el nivel importe
+df_id['Education'] = pd.to_numeric(
+    df_id['Education'], errors='coerce').fillna(1)
 
-# Variables numéricas con StandardScaler para que todas tengan la misma importancia.
-X_scaled = StandardScaler().fit_transform(X)
+categorical_cols = ['Social_drinker', 'Social_smoker']
+numeric_cols = ['Age', 'Body_mass_index', 'Son',
+                'Education']  # Education entra como número
 
-# Aplicaste KMeans con 3 clusters, generando un label para cada empleado.
-kmeans = KMeans(n_clusters=3, random_state=42, n_init=10)
+# Creamos dummies solo para las binarias (bebe/fuma)
+df_dummies = pd.get_dummies(
+    df_id[categorical_cols],
+    columns=categorical_cols,
+    drop_first=False  # Mantener ambas columnas ayuda a la interpretación del centroide
+)
+
+# Unimos todo
+X = pd.concat([df_id[numeric_cols], df_dummies], axis=1)
+
+# ==========================================
+# 2. ESCALADO (Z-SCORE)
+# ==========================================
+scaler = StandardScaler()
+X_scaled_array = scaler.fit_transform(X)
+
+X_scaled = pd.DataFrame(
+    X_scaled_array,
+    columns=X.columns
+)
+
+# ==========================================
+# 3. KMEANS (ESTABLE)
+# ==========================================
+# ==========================================
+# KMEANS (CORREGIDO)
+# ==========================================
+
+kmeans = KMeans(
+    n_clusters=3,
+    random_state=42,
+    n_init=20
+)
+
+# AQUÍ ESTÁ EL CAMBIO: Guardamos el resultado en la variable que pide el score
 cluster_labels = kmeans.fit_predict(X_scaled)
 
-# Mapeo de nombres y creación de la columna 'Segmento'
-mapeo_nombres = {
-    "0": "Segmento A: Motor Familiar",
-    "1": "Segmento B: Talento Enfocado",
-    "2": "Segmento C: Talento Senior"
+# Ahora lo asignamos al DataFrame
+df_id['Cluster_ID'] = cluster_labels
+
+# Asignamos los labels numéricos
+df_id['Cluster_ID'] = kmeans.fit_predict(X_scaled)
+
+# ==========================================
+# 4. MAPEO DE SEGMENTOS (LÓGICO Y DINÁMICO)
+# ==========================================
+# CRÍTICO: Ordenamos los clusters por EDAD MEDIA para que el nombre siempre coincida
+# con la realidad demográfica del grupo.
+centros_edad = df_id.groupby('Cluster_ID')['Age'].mean().sort_values().index
+
+# age_order[0] = El grupo más joven -> Talento Enfocado
+# age_order[1] = El grupo intermedio -> Motor Familiar
+# age_order[2] = El grupo mayor -> Talento Senior
+
+mapeo_dinamico = {
+    centros_edad[0]: "Talento Enfocado",
+    centros_edad[1]: "Motor Familiar",
+    centros_edad[2]: "Talento Senior"
 }
-df_id['Cluster_ID'] = cluster_labels.astype(str)
-df_id['Segmento'] = df_id['Cluster_ID'].map(mapeo_nombres)
 
+df_id['Segmento'] = df_id['Cluster_ID'].map(mapeo_dinamico)
 
-# PCA para las coordenadas del gráfico
-# Redujiste la dimensión de los datos a 2 componentes principales para poder graficarlos.
-# Esto es útil para mostrar un scatter plot de los clusters y ver cómo se separan visualmente.
-pca = PCA(n_components=2)
+# ==========================================
+# 5. PCA (VISUALIZACIÓN)
+# ==========================================
+pca = PCA(n_components=2, random_state=42)
 pca_data = pca.fit_transform(X_scaled)
+
 df_id['PCA1'] = pca_data[:, 0]
 df_id['PCA2'] = pca_data[:, 1]
 
+# Varianza explicada para tu reporte técnico
+total_var = pca.explained_variance_ratio_.sum() * 100
 
 # ==========================================
-# 2. CÁLCULO DE MÉTRICAS (Basado en los DFs ya listos)
+# 6. MÉTRICAS FINALES
 # ==========================================
-# Calculaste tamaño de cada cluster (cuántos empleados tiene cada segmento).
-# Calculaste promedio de hijos para ver características demográficas generales.
+# Ahora contamos por el nombre del segmento para evitar errores de índice
+total_a = len(df_id[df_id['Segmento'].str.contains("Familiar")])
+total_b = len(df_id[df_id['Segmento'].str.contains("Enfocado")])
+total_c = len(df_id[df_id['Segmento'].str.contains("Senior")])
 
-total_a = len(df_id[df_id['Cluster_ID'] == "0"])
-total_b = len(df_id[df_id['Cluster_ID'] == "1"])
-total_c = len(df_id[df_id['Cluster_ID'] == "2"])
 promedio_hijos = df_id['Son'].mean()
-
-
-#### CLUSTERS TESTS ####
 # ==========================================
 # 3. RENDERIZADO VISUAL (STREAMLIT)
 # ==========================================
@@ -208,96 +215,174 @@ col2.metric("Talento Enfocado (B)", f"{total_b} personas", delta="39%")
 col3.metric("Talento Senior (C)", f"{total_c} personas", delta="19%")
 # ==========================================
 
-st.write("### Métricas de Rendimiento del Modelo")
-m_col1, m_col2, m_col3 = st.columns(3)
+st.write("### Métricas de Calidad del Clustering")
 
-# Calculamos los scores (asegúrate de que estas variables estén definidas arriba)
+m_col1, m_col2 = st.columns(2)
+
 score = silhouette_score(X_scaled, cluster_labels)
 db_score = davies_bouldin_score(X_scaled, cluster_labels)
 
-m_col1.metric("Silhouette Score", f"{score:.2f}",
-              help="Cercano a 1 es ideal. Mide qué tan bien separados están los grupos.")
-m_col2.metric("Inertia (WCSS)", f"{kmeans.inertia_:.1f}",
-              help="Mide la cohesión interna de los clusters. Menor es más compacto.")
-m_col3.metric("Davies-Bouldin Score", f"{db_score:.2f}",
-              help="Cercano a 0 es ideal. Mide la separación entre clusters.")
+
+m_col1.metric(
+    "Silhouette Score",
+    f"{score:.2f}",
+    help="Mide qué tan compactos y separados están los clusters. Más cerca de 1 es mejor."
+)
+
+m_col2.metric(
+    "Davies-Bouldin Score",
+    f"{db_score:.2f}",
+    help="Evalúa la separación entre clusters. Más cerca de 0 es mejor."
+)
 
 
-st.subheader("Visualización de Segmentos (PCA) y Plan de Acción")
-
-
-# Frase dinámica y Selector de Color
 orden_segmentos = [
-    "Segmento A: Motor Familiar",
-    "Segmento B: Talento Enfocado",
-    "Segmento C: Talento Senior"
+    "Motor Familiar",
+    "Talento Enfocado",
+    "Talento Senior"
 ]
+
 opciones = ["Todos los empleados"] + orden_segmentos
 
-# El gráfico (usando el DataFrame ya procesado arriba)
-# 1. Usamos Jitter para separar a los "gemelos"
-df_id['PCA1'] = df_id['PCA1'] + np.random.uniform(-0.1, 0.1, len(df_id))
-df_id['PCA2'] = df_id['PCA2'] + np.random.uniform(-0.1, 0.1, len(df_id))
+segmento_seleccionado = st.selectbox(
+    "Filtrar por segmento",
+    opciones
+)
 
-# 1. Definimos los símbolos que queremos para cada segmento
-# 1. Mapa de símbolos
+# ==========================================
+# DATAFRAME PARA VISUALIZACIÓN (NO MODIFICA ORIGINAL)
+# ==========================================
+
+df_plot = df_id.copy()
+
+# Aplicar jitter solo para visualización
+df_plot["PCA1_jitter"] = df_plot["PCA1"] + \
+    np.random.uniform(-0.1, 0.1, len(df_plot))
+df_plot["PCA2_jitter"] = df_plot["PCA2"] + \
+    np.random.uniform(-0.1, 0.1, len(df_plot))
+
+# Filtro de segmento
+if segmento_seleccionado != "Todos los empleados":
+    df_plot = df_plot[df_plot["Segmento"] == segmento_seleccionado]
+
+
+# ==========================================
+# MAPA DE SÍMBOLOS
+# ==========================================
+
 simbolos_map = {
-    "Segmento A: Motor Familiar": "circle",
-    "Segmento B: Talento Enfocado": "diamond",
-    "Segmento C: Talento Senior": "square"
+    "Motor Familiar": "circle",
+    "Talento Enfocado": "diamond",
+    "Talento Senior": "square"
 }
+
+# ==========================================
+# SCATTER PCA
+# ==========================================
+
 fig_scatter = px.scatter(
-    df_id,
-    x='PCA1',
-    y='PCA2',
-    color='Segmento',
-    symbol='Segmento',
+    df_plot,
+    x="PCA1_jitter",
+    y="PCA2_jitter",
+    color="Segmento",
+    symbol="Segmento",
     symbol_map=simbolos_map,
-    size=[12] * len(df_id),
-    text='ID',
-    hover_name='ID',
+    size=[12] * len(df_plot),
+    text="ID",
+    hover_name="ID",
     hover_data={
-        'PCA1': False,
-        'PCA2': False,
-        'Age': True,
-        'Son': True,
-        'Social_smoker': True,
-        'Social_drinker': True,
-        'Body_mass_index': ':.1f'
+        "PCA1_jitter": False,
+        "PCA2_jitter": False,
+        "Age": True,
+        "Son": True,
+        "Social_smoker": True,
+        "Social_drinker": True,
+        "Body_mass_index": ':.1f'
     },
     color_discrete_sequence=["#51A242", "#65E74B", "#093C2B"],
-    template='plotly_white',
+    template="plotly_white",
     height=600
 )
 
-# --- EL TRUCO PARA EL FONDO INVISIBLE (#EEEEEE) ---
+# ==========================================
+# ESTILO DEL GRÁFICO
+# ==========================================
+
 fig_scatter.update_layout(
-    plot_bgcolor='#EEEEEE',  # Color del área donde están los puntos
-    paper_bgcolor='#EEEEEE',  # Color del área exterior (bordes/leyenda)
+    plot_bgcolor="#EEEEEE",
+    paper_bgcolor="#EEEEEE",
     xaxis=dict(
+        title="PCA 1",
         showgrid=False,
         zeroline=False,
         showline=True,
-        linecolor='grey',
+        linecolor="grey",
         showticklabels=False
     ),
     yaxis=dict(
+        title="PCA 2",
         showgrid=False,
         zeroline=False,
         showline=True,
-        linecolor='grey',
+        linecolor="grey",
         showticklabels=False
     )
 )
 
-# Mantener los IDs visibles sobre el color gris
+# Mantener IDs visibles
 fig_scatter.update_traces(
-    mode='markers+text',
-    textposition='top center',
-    marker=dict(line=dict(width=1, color='white'))
+    mode="markers+text",
+    textposition="top center",
+    marker=dict(line=dict(width=1, color="white"))
 )
 
+# Mostrar gráfico
 st.plotly_chart(fig_scatter, use_container_width=True)
+
+# ==========================================
+# MÉTRICA PCA
+# ==========================================
+
+# ==========================================
+# PCA (CORREGIDO)
+# ==========================================
+
+pca = PCA(
+    n_components=2,
+    random_state=42
+)
+
+pca_data = pca.fit_transform(X_scaled)
+
+df_id['PCA1'] = pca_data[:, 0]
+df_id['PCA2'] = pca_data[:, 1]
+
+# AQUÍ ESTÁ EL CAMBIO: Creamos la variable que pide el resumen de abajo
+pca_variance = pca.explained_variance_ratio_
+
+# Ahora, la línea 346 que te daba error ya funcionará:
+var_total = pca_variance.sum() * 100
+
+if score > 0.5:
+    st.success("Los clusters presentan buena separación.")
+elif score > 0.25:
+    st.info("Los clusters tienen una separación moderada.")
+else:
+    st.warning("La segmentación podría mejorarse.")
+
+st.write(
+    f"**Nota Técnica:** Este mapa 2D retiene el **{var_total:.1f}%** de la variabilidad original de los datos de RRHH.")
+st.caption("Porcentaje de información del dataset representado en el gráfico PCA.")
+
+sil_scores = []
+k_range = range(2, 11)
+for k in k_range:
+    km = KMeans(n_clusters=k, random_state=42)
+    labels = km.fit_predict(X_scaled)
+    sil_scores.append(silhouette_score(X_scaled, labels))
+
+best_k = k_range[np.argmax(sil_scores)]
+st.info(f"El mejor número de clusters según Silhouette Score es: {best_k}")
 
 # --- GUÍA DE LECTURA DEL MAPA ---
 with st.expander("¿Cómo leer este mapa de segmentación?", expanded=False):
@@ -323,7 +408,7 @@ with st.expander("Ver detalle de decisiones estratégicas por Segmento"):
     col_a, col_b, col_c = st.columns(3)
 
     with col_a:
-        st.markdown("### Segmento A: El Motor Familiar")
+        st.markdown("### El Motor Familiar")
         st.info("**42%**")
         st.write("""
         * **Perfil:** Media de 37 años, alta carga familiar (1.4 hijos) y estilo de vida sedentario por falta de tiempo.
@@ -335,7 +420,7 @@ with st.expander("Ver detalle de decisiones estratégicas por Segmento"):
         """)
 
     with col_b:
-        st.markdown("### Segmento B: Talento Enfocado")
+        st.markdown("### Talento Enfocado")
         st.info("**39%**")
         st.write("""
         * **Perfil:** Saludable (bajo IMC), sin cargas familiares, alta energía y disponibilidad.
@@ -347,7 +432,7 @@ with st.expander("Ver detalle de decisiones estratégicas por Segmento"):
         """)
 
     with col_c:
-        st.markdown("### Segmento C: Talento Senior")
+        st.markdown("### Talento Senior")
         st.info("**19%**")
         st.write("""
         * **Perfil:** Mayor edad, fumadores (gestión de estrés de riesgo) y amplia experiencia.
@@ -509,54 +594,57 @@ with col_inv3:
         help="Porcentaje de tiempo perdido sobre el total de la capacidad instalada."
     )
 
-
-# Unimos los datos para tener el nombre del segmento en cada fila de ausencia
+# 1. Unimos los datos
 df_estacional = RRHH_full.merge(df_id[['ID', 'Segmento']], on='ID')
 
-# Agrupamos por mes para aplanar los años en un solo ciclo de 12 meses
+# 2. FILTRADO CRÍTICO: Quitamos el mes 0 antes de agrupar
+df_estacional = df_estacional[df_estacional['Month_absence'] != 0]
+
+# 3. Agrupamos (ahora solo habrá meses del 1 al 12)
 df_mensual = df_estacional.groupby(['Month_absence', 'Segmento'])[
     'Absenteeism_hours'].sum().reset_index()
+
+# 4. Creamos el gráfico
 fig_estacional = px.line(
     df_mensual,
     x='Month_absence',
     y='Absenteeism_hours',
     color='Segmento',
-    title="Patrón de Ausencias en un Ciclo Anual",
+    title="Patrón de Ausencias en un Ciclo Anual (Ene-Dic)",
     markers=True,
-    labels={'Month_absence': 'Mes',
+    labels={'Month_absence': 'Mes del Año',
             'Absenteeism_hours': 'Total Horas de Ausencia'},
     color_discrete_sequence=["#093C2B", '#65E74B', "#51A242"]
 )
 
-# --- ESTILO SMART FLOW v6.0.4 ---
+# --- AJUSTE EXTREMO PARA EL EJE X ---
 fig_estacional.update_layout(
-    plot_bgcolor='#EEEEEE',  # Fondo del área de trazado
-    paper_bgcolor='#EEEEEE',  # Fondo exterior del gráfico
+    plot_bgcolor='#EEEEEE',
+    paper_bgcolor='#EEEEEE',
+    font=dict(family="Inter", color="black"),
     xaxis=dict(
-        dtick=1,             # Fuerza a mostrar todos los meses (1 al 12)
-        showgrid=False,      # Quita líneas verticales
-        showline=True,       # Deja solo la línea base
-        linecolor='grey'
+        showgrid=False,     # Quita líneas verticales
+        showline=False,     # Quita la línea del eje X
+        zeroline=False,     # Quita la línea del cero
+        dtick=1,
+        tickfont=dict(color='black')
     ),
     yaxis=dict(
-        showgrid=False,      # Quita líneas horizontales
-        showline=True,       # Deja solo la línea base
-        linecolor='grey'
+        showgrid=False,     # Quita líneas horizontales
+        showline=False,     # Quita la línea del eje Y
+        zeroline=False,     # Quita la línea del cero
+        tickfont=dict(color='black')
     ),
-    font=dict(family="Inter"),  # Mantiene la coherencia tipográfica
-    legend=dict(
-        bgcolor='rgba(0,0,0,0)'  # Leyenda con fondo transparente
-    )
+    legend=dict(bgcolor='rgba(0,0,0,0)')
 )
 
-# Hacer las líneas un poco más gruesas y los puntos más definidos
 fig_estacional.update_traces(
     line=dict(width=3),
     marker=dict(size=8, line=dict(width=1, color='white'))
 )
 
 st.plotly_chart(fig_estacional, use_container_width=True)
-# ==========================================
+
 # 4. KPIs DE IMPACTO OPERATIVO
 # ==========================================
 
@@ -687,22 +775,20 @@ fig_rf.update_traces(
     marker=dict(line=dict(width=1, color='black'))
 )
 
-# --- ESTILO SMART FLOW v6.0.4 (FONDO GRIS #EEEEEE) ---
 fig_rf.update_layout(
-    bargap=0.5,              # Barras más finas y elegantes
-    plot_bgcolor='#EEEEEE',  # Fondo del área de las barras
-    paper_bgcolor='#EEEEEE',  # Fondo del contenedor exterior
+    bargap=0.5,
+    plot_bgcolor='#EEEEEE',
+    paper_bgcolor='#EEEEEE',
     xaxis=dict(
         showgrid=False,
-        showline=False,      # Sin línea de eje X
+        showline=False,
         zeroline=False,
-        showticklabels=False  # Quitamos los números de abajo para máxima limpieza
+        showticklabels=False
     ),
     yaxis=dict(
         showgrid=False,
-        showline=False,      # Sin línea de eje Y
+        showline=False,
         zeroline=False,
-        # Dejamos las etiquetas de las variables (Age, Son, etc.)
         tickfont=dict(family="Inter", size=12)
     ),
     margin=dict(l=20, r=20, t=50, b=20),  # Ajuste de márgenes
@@ -710,7 +796,54 @@ fig_rf.update_layout(
 )
 
 st.plotly_chart(fig_rf, width='stretch')
+
+
 st.divider()
+
+
+# --- CÁLCULO DEL MÉTODO DEL CODO ---
+# 1. Preparar datos (usando tu misma lógica de X_scaled)
+# Asegúrate de que X_scaled esté definido antes de esto
+distortions = []
+K_range = range(1, 11)
+
+for k in K_range:
+    kmeanModel = KMeans(n_clusters=k, random_state=42, n_init=10)
+    kmeanModel.fit(X_scaled)
+    distortions.append(kmeanModel.inertia_)
+
+# 2. Crear el Gráfico con Plotly
+fig_elbow = px.line(
+    x=list(K_range),
+    y=distortions,
+    markers=True,
+    title="Método del Codo: Buscando el K Óptimo",
+    labels={'x': 'Número de Clusters (k)', 'y': 'Inercia (WCSS)'},
+    color_discrete_sequence=["#51A242"]
+)
+
+# Estilo para que combine con tu dashboard negro/gris
+fig_elbow.update_layout(
+    plot_bgcolor='#EEEEEE',
+    paper_bgcolor='#EEEEEE',
+    font=dict(color="black"),
+    xaxis=dict(showgrid=False, dtick=1),
+    yaxis=dict(showgrid=False)
+)
+
+# 3. Mostrar en Streamlit
+st.write("### ¿Por qué elegimos 3 segmentos?")
+st.plotly_chart(fig_elbow, use_container_width=True)
+
+st.info("""
+**Cómo interpretar este gráfico:** Buscamos el punto donde la curva se dobla bruscamente (como un codo). 
+- Si el 'doblez' está en **k=3**, tu modelo es estadísticamente sólido.
+- Si la línea es muy recta, significa que los datos no se agrupan de forma natural y hay que revisar las variables.
+""")
+
+
+st.divider()
+
 
 st.markdown(
     """
@@ -724,3 +857,110 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
+
+# --- Variables Laborales y Personales ---
+variables_laborales = [
+    'Transportation_expense', 'Distance_Residence_Work', 'Service_time',
+    'Work_load_Average_day', 'Hit_target', 'Month_absence', 'Day_week', 'Seasons'
+]
+
+variables_personales = [
+    'Age', 'Son', 'Pet', 'Body_mass_index'
+]
+
+# --- Función para entrenar RF y generar DataFrame de importancia ---
+
+
+def rf_importance(df, features, target='Absenteeism_hours'):
+    X = pd.get_dummies(df[features], drop_first=True)
+    y = df[target]
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=0.2, random_state=42)
+    model = RandomForestRegressor(n_estimators=250, random_state=42)
+    model.fit(X_train, y_train)
+    importance_df = pd.DataFrame({
+        'Variable': X.columns,
+        'Importancia': model.feature_importances_
+    }).sort_values(by='Importancia', ascending=True)
+    return importance_df
+
+
+# --- Importancia Laboral ---
+importancia_laboral_df = rf_importance(RRHH_full, variables_laborales)
+fig_laboral = px.bar(
+    importancia_laboral_df,
+    x='Importancia',
+    y='Variable',
+    orientation='h',
+    title="Factores Laborales que Predicen el Absentismo",
+    color_discrete_sequence=["#79B26B"],
+    template='plotly_white'
+)
+fig_laboral.update_traces(marker=dict(line=dict(width=1, color='black')))
+fig_laboral.update_layout(bargap=0.5, plot_bgcolor='#EEEEEE', paper_bgcolor='#EEEEEE',
+                          xaxis=dict(showgrid=False, showline=False,
+                                     zeroline=False, showticklabels=False),
+                          yaxis=dict(showgrid=False, showline=False, zeroline=False, tickfont=dict(
+                              family="Inter", size=12)),
+                          margin=dict(l=20, r=20, t=50, b=20),
+                          font=dict(family="Inter"))
+
+# --- Importancia Personal ---
+importancia_personal_df = rf_importance(RRHH_full, variables_personales)
+fig_personal = px.bar(
+    importancia_personal_df,
+    x='Importancia',
+    y='Variable',
+    orientation='h',
+    title="Factores Personales que Predicen el Absentismo",
+    color_discrete_sequence=["#FFB26B"],
+    template='plotly_white'
+)
+fig_personal.update_traces(marker=dict(line=dict(width=1, color='black')))
+fig_personal.update_layout(bargap=0.5, plot_bgcolor='#EEEEEE', paper_bgcolor='#EEEEEE',
+                           xaxis=dict(showgrid=False, showline=False,
+                                      zeroline=False, showticklabels=False),
+                           yaxis=dict(showgrid=False, showline=False, zeroline=False, tickfont=dict(
+                               family="Inter", size=12)),
+                           margin=dict(l=20, r=20, t=50, b=20),
+                           font=dict(family="Inter"))
+
+# --- Render en Streamlit ---
+st.plotly_chart(fig_laboral, use_container_width=True)
+st.divider()
+st.plotly_chart(fig_personal, use_container_width=True)
+
+
+importancia_laboral_df['Tipo'] = 'Laboral'
+importancia_personal_df['Tipo'] = 'Personal'
+
+# Combinar DataFrames
+importancia_total_df = pd.concat(
+    [importancia_laboral_df, importancia_personal_df])
+
+fig_total = px.bar(
+    importancia_total_df,
+    x='Importancia',
+    y='Variable',
+    color='Tipo',
+    orientation='h',
+    title="Factores que Predicen el Absentismo (Personales vs Laborales)",
+    color_discrete_map={'Laboral': '#79B26B', 'Personal': '#FFB26B'},
+    template='plotly_white'
+)
+
+fig_total.update_traces(marker=dict(line=dict(width=1, color='black')))
+fig_total.update_layout(
+    bargap=0.5,
+    plot_bgcolor='#EEEEEE',
+    paper_bgcolor='#EEEEEE',
+    xaxis=dict(showgrid=False, showline=False,
+               zeroline=False, showticklabels=False),
+    yaxis=dict(showgrid=False, showline=False, zeroline=False,
+               tickfont=dict(family="Inter", size=12)),
+    margin=dict(l=20, r=20, t=50, b=20),
+    font=dict(family="Inter")
+)
+
+st.plotly_chart(fig_total, use_container_width=True)

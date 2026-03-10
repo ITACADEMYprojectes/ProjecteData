@@ -1,6 +1,7 @@
 Data understanding - Touristic_Accomodation
 
-- 35 columnas 
+- 35 columnas
+- Filas = anuncios en la web
 - Variables tipo varchar, int y text:
 	· Identificación: apartment_id, host_id, name, description, insert_date
 	· Pricing: price

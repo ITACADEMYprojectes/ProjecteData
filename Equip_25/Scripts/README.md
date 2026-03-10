@@ -14,7 +14,7 @@
     - # Creación de variables
 
 - /analysis : notebooks de análisis por departamento
-    · Un archivo .ipynb por departamento (ej: "mkt_analysis_w2.ipynb")
+    · Un archivo .ipynb por departamento (ej: "marketing_analysis_w2.ipynb")
     · Markdowns/secciones estándar
     - # Librerias
     - # Carga de datos clean
@@ -22,10 +22,10 @@
     - # Resultados/archivos generados 
 
 ## Nombre de archivos
-Cambiar "w2" segun semana y "dept" según departamento (mkt,client,opt)
-- ETL: etl_"w2".ipynb 
-- Análisis: "dept"_analysis_"w2".ipynb
+Cambiar fecha segun semana y "dpt" según departamento (marketing,cliente,operaciones)
+- ETL: etl_ddmmyy.ipynb 
+- Análisis: "dpt"_analysis_ddmmyy.ipynb
 
 ## Buenas prácticas
 - No modificar /Data/raw_data directamente. Siempre generar /data_cleaning.
-- Usar versiones de scripts (_w2, _w3) para mantener trazabilidad.
+- Usar versiones de scripts (_v2, _v3) para mantener trazabilidad.

@@ -16,7 +16,7 @@ Avg rating (todos scores)
 Avg reviews per month
 
 OVERVIEW GENERAL
-- Total alojamientos general
+- Total alojamientos general y disponibles
 - Avg Price
 - Avg rating (scores_rating)
 - Ratio de ocupación estimada

@@ -11,8 +11,8 @@ Data understanding - Touristic_Accomodation
 
 - Tipo de datos inconsistentes:
 	· date varchar --> datetime
-	· bathrooms/bedrooms varchar --> int/tinyint
-	· has_availability varchar --> boolean (null by default si es falso?)
+	· bathrooms/bedrooms varchar --> float
+	· has_availability varchar --> boolean (null by default si es false)
 
 - NO PK/FK --> hace posible que existan filas duplicadas (idealmente, apartment_id = PK y host_id = FK).
 

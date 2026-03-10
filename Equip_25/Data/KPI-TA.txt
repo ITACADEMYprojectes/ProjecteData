@@ -2,7 +2,7 @@ KPI - Tourist_Accommodation
 
 BY DEPT
 · Oferta (inventario) y disponibilidad: 
-Cantidad de alojamientos - by room_type y by city
+Cantidad de alojamientos disponibles - by room_type y by city
 Avg availability (30,60,90,365)
 Ratio de ocupación estimada (30,60,90,365)
 

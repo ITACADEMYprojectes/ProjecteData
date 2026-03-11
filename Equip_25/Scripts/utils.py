@@ -1,45 +1,7 @@
-from importlib.resources import path
 from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Raíz del código 
-ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "Data" / "data_cleaning"
-
-## GUARDAR DF
-def guardar_pickle(df, archivo="df.pkl"):
-    ''' Guarda el dataframe en formato pickle en la carpeta "Data/data_cleaning".
-    Args:
-        df: DataFrame a guardar.
-        archivo: Nombre del archivo (ej. "df.pkl").
-    '''
-    if not archivo.endswith(".pkl"):
-        archivo += ".pkl"
-    
-    path.mkdir(parents=True, exist_ok=True)
-    ruta = path / archivo
-    
-    df.to_pickle(ruta)
-    print(f"DataFrame guardado en: {ruta}")
-
-# -----------------------------------------------------------
-## CARGAR DF
-def cargar_pickle(archivo):
-    '''
-    Carga un DataFrame desde pickle en Data/data_cleaning.
-    Args:
-        archivo: nombre del archivo (con o sin .pkl)
-        subcarpeta: carpeta dentro de data_cleaning donde está el archivo
-    '''
-    if not archivo.endswith(".pkl"):
-        archivo += ".pkl"
-     
-    ruta = path / archivo
-    if not ruta.exists():
-        raise FileNotFoundError(f"No existe el archivo: {ruta}")
-    
-    return pd.read_pickle(ruta)
 
 # -----------------------------------------------------------
 ## GUARDAR GRÁFICOS

@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # -----------------------------------------------------------
 ## GUARDAR GRÁFICOS
-def guardar_grafico(fig, nombre_dpt, tipo, info, formato="png", dpi=300):
+def guardar_grafico(fig, nombre_archivo, formato="png", dpi=300):
     '''Guarda un gráfico en la carpeta "Results/figures".
     Args:
         fig: Figura de Matplotlib a guardar.
@@ -29,7 +29,7 @@ def guardar_grafico(fig, nombre_dpt, tipo, info, formato="png", dpi=300):
     ruta_figures = ROOT / "Results" / "figures"
     ruta_figures.mkdir(parents=True, exist_ok=True)
 
-    ruta_archivo = ruta_figures / f"fig_{nombre_dpt}_{tipo}_{info}.{formato}"
+    ruta_archivo = ruta_figures / f"{nombre_archivo}.{formato}"
     fig.savefig(ruta_archivo, bbox_inches="tight", dpi=dpi)
     plt.close(fig)
 

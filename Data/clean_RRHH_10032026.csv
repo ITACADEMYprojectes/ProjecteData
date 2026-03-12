@@ -1,807 +1,807 @@
-ID,Reason_absence,Month_absence,Day_week,Seasons,Transportation_expense,Distance_Residence_Work,Service_time,Age,Work_load_Average_day,Hit_target,Disciplinary_failure,Education,Son,Social_drinker,Social_smoker,Pet,Weight,Height,Body_mass_index,Absenteeism_hours,Reason_Description
-14,11,11,Monday,Spring,155,12,14,34,284.031,97,0,High School,2,True,False,0,95,196,25,120,Digestive system diseases
-36,13,4,Wednesday,Winter,118,13,18,50,239.409,98,0,High School,1,True,False,0,98,178,31,120,Musculoskeletal/Connective tissue
-9,6,7,Tuesday,Summer,228,14,16,58,264.604,93,0,High School,2,False,False,1,65,172,22,120,Nervous system diseases
-28,9,7,Tuesday,Summer,225,26,9,28,230.29,92,0,High School,1,False,False,2,69,169,24,112,Circulatory system diseases
-9,12,3,Tuesday,Autumn,228,14,16,58,222.196,99,0,High School,2,False,False,1,65,172,22,112,Skin/Subcutaneous diseases
-11,19,3,Monday,Winter,289,36,13,33,222.196,99,0,High School,2,True,False,1,90,172,30,104,Injury/Poisoning
-36,13,6,Wednesday,Winter,118,13,18,50,377.55,94,0,High School,1,True,False,0,98,178,31,80,Musculoskeletal/Connective tissue
-14,18,12,Tuesday,Autumn,155,12,14,34,280.549,98,0,High School,2,True,False,0,95,196,25,80,Symptoms/Abnormal findings
-13,13,7,Monday,Summer,369,17,12,31,264.604,93,0,High School,3,True,False,0,70,169,25,80,Musculoskeletal/Connective tissue
-34,19,12,Tuesday,Spring,118,10,10,37,261.306,97,0,High School,0,False,False,0,83,172,28,64,Injury/Poisoning
-22,1,10,Wednesday,Spring,179,26,9,30,265.017,88,0,Postgraduate,0,False,False,0,56,171,19,64,Infectious/Parasitic
-26,19,5,Friday,Winter,300,26,13,43,237.656,99,0,High School,2,True,True,1,77,175,25,64,Injury/Poisoning
-34,19,12,Tuesday,Spring,118,10,10,37,261.306,97,0,High School,0,False,False,0,83,172,28,56,Injury/Poisoning
-20,19,4,Friday,Winter,260,50,11,36,326.452,96,0,High School,4,True,False,0,65,168,23,56,Injury/Poisoning
-14,10,5,Monday,Winter,155,12,14,34,237.656,99,0,High School,2,True,False,0,95,196,25,48,Respiratory system diseases
-14,19,7,Monday,Summer,155,12,14,34,239.554,97,0,High School,2,True,False,0,95,196,25,40,Injury/Poisoning
-10,13,8,Monday,Summer,361,52,3,28,205.917,92,0,High School,1,True,False,4,80,172,27,40,Musculoskeletal/Connective tissue
-15,14,11,Monday,Spring,291,31,12,40,306.345,93,0,High School,1,True,False,1,73,171,25,40,Genitourinary system diseases
-20,13,3,Friday,Autumn,260,50,11,36,343.253,95,0,High School,4,True,False,0,65,168,23,40,Musculoskeletal/Connective tissue
-17,11,3,Monday,Autumn,179,22,17,40,343.253,95,0,Graduate,2,False,True,0,63,170,22,40,Digestive system diseases
-15,7,9,Monday,Spring,291,31,12,40,294.217,81,0,High School,1,True,False,1,73,171,25,40,Eye/Adnexa diseases
-15,13,6,Monday,Winter,291,31,12,40,253.957,95,0,High School,1,True,False,1,73,171,25,40,Musculoskeletal/Connective tissue
-15,14,9,Monday,Spring,291,31,12,40,241.476,92,0,High School,1,True,False,1,73,171,25,32,Genitourinary system diseases
-14,10,11,Monday,Spring,155,12,14,34,306.345,93,0,High School,2,True,False,0,95,196,25,32,Respiratory system diseases
-11,19,7,Monday,Summer,289,36,13,33,275.312,98,0,High School,2,True,False,1,90,172,30,32,Injury/Poisoning
-24,9,9,Wednesday,Summer,246,25,16,41,294.217,81,0,High School,0,True,False,0,67,170,23,32,Circulatory system diseases
-34,19,1,Monday,Autumn,118,10,10,37,330.061,100,0,High School,0,False,False,0,83,172,28,32,Injury/Poisoning
-3,13,12,Tuesday,Spring,179,51,18,38,280.549,98,0,High School,0,True,False,0,89,170,31,32,Musculoskeletal/Connective tissue
-11,7,11,Wednesday,Spring,289,36,13,33,306.345,93,0,High School,2,True,False,1,90,172,30,24,Eye/Adnexa diseases
-3,13,3,Tuesday,Autumn,179,51,18,38,343.253,95,0,High School,0,True,False,0,89,170,31,24,Musculoskeletal/Connective tissue
-24,13,4,Wednesday,Winter,246,25,16,41,326.452,96,0,High School,0,True,False,0,67,170,23,24,Musculoskeletal/Connective tissue
-3,13,4,Wednesday,Winter,179,51,18,38,326.452,96,0,High School,0,True,False,0,89,170,31,24,Musculoskeletal/Connective tissue
-14,12,4,Wednesday,Winter,155,12,14,34,326.452,96,0,High School,2,True,False,0,95,196,25,24,Skin/Subcutaneous diseases
-11,13,5,Wednesday,Winter,289,36,13,33,378.884,92,0,High School,2,True,False,1,90,172,30,24,Musculoskeletal/Connective tissue
-36,13,5,Wednesday,Winter,118,13,18,50,378.884,92,0,High School,1,True,False,0,98,178,31,24,Musculoskeletal/Connective tissue
-24,10,6,Tuesday,Winter,246,25,16,41,377.55,94,0,High School,0,True,False,0,67,170,23,24,Respiratory system diseases
-11,19,9,Wednesday,Summer,289,36,13,33,294.217,81,0,High School,2,True,False,1,90,172,30,24,Injury/Poisoning
-24,10,2,Friday,Autumn,246,25,16,41,251.818,96,0,High School,0,True,False,0,67,170,23,24,Respiratory system diseases
-3,28,6,Monday,Winter,179,51,18,38,253.957,95,0,High School,0,True,False,0,89,170,31,24,Dental consultation
-18,2,11,Wednesday,Spring,330,16,4,28,268.519,93,0,Graduate,0,False,False,0,84,182,25,24,Neoplasms
-22,12,1,Monday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,56,171,19,24,Skin/Subcutaneous diseases
-14,13,3,Wednesday,Winter,155,12,14,34,222.196,99,0,High School,2,True,False,0,95,196,25,24,Musculoskeletal/Connective tissue
-13,7,4,Monday,Winter,369,17,12,31,246.288,91,0,High School,3,True,False,0,70,169,25,24,Eye/Adnexa diseases
-36,19,6,Thursday,Winter,118,13,18,50,275.089,96,0,High School,1,True,False,0,98,178,31,24,Injury/Poisoning
-20,19,10,Thursday,Spring,260,50,11,36,253.465,93,0,High School,4,True,False,0,65,168,23,16,Injury/Poisoning
-14,1,3,Monday,Autumn,155,12,14,34,343.253,95,0,High School,2,True,False,0,95,196,25,16,Infectious/Parasitic
-20,26,3,Monday,Autumn,260,50,11,36,343.253,95,0,High School,4,True,False,0,65,168,23,16,Unjustified absence
-28,11,3,Wednesday,Winter,225,26,9,28,343.253,95,0,High School,1,False,False,2,69,169,24,16,Digestive system diseases
-7,14,3,Thursday,Winter,279,5,14,39,343.253,95,0,High School,2,True,True,0,68,168,24,16,Genitourinary system diseases
-11,13,4,Thursday,Winter,289,36,13,33,326.452,96,0,High School,2,True,False,1,90,172,30,16,Musculoskeletal/Connective tissue
-1,13,6,Friday,Winter,235,11,14,37,377.55,94,0,Postgraduate,1,False,False,1,88,172,29,16,Musculoskeletal/Connective tissue
-14,19,7,Tuesday,Summer,155,12,14,34,275.312,98,0,High School,2,True,False,0,95,196,25,16,Injury/Poisoning
-24,9,9,Monday,Summer,246,25,16,41,294.217,81,0,High School,0,True,False,0,67,170,23,16,Circulatory system diseases
-11,19,10,Thursday,Spring,289,36,13,33,265.017,88,0,High School,2,True,False,1,90,172,30,16,Injury/Poisoning
-22,23,10,Thursday,Spring,179,26,9,30,265.017,88,0,Postgraduate,0,False,False,0,56,171,19,16,Medical consultation
-30,11,2,Wednesday,Autumn,157,27,6,29,251.818,96,0,High School,0,True,True,0,75,185,22,16,Digestive system diseases
-24,19,3,Wednesday,Autumn,246,25,16,41,244.387,98,0,High School,0,True,False,0,67,170,23,16,Injury/Poisoning
-3,28,3,Monday,Autumn,179,51,18,38,244.387,98,0,High School,0,True,False,0,89,170,31,16,Dental consultation
-5,13,5,Monday,Winter,235,20,13,43,246.074,99,0,High School,1,True,False,0,106,167,38,16,Musculoskeletal/Connective tissue
-18,23,8,Thursday,Summer,330,16,4,28,249.797,93,0,Graduate,0,False,False,0,84,182,25,16,Medical consultation
-22,13,12,Tuesday,Spring,179,26,9,30,280.549,98,0,Postgraduate,0,False,False,0,56,171,19,16,Musculoskeletal/Connective tissue
-22,12,1,Thursday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,56,171,19,16,Skin/Subcutaneous diseases
-6,22,7,Tuesday,Summer,189,29,13,33,264.604,93,0,High School,2,False,False,2,69,167,25,16,Patient follow-up
-10,22,7,Friday,Summer,361,52,3,28,239.554,97,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-1,22,7,Monday,Summer,235,11,14,37,239.554,97,0,Postgraduate,1,False,False,1,88,172,29,8,Patient follow-up
-20,1,7,Monday,Summer,260,50,11,36,239.554,97,0,High School,4,True,False,0,65,168,23,8,Infectious/Parasitic
-20,1,7,Tuesday,Summer,260,50,11,36,239.554,97,0,High School,4,True,False,0,65,168,23,8,Infectious/Parasitic
-20,11,7,Wednesday,Summer,260,50,11,36,239.554,97,0,High School,4,True,False,0,65,168,23,8,Digestive system diseases
-24,14,7,Friday,Summer,246,25,16,41,239.554,97,0,High School,0,True,False,0,67,170,23,8,Genitourinary system diseases
-3,21,7,Monday,Summer,179,51,18,38,239.554,97,0,High School,0,True,False,0,89,170,31,8,Factors influencing health status
-6,11,7,Thursday,Summer,189,29,13,33,239.554,97,0,High School,2,False,False,2,69,167,25,8,Digestive system diseases
-18,10,8,Wednesday,Summer,330,16,4,28,205.917,92,0,Graduate,0,False,False,0,84,182,25,8,Respiratory system diseases
-11,18,8,Monday,Summer,289,36,13,33,205.917,92,0,High School,2,True,False,1,90,172,30,8,Symptoms/Abnormal findings
-11,18,8,Wednesday,Summer,289,36,13,33,205.917,92,0,High School,2,True,False,1,90,172,30,8,Symptoms/Abnormal findings
-3,18,8,Monday,Summer,179,51,18,38,205.917,92,0,High School,0,True,False,0,89,170,31,8,Symptoms/Abnormal findings
-2,18,8,Thursday,Summer,235,29,12,48,205.917,92,0,High School,1,False,True,5,88,163,33,8,Symptoms/Abnormal findings
-2,18,8,Monday,Summer,235,29,12,48,205.917,92,0,High School,1,False,True,5,88,163,33,8,Symptoms/Abnormal findings
-11,24,8,Tuesday,Summer,289,36,13,33,205.917,92,0,High School,2,True,False,1,90,172,30,8,Blood donation
-2,28,8,Friday,Summer,235,29,12,48,205.917,92,0,High School,1,False,True,5,88,163,33,8,Dental consultation
-5,19,9,Tuesday,Summer,235,20,13,43,241.476,92,0,High School,1,True,False,0,106,167,38,8,Injury/Poisoning
-20,22,9,Friday,Summer,260,50,11,36,241.476,92,0,High School,4,True,False,0,65,168,23,8,Patient follow-up
-3,23,10,Wednesday,Spring,179,51,18,38,253.465,93,0,High School,0,True,False,0,89,170,31,8,Medical consultation
-15,14,10,Tuesday,Spring,291,31,12,40,253.465,93,0,High School,1,True,False,1,73,171,25,8,Genitourinary system diseases
-11,26,10,Wednesday,Spring,289,36,13,33,253.465,93,0,High School,2,True,False,1,90,172,30,8,Unjustified absence
-3,13,11,Thursday,Spring,179,51,18,38,306.345,93,0,High School,0,True,False,0,89,170,31,8,Musculoskeletal/Connective tissue
-17,21,11,Thursday,Spring,179,22,17,40,306.345,93,0,Graduate,2,False,True,0,63,170,22,8,Factors influencing health status
-6,22,11,Monday,Spring,189,29,13,33,306.345,93,0,High School,2,False,False,2,69,167,25,8,Patient follow-up
-14,6,11,Friday,Spring,155,12,14,34,306.345,93,0,High School,2,True,False,0,95,196,25,8,Nervous system diseases
-17,21,11,Wednesday,Spring,179,22,17,40,306.345,93,0,Graduate,2,False,True,0,63,170,22,8,Factors influencing health status
-1,26,12,Wednesday,Spring,235,11,14,37,261.306,97,0,Postgraduate,1,False,False,1,88,172,29,8,Unjustified absence
-20,26,12,Friday,Spring,260,50,11,36,261.306,97,0,High School,4,True,False,0,65,168,23,8,Unjustified absence
-10,22,12,Wednesday,Spring,361,52,3,28,261.306,97,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-24,19,12,Friday,Autumn,246,25,16,41,261.306,97,0,High School,0,True,False,0,67,170,23,8,Injury/Poisoning
-14,18,1,Tuesday,Autumn,155,12,14,34,308.593,95,0,High School,2,True,False,0,95,196,25,8,Symptoms/Abnormal findings
-22,18,1,Tuesday,Autumn,179,26,9,30,308.593,95,0,Postgraduate,0,False,False,0,56,171,19,8,Symptoms/Abnormal findings
-11,18,1,Tuesday,Autumn,289,36,13,33,308.593,95,0,High School,2,True,False,1,90,172,30,8,Symptoms/Abnormal findings
-24,1,2,Wednesday,Autumn,246,25,16,41,302.585,99,0,High School,0,True,False,0,67,170,23,8,Infectious/Parasitic
-3,11,2,Wednesday,Autumn,179,51,18,38,302.585,99,0,High School,0,True,False,0,89,170,31,8,Digestive system diseases
-6,23,2,Thursday,Autumn,189,29,13,33,302.585,99,0,High School,2,False,False,2,69,167,25,8,Medical consultation
-11,22,2,Friday,Autumn,289,36,13,33,302.585,99,0,High School,2,True,False,1,90,172,30,8,Patient follow-up
-31,11,2,Monday,Autumn,388,15,9,50,302.585,99,0,High School,0,False,False,0,76,178,24,8,Digestive system diseases
-31,1,2,Tuesday,Autumn,388,15,9,50,302.585,99,0,High School,0,False,False,0,76,178,24,8,Infectious/Parasitic
-27,23,2,Tuesday,Autumn,184,42,7,27,302.585,99,0,High School,0,False,False,0,58,167,21,8,Medical consultation
-18,18,2,Monday,Autumn,330,16,4,28,302.585,99,0,Graduate,0,False,False,0,84,182,25,8,Symptoms/Abnormal findings
-6,19,2,Thursday,Autumn,189,29,13,33,302.585,99,0,High School,2,False,False,2,69,167,25,8,Injury/Poisoning
-20,19,3,Tuesday,Autumn,260,50,11,36,343.253,95,0,High School,4,True,False,0,65,168,23,8,Injury/Poisoning
-17,17,3,Tuesday,Autumn,179,22,17,40,343.253,95,0,Graduate,2,False,True,0,63,170,22,8,Congenital malformations
-15,22,3,Wednesday,Autumn,291,31,12,40,343.253,95,0,High School,1,True,False,1,73,171,25,8,Patient follow-up
-20,13,3,Wednesday,Autumn,260,50,11,36,343.253,95,0,High School,4,True,False,0,65,168,23,8,Musculoskeletal/Connective tissue
-22,13,3,Thursday,Autumn,179,26,9,30,343.253,95,0,Postgraduate,0,False,False,0,56,171,19,8,Musculoskeletal/Connective tissue
-14,13,3,Tuesday,Autumn,155,12,14,34,343.253,95,0,High School,2,True,False,0,95,196,25,8,Musculoskeletal/Connective tissue
-11,6,3,Thursday,Autumn,289,36,13,33,343.253,95,0,High School,2,True,False,1,90,172,30,8,Nervous system diseases
-17,8,3,Thursday,Autumn,179,22,17,40,343.253,95,0,Graduate,2,False,True,0,63,170,22,8,Ear/Mastoid diseases
-7,14,3,Monday,Autumn,279,5,14,39,343.253,95,0,High School,2,True,True,0,68,168,24,8,Genitourinary system diseases
-28,11,3,Monday,Winter,225,26,9,28,343.253,95,0,High School,1,False,False,2,69,169,24,8,Digestive system diseases
-28,11,3,Tuesday,Winter,225,26,9,28,343.253,95,0,High School,1,False,False,2,69,169,24,8,Digestive system diseases
-24,14,4,Friday,Winter,246,25,16,41,326.452,96,0,High School,0,True,False,0,67,170,23,8,Genitourinary system diseases
-33,28,4,Friday,Winter,248,25,14,47,326.452,96,0,High School,2,False,False,1,86,165,32,8,Dental consultation
-11,19,4,Tuesday,Winter,289,36,13,33,326.452,96,0,High School,2,True,False,1,90,172,30,8,Injury/Poisoning
-23,19,4,Wednesday,Winter,378,49,11,36,326.452,96,0,High School,2,False,True,4,65,174,21,8,Injury/Poisoning
-11,13,5,Wednesday,Winter,289,36,13,33,378.884,92,0,High School,2,True,False,1,90,172,30,8,Musculoskeletal/Connective tissue
-3,18,5,Tuesday,Winter,179,51,18,38,378.884,92,0,High School,0,True,False,0,89,170,31,8,Symptoms/Abnormal findings
-28,19,5,Tuesday,Winter,225,26,9,28,378.884,92,0,High School,1,False,False,2,69,169,24,8,Injury/Poisoning
-10,22,5,Friday,Winter,361,52,3,28,378.884,92,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-24,19,6,Monday,Winter,246,25,16,41,377.55,94,0,High School,0,True,False,0,67,170,23,8,Injury/Poisoning
-10,22,6,Monday,Winter,361,52,3,28,377.55,94,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-24,10,6,Friday,Winter,246,25,16,41,377.55,94,0,High School,0,True,False,0,67,170,23,8,Respiratory system diseases
-3,11,6,Monday,Winter,179,51,18,38,377.55,94,0,High School,0,True,False,0,89,170,31,8,Digestive system diseases
-24,10,6,Monday,Winter,246,25,16,41,377.55,94,0,High School,0,True,False,0,67,170,23,8,Respiratory system diseases
-36,13,6,Wednesday,Winter,118,13,18,50,377.55,94,0,High School,1,True,False,0,98,178,31,8,Musculoskeletal/Connective tissue
-23,22,6,Thursday,Winter,378,49,11,36,377.55,94,0,High School,2,False,True,4,65,174,21,8,Patient follow-up
-36,1,7,Wednesday,Summer,118,13,18,50,275.312,98,0,High School,1,True,False,0,98,178,31,8,Infectious/Parasitic
-34,5,7,Friday,Summer,118,10,10,37,275.312,98,0,High School,0,False,False,0,83,172,28,8,Mental/Behavioural disorders
-18,26,7,Tuesday,Summer,330,16,4,28,275.312,98,0,Graduate,0,False,False,0,84,182,25,8,Unjustified absence
-22,18,7,Thursday,Summer,179,26,9,30,275.312,98,0,Postgraduate,0,False,False,0,56,171,19,8,Symptoms/Abnormal findings
-18,1,7,Monday,Summer,330,16,4,28,275.312,98,0,Graduate,0,False,False,0,84,182,25,8,Infectious/Parasitic
-18,1,7,Tuesday,Summer,330,16,4,28,275.312,98,0,Graduate,0,False,False,0,84,182,25,8,Infectious/Parasitic
-10,22,7,Tuesday,Summer,361,52,3,28,275.312,98,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-11,26,7,Wednesday,Summer,289,36,13,33,275.312,98,0,High School,2,True,False,1,90,172,30,8,Unjustified absence
-3,26,7,Thursday,Summer,179,51,18,38,275.312,98,0,High School,0,True,False,0,89,170,31,8,Unjustified absence
-11,19,7,Thursday,Summer,289,36,13,33,275.312,98,0,High School,2,True,False,1,90,172,30,8,Injury/Poisoning
-11,19,8,Friday,Summer,289,36,13,33,265.615,94,0,High School,2,True,False,1,90,172,30,8,Injury/Poisoning
-9,18,8,Tuesday,Summer,228,14,16,58,265.615,94,0,High School,2,False,False,1,65,172,22,8,Symptoms/Abnormal findings
-21,11,8,Thursday,Summer,268,11,8,33,265.615,94,0,Graduate,0,False,False,0,79,178,25,8,Digestive system diseases
-1,19,8,Thursday,Summer,235,11,14,37,265.615,94,0,Postgraduate,1,False,False,1,88,172,29,8,Injury/Poisoning
-10,8,8,Tuesday,Summer,361,52,3,28,265.615,94,0,High School,1,True,False,4,80,172,27,8,Ear/Mastoid diseases
-27,6,8,Wednesday,Summer,184,42,7,27,265.615,94,0,High School,0,False,False,0,58,167,21,8,Nervous system diseases
-3,11,9,Monday,Summer,179,51,18,38,294.217,81,0,High School,0,True,False,0,89,170,31,8,Digestive system diseases
-3,13,9,Wednesday,Summer,179,51,18,38,294.217,81,0,High School,0,True,False,0,89,170,31,8,Musculoskeletal/Connective tissue
-5,26,9,Wednesday,Spring,235,20,13,43,294.217,81,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-3,13,9,Monday,Spring,179,51,18,38,294.217,81,0,High School,0,True,False,0,89,170,31,8,Musculoskeletal/Connective tissue
-11,24,10,Monday,Spring,289,36,13,33,265.017,88,0,High School,2,True,False,1,90,172,30,8,Blood donation
-11,26,10,Monday,Spring,289,36,13,33,265.017,88,0,High School,2,True,False,1,90,172,30,8,Unjustified absence
-11,22,10,Friday,Spring,289,36,13,33,265.017,88,0,High School,2,True,False,1,90,172,30,8,Patient follow-up
-22,1,10,Monday,Spring,179,26,9,30,265.017,88,0,Postgraduate,0,False,False,0,56,171,19,8,Infectious/Parasitic
-13,22,10,Monday,Spring,369,17,12,31,265.017,88,0,High School,3,True,False,0,70,169,25,8,Patient follow-up
-10,10,10,Monday,Spring,361,52,3,28,265.017,88,0,High School,1,True,False,4,80,172,27,8,Respiratory system diseases
-34,11,11,Monday,Spring,118,10,10,37,284.031,97,0,High School,0,False,False,0,83,172,28,8,Digestive system diseases
-3,6,11,Tuesday,Spring,179,51,18,38,284.031,97,0,High School,0,True,False,0,89,170,31,8,Nervous system diseases
-23,1,11,Monday,Spring,378,49,11,36,284.031,97,0,High School,2,False,True,4,65,174,21,8,Infectious/Parasitic
-5,26,11,Monday,Spring,235,20,13,43,284.031,97,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-24,13,11,Friday,Spring,246,25,16,41,284.031,97,0,High School,0,True,False,0,67,170,23,8,Musculoskeletal/Connective tissue
-24,13,11,Monday,Spring,246,25,16,41,284.031,97,0,High School,0,True,False,0,67,170,23,8,Musculoskeletal/Connective tissue
-20,10,11,Wednesday,Spring,260,50,11,36,284.031,97,0,High School,4,True,False,0,65,168,23,8,Respiratory system diseases
-20,15,11,Friday,Spring,260,50,11,36,284.031,97,0,High School,4,True,False,0,65,168,23,8,Pregnancy/Childbirth
-24,4,12,Thursday,Spring,246,25,16,41,236.629,93,0,High School,0,True,False,0,67,170,23,8,Endocrine/Nutritional/Metabolic
-34,25,12,Tuesday,Spring,118,10,10,37,236.629,93,0,High School,0,False,False,0,83,172,28,8,Laboratory examination
-5,13,12,Tuesday,Autumn,235,20,13,43,236.629,93,0,High School,1,True,False,0,106,167,38,8,Musculoskeletal/Connective tissue
-20,26,12,Wednesday,Autumn,260,50,11,36,236.629,93,0,High School,4,True,False,0,65,168,23,8,Unjustified absence
-11,19,12,Monday,Autumn,289,36,13,33,236.629,93,0,High School,2,True,False,1,90,172,30,8,Injury/Poisoning
-11,26,1,Monday,Autumn,289,36,13,33,330.061,100,0,High School,2,True,False,1,90,172,30,8,Unjustified absence
-15,3,1,Wednesday,Autumn,291,31,12,40,330.061,100,0,High School,1,True,False,1,73,171,25,8,Blood/Immune diseases
-5,26,1,Monday,Autumn,235,20,13,43,330.061,100,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-3,10,2,Thursday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,89,170,31,8,Respiratory system diseases
-24,26,2,Thursday,Autumn,246,25,16,41,251.818,96,0,High School,0,True,False,0,67,170,23,8,Unjustified absence
-6,22,2,Monday,Autumn,189,29,13,33,251.818,96,0,High School,2,False,False,2,69,167,25,8,Patient follow-up
-34,18,3,Tuesday,Autumn,118,10,10,37,244.387,98,0,High School,0,False,False,0,83,172,28,8,Symptoms/Abnormal findings
-1,22,3,Monday,Autumn,235,11,14,37,244.387,98,0,Postgraduate,1,False,False,1,88,172,29,8,Patient follow-up
-17,22,3,Tuesday,Autumn,179,22,17,40,244.387,98,0,Graduate,2,False,True,0,63,170,22,8,Patient follow-up
-23,22,3,Tuesday,Autumn,378,49,11,36,244.387,98,0,High School,2,False,True,4,65,174,21,8,Patient follow-up
-10,22,3,Wednesday,Autumn,361,52,3,28,244.387,98,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-1,21,3,Thursday,Autumn,235,11,14,37,244.387,98,0,Postgraduate,1,False,False,1,88,172,29,8,Factors influencing health status
-36,13,3,Wednesday,Winter,118,13,18,50,244.387,98,0,High School,1,True,False,0,98,178,31,8,Musculoskeletal/Connective tissue
-3,28,3,Friday,Winter,179,51,18,38,244.387,98,0,High School,0,True,False,0,89,170,31,8,Dental consultation
-11,22,3,Friday,Winter,289,36,13,33,244.387,98,0,High School,2,True,False,1,90,172,30,8,Patient follow-up
-20,19,3,Monday,Winter,260,50,11,36,244.387,98,0,High School,4,True,False,0,65,168,23,8,Injury/Poisoning
-18,23,4,Wednesday,Winter,330,16,4,28,239.409,98,0,Graduate,0,False,False,0,84,182,25,8,Medical consultation
-3,28,4,Wednesday,Winter,179,51,18,38,239.409,98,0,High School,0,True,False,0,89,170,31,8,Dental consultation
-26,28,4,Friday,Winter,300,26,13,43,239.409,98,0,High School,2,True,True,1,77,175,25,8,Dental consultation
-13,10,5,Monday,Winter,369,17,12,31,246.074,99,0,High School,3,True,False,0,70,169,25,8,Respiratory system diseases
-9,18,5,Wednesday,Winter,228,14,16,58,246.074,99,0,High School,2,False,False,1,65,172,22,8,Symptoms/Abnormal findings
-18,13,5,Friday,Winter,330,16,4,28,246.074,99,0,Graduate,0,False,False,0,84,182,25,8,Musculoskeletal/Connective tissue
-1,1,5,Monday,Winter,235,11,14,37,246.074,99,0,Postgraduate,1,False,False,1,88,172,29,8,Infectious/Parasitic
-5,26,6,Tuesday,Winter,235,20,13,43,253.957,95,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-3,5,6,Wednesday,Summer,179,51,18,38,253.957,95,0,High School,0,True,False,0,89,170,31,8,Mental/Behavioural disorders
-1,13,6,Tuesday,Summer,235,11,14,37,253.957,95,0,Postgraduate,1,False,False,1,88,172,29,8,Musculoskeletal/Connective tissue
-20,13,7,Friday,Summer,260,50,11,36,230.29,92,0,High School,4,True,False,0,65,168,23,8,Musculoskeletal/Connective tissue
-21,7,7,Monday,Summer,268,11,8,33,230.29,92,0,Graduate,0,False,False,0,79,178,25,8,Eye/Adnexa diseases
-18,25,7,Friday,Summer,330,16,4,28,230.29,92,0,Graduate,0,False,False,0,84,182,25,8,Laboratory examination
-34,26,7,Friday,Summer,118,10,10,37,230.29,92,0,High School,0,False,False,0,83,172,28,8,Unjustified absence
-34,28,7,Tuesday,Summer,118,10,10,37,230.29,92,0,High School,0,False,False,0,83,172,28,8,Dental consultation
-26,15,7,Monday,Summer,300,26,13,43,230.29,92,0,High School,2,True,True,1,77,175,25,8,Pregnancy/Childbirth
-10,22,7,Friday,Summer,361,52,3,28,230.29,92,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-11,22,7,Monday,Summer,289,36,13,33,230.29,92,0,High School,2,True,False,1,90,172,30,8,Patient follow-up
-5,26,7,Monday,Summer,235,20,13,43,230.29,92,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-11,26,8,Tuesday,Summer,289,36,13,33,249.797,93,0,High School,2,True,False,1,90,172,30,8,Unjustified absence
-5,26,8,Tuesday,Summer,235,20,13,43,249.797,93,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-17,25,8,Tuesday,Summer,179,22,17,40,249.797,93,0,Graduate,2,False,True,0,63,170,22,8,Laboratory examination
-22,23,9,Friday,Summer,179,26,9,30,261.756,87,0,Postgraduate,0,False,False,0,56,171,19,8,Medical consultation
-13,23,9,Tuesday,Spring,369,17,12,31,261.756,87,0,High School,3,True,False,0,70,169,25,8,Medical consultation
-10,22,9,Tuesday,Spring,361,52,3,28,261.756,87,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-24,26,10,Friday,Spring,246,25,16,41,284.853,91,0,High School,0,True,False,0,67,170,23,8,Unjustified absence
-13,23,10,Tuesday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,70,169,25,8,Medical consultation
-13,26,10,Tuesday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,70,169,25,8,Unjustified absence
-13,10,10,Thursday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,70,169,25,8,Respiratory system diseases
-13,10,10,Friday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,70,169,25,8,Respiratory system diseases
-6,23,10,Monday,Spring,189,29,13,33,284.853,91,0,High School,2,False,False,2,69,167,25,8,Medical consultation
-25,6,10,Monday,Spring,235,16,8,32,284.853,91,0,Postgraduate,0,False,False,0,75,178,25,8,Nervous system diseases
-33,10,10,Monday,Spring,248,25,14,47,284.853,91,0,High School,2,False,False,1,86,165,32,8,Respiratory system diseases
-34,9,11,Tuesday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,83,172,28,8,Circulatory system diseases
-11,24,11,Wednesday,Spring,289,36,13,33,268.519,93,0,High School,2,True,False,1,90,172,30,8,Blood donation
-25,1,11,Friday,Spring,235,16,8,32,268.519,93,0,Postgraduate,0,False,False,0,75,178,25,8,Infectious/Parasitic
-10,22,11,Tuesday,Spring,361,52,3,28,268.519,93,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-34,23,11,Monday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,83,172,28,8,Medical consultation
-34,8,11,Tuesday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,83,172,28,8,Ear/Mastoid diseases
-13,26,11,Friday,Spring,369,17,12,31,268.519,93,0,High School,3,True,False,0,70,169,25,8,Unjustified absence
-5,26,12,Friday,Spring,235,20,13,43,280.549,98,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-12,18,12,Monday,Spring,233,51,1,31,280.549,98,0,Graduate,1,True,False,8,68,178,21,8,Symptoms/Abnormal findings
-32,10,1,Thursday,Autumn,289,48,29,49,313.532,96,0,High School,0,False,False,2,108,172,36,8,Respiratory system diseases
-14,18,1,Tuesday,Autumn,155,12,14,34,313.532,96,0,High School,2,True,False,0,95,196,25,8,Symptoms/Abnormal findings
-11,13,1,Wednesday,Autumn,289,36,13,33,313.532,96,0,High School,2,True,False,1,90,172,30,8,Musculoskeletal/Connective tissue
-3,13,2,Tuesday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,8,Musculoskeletal/Connective tissue
-33,1,2,Wednesday,Autumn,248,25,14,47,264.249,97,0,High School,2,False,False,1,86,165,32,8,Infectious/Parasitic
-28,7,2,Tuesday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,69,169,24,8,Eye/Adnexa diseases
-3,13,2,Thursday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,8,Musculoskeletal/Connective tissue
-10,19,3,Monday,Autumn,361,52,3,28,222.196,99,0,High School,1,True,False,4,80,172,27,8,Injury/Poisoning
-3,13,3,Tuesday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,8,Musculoskeletal/Connective tissue
-28,7,3,Monday,Autumn,225,26,9,28,222.196,99,0,High School,1,False,False,2,69,169,24,8,Eye/Adnexa diseases
-11,23,3,Wednesday,Autumn,289,36,13,33,222.196,99,0,High School,2,True,False,1,90,172,30,8,Medical consultation
-16,23,3,Wednesday,Winter,118,15,24,46,222.196,99,0,High School,2,True,True,0,75,175,25,8,Medical consultation
-13,22,3,Wednesday,Winter,369,17,12,31,222.196,99,0,High School,3,True,False,0,70,169,25,8,Patient follow-up
-28,13,4,Monday,Winter,225,26,9,28,246.288,91,0,High School,1,False,False,2,69,169,24,8,Musculoskeletal/Connective tissue
-34,10,4,Monday,Winter,118,10,10,37,246.288,91,0,High School,0,False,False,0,83,172,28,8,Respiratory system diseases
-10,19,4,Tuesday,Winter,361,52,3,28,246.288,91,0,High School,1,True,False,4,80,172,27,8,Injury/Poisoning
-33,19,4,Wednesday,Winter,248,25,14,47,246.288,91,0,High School,2,False,False,1,86,165,32,8,Injury/Poisoning
-6,13,4,Thursday,Winter,189,29,13,33,246.288,91,0,High School,2,False,False,2,69,167,25,8,Musculoskeletal/Connective tissue
-1,22,4,Friday,Winter,235,11,14,37,246.288,91,0,Postgraduate,1,False,False,1,88,172,29,8,Patient follow-up
-28,19,4,Monday,Winter,225,26,9,28,246.288,91,0,High School,1,False,False,2,69,169,24,8,Injury/Poisoning
-28,19,4,Thursday,Winter,225,26,9,28,246.288,91,0,High School,1,False,False,2,69,169,24,8,Injury/Poisoning
-1,22,5,Monday,Winter,235,11,14,37,237.656,99,0,Postgraduate,1,False,False,1,88,172,29,8,Patient follow-up
-5,26,5,Wednesday,Winter,235,20,13,43,237.656,99,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-29,14,5,Thursday,Winter,225,15,15,41,237.656,99,0,Master/Doctor,2,True,False,2,94,182,28,8,Genitourinary system diseases
-29,22,5,Friday,Winter,225,15,15,41,237.656,99,0,Master/Doctor,2,True,False,2,94,182,28,8,Patient follow-up
-25,10,5,Monday,Winter,235,16,8,32,237.656,99,0,Postgraduate,0,False,False,0,75,178,25,8,Respiratory system diseases
-15,22,5,Wednesday,Winter,291,31,12,40,237.656,99,0,High School,1,True,False,1,73,171,25,8,Patient follow-up
-17,10,5,Wednesday,Winter,179,22,17,40,237.656,99,0,Graduate,2,False,True,0,63,170,22,8,Respiratory system diseases
-18,10,5,Thursday,Winter,330,16,4,28,237.656,99,0,Graduate,0,False,False,0,84,182,25,8,Respiratory system diseases
-10,7,5,Monday,Winter,361,52,3,28,237.656,99,0,High School,1,True,False,4,80,172,27,8,Eye/Adnexa diseases
-17,25,5,Friday,Winter,179,22,17,40,237.656,99,0,Graduate,2,False,True,0,63,170,22,8,Laboratory examination
-14,10,5,Friday,Winter,155,12,14,34,237.656,99,0,High School,2,True,False,0,95,196,25,8,Respiratory system diseases
-16,7,6,Wednesday,Winter,118,15,24,46,275.089,96,0,High School,2,True,True,0,75,175,25,8,Eye/Adnexa diseases
-34,26,6,Friday,Winter,118,10,10,37,275.089,96,0,High School,0,False,False,0,83,172,28,8,Unjustified absence
-34,10,6,Wednesday,Winter,118,10,10,37,275.089,96,0,High School,0,False,False,0,83,172,28,8,Respiratory system diseases
-23,22,6,Thursday,Winter,378,49,11,36,275.089,96,0,High School,2,False,True,4,65,174,21,8,Patient follow-up
-12,19,6,Friday,Winter,233,51,1,31,275.089,96,0,Graduate,1,True,False,8,68,178,21,8,Injury/Poisoning
-12,22,6,Thursday,Summer,233,51,1,31,275.089,96,0,Graduate,1,True,False,8,68,178,21,8,Patient follow-up
-9,6,7,Monday,Summer,228,14,16,58,264.604,93,0,High School,2,False,False,1,65,172,22,8,Nervous system diseases
-10,22,7,Wednesday,Summer,361,52,3,28,264.604,93,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-28,22,7,Wednesday,Summer,225,26,9,28,264.604,93,0,High School,1,False,False,2,69,169,24,8,Patient follow-up
-11,14,7,Tuesday,Summer,289,36,13,33,264.604,93,0,High School,2,True,False,1,90,172,30,8,Genitourinary system diseases
-10,25,8,Monday,Summer,361,52,3,28,205.917,92,0,High School,1,True,False,4,80,172,27,7,Laboratory examination
-15,23,10,Thursday,Spring,291,31,12,40,253.465,93,0,High School,1,True,False,1,73,171,25,5,Medical consultation
-15,23,11,Thursday,Spring,291,31,12,40,306.345,93,0,High School,1,True,False,1,73,171,25,5,Medical consultation
-22,1,10,Wednesday,Spring,179,26,9,30,265.017,88,0,Postgraduate,0,False,False,0,56,171,19,5,Infectious/Parasitic
-22,7,10,Wednesday,Spring,179,26,9,30,265.017,88,0,Postgraduate,0,False,False,0,56,171,19,5,Eye/Adnexa diseases
-28,23,1,Wednesday,Autumn,225,26,9,28,330.061,100,0,High School,1,False,False,2,69,169,24,5,Medical consultation
-34,28,8,Tuesday,Summer,118,10,10,37,249.797,93,0,High School,0,False,False,0,83,172,28,5,Dental consultation
-14,25,2,Monday,Autumn,155,12,14,34,264.249,97,0,High School,2,True,False,0,95,196,25,5,Laboratory examination
-11,26,7,Tuesday,Summer,289,36,13,33,239.554,97,0,High School,2,True,False,1,90,172,30,4,Unjustified absence
-7,7,7,Thursday,Summer,279,5,14,39,239.554,97,0,High School,2,True,True,0,68,168,24,4,Eye/Adnexa diseases
-20,23,7,Friday,Summer,260,50,11,36,239.554,97,0,High School,4,True,False,0,65,168,23,4,Medical consultation
-3,23,7,Wednesday,Summer,179,51,18,38,239.554,97,0,High School,0,True,False,0,89,170,31,4,Medical consultation
-20,28,8,Friday,Summer,260,50,11,36,205.917,92,0,High School,4,True,False,0,65,168,23,4,Dental consultation
-30,28,8,Wednesday,Summer,157,27,6,29,205.917,92,0,High School,0,True,True,0,75,185,22,4,Dental consultation
-1,23,8,Thursday,Summer,235,11,14,37,205.917,92,0,Postgraduate,1,False,False,1,88,172,29,4,Medical consultation
-19,11,8,Thursday,Summer,291,50,12,32,205.917,92,0,High School,0,True,False,0,65,169,23,4,Digestive system diseases
-20,23,8,Friday,Summer,260,50,11,36,205.917,92,0,High School,4,True,False,0,65,168,23,4,Medical consultation
-34,23,9,Monday,Summer,118,10,10,37,241.476,92,0,High School,0,False,False,0,83,172,28,4,Medical consultation
-3,23,9,Tuesday,Summer,179,51,18,38,241.476,92,0,High School,0,True,False,0,89,170,31,4,Medical consultation
-15,23,9,Thursday,Summer,291,31,12,40,241.476,92,0,High School,1,True,False,1,73,171,25,4,Medical consultation
-20,23,9,Friday,Spring,260,50,11,36,241.476,92,0,High School,4,True,False,0,65,168,23,4,Medical consultation
-20,28,11,Friday,Spring,260,50,11,36,306.345,93,0,High School,4,True,False,0,65,168,23,4,Dental consultation
-20,28,3,Friday,Autumn,260,50,11,36,343.253,95,0,High School,4,True,False,0,65,168,23,4,Dental consultation
-20,28,4,Friday,Winter,260,50,11,36,326.452,96,0,High School,4,True,False,0,65,168,23,4,Dental consultation
-27,7,5,Wednesday,Winter,184,42,7,27,378.884,92,0,High School,0,False,False,0,58,167,21,4,Eye/Adnexa diseases
-15,23,6,Thursday,Winter,291,31,12,40,377.55,94,0,High School,1,True,False,1,73,171,25,4,Medical consultation
-14,23,6,Monday,Winter,155,12,14,34,377.55,94,0,High School,2,True,False,0,95,196,25,4,Medical consultation
-34,26,7,Friday,Summer,118,10,10,37,275.312,98,0,High School,0,False,False,0,83,172,28,4,Unjustified absence
-20,28,8,Friday,Summer,260,50,11,36,265.615,94,0,High School,4,True,False,0,65,168,23,4,Dental consultation
-11,23,8,Tuesday,Summer,289,36,13,33,265.615,94,0,High School,2,True,False,1,90,172,30,4,Medical consultation
-15,28,9,Friday,Summer,291,31,12,40,294.217,81,0,High School,1,True,False,1,73,171,25,4,Dental consultation
-20,28,9,Friday,Summer,260,50,11,36,294.217,81,0,High School,4,True,False,0,65,168,23,4,Dental consultation
-1,26,10,Monday,Spring,235,11,14,37,265.017,88,0,Postgraduate,1,False,False,1,88,172,29,4,Unjustified absence
-15,28,10,Tuesday,Spring,291,31,12,40,265.017,88,0,High School,1,True,False,1,73,171,25,4,Dental consultation
-15,12,11,Friday,Spring,291,31,12,40,284.031,97,0,High School,1,True,False,1,73,171,25,4,Skin/Subcutaneous diseases
-20,28,12,Friday,Spring,260,50,11,36,236.629,93,0,High School,4,True,False,0,65,168,23,4,Dental consultation
-1,14,12,Tuesday,Autumn,235,11,14,37,236.629,93,0,Postgraduate,1,False,False,1,88,172,29,4,Genitourinary system diseases
-14,23,1,Tuesday,Autumn,155,12,14,34,330.061,100,0,High School,2,True,False,0,95,196,25,4,Medical consultation
-36,26,1,Monday,Autumn,118,13,18,50,330.061,100,0,High School,1,True,False,0,98,178,31,4,Unjustified absence
-20,28,3,Friday,Autumn,260,50,11,36,244.387,98,0,High School,4,True,False,0,65,168,23,4,Dental consultation
-3,28,4,Wednesday,Winter,179,51,18,38,239.409,98,0,High School,0,True,False,0,89,170,31,4,Dental consultation
-18,26,4,Friday,Winter,330,16,4,28,239.409,98,0,Graduate,0,False,False,0,84,182,25,4,Unjustified absence
-13,22,4,Monday,Winter,369,17,12,31,239.409,98,0,High School,3,True,False,0,70,169,25,4,Patient follow-up
-33,26,4,Monday,Winter,248,25,14,47,239.409,98,0,High School,2,False,False,1,86,165,32,4,Unjustified absence
-20,28,4,Friday,Winter,260,50,11,36,239.409,98,0,High School,4,True,False,0,65,168,23,4,Dental consultation
-3,28,4,Monday,Winter,179,51,18,38,239.409,98,0,High School,0,True,False,0,89,170,31,4,Dental consultation
-3,28,5,Wednesday,Winter,179,51,18,38,246.074,99,0,High School,0,True,False,0,89,170,31,4,Dental consultation
-28,23,6,Thursday,Winter,225,26,9,28,253.957,95,0,High School,1,False,False,2,69,169,24,4,Medical consultation
-20,28,6,Friday,Winter,260,50,11,36,253.957,95,0,High School,4,True,False,0,65,168,23,4,Dental consultation
-3,28,6,Monday,Winter,179,51,18,38,253.957,95,0,High School,0,True,False,0,89,170,31,4,Dental consultation
-28,25,7,Thursday,Summer,225,26,9,28,230.29,92,0,High School,1,False,False,2,69,169,24,4,Laboratory examination
-20,26,7,Monday,Summer,260,50,11,36,230.29,92,0,High School,4,True,False,0,65,168,23,4,Unjustified absence
-3,25,8,Thursday,Summer,179,51,18,38,249.797,93,0,High School,0,True,False,0,89,170,31,4,Laboratory examination
-24,28,8,Tuesday,Summer,246,25,16,41,249.797,93,0,High School,0,True,False,0,67,170,23,4,Dental consultation
-34,28,8,Tuesday,Summer,118,10,10,37,249.797,93,0,High School,0,False,False,0,83,172,28,4,Dental consultation
-15,28,8,Thursday,Summer,291,31,12,40,249.797,93,0,High School,1,True,False,1,73,171,25,4,Dental consultation
-3,25,8,Monday,Summer,179,51,18,38,249.797,93,0,High School,0,True,False,0,89,170,31,4,Laboratory examination
-1,23,8,Tuesday,Summer,235,11,14,37,249.797,93,0,Postgraduate,1,False,False,1,88,172,29,4,Medical consultation
-3,23,9,Monday,Summer,179,51,18,38,261.756,87,0,High School,0,True,False,0,89,170,31,4,Medical consultation
-28,23,10,Tuesday,Spring,225,26,9,28,284.853,91,0,High School,1,False,False,2,69,169,24,4,Medical consultation
-28,23,11,Friday,Spring,225,26,9,28,268.519,93,0,High School,1,False,False,2,69,169,24,4,Medical consultation
-33,14,11,Thursday,Spring,248,25,14,47,268.519,93,0,High School,2,False,False,1,86,165,32,4,Genitourinary system diseases
-10,14,12,Thursday,Spring,361,52,3,28,280.549,98,0,High School,1,True,False,4,80,172,27,4,Genitourinary system diseases
-3,10,3,Monday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,4,Respiratory system diseases
-14,28,4,Tuesday,Winter,155,12,14,34,246.288,91,0,High School,2,True,False,0,95,196,25,4,Dental consultation
-5,26,7,Wednesday,Summer,235,20,13,43,264.604,93,0,High School,1,True,False,0,106,167,38,4,Unjustified absence
-34,28,7,Monday,Summer,118,10,10,37,264.604,93,0,High School,0,False,False,0,83,172,28,4,Dental consultation
-1,11,7,Tuesday,Summer,235,11,14,37,264.604,93,0,Postgraduate,1,False,False,1,88,172,29,4,Digestive system diseases
-34,23,9,Monday,Summer,118,10,10,37,241.476,92,0,High School,0,False,False,0,83,172,28,3,Medical consultation
-3,23,9,Tuesday,Summer,179,51,18,38,241.476,92,0,High School,0,True,False,0,89,170,31,3,Medical consultation
-28,18,9,Wednesday,Spring,225,26,9,28,241.476,92,0,High School,1,False,False,2,69,169,24,3,Symptoms/Abnormal findings
-3,23,9,Wednesday,Spring,179,51,18,38,241.476,92,0,High School,0,True,False,0,89,170,31,3,Medical consultation
-3,23,9,Friday,Spring,179,51,18,38,241.476,92,0,High School,0,True,False,0,89,170,31,3,Medical consultation
-3,23,10,Tuesday,Spring,179,51,18,38,253.465,93,0,High School,0,True,False,0,89,170,31,3,Medical consultation
-34,23,10,Tuesday,Spring,118,10,10,37,253.465,93,0,High School,0,False,False,0,83,172,28,3,Medical consultation
-3,23,10,Friday,Spring,179,51,18,38,253.465,93,0,High School,0,True,False,0,89,170,31,3,Medical consultation
-28,23,10,Friday,Spring,225,26,9,28,253.465,93,0,High School,1,False,False,2,69,169,24,3,Medical consultation
-28,23,10,Wednesday,Spring,225,26,9,28,253.465,93,0,High School,1,False,False,2,69,169,24,3,Medical consultation
-20,28,10,Friday,Spring,260,50,11,36,253.465,93,0,High School,4,True,False,0,65,168,23,3,Dental consultation
-28,23,11,Wednesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,69,169,24,3,Medical consultation
-28,13,11,Friday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,69,169,24,3,Musculoskeletal/Connective tissue
-28,28,11,Tuesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,69,169,24,3,Dental consultation
-15,23,11,Thursday,Spring,291,31,12,40,306.345,93,0,High School,1,True,False,1,73,171,25,3,Medical consultation
-28,28,12,Thursday,Spring,225,26,9,28,261.306,97,0,High School,1,False,False,2,69,169,24,3,Dental consultation
-20,28,12,Friday,Spring,260,50,11,36,261.306,97,0,High School,4,True,False,0,65,168,23,3,Dental consultation
-11,22,1,Thursday,Autumn,289,36,13,33,308.593,95,0,High School,2,True,False,1,90,172,30,3,Patient follow-up
-28,25,2,Thursday,Autumn,225,26,9,28,302.585,99,0,High School,1,False,False,2,69,169,24,3,Laboratory examination
-30,19,3,Tuesday,Autumn,157,27,6,29,343.253,95,0,High School,0,True,True,0,75,185,22,3,Injury/Poisoning
-33,14,3,Friday,Autumn,248,25,14,47,343.253,95,0,High School,2,False,False,1,86,165,32,3,Genitourinary system diseases
-3,13,3,Wednesday,Winter,179,51,18,38,343.253,95,0,High School,0,True,False,0,89,170,31,3,Musculoskeletal/Connective tissue
-33,14,3,Friday,Winter,248,25,14,47,343.253,95,0,High School,2,False,False,1,86,165,32,3,Genitourinary system diseases
-15,23,4,Friday,Winter,291,31,12,40,326.452,96,0,High School,1,True,False,1,73,171,25,3,Medical consultation
-1,7,4,Friday,Winter,235,11,14,37,326.452,96,0,Postgraduate,1,False,False,1,88,172,29,3,Eye/Adnexa diseases
-30,25,7,Monday,Summer,157,27,6,29,275.312,98,0,High School,0,True,True,0,75,185,22,3,Laboratory examination
-30,19,8,Friday,Summer,157,27,6,29,265.615,94,0,High School,0,True,True,0,75,185,22,3,Injury/Poisoning
-36,13,8,Thursday,Summer,118,13,18,50,265.615,94,0,High School,1,True,False,0,98,178,31,3,Musculoskeletal/Connective tissue
-3,23,9,Friday,Summer,179,51,18,38,294.217,81,0,High School,0,True,False,0,89,170,31,3,Medical consultation
-15,28,9,Tuesday,Summer,291,31,12,40,294.217,81,0,High School,1,True,False,1,73,171,25,3,Dental consultation
-15,28,9,Friday,Spring,291,31,12,40,294.217,81,0,High School,1,True,False,1,73,171,25,3,Dental consultation
-34,7,10,Monday,Spring,118,10,10,37,265.017,88,0,High School,0,False,False,0,83,172,28,3,Eye/Adnexa diseases
-20,28,10,Friday,Spring,260,50,11,36,265.017,88,0,High School,4,True,False,0,65,168,23,3,Dental consultation
-20,28,11,Friday,Spring,260,50,11,36,284.031,97,0,High School,4,True,False,0,65,168,23,3,Dental consultation
-34,11,11,Wednesday,Spring,118,10,10,37,284.031,97,0,High School,0,False,False,0,83,172,28,3,Digestive system diseases
-3,28,11,Thursday,Spring,179,51,18,38,284.031,97,0,High School,0,True,False,0,89,170,31,3,Dental consultation
-28,12,12,Monday,Spring,225,26,9,28,236.629,93,0,High School,1,False,False,2,69,169,24,3,Skin/Subcutaneous diseases
-1,23,12,Monday,Spring,235,11,14,37,236.629,93,0,Postgraduate,1,False,False,1,88,172,29,3,Medical consultation
-3,28,12,Monday,Autumn,179,51,18,38,236.629,93,0,High School,0,True,False,0,89,170,31,3,Dental consultation
-3,27,2,Wednesday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-11,22,2,Friday,Autumn,289,36,13,33,251.818,96,0,High School,2,True,False,1,90,172,30,3,Patient follow-up
-20,28,2,Friday,Autumn,260,50,11,36,251.818,96,0,High School,4,True,False,0,65,168,23,3,Dental consultation
-3,23,2,Friday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,89,170,31,3,Medical consultation
-3,27,2,Friday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-3,27,2,Monday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-36,14,3,Tuesday,Winter,118,13,18,50,244.387,98,0,High School,1,True,False,0,98,178,31,3,Genitourinary system diseases
-20,28,4,Friday,Winter,260,50,11,36,239.409,98,0,High School,4,True,False,0,65,168,23,3,Dental consultation
-22,23,5,Wednesday,Winter,179,26,9,30,246.074,99,0,Postgraduate,0,False,False,0,56,171,19,3,Medical consultation
-20,28,5,Friday,Winter,260,50,11,36,246.074,99,0,High School,4,True,False,0,65,168,23,3,Dental consultation
-17,8,5,Monday,Winter,179,22,17,40,246.074,99,0,Graduate,2,False,True,0,63,170,22,3,Ear/Mastoid diseases
-28,25,5,Wednesday,Winter,225,26,9,28,246.074,99,0,High School,1,False,False,2,69,169,24,3,Laboratory examination
-34,23,6,Monday,Winter,118,10,10,37,253.957,95,0,High School,0,False,False,0,83,172,28,3,Medical consultation
-3,28,6,Monday,Winter,179,51,18,38,253.957,95,0,High School,0,True,False,0,89,170,31,3,Dental consultation
-24,28,6,Tuesday,Winter,246,25,16,41,253.957,95,0,High School,0,True,False,0,67,170,23,3,Dental consultation
-20,28,8,Monday,Summer,260,50,11,36,249.797,93,0,High School,4,True,False,0,65,168,23,3,Dental consultation
-34,28,9,Tuesday,Summer,118,10,10,37,261.756,87,0,High School,0,False,False,0,83,172,28,3,Dental consultation
-25,11,10,Thursday,Spring,235,16,8,32,284.853,91,0,Postgraduate,0,False,False,0,75,178,25,3,Digestive system diseases
-32,14,10,Wednesday,Spring,289,48,29,49,284.853,91,0,High School,0,False,False,2,108,172,36,3,Genitourinary system diseases
-13,23,10,Tuesday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,70,169,25,3,Medical consultation
-3,28,10,Wednesday,Spring,179,51,18,38,284.853,91,0,High School,0,True,False,0,89,170,31,3,Dental consultation
-28,10,10,Friday,Spring,225,26,9,28,284.853,91,0,High School,1,False,False,2,69,169,24,3,Respiratory system diseases
-28,13,10,Tuesday,Spring,225,26,9,28,284.853,91,0,High School,1,False,False,2,69,169,24,3,Musculoskeletal/Connective tissue
-34,28,11,Wednesday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,83,172,28,3,Dental consultation
-28,14,11,Thursday,Spring,225,26,9,28,268.519,93,0,High School,1,False,False,2,69,169,24,3,Genitourinary system diseases
-28,23,12,Wednesday,Spring,225,26,9,28,280.549,98,0,High School,1,False,False,2,69,169,24,3,Medical consultation
-28,23,12,Friday,Spring,225,26,9,28,280.549,98,0,High School,1,False,False,2,69,169,24,3,Medical consultation
-28,23,12,Thursday,Spring,225,26,9,28,280.549,98,0,High School,1,False,False,2,69,169,24,3,Medical consultation
-22,13,1,Monday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,56,171,19,3,Musculoskeletal/Connective tissue
-17,18,1,Friday,Autumn,179,22,17,40,313.532,96,0,Graduate,2,False,True,0,63,170,22,3,Symptoms/Abnormal findings
-3,27,1,Wednesday,Autumn,179,51,18,38,313.532,96,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-3,27,1,Thursday,Autumn,179,51,18,38,313.532,96,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-28,23,2,Tuesday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,69,169,24,3,Medical consultation
-28,28,2,Thursday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,69,169,24,3,Dental consultation
-3,27,2,Wednesday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-3,27,2,Thursday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-28,25,2,Thursday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,69,169,24,3,Laboratory examination
-3,27,2,Friday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-12,12,2,Wednesday,Autumn,233,51,1,31,264.249,97,0,Graduate,1,True,False,8,68,178,21,3,Skin/Subcutaneous diseases
-25,25,2,Monday,Autumn,235,16,8,32,264.249,97,0,Postgraduate,0,False,False,0,75,178,25,3,Laboratory examination
-9,25,3,Tuesday,Autumn,228,14,16,58,222.196,99,0,High School,2,False,False,1,65,172,22,3,Laboratory examination
-33,25,3,Tuesday,Autumn,248,25,14,47,222.196,99,0,High School,2,False,False,1,86,165,32,3,Laboratory examination
-3,27,3,Thursday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-22,27,3,Friday,Autumn,179,26,9,30,222.196,99,0,Postgraduate,0,False,False,0,56,171,19,3,Physiotherapy
-25,25,3,Monday,Autumn,235,16,8,32,222.196,99,0,Postgraduate,0,False,False,0,75,178,25,3,Laboratory examination
-3,27,3,Monday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-33,23,3,Thursday,Autumn,248,25,14,47,222.196,99,0,High School,2,False,False,1,86,165,32,3,Medical consultation
-3,27,3,Friday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-3,27,3,Tuesday,Winter,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-3,27,3,Wednesday,Winter,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-3,27,3,Thursday,Winter,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-36,23,4,Tuesday,Winter,118,13,18,50,246.288,91,0,High School,1,True,False,0,98,178,31,3,Medical consultation
-25,16,4,Tuesday,Winter,235,16,8,32,246.288,91,0,Postgraduate,0,False,False,0,75,178,25,3,Perinatal conditions
-29,19,5,Wednesday,Winter,225,15,15,41,237.656,99,0,Master/Doctor,2,True,False,2,94,182,28,3,Injury/Poisoning
-34,8,5,Wednesday,Winter,118,10,10,37,237.656,99,0,High School,0,False,False,0,83,172,28,3,Ear/Mastoid diseases
-36,5,5,Tuesday,Winter,118,13,18,50,237.656,99,0,High School,1,True,False,0,98,178,31,3,Mental/Behavioural disorders
-28,6,5,Wednesday,Winter,225,26,9,28,237.656,99,0,High School,1,False,False,2,69,169,24,3,Nervous system diseases
-22,27,6,Wednesday,Winter,179,26,9,30,275.089,96,0,Postgraduate,0,False,False,0,56,171,19,3,Physiotherapy
-36,19,6,Thursday,Winter,118,13,18,50,275.089,96,0,High School,1,True,False,0,98,178,31,3,Injury/Poisoning
-22,13,6,Monday,Summer,179,26,9,30,275.089,96,0,Postgraduate,0,False,False,0,56,171,19,3,Musculoskeletal/Connective tissue
-34,25,6,Monday,Summer,118,10,10,37,275.089,96,0,High School,0,False,False,0,83,172,28,3,Laboratory examination
-34,10,6,Wednesday,Summer,118,10,10,37,275.089,96,0,High School,0,False,False,0,83,172,28,3,Respiratory system diseases
-12,22,6,Wednesday,Summer,233,51,1,31,275.089,96,0,Graduate,1,True,False,8,68,178,21,3,Patient follow-up
-3,23,7,Wednesday,Summer,179,51,18,38,239.554,97,0,High School,0,True,False,0,89,170,31,2,Medical consultation
-11,23,7,Thursday,Summer,289,36,13,33,239.554,97,0,High School,2,True,False,1,90,172,30,2,Medical consultation
-3,23,7,Friday,Summer,179,51,18,38,239.554,97,0,High School,0,True,False,0,89,170,31,2,Medical consultation
-33,23,8,Wednesday,Summer,248,25,14,47,205.917,92,0,High School,2,False,False,1,86,165,32,2,Medical consultation
-3,23,8,Friday,Summer,179,51,18,38,205.917,92,0,High School,0,True,False,0,89,170,31,2,Medical consultation
-3,23,8,Monday,Summer,179,51,18,38,205.917,92,0,High School,0,True,False,0,89,170,31,2,Medical consultation
-27,23,9,Tuesday,Summer,184,42,7,27,241.476,92,0,High School,0,False,False,0,58,167,21,2,Medical consultation
-14,23,9,Wednesday,Summer,155,12,14,34,241.476,92,0,High School,2,True,False,0,95,196,25,2,Medical consultation
-28,23,9,Tuesday,Spring,225,26,9,28,241.476,92,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-34,23,9,Tuesday,Spring,118,10,10,37,241.476,92,0,High School,0,False,False,0,83,172,28,2,Medical consultation
-28,23,10,Wednesday,Spring,225,26,9,28,253.465,93,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-33,23,10,Wednesday,Spring,248,25,14,47,253.465,93,0,High School,2,False,False,1,86,165,32,2,Medical consultation
-28,28,10,Tuesday,Spring,225,26,9,28,253.465,93,0,High School,1,False,False,2,69,169,24,2,Dental consultation
-36,23,12,Wednesday,Spring,118,13,18,50,261.306,97,0,High School,1,True,False,0,98,178,31,2,Medical consultation
-28,23,12,Thursday,Spring,225,26,9,28,261.306,97,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-28,23,12,Tuesday,Spring,225,26,9,28,261.306,97,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-34,27,12,Friday,Spring,118,10,10,37,261.306,97,0,High School,0,False,False,0,83,172,28,2,Physiotherapy
-28,23,12,Friday,Autumn,225,26,9,28,261.306,97,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-28,27,1,Wednesday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,69,169,24,2,Physiotherapy
-27,23,1,Thursday,Autumn,184,42,7,27,308.593,95,0,High School,0,False,False,0,58,167,21,2,Medical consultation
-28,28,1,Thursday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,69,169,24,2,Dental consultation
-34,27,1,Monday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,83,172,28,2,Physiotherapy
-28,27,1,Tuesday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,69,169,24,2,Physiotherapy
-34,27,1,Tuesday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,83,172,28,2,Physiotherapy
-34,27,1,Wednesday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,83,172,28,2,Physiotherapy
-34,27,1,Thursday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,83,172,28,2,Physiotherapy
-34,27,1,Friday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,83,172,28,2,Physiotherapy
-14,28,2,Thursday,Autumn,155,12,14,34,302.585,99,0,High School,2,True,False,0,95,196,25,2,Dental consultation
-20,28,2,Friday,Autumn,260,50,11,36,302.585,99,0,High School,4,True,False,0,65,168,23,2,Dental consultation
-28,28,2,Monday,Autumn,225,26,9,28,302.585,99,0,High School,1,False,False,2,69,169,24,2,Dental consultation
-28,23,2,Tuesday,Autumn,225,26,9,28,302.585,99,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-19,28,3,Tuesday,Autumn,291,50,12,32,343.253,95,0,High School,0,True,False,0,65,169,23,2,Dental consultation
-28,23,3,Wednesday,Autumn,225,26,9,28,343.253,95,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-28,28,3,Friday,Winter,225,26,9,28,343.253,95,0,High School,1,False,False,2,69,169,24,2,Dental consultation
-28,28,4,Friday,Winter,225,26,9,28,326.452,96,0,High School,1,False,False,2,69,169,24,2,Dental consultation
-14,28,5,Thursday,Winter,155,12,14,34,378.884,92,0,High School,2,True,False,0,95,196,25,2,Dental consultation
-14,28,5,Monday,Winter,155,12,14,34,378.884,92,0,High School,2,True,False,0,95,196,25,2,Dental consultation
-3,11,6,Friday,Winter,179,51,18,38,377.55,94,0,High School,0,True,False,0,89,170,31,2,Digestive system diseases
-32,28,6,Monday,Summer,289,48,29,49,377.55,94,0,High School,0,False,False,2,108,172,36,2,Dental consultation
-28,28,6,Thursday,Summer,225,26,9,28,377.55,94,0,High School,1,False,False,2,69,169,24,2,Dental consultation
-14,25,7,Friday,Summer,155,12,14,34,275.312,98,0,High School,2,True,False,0,95,196,25,2,Laboratory examination
-26,14,8,Thursday,Summer,300,26,13,43,265.615,94,0,High School,2,True,True,1,77,175,25,2,Genitourinary system diseases
-33,25,8,Monday,Summer,248,25,14,47,265.615,94,0,High School,2,False,False,1,86,165,32,2,Laboratory examination
-5,23,10,Monday,Spring,235,20,13,43,265.017,88,0,High School,1,True,False,0,106,167,38,2,Medical consultation
-33,23,11,Monday,Spring,248,25,14,47,284.031,97,0,High School,2,False,False,1,86,165,32,2,Medical consultation
-1,25,11,Thursday,Spring,235,11,14,37,284.031,97,0,Postgraduate,1,False,False,1,88,172,29,2,Laboratory examination
-3,28,12,Monday,Spring,179,51,18,38,236.629,93,0,High School,0,True,False,0,89,170,31,2,Dental consultation
-1,25,12,Thursday,Spring,235,11,14,37,236.629,93,0,Postgraduate,1,False,False,1,88,172,29,2,Laboratory examination
-30,28,12,Monday,Autumn,157,27,6,29,236.629,93,0,High School,0,True,True,0,75,185,22,2,Dental consultation
-14,23,1,Monday,Autumn,155,12,14,34,330.061,100,0,High School,2,True,False,0,95,196,25,2,Medical consultation
-34,28,2,Tuesday,Autumn,118,10,10,37,251.818,96,0,High School,0,False,False,0,83,172,28,2,Dental consultation
-3,27,2,Monday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,89,170,31,2,Physiotherapy
-24,23,2,Tuesday,Autumn,246,25,16,41,251.818,96,0,High School,0,True,False,0,67,170,23,2,Medical consultation
-15,23,2,Tuesday,Autumn,291,31,12,40,251.818,96,0,High School,1,True,False,1,73,171,25,2,Medical consultation
-24,28,3,Friday,Autumn,246,25,16,41,244.387,98,0,High School,0,True,False,0,67,170,23,2,Dental consultation
-3,28,3,Monday,Autumn,179,51,18,38,244.387,98,0,High School,0,True,False,0,89,170,31,2,Dental consultation
-36,23,3,Friday,Winter,118,13,18,50,244.387,98,0,High School,1,True,False,0,98,178,31,2,Medical consultation
-24,28,3,Tuesday,Winter,246,25,16,41,244.387,98,0,High School,0,True,False,0,67,170,23,2,Dental consultation
-34,11,4,Wednesday,Winter,118,10,10,37,239.409,98,0,High School,0,False,False,0,83,172,28,2,Digestive system diseases
-33,23,5,Wednesday,Winter,248,25,14,47,246.074,99,0,High School,2,False,False,1,86,165,32,2,Medical consultation
-17,11,5,Monday,Winter,179,22,17,40,246.074,99,0,Graduate,2,False,True,0,63,170,22,2,Digestive system diseases
-22,25,5,Monday,Winter,179,26,9,30,246.074,99,0,Postgraduate,0,False,False,0,56,171,19,2,Laboratory examination
-34,28,6,Tuesday,Winter,118,10,10,37,253.957,95,0,High School,0,False,False,0,83,172,28,2,Dental consultation
-3,28,6,Monday,Summer,179,51,18,38,253.957,95,0,High School,0,True,False,0,89,170,31,2,Dental consultation
-28,23,6,Wednesday,Summer,225,26,9,28,253.957,95,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-36,23,6,Wednesday,Summer,118,13,18,50,253.957,95,0,High School,1,True,False,0,98,178,31,2,Medical consultation
-22,21,6,Wednesday,Summer,179,26,9,30,253.957,95,0,Postgraduate,0,False,False,0,56,171,19,2,Factors influencing health status
-24,28,6,Friday,Summer,246,25,16,41,253.957,95,0,High School,0,True,False,0,67,170,23,2,Dental consultation
-22,23,7,Thursday,Summer,179,26,9,30,230.29,92,0,Postgraduate,0,False,False,0,56,171,19,2,Medical consultation
-24,28,7,Tuesday,Summer,246,25,16,41,230.29,92,0,High School,0,True,False,0,67,170,23,2,Dental consultation
-7,23,7,Thursday,Summer,279,5,14,39,230.29,92,0,High School,2,True,True,0,68,168,24,2,Medical consultation
-15,28,8,Thursday,Summer,291,31,12,40,249.797,93,0,High School,1,True,False,1,73,171,25,2,Dental consultation
-14,23,9,Tuesday,Summer,155,12,14,34,261.756,87,0,High School,2,True,False,0,95,196,25,2,Medical consultation
-15,28,9,Thursday,Summer,291,31,12,40,261.756,87,0,High School,1,True,False,1,73,171,25,2,Dental consultation
-22,23,9,Monday,Summer,179,26,9,30,261.756,87,0,Postgraduate,0,False,False,0,56,171,19,2,Medical consultation
-15,28,10,Wednesday,Spring,291,31,12,40,284.853,91,0,High School,1,True,False,1,73,171,25,2,Dental consultation
-34,23,10,Tuesday,Spring,118,10,10,37,284.853,91,0,High School,0,False,False,0,83,172,28,2,Medical consultation
-32,23,10,Thursday,Spring,289,48,29,49,284.853,91,0,High School,0,False,False,2,108,172,36,2,Medical consultation
-28,23,10,Tuesday,Spring,225,26,9,28,284.853,91,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-15,28,11,Wednesday,Spring,291,31,12,40,268.519,93,0,High School,1,True,False,1,73,171,25,2,Dental consultation
-34,13,11,Thursday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,83,172,28,2,Musculoskeletal/Connective tissue
-28,23,11,Tuesday,Spring,225,26,9,28,268.519,93,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-28,23,11,Friday,Spring,225,26,9,28,268.519,93,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-10,28,11,Monday,Spring,361,52,3,28,268.519,93,0,High School,1,True,False,4,80,172,27,2,Dental consultation
-17,18,12,Friday,Spring,179,22,17,40,280.549,98,0,Graduate,2,False,True,0,63,170,22,2,Symptoms/Abnormal findings
-28,23,12,Tuesday,Spring,225,26,9,28,280.549,98,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-28,23,12,Monday,Spring,225,26,9,28,280.549,98,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-17,25,1,Thursday,Autumn,179,22,17,40,313.532,96,0,Graduate,2,False,True,0,63,170,22,2,Laboratory examination
-17,25,1,Friday,Autumn,179,22,17,40,313.532,96,0,Graduate,2,False,True,0,63,170,22,2,Laboratory examination
-17,25,1,Wednesday,Autumn,179,22,17,40,313.532,96,0,Graduate,2,False,True,0,63,170,22,2,Laboratory examination
-22,27,1,Monday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,56,171,19,2,Physiotherapy
-22,27,1,Wednesday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,56,171,19,2,Physiotherapy
-3,27,1,Friday,Autumn,179,51,18,38,313.532,96,0,High School,0,True,False,0,89,170,31,2,Physiotherapy
-3,27,2,Wednesday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,2,Physiotherapy
-3,27,2,Thursday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,2,Physiotherapy
-22,27,2,Thursday,Autumn,179,26,9,30,264.249,97,0,Postgraduate,0,False,False,0,56,171,19,2,Physiotherapy
-29,28,2,Friday,Autumn,225,15,15,41,264.249,97,0,Master/Doctor,2,True,False,2,94,182,28,2,Dental consultation
-3,27,2,Friday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,2,Physiotherapy
-12,19,2,Monday,Autumn,233,51,1,31,264.249,97,0,Graduate,1,True,False,8,68,178,21,2,Injury/Poisoning
-3,27,2,Monday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,2,Physiotherapy
-22,13,2,Thursday,Autumn,179,26,9,30,264.249,97,0,Postgraduate,0,False,False,0,56,171,19,2,Musculoskeletal/Connective tissue
-17,23,2,Friday,Autumn,179,22,17,40,264.249,97,0,Graduate,2,False,True,0,63,170,22,2,Medical consultation
-22,27,2,Wednesday,Autumn,179,26,9,30,264.249,97,0,Postgraduate,0,False,False,0,56,171,19,2,Physiotherapy
-28,7,2,Monday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,69,169,24,2,Eye/Adnexa diseases
-3,27,2,Tuesday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,2,Physiotherapy
-33,23,2,Tuesday,Autumn,248,25,14,47,264.249,97,0,High School,2,False,False,1,86,165,32,2,Medical consultation
-28,25,2,Tuesday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,69,169,24,2,Laboratory examination
-25,25,2,Friday,Autumn,235,16,8,32,264.249,97,0,Postgraduate,0,False,False,0,75,178,25,2,Laboratory examination
-3,27,3,Monday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,2,Physiotherapy
-33,23,3,Monday,Autumn,248,25,14,47,222.196,99,0,High School,2,False,False,1,86,165,32,2,Medical consultation
-3,27,3,Wednesday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,2,Physiotherapy
-28,27,3,Thursday,Autumn,225,26,9,28,222.196,99,0,High School,1,False,False,2,69,169,24,2,Physiotherapy
-28,25,3,Thursday,Autumn,225,26,9,28,222.196,99,0,High School,1,False,False,2,69,169,24,2,Laboratory examination
-22,27,3,Friday,Autumn,179,26,9,30,222.196,99,0,Postgraduate,0,False,False,0,56,171,19,2,Physiotherapy
-33,13,3,Monday,Autumn,248,25,14,47,222.196,99,0,High School,2,False,False,1,86,165,32,2,Musculoskeletal/Connective tissue
-3,27,3,Tuesday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,2,Physiotherapy
-9,25,3,Wednesday,Autumn,228,14,16,58,222.196,99,0,High School,2,False,False,1,65,172,22,2,Laboratory examination
-22,23,3,Friday,Autumn,179,26,9,30,222.196,99,0,Postgraduate,0,False,False,0,56,171,19,2,Medical consultation
-22,13,3,Monday,Winter,179,26,9,30,222.196,99,0,Postgraduate,0,False,False,0,56,171,19,2,Musculoskeletal/Connective tissue
-22,27,4,Friday,Winter,179,26,9,30,246.288,91,0,Postgraduate,0,False,False,0,56,171,19,2,Physiotherapy
-17,16,4,Tuesday,Winter,179,22,17,40,246.288,91,0,Graduate,2,False,True,0,63,170,22,2,Perinatal conditions
-10,23,4,Tuesday,Winter,361,52,3,28,246.288,91,0,High School,1,True,False,4,80,172,27,2,Medical consultation
-34,10,4,Wednesday,Winter,118,10,10,37,246.288,91,0,High School,0,False,False,0,83,172,28,2,Respiratory system diseases
-36,14,4,Thursday,Winter,118,13,18,50,246.288,91,0,High School,1,True,False,0,98,178,31,2,Genitourinary system diseases
-25,28,5,Wednesday,Winter,235,16,8,32,237.656,99,0,Postgraduate,0,False,False,0,75,178,25,2,Dental consultation
-15,28,5,Thursday,Winter,291,31,12,40,237.656,99,0,High School,1,True,False,1,73,171,25,2,Dental consultation
-22,27,5,Friday,Winter,179,26,9,30,237.656,99,0,Postgraduate,0,False,False,0,56,171,19,2,Physiotherapy
-36,23,5,Monday,Winter,118,13,18,50,237.656,99,0,High School,1,True,False,0,98,178,31,2,Medical consultation
-22,27,5,Wednesday,Winter,179,26,9,30,237.656,99,0,Postgraduate,0,False,False,0,56,171,19,2,Physiotherapy
-25,23,5,Thursday,Winter,235,16,8,32,237.656,99,0,Postgraduate,0,False,False,0,75,178,25,2,Medical consultation
-14,23,5,Wednesday,Winter,155,12,14,34,237.656,99,0,High School,2,True,False,0,95,196,25,2,Medical consultation
-22,27,6,Friday,Winter,179,26,9,30,275.089,96,0,Postgraduate,0,False,False,0,56,171,19,2,Physiotherapy
-22,13,6,Thursday,Winter,179,26,9,30,275.089,96,0,Postgraduate,0,False,False,0,56,171,19,2,Musculoskeletal/Connective tissue
-15,28,6,Thursday,Winter,291,31,12,40,275.089,96,0,High School,1,True,False,1,73,171,25,2,Dental consultation
-34,8,6,Friday,Summer,118,10,10,37,275.089,96,0,High School,0,False,False,0,83,172,28,2,Ear/Mastoid diseases
-12,19,7,Friday,Summer,233,51,1,31,264.604,93,0,Graduate,1,True,False,8,68,178,21,2,Injury/Poisoning
-34,23,7,Wednesday,Summer,118,10,10,37,264.604,93,0,High School,0,False,False,0,83,172,28,2,Medical consultation
-3,11,7,Wednesday,Summer,179,51,18,38,239.554,97,0,High School,0,True,False,0,89,170,31,1,Digestive system diseases
-3,11,8,Monday,Summer,179,51,18,38,205.917,92,0,High School,0,True,False,0,89,170,31,1,Digestive system diseases
-11,23,8,Tuesday,Summer,289,36,13,33,205.917,92,0,High School,2,True,False,1,90,172,30,1,Medical consultation
-10,23,8,Monday,Summer,361,52,3,28,205.917,92,0,High School,1,True,False,4,80,172,27,1,Medical consultation
-33,23,9,Friday,Spring,248,25,14,47,241.476,92,0,High School,2,False,False,1,86,165,32,1,Medical consultation
-22,23,10,Thursday,Spring,179,26,9,30,253.465,93,0,Postgraduate,0,False,False,0,56,171,19,1,Medical consultation
-10,23,10,Friday,Spring,361,52,3,28,253.465,93,0,High School,1,True,False,4,80,172,27,1,Medical consultation
-3,23,11,Thursday,Spring,179,51,18,38,306.345,93,0,High School,0,True,False,0,89,170,31,1,Medical consultation
-28,23,11,Wednesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,69,169,24,1,Medical consultation
-33,28,11,Monday,Spring,248,25,14,47,306.345,93,0,High School,2,False,False,1,86,165,32,1,Dental consultation
-33,23,12,Tuesday,Spring,248,25,14,47,261.306,97,0,High School,2,False,False,1,86,165,32,1,Medical consultation
-28,23,1,Wednesday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,69,169,24,1,Medical consultation
-34,19,1,Monday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,83,172,28,1,Injury/Poisoning
-34,27,1,Tuesday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,83,172,28,1,Physiotherapy
-28,27,1,Friday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,69,169,24,1,Physiotherapy
-28,23,1,Tuesday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,69,169,24,1,Medical consultation
-27,23,2,Friday,Autumn,184,42,7,27,302.585,99,0,High School,0,False,False,0,58,167,21,1,Medical consultation
-22,23,2,Tuesday,Autumn,179,26,9,30,302.585,99,0,Postgraduate,0,False,False,0,56,171,19,1,Medical consultation
-18,23,2,Tuesday,Autumn,330,16,4,28,302.585,99,0,Graduate,0,False,False,0,84,182,25,1,Medical consultation
-28,23,2,Wednesday,Autumn,225,26,9,28,302.585,99,0,High School,1,False,False,2,69,169,24,1,Medical consultation
-28,23,3,Friday,Autumn,225,26,9,28,343.253,95,0,High School,1,False,False,2,69,169,24,1,Medical consultation
-22,13,3,Monday,Winter,179,26,9,30,343.253,95,0,Postgraduate,0,False,False,0,56,171,19,1,Musculoskeletal/Connective tissue
-28,28,3,Monday,Winter,225,26,9,28,343.253,95,0,High School,1,False,False,2,69,169,24,1,Dental consultation
-15,28,4,Wednesday,Winter,291,31,12,40,326.452,96,0,High School,1,True,False,1,73,171,25,1,Dental consultation
-28,23,4,Wednesday,Winter,225,26,9,28,326.452,96,0,High School,1,False,False,2,69,169,24,1,Medical consultation
-14,28,4,Tuesday,Winter,155,12,14,34,326.452,96,0,High School,2,True,False,0,95,196,25,1,Dental consultation
-14,23,4,Thursday,Winter,155,12,14,34,326.452,96,0,High School,2,True,False,0,95,196,25,1,Medical consultation
-36,23,4,Thursday,Winter,118,13,18,50,326.452,96,0,High School,1,True,False,0,98,178,31,1,Medical consultation
-15,28,4,Friday,Winter,291,31,12,40,326.452,96,0,High School,1,True,False,1,73,171,25,1,Dental consultation
-14,28,5,Monday,Winter,155,12,14,34,378.884,92,0,High School,2,True,False,0,95,196,25,1,Dental consultation
-3,12,5,Tuesday,Winter,179,51,18,38,378.884,92,0,High School,0,True,False,0,89,170,31,1,Skin/Subcutaneous diseases
-3,11,5,Tuesday,Winter,179,51,18,38,378.884,92,0,High School,0,True,False,0,89,170,31,1,Digestive system diseases
-36,23,6,Tuesday,Winter,118,13,18,50,377.55,94,0,High School,1,True,False,0,98,178,31,1,Medical consultation
-11,23,8,Monday,Summer,289,36,13,33,265.615,94,0,High School,2,True,False,1,90,172,30,1,Medical consultation
-26,13,8,Thursday,Summer,300,26,13,43,265.615,94,0,High School,2,True,True,1,77,175,25,1,Musculoskeletal/Connective tissue
-33,23,8,Wednesday,Summer,248,25,14,47,265.615,94,0,High School,2,False,False,1,86,165,32,1,Medical consultation
-22,23,8,Thursday,Summer,179,26,9,30,265.615,94,0,Postgraduate,0,False,False,0,56,171,19,1,Medical consultation
-1,23,8,Tuesday,Summer,235,11,14,37,265.615,94,0,Postgraduate,1,False,False,1,88,172,29,1,Medical consultation
-36,23,8,Thursday,Summer,118,13,18,50,265.615,94,0,High School,1,True,False,0,98,178,31,1,Medical consultation
-3,23,9,Thursday,Summer,179,51,18,38,294.217,81,0,High School,0,True,False,0,89,170,31,1,Medical consultation
-36,28,9,Thursday,Spring,118,13,18,50,294.217,81,0,High School,1,True,False,0,98,178,31,1,Dental consultation
-3,28,10,Wednesday,Spring,179,51,18,38,265.017,88,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-36,28,10,Tuesday,Spring,118,13,18,50,265.017,88,0,High School,1,True,False,0,98,178,31,1,Dental consultation
-36,28,10,Thursday,Spring,118,13,18,50,265.017,88,0,High School,1,True,False,0,98,178,31,1,Dental consultation
-36,23,10,Thursday,Spring,118,13,18,50,265.017,88,0,High School,1,True,False,0,98,178,31,1,Medical consultation
-15,23,11,Monday,Spring,291,31,12,40,284.031,97,0,High School,1,True,False,1,73,171,25,1,Medical consultation
-1,18,11,Wednesday,Spring,235,11,14,37,284.031,97,0,Postgraduate,1,False,False,1,88,172,29,1,Symptoms/Abnormal findings
-3,28,11,Tuesday,Spring,179,51,18,38,284.031,97,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-3,23,11,Thursday,Spring,179,51,18,38,284.031,97,0,High School,0,True,False,0,89,170,31,1,Medical consultation
-3,28,12,Monday,Spring,179,51,18,38,236.629,93,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-36,28,12,Tuesday,Spring,118,13,18,50,236.629,93,0,High School,1,True,False,0,98,178,31,1,Dental consultation
-3,28,12,Thursday,Spring,179,51,18,38,236.629,93,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-3,28,12,Friday,Spring,179,51,18,38,236.629,93,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-22,23,12,Tuesday,Spring,179,26,9,30,236.629,93,0,Postgraduate,0,False,False,0,56,171,19,1,Medical consultation
-1,13,1,Tuesday,Autumn,235,11,14,37,330.061,100,0,Postgraduate,1,False,False,1,88,172,29,1,Musculoskeletal/Connective tissue
-3,28,1,Wednesday,Autumn,179,51,18,38,330.061,100,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-3,28,1,Friday,Autumn,179,51,18,38,330.061,100,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-28,7,2,Wednesday,Autumn,225,26,9,28,251.818,96,0,High School,1,False,False,2,69,169,24,1,Eye/Adnexa diseases
-36,23,4,Monday,Winter,118,13,18,50,239.409,98,0,High School,1,True,False,0,98,178,31,1,Medical consultation
-10,23,5,Thursday,Winter,361,52,3,28,246.074,99,0,High School,1,True,False,4,80,172,27,1,Medical consultation
-34,28,5,Monday,Winter,118,10,10,37,246.074,99,0,High School,0,False,False,0,83,172,28,1,Dental consultation
-18,11,6,Tuesday,Summer,330,16,4,28,253.957,95,0,Graduate,0,False,False,0,84,182,25,1,Digestive system diseases
-2,23,7,Monday,Summer,235,29,12,48,230.29,92,0,High School,1,False,True,5,88,163,33,1,Medical consultation
-3,28,7,Tuesday,Summer,179,51,18,38,230.29,92,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-36,23,7,Friday,Summer,118,13,18,50,230.29,92,0,High School,1,True,False,0,98,178,31,1,Medical consultation
-15,28,7,Thursday,Summer,291,31,12,40,230.29,92,0,High School,1,True,False,1,73,171,25,1,Dental consultation
-17,25,8,Monday,Summer,179,22,17,40,249.797,93,0,Graduate,2,False,True,0,63,170,22,1,Laboratory examination
-24,28,8,Tuesday,Summer,246,25,16,41,249.797,93,0,High School,0,True,False,0,67,170,23,1,Dental consultation
-24,28,9,Tuesday,Summer,246,25,16,41,261.756,87,0,High School,0,True,False,0,67,170,23,1,Dental consultation
-33,23,9,Friday,Summer,248,25,14,47,261.756,87,0,High School,2,False,False,1,86,165,32,1,Medical consultation
-28,23,9,Wednesday,Summer,225,26,9,28,261.756,87,0,High School,1,False,False,2,69,169,24,1,Medical consultation
-32,4,10,Thursday,Spring,289,48,29,49,284.853,91,0,High School,0,False,False,2,108,172,36,1,Endocrine/Nutritional/Metabolic
-15,23,10,Friday,Spring,291,31,12,40,284.853,91,0,High School,1,True,False,1,73,171,25,1,Medical consultation
-9,1,10,Wednesday,Spring,228,14,16,58,284.853,91,0,High School,2,False,False,1,65,172,22,1,Infectious/Parasitic
-15,23,10,Wednesday,Spring,291,31,12,40,284.853,91,0,High School,1,True,False,1,73,171,25,1,Medical consultation
-28,13,10,Thursday,Spring,225,26,9,28,284.853,91,0,High School,1,False,False,2,69,169,24,1,Musculoskeletal/Connective tissue
-3,21,11,Tuesday,Spring,179,51,18,38,268.519,93,0,High School,0,True,False,0,89,170,31,1,Factors influencing health status
-3,28,11,Friday,Spring,179,51,18,38,268.519,93,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-3,28,11,Monday,Spring,179,51,18,38,268.519,93,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-15,28,12,Wednesday,Spring,291,31,12,40,280.549,98,0,High School,1,True,False,1,73,171,25,1,Dental consultation
-22,13,12,Friday,Spring,179,26,9,30,280.549,98,0,Postgraduate,0,False,False,0,56,171,19,1,Musculoskeletal/Connective tissue
-22,13,5,Thursday,Winter,179,26,9,30,237.656,99,0,Postgraduate,0,False,False,0,56,171,19,1,Musculoskeletal/Connective tissue
-34,28,5,Tuesday,Winter,118,10,10,37,237.656,99,0,High School,0,False,False,0,83,172,28,1,Dental consultation
-17,16,5,Friday,Winter,179,22,17,40,237.656,99,0,Graduate,2,False,True,0,63,170,22,1,Perinatal conditions
-28,11,5,Monday,Winter,225,26,9,28,237.656,99,0,High School,1,False,False,2,69,169,24,1,Digestive system diseases
-36,0,7,Tuesday,Summer,118,13,18,50,239.554,97,1,High School,1,True,False,0,98,178,31,0,Unknown/Other
-20,0,9,Monday,Spring,260,50,11,36,241.476,92,1,High School,4,True,False,0,65,168,23,0,Unknown/Other
-29,0,9,Monday,Spring,225,26,9,28,241.476,92,1,High School,1,False,False,2,69,169,24,0,Unknown/Other
-11,0,9,Tuesday,Spring,289,36,13,33,241.476,92,1,High School,2,True,False,1,90,172,30,0,Unknown/Other
-36,0,9,Tuesday,Spring,118,13,18,50,241.476,92,1,High School,1,True,False,0,98,178,31,0,Unknown/Other
-13,0,9,Wednesday,Spring,369,17,12,31,241.476,92,1,High School,3,True,False,0,70,169,25,0,Unknown/Other
-36,0,10,Wednesday,Spring,118,13,18,50,253.465,93,1,High School,1,True,False,0,98,178,31,0,Unknown/Other
-34,27,1,Monday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,83,172,28,0,Physiotherapy
-2,0,4,Monday,Winter,235,29,12,48,326.452,96,1,High School,1,False,True,5,88,163,33,0,Unknown/Other
-7,0,5,Wednesday,Winter,279,5,14,39,378.884,92,1,High School,2,True,True,0,68,168,24,0,Unknown/Other
-18,0,5,Wednesday,Winter,330,16,4,28,378.884,92,1,Graduate,0,False,False,0,84,182,25,0,Unknown/Other
-23,0,5,Wednesday,Winter,378,49,11,36,378.884,92,1,High School,2,False,True,4,65,174,21,0,Unknown/Other
-31,0,5,Wednesday,Winter,388,15,9,50,378.884,92,1,High School,0,False,False,0,76,178,24,0,Unknown/Other
-20,0,7,Thursday,Summer,260,50,11,36,275.312,98,1,High School,4,True,False,0,65,168,23,0,Unknown/Other
-5,0,9,Thursday,Summer,235,20,13,43,294.217,81,1,High School,1,True,False,0,106,167,38,0,Unknown/Other
-8,0,9,Tuesday,Summer,231,35,14,39,294.217,81,1,High School,2,True,False,2,100,170,35,0,Unknown/Other
-19,0,9,Tuesday,Summer,291,50,12,32,294.217,81,1,High School,0,True,False,0,65,169,23,0,Unknown/Other
-5,0,9,Thursday,Spring,235,20,13,43,294.217,81,1,High School,1,True,False,0,106,167,38,0,Unknown/Other
-36,0,10,Friday,Spring,118,13,18,50,265.017,88,1,High School,1,True,False,0,98,178,31,0,Unknown/Other
-33,0,10,Friday,Spring,248,25,14,47,265.017,88,1,High School,2,False,False,1,86,165,32,0,Unknown/Other
-5,0,10,Wednesday,Spring,235,20,13,43,265.017,88,1,High School,1,True,False,0,106,167,38,0,Unknown/Other
-5,0,10,Friday,Spring,235,20,13,43,265.017,88,1,High School,1,True,False,0,106,167,38,0,Unknown/Other
-20,0,10,Tuesday,Spring,260,50,11,36,265.017,88,1,High School,4,True,False,0,65,168,23,0,Unknown/Other
-15,0,10,Tuesday,Spring,291,31,12,40,265.017,88,1,High School,1,True,False,1,73,171,25,0,Unknown/Other
-30,0,10,Tuesday,Spring,157,27,6,29,265.017,88,1,High School,0,True,True,0,75,185,22,0,Unknown/Other
-18,0,11,Tuesday,Spring,330,16,4,28,284.031,97,1,Graduate,0,False,False,0,84,182,25,0,Unknown/Other
-23,0,11,Friday,Spring,378,49,11,36,284.031,97,1,High School,2,False,True,4,65,174,21,0,Unknown/Other
-7,0,11,Tuesday,Spring,279,5,14,39,284.031,97,1,High School,2,True,True,0,68,168,24,0,Unknown/Other
-13,0,3,Wednesday,Autumn,369,17,12,31,244.387,98,1,High School,3,True,False,0,70,169,25,0,Unknown/Other
-1,0,3,Thursday,Winter,235,11,14,37,244.387,98,1,Postgraduate,1,False,False,1,88,172,29,0,Unknown/Other
-24,0,3,Thursday,Winter,246,25,16,41,244.387,98,1,High School,0,True,False,0,67,170,23,0,Unknown/Other
-36,0,3,Thursday,Winter,118,13,18,50,244.387,98,1,High School,1,True,False,0,98,178,31,0,Unknown/Other
-3,0,6,Friday,Winter,179,51,18,38,253.957,95,1,High School,0,True,False,0,89,170,31,0,Unknown/Other
-28,0,10,Monday,Spring,225,26,9,28,284.853,91,1,High School,1,False,False,2,69,169,24,0,Unknown/Other
-15,0,11,Tuesday,Spring,291,31,12,40,268.519,93,1,High School,1,True,False,1,73,171,25,0,Unknown/Other
-11,0,11,Wednesday,Spring,289,36,13,33,268.519,93,1,High School,2,True,False,1,90,172,30,0,Unknown/Other
-5,0,11,Thursday,Spring,235,20,13,43,268.519,93,1,High School,1,True,False,0,106,167,38,0,Unknown/Other
-36,0,5,Tuesday,Winter,118,13,18,50,237.656,99,1,High School,1,True,False,0,98,178,31,0,Unknown/Other
-23,0,5,Wednesday,Winter,378,49,11,36,237.656,99,1,High School,2,False,True,4,65,174,21,0,Unknown/Other
-2,0,6,Monday,Winter,235,29,12,48,275.089,96,1,High School,1,False,True,5,88,163,33,0,Unknown/Other
-21,0,6,Monday,Winter,268,11,8,33,275.089,96,1,Graduate,0,False,False,0,79,178,25,0,Unknown/Other
-4,0,0,Tuesday,Summer,118,14,13,40,271.219,95,0,High School,1,True,False,8,98,170,34,0,Unknown/Other
-8,0,0,Wednesday,Autumn,231,35,14,39,271.219,95,0,High School,2,True,False,2,100,170,35,0,Unknown/Other
-35,0,0,Friday,Winter,179,45,14,53,271.219,95,0,High School,1,False,False,1,77,175,25,0,Unknown/Other
-37,26,12,Friday,Spring,260,50,11,36,261.306,97,0,High School,4,True,False,0,65,168,23,8,Unjustified absence
-38,9,9,Monday,Summer,246,25,16,41,294.217,81,0,High School,0,True,False,0,67,170,23,16,Circulatory system diseases
-39,22,2,Monday,Autumn,189,29,13,33,251.818,96,0,High School,2,False,False,2,69,167,25,8,Patient follow-up
-40,22,7,Friday,Summer,361,52,3,28,239.554,97,0,High School,1,True,False,4,80,172,27,8,Patient follow-up
-41,28,2,Tuesday,Autumn,118,10,10,37,251.818,96,0,High School,0,False,False,0,83,172,28,2,Dental consultation
-42,23,11,Wednesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,69,169,24,1,Medical consultation
-43,19,8,Friday,Summer,157,27,6,29,265.615,94,0,High School,0,True,True,0,75,185,22,3,Injury/Poisoning
-44,26,8,Tuesday,Summer,235,20,13,43,249.797,93,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-45,19,10,Thursday,Spring,260,50,11,36,253.465,93,0,High School,4,True,False,0,65,168,23,16,Injury/Poisoning
-46,23,11,Wednesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,69,169,24,1,Medical consultation
-47,23,2,Tuesday,Autumn,246,25,16,41,251.818,96,0,High School,0,True,False,0,67,170,23,2,Medical consultation
-48,19,4,Tuesday,Winter,289,36,13,33,326.452,96,0,High School,2,True,False,1,90,172,30,8,Injury/Poisoning
-49,27,3,Thursday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-50,19,12,Tuesday,Spring,118,10,10,37,261.306,97,0,High School,0,False,False,0,83,172,28,64,Injury/Poisoning
-51,23,10,Thursday,Spring,289,48,29,49,284.853,91,0,High School,0,False,False,2,108,172,36,2,Medical consultation
-52,28,2,Friday,Autumn,260,50,11,36,251.818,96,0,High School,4,True,False,0,65,168,23,3,Dental consultation
-53,10,5,Monday,Winter,235,16,8,32,237.656,99,0,Postgraduate,0,False,False,0,75,178,25,8,Respiratory system diseases
-54,23,7,Thursday,Summer,289,36,13,33,239.554,97,0,High School,2,True,False,1,90,172,30,2,Medical consultation
-55,19,7,Monday,Summer,289,36,13,33,275.312,98,0,High School,2,True,False,1,90,172,30,32,Injury/Poisoning
-56,8,3,Thursday,Autumn,179,22,17,40,343.253,95,0,Graduate,2,False,True,0,63,170,22,8,Ear/Mastoid diseases
-57,13,5,Monday,Winter,235,20,13,43,246.074,99,0,High School,1,True,False,0,106,167,38,16,Musculoskeletal/Connective tissue
-58,25,5,Monday,Winter,179,26,9,30,246.074,99,0,Postgraduate,0,False,False,0,56,171,19,2,Laboratory examination
-59,23,3,Wednesday,Autumn,289,36,13,33,222.196,99,0,High School,2,True,False,1,90,172,30,8,Medical consultation
-60,15,7,Monday,Summer,300,26,13,43,230.29,92,0,High School,2,True,True,1,77,175,25,8,Pregnancy/Childbirth
-61,28,2,Friday,Autumn,225,15,15,41,264.249,97,0,Master/Doctor,2,True,False,2,94,182,28,2,Dental consultation
-62,18,1,Tuesday,Autumn,289,36,13,33,308.593,95,0,High School,2,True,False,1,90,172,30,8,Symptoms/Abnormal findings
-63,23,5,Monday,Winter,118,13,18,50,237.656,99,0,High School,1,True,False,0,98,178,31,2,Medical consultation
-64,12,5,Tuesday,Winter,179,51,18,38,378.884,92,0,High School,0,True,False,0,89,170,31,1,Skin/Subcutaneous diseases
-65,23,11,Wednesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,69,169,24,3,Medical consultation
-66,23,4,Tuesday,Winter,118,13,18,50,246.288,91,0,High School,1,True,False,0,98,178,31,3,Medical consultation
-67,25,1,Thursday,Autumn,179,22,17,40,313.532,96,0,Graduate,2,False,True,0,63,170,22,2,Laboratory examination
-68,23,5,Wednesday,Winter,179,26,9,30,246.074,99,0,Postgraduate,0,False,False,0,56,171,19,3,Medical consultation
-69,23,10,Friday,Spring,291,31,12,40,284.853,91,0,High School,1,True,False,1,73,171,25,1,Medical consultation
-70,13,4,Wednesday,Winter,246,25,16,41,326.452,96,0,High School,0,True,False,0,67,170,23,24,Musculoskeletal/Connective tissue
-71,28,8,Tuesday,Summer,118,10,10,37,249.797,93,0,High School,0,False,False,0,83,172,28,4,Dental consultation
-72,28,10,Wednesday,Spring,179,51,18,38,265.017,88,0,High School,0,True,False,0,89,170,31,1,Dental consultation
-73,26,1,Monday,Autumn,235,20,13,43,330.061,100,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-74,28,4,Friday,Winter,248,25,14,47,326.452,96,0,High School,2,False,False,1,86,165,32,8,Dental consultation
-75,14,10,Tuesday,Spring,291,31,12,40,253.465,93,0,High School,1,True,False,1,73,171,25,8,Genitourinary system diseases
-76,24,8,Tuesday,Summer,289,36,13,33,205.917,92,0,High School,2,True,False,1,90,172,30,8,Blood donation
-77,27,2,Wednesday,Autumn,179,26,9,30,264.249,97,0,Postgraduate,0,False,False,0,56,171,19,2,Physiotherapy
-78,9,9,Wednesday,Summer,246,25,16,41,294.217,81,0,High School,0,True,False,0,67,170,23,32,Circulatory system diseases
-79,23,10,Wednesday,Spring,248,25,14,47,253.465,93,0,High School,2,False,False,1,86,165,32,2,Medical consultation
-80,23,8,Thursday,Summer,235,11,14,37,205.917,92,0,Postgraduate,1,False,False,1,88,172,29,4,Medical consultation
-81,23,2,Friday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,89,170,31,3,Medical consultation
-82,23,2,Tuesday,Autumn,225,26,9,28,302.585,99,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-83,27,1,Tuesday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,83,172,28,2,Physiotherapy
-84,23,10,Tuesday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,70,169,25,3,Medical consultation
-85,28,11,Monday,Spring,248,25,14,47,306.345,93,0,High School,2,False,False,1,86,165,32,1,Dental consultation
-86,26,12,Wednesday,Autumn,260,50,11,36,236.629,93,0,High School,4,True,False,0,65,168,23,8,Unjustified absence
-87,27,2,Friday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-88,27,2,Friday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,89,170,31,3,Physiotherapy
-89,18,5,Tuesday,Winter,179,51,18,38,378.884,92,0,High School,0,True,False,0,89,170,31,8,Symptoms/Abnormal findings
-90,26,12,Friday,Spring,235,20,13,43,280.549,98,0,High School,1,True,False,0,106,167,38,8,Unjustified absence
-91,13,2,Thursday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,89,170,31,8,Musculoskeletal/Connective tissue
-92,19,4,Wednesday,Winter,248,25,14,47,246.288,91,0,High School,2,False,False,1,86,165,32,8,Injury/Poisoning
-93,11,11,Monday,Spring,155,12,14,34,284.031,97,0,High School,2,True,False,0,95,196,25,120,Digestive system diseases
-94,23,11,Monday,Spring,291,31,12,40,284.031,97,0,High School,1,True,False,1,73,171,25,1,Medical consultation
-95,0,7,Tuesday,Summer,118,13,18,50,239.554,97,1,High School,1,True,False,0,98,178,31,0,Unknown/Other
-96,22,7,Wednesday,Summer,225,26,9,28,264.604,93,0,High School,1,False,False,2,69,169,24,8,Patient follow-up
-97,26,7,Monday,Summer,260,50,11,36,230.29,92,0,High School,4,True,False,0,65,168,23,4,Unjustified absence
-98,23,3,Thursday,Autumn,248,25,14,47,222.196,99,0,High School,2,False,False,1,86,165,32,3,Medical consultation
-99,23,4,Wednesday,Winter,225,26,9,28,326.452,96,0,High School,1,False,False,2,69,169,24,1,Medical consultation
-100,13,6,Monday,Winter,291,31,12,40,253.957,95,0,High School,1,True,False,1,73,171,25,40,Musculoskeletal/Connective tissue
-101,26,10,Friday,Spring,246,25,16,41,284.853,91,0,High School,0,True,False,0,67,170,23,8,Unjustified absence
-102,8,8,Tuesday,Summer,361,52,3,28,265.615,94,0,High School,1,True,False,4,80,172,27,8,Ear/Mastoid diseases
-103,13,6,Wednesday,Winter,118,13,18,50,377.55,94,0,High School,1,True,False,0,98,178,31,8,Musculoskeletal/Connective tissue
-104,28,5,Monday,Winter,118,10,10,37,246.074,99,0,High School,0,False,False,0,83,172,28,1,Dental consultation
-105,28,11,Thursday,Spring,179,51,18,38,284.031,97,0,High School,0,True,False,0,89,170,31,3,Dental consultation
-106,26,10,Wednesday,Spring,289,36,13,33,253.465,93,0,High School,2,True,False,1,90,172,30,8,Unjustified absence
-107,13,1,Monday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,56,171,19,3,Musculoskeletal/Connective tissue
-108,27,12,Friday,Spring,118,10,10,37,261.306,97,0,High School,0,False,False,0,83,172,28,2,Physiotherapy
-109,7,7,Thursday,Summer,279,5,14,39,239.554,97,0,High School,2,True,True,0,68,168,24,4,Eye/Adnexa diseases
-110,23,1,Tuesday,Autumn,155,12,14,34,330.061,100,0,High School,2,True,False,0,95,196,25,4,Medical consultation
-111,28,12,Monday,Spring,179,51,18,38,236.629,93,0,High School,0,True,False,0,89,170,31,2,Dental consultation
-112,23,6,Wednesday,Summer,225,26,9,28,253.957,95,0,High School,1,False,False,2,69,169,24,2,Medical consultation
-113,18,3,Tuesday,Autumn,118,10,10,37,244.387,98,0,High School,0,False,False,0,83,172,28,8,Symptoms/Abnormal findings
-114,23,7,Monday,Summer,235,29,12,48,230.29,92,0,High School,1,False,True,5,88,163,33,1,Medical consultation
-115,18,12,Tuesday,Autumn,155,12,14,34,280.549,98,0,High School,2,True,False,0,95,196,25,80,Symptoms/Abnormal findings
-116,13,4,Wednesday,Winter,179,51,18,38,326.452,96,0,High School,0,True,False,0,89,170,31,24,Musculoskeletal/Connective tissue
-117,28,12,Monday,Autumn,179,51,18,38,236.629,93,0,High School,0,True,False,0,89,170,31,3,Dental consultation
-118,9,11,Tuesday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,83,172,28,8,Circulatory system diseases
-119,0,0,Tuesday,Summer,118,14,13,40,271.219,95,0,High School,1,True,False,8,98,170,34,0,Unknown/Other
-120,26,6,Friday,Winter,118,10,10,37,275.089,96,0,High School,0,False,False,0,83,172,28,8,Unjustified absence
-121,14,12,Tuesday,Autumn,235,11,14,37,236.629,93,0,Postgraduate,1,False,False,1,88,172,29,4,Genitourinary system diseases
-122,23,2,Tuesday,Autumn,248,25,14,47,264.249,97,0,High School,2,False,False,1,86,165,32,2,Medical consultation
-123,28,6,Tuesday,Winter,246,25,16,41,253.957,95,0,High School,0,True,False,0,67,170,23,3,Dental consultation
-124,1,7,Monday,Summer,260,50,11,36,239.554,97,0,High School,4,True,False,0,65,168,23,8,Infectious/Parasitic
-125,23,2,Tuesday,Autumn,179,26,9,30,302.585,99,0,Postgraduate,0,False,False,0,56,171,19,1,Medical consultation
-126,25,5,Friday,Winter,179,22,17,40,237.656,99,0,Graduate,2,False,True,0,63,170,22,8,Laboratory examination
-127,23,2,Tuesday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,69,169,24,3,Medical consultation
-128,28,3,Monday,Autumn,179,51,18,38,244.387,98,0,High School,0,True,False,0,89,170,31,16,Dental consultation
-129,10,8,Wednesday,Summer,330,16,4,28,205.917,92,0,Graduate,0,False,False,0,84,182,25,8,Respiratory system diseases
-130,12,11,Friday,Spring,291,31,12,40,284.031,97,0,High School,1,True,False,1,73,171,25,4,Skin/Subcutaneous diseases
-131,18,7,Thursday,Summer,179,26,9,30,275.312,98,0,Postgraduate,0,False,False,0,56,171,19,8,Symptoms/Abnormal findings
-132,11,6,Friday,Winter,179,51,18,38,377.55,94,0,High School,0,True,False,0,89,170,31,2,Digestive system diseases
-133,10,5,Friday,Winter,155,12,14,34,237.656,99,0,High School,2,True,False,0,95,196,25,8,Respiratory system diseases
-134,10,11,Wednesday,Spring,260,50,11,36,284.031,97,0,High School,4,True,False,0,65,168,23,8,Respiratory system diseases
-135,28,10,Tuesday,Spring,225,26,9,28,253.465,93,0,High School,1,False,False,2,69,169,24,2,Dental consultation
-136,23,9,Friday,Spring,260,50,11,36,241.476,92,0,High School,4,True,False,0,65,168,23,4,Medical consultation
+ID,Reason_absence,Month_absence,Day_week,Seasons,Transportation_expense,Distance_Residence_Work,Service_time,Age,Work_load_Average_day,Hit_target,Disciplinary_failure,Education,Son,Social_drinker,Social_smoker,Pet,Body_mass_index,Absenteeism_hours,Reason_Description
+14,11,11,Monday,Spring,155,12,14,34,284.031,97,0,High School,2,True,False,0,25,120,Digestive system diseases
+36,13,4,Wednesday,Winter,118,13,18,50,239.409,98,0,High School,1,True,False,0,31,120,Musculoskeletal/Connective tissue
+9,6,7,Tuesday,Summer,228,14,16,58,264.604,93,0,High School,2,False,False,1,22,120,Nervous system diseases
+28,9,7,Tuesday,Summer,225,26,9,28,230.29,92,0,High School,1,False,False,2,24,112,Circulatory system diseases
+9,12,3,Tuesday,Autumn,228,14,16,58,222.196,99,0,High School,2,False,False,1,22,112,Skin/Subcutaneous diseases
+11,19,3,Monday,Winter,289,36,13,33,222.196,99,0,High School,2,True,False,1,30,104,Injury/Poisoning
+36,13,6,Wednesday,Winter,118,13,18,50,377.55,94,0,High School,1,True,False,0,31,80,Musculoskeletal/Connective tissue
+14,18,12,Tuesday,Autumn,155,12,14,34,280.549,98,0,High School,2,True,False,0,25,80,Symptoms/Abnormal findings
+13,13,7,Monday,Summer,369,17,12,31,264.604,93,0,High School,3,True,False,0,25,80,Musculoskeletal/Connective tissue
+34,19,12,Tuesday,Spring,118,10,10,37,261.306,97,0,High School,0,False,False,0,28,64,Injury/Poisoning
+22,1,10,Wednesday,Spring,179,26,9,30,265.017,88,0,Postgraduate,0,False,False,0,19,64,Infectious/Parasitic
+26,19,5,Friday,Winter,300,26,13,43,237.656,99,0,High School,2,True,True,1,25,64,Injury/Poisoning
+34,19,12,Tuesday,Spring,118,10,10,37,261.306,97,0,High School,0,False,False,0,28,56,Injury/Poisoning
+20,19,4,Friday,Winter,260,50,11,36,326.452,96,0,High School,4,True,False,0,23,56,Injury/Poisoning
+14,10,5,Monday,Winter,155,12,14,34,237.656,99,0,High School,2,True,False,0,25,48,Respiratory system diseases
+14,19,7,Monday,Summer,155,12,14,34,239.554,97,0,High School,2,True,False,0,25,40,Injury/Poisoning
+10,13,8,Monday,Summer,361,52,3,28,205.917,92,0,High School,1,True,False,4,27,40,Musculoskeletal/Connective tissue
+15,14,11,Monday,Spring,291,31,12,40,306.345,93,0,High School,1,True,False,1,25,40,Genitourinary system diseases
+20,13,3,Friday,Autumn,260,50,11,36,343.253,95,0,High School,4,True,False,0,23,40,Musculoskeletal/Connective tissue
+17,11,3,Monday,Autumn,179,22,17,40,343.253,95,0,Graduate,2,False,True,0,22,40,Digestive system diseases
+15,7,9,Monday,Spring,291,31,12,40,294.217,81,0,High School,1,True,False,1,25,40,Eye/Adnexa diseases
+15,13,6,Monday,Winter,291,31,12,40,253.957,95,0,High School,1,True,False,1,25,40,Musculoskeletal/Connective tissue
+15,14,9,Monday,Spring,291,31,12,40,241.476,92,0,High School,1,True,False,1,25,32,Genitourinary system diseases
+14,10,11,Monday,Spring,155,12,14,34,306.345,93,0,High School,2,True,False,0,25,32,Respiratory system diseases
+11,19,7,Monday,Summer,289,36,13,33,275.312,98,0,High School,2,True,False,1,30,32,Injury/Poisoning
+24,9,9,Wednesday,Summer,246,25,16,41,294.217,81,0,High School,0,True,False,0,23,32,Circulatory system diseases
+34,19,1,Monday,Autumn,118,10,10,37,330.061,100,0,High School,0,False,False,0,28,32,Injury/Poisoning
+3,13,12,Tuesday,Spring,179,51,18,38,280.549,98,0,High School,0,True,False,0,31,32,Musculoskeletal/Connective tissue
+11,7,11,Wednesday,Spring,289,36,13,33,306.345,93,0,High School,2,True,False,1,30,24,Eye/Adnexa diseases
+3,13,3,Tuesday,Autumn,179,51,18,38,343.253,95,0,High School,0,True,False,0,31,24,Musculoskeletal/Connective tissue
+24,13,4,Wednesday,Winter,246,25,16,41,326.452,96,0,High School,0,True,False,0,23,24,Musculoskeletal/Connective tissue
+3,13,4,Wednesday,Winter,179,51,18,38,326.452,96,0,High School,0,True,False,0,31,24,Musculoskeletal/Connective tissue
+14,12,4,Wednesday,Winter,155,12,14,34,326.452,96,0,High School,2,True,False,0,25,24,Skin/Subcutaneous diseases
+11,13,5,Wednesday,Winter,289,36,13,33,378.884,92,0,High School,2,True,False,1,30,24,Musculoskeletal/Connective tissue
+36,13,5,Wednesday,Winter,118,13,18,50,378.884,92,0,High School,1,True,False,0,31,24,Musculoskeletal/Connective tissue
+24,10,6,Tuesday,Winter,246,25,16,41,377.55,94,0,High School,0,True,False,0,23,24,Respiratory system diseases
+11,19,9,Wednesday,Summer,289,36,13,33,294.217,81,0,High School,2,True,False,1,30,24,Injury/Poisoning
+24,10,2,Friday,Autumn,246,25,16,41,251.818,96,0,High School,0,True,False,0,23,24,Respiratory system diseases
+3,28,6,Monday,Winter,179,51,18,38,253.957,95,0,High School,0,True,False,0,31,24,Dental consultation
+18,2,11,Wednesday,Spring,330,16,4,28,268.519,93,0,Graduate,0,False,False,0,25,24,Neoplasms
+22,12,1,Monday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,19,24,Skin/Subcutaneous diseases
+14,13,3,Wednesday,Winter,155,12,14,34,222.196,99,0,High School,2,True,False,0,25,24,Musculoskeletal/Connective tissue
+13,7,4,Monday,Winter,369,17,12,31,246.288,91,0,High School,3,True,False,0,25,24,Eye/Adnexa diseases
+36,19,6,Thursday,Winter,118,13,18,50,275.089,96,0,High School,1,True,False,0,31,24,Injury/Poisoning
+20,19,10,Thursday,Spring,260,50,11,36,253.465,93,0,High School,4,True,False,0,23,16,Injury/Poisoning
+14,1,3,Monday,Autumn,155,12,14,34,343.253,95,0,High School,2,True,False,0,25,16,Infectious/Parasitic
+20,26,3,Monday,Autumn,260,50,11,36,343.253,95,0,High School,4,True,False,0,23,16,Unjustified absence
+28,11,3,Wednesday,Winter,225,26,9,28,343.253,95,0,High School,1,False,False,2,24,16,Digestive system diseases
+7,14,3,Thursday,Winter,279,5,14,39,343.253,95,0,High School,2,True,True,0,24,16,Genitourinary system diseases
+11,13,4,Thursday,Winter,289,36,13,33,326.452,96,0,High School,2,True,False,1,30,16,Musculoskeletal/Connective tissue
+1,13,6,Friday,Winter,235,11,14,37,377.55,94,0,Postgraduate,1,False,False,1,29,16,Musculoskeletal/Connective tissue
+14,19,7,Tuesday,Summer,155,12,14,34,275.312,98,0,High School,2,True,False,0,25,16,Injury/Poisoning
+24,9,9,Monday,Summer,246,25,16,41,294.217,81,0,High School,0,True,False,0,23,16,Circulatory system diseases
+11,19,10,Thursday,Spring,289,36,13,33,265.017,88,0,High School,2,True,False,1,30,16,Injury/Poisoning
+22,23,10,Thursday,Spring,179,26,9,30,265.017,88,0,Postgraduate,0,False,False,0,19,16,Medical consultation
+30,11,2,Wednesday,Autumn,157,27,6,29,251.818,96,0,High School,0,True,True,0,22,16,Digestive system diseases
+24,19,3,Wednesday,Autumn,246,25,16,41,244.387,98,0,High School,0,True,False,0,23,16,Injury/Poisoning
+3,28,3,Monday,Autumn,179,51,18,38,244.387,98,0,High School,0,True,False,0,31,16,Dental consultation
+5,13,5,Monday,Winter,235,20,13,43,246.074,99,0,High School,1,True,False,0,38,16,Musculoskeletal/Connective tissue
+18,23,8,Thursday,Summer,330,16,4,28,249.797,93,0,Graduate,0,False,False,0,25,16,Medical consultation
+22,13,12,Tuesday,Spring,179,26,9,30,280.549,98,0,Postgraduate,0,False,False,0,19,16,Musculoskeletal/Connective tissue
+22,12,1,Thursday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,19,16,Skin/Subcutaneous diseases
+6,22,7,Tuesday,Summer,189,29,13,33,264.604,93,0,High School,2,False,False,2,25,16,Patient follow-up
+10,22,7,Friday,Summer,361,52,3,28,239.554,97,0,High School,1,True,False,4,27,8,Patient follow-up
+1,22,7,Monday,Summer,235,11,14,37,239.554,97,0,Postgraduate,1,False,False,1,29,8,Patient follow-up
+20,1,7,Monday,Summer,260,50,11,36,239.554,97,0,High School,4,True,False,0,23,8,Infectious/Parasitic
+20,1,7,Tuesday,Summer,260,50,11,36,239.554,97,0,High School,4,True,False,0,23,8,Infectious/Parasitic
+20,11,7,Wednesday,Summer,260,50,11,36,239.554,97,0,High School,4,True,False,0,23,8,Digestive system diseases
+24,14,7,Friday,Summer,246,25,16,41,239.554,97,0,High School,0,True,False,0,23,8,Genitourinary system diseases
+3,21,7,Monday,Summer,179,51,18,38,239.554,97,0,High School,0,True,False,0,31,8,Factors influencing health status
+6,11,7,Thursday,Summer,189,29,13,33,239.554,97,0,High School,2,False,False,2,25,8,Digestive system diseases
+18,10,8,Wednesday,Summer,330,16,4,28,205.917,92,0,Graduate,0,False,False,0,25,8,Respiratory system diseases
+11,18,8,Monday,Summer,289,36,13,33,205.917,92,0,High School,2,True,False,1,30,8,Symptoms/Abnormal findings
+11,18,8,Wednesday,Summer,289,36,13,33,205.917,92,0,High School,2,True,False,1,30,8,Symptoms/Abnormal findings
+3,18,8,Monday,Summer,179,51,18,38,205.917,92,0,High School,0,True,False,0,31,8,Symptoms/Abnormal findings
+2,18,8,Thursday,Summer,235,29,12,48,205.917,92,0,High School,1,False,True,5,33,8,Symptoms/Abnormal findings
+2,18,8,Monday,Summer,235,29,12,48,205.917,92,0,High School,1,False,True,5,33,8,Symptoms/Abnormal findings
+11,24,8,Tuesday,Summer,289,36,13,33,205.917,92,0,High School,2,True,False,1,30,8,Blood donation
+2,28,8,Friday,Summer,235,29,12,48,205.917,92,0,High School,1,False,True,5,33,8,Dental consultation
+5,19,9,Tuesday,Summer,235,20,13,43,241.476,92,0,High School,1,True,False,0,38,8,Injury/Poisoning
+20,22,9,Friday,Summer,260,50,11,36,241.476,92,0,High School,4,True,False,0,23,8,Patient follow-up
+3,23,10,Wednesday,Spring,179,51,18,38,253.465,93,0,High School,0,True,False,0,31,8,Medical consultation
+15,14,10,Tuesday,Spring,291,31,12,40,253.465,93,0,High School,1,True,False,1,25,8,Genitourinary system diseases
+11,26,10,Wednesday,Spring,289,36,13,33,253.465,93,0,High School,2,True,False,1,30,8,Unjustified absence
+3,13,11,Thursday,Spring,179,51,18,38,306.345,93,0,High School,0,True,False,0,31,8,Musculoskeletal/Connective tissue
+17,21,11,Thursday,Spring,179,22,17,40,306.345,93,0,Graduate,2,False,True,0,22,8,Factors influencing health status
+6,22,11,Monday,Spring,189,29,13,33,306.345,93,0,High School,2,False,False,2,25,8,Patient follow-up
+14,6,11,Friday,Spring,155,12,14,34,306.345,93,0,High School,2,True,False,0,25,8,Nervous system diseases
+17,21,11,Wednesday,Spring,179,22,17,40,306.345,93,0,Graduate,2,False,True,0,22,8,Factors influencing health status
+1,26,12,Wednesday,Spring,235,11,14,37,261.306,97,0,Postgraduate,1,False,False,1,29,8,Unjustified absence
+20,26,12,Friday,Spring,260,50,11,36,261.306,97,0,High School,4,True,False,0,23,8,Unjustified absence
+10,22,12,Wednesday,Spring,361,52,3,28,261.306,97,0,High School,1,True,False,4,27,8,Patient follow-up
+24,19,12,Friday,Autumn,246,25,16,41,261.306,97,0,High School,0,True,False,0,23,8,Injury/Poisoning
+14,18,1,Tuesday,Autumn,155,12,14,34,308.593,95,0,High School,2,True,False,0,25,8,Symptoms/Abnormal findings
+22,18,1,Tuesday,Autumn,179,26,9,30,308.593,95,0,Postgraduate,0,False,False,0,19,8,Symptoms/Abnormal findings
+11,18,1,Tuesday,Autumn,289,36,13,33,308.593,95,0,High School,2,True,False,1,30,8,Symptoms/Abnormal findings
+24,1,2,Wednesday,Autumn,246,25,16,41,302.585,99,0,High School,0,True,False,0,23,8,Infectious/Parasitic
+3,11,2,Wednesday,Autumn,179,51,18,38,302.585,99,0,High School,0,True,False,0,31,8,Digestive system diseases
+6,23,2,Thursday,Autumn,189,29,13,33,302.585,99,0,High School,2,False,False,2,25,8,Medical consultation
+11,22,2,Friday,Autumn,289,36,13,33,302.585,99,0,High School,2,True,False,1,30,8,Patient follow-up
+31,11,2,Monday,Autumn,388,15,9,50,302.585,99,0,High School,0,False,False,0,24,8,Digestive system diseases
+31,1,2,Tuesday,Autumn,388,15,9,50,302.585,99,0,High School,0,False,False,0,24,8,Infectious/Parasitic
+27,23,2,Tuesday,Autumn,184,42,7,27,302.585,99,0,High School,0,False,False,0,21,8,Medical consultation
+18,18,2,Monday,Autumn,330,16,4,28,302.585,99,0,Graduate,0,False,False,0,25,8,Symptoms/Abnormal findings
+6,19,2,Thursday,Autumn,189,29,13,33,302.585,99,0,High School,2,False,False,2,25,8,Injury/Poisoning
+20,19,3,Tuesday,Autumn,260,50,11,36,343.253,95,0,High School,4,True,False,0,23,8,Injury/Poisoning
+17,17,3,Tuesday,Autumn,179,22,17,40,343.253,95,0,Graduate,2,False,True,0,22,8,Congenital malformations
+15,22,3,Wednesday,Autumn,291,31,12,40,343.253,95,0,High School,1,True,False,1,25,8,Patient follow-up
+20,13,3,Wednesday,Autumn,260,50,11,36,343.253,95,0,High School,4,True,False,0,23,8,Musculoskeletal/Connective tissue
+22,13,3,Thursday,Autumn,179,26,9,30,343.253,95,0,Postgraduate,0,False,False,0,19,8,Musculoskeletal/Connective tissue
+14,13,3,Tuesday,Autumn,155,12,14,34,343.253,95,0,High School,2,True,False,0,25,8,Musculoskeletal/Connective tissue
+11,6,3,Thursday,Autumn,289,36,13,33,343.253,95,0,High School,2,True,False,1,30,8,Nervous system diseases
+17,8,3,Thursday,Autumn,179,22,17,40,343.253,95,0,Graduate,2,False,True,0,22,8,Ear/Mastoid diseases
+7,14,3,Monday,Autumn,279,5,14,39,343.253,95,0,High School,2,True,True,0,24,8,Genitourinary system diseases
+28,11,3,Monday,Winter,225,26,9,28,343.253,95,0,High School,1,False,False,2,24,8,Digestive system diseases
+28,11,3,Tuesday,Winter,225,26,9,28,343.253,95,0,High School,1,False,False,2,24,8,Digestive system diseases
+24,14,4,Friday,Winter,246,25,16,41,326.452,96,0,High School,0,True,False,0,23,8,Genitourinary system diseases
+33,28,4,Friday,Winter,248,25,14,47,326.452,96,0,High School,2,False,False,1,32,8,Dental consultation
+11,19,4,Tuesday,Winter,289,36,13,33,326.452,96,0,High School,2,True,False,1,30,8,Injury/Poisoning
+23,19,4,Wednesday,Winter,378,49,11,36,326.452,96,0,High School,2,False,True,4,21,8,Injury/Poisoning
+11,13,5,Wednesday,Winter,289,36,13,33,378.884,92,0,High School,2,True,False,1,30,8,Musculoskeletal/Connective tissue
+3,18,5,Tuesday,Winter,179,51,18,38,378.884,92,0,High School,0,True,False,0,31,8,Symptoms/Abnormal findings
+28,19,5,Tuesday,Winter,225,26,9,28,378.884,92,0,High School,1,False,False,2,24,8,Injury/Poisoning
+10,22,5,Friday,Winter,361,52,3,28,378.884,92,0,High School,1,True,False,4,27,8,Patient follow-up
+24,19,6,Monday,Winter,246,25,16,41,377.55,94,0,High School,0,True,False,0,23,8,Injury/Poisoning
+10,22,6,Monday,Winter,361,52,3,28,377.55,94,0,High School,1,True,False,4,27,8,Patient follow-up
+24,10,6,Friday,Winter,246,25,16,41,377.55,94,0,High School,0,True,False,0,23,8,Respiratory system diseases
+3,11,6,Monday,Winter,179,51,18,38,377.55,94,0,High School,0,True,False,0,31,8,Digestive system diseases
+24,10,6,Monday,Winter,246,25,16,41,377.55,94,0,High School,0,True,False,0,23,8,Respiratory system diseases
+36,13,6,Wednesday,Winter,118,13,18,50,377.55,94,0,High School,1,True,False,0,31,8,Musculoskeletal/Connective tissue
+23,22,6,Thursday,Winter,378,49,11,36,377.55,94,0,High School,2,False,True,4,21,8,Patient follow-up
+36,1,7,Wednesday,Summer,118,13,18,50,275.312,98,0,High School,1,True,False,0,31,8,Infectious/Parasitic
+34,5,7,Friday,Summer,118,10,10,37,275.312,98,0,High School,0,False,False,0,28,8,Mental/Behavioural disorders
+18,26,7,Tuesday,Summer,330,16,4,28,275.312,98,0,Graduate,0,False,False,0,25,8,Unjustified absence
+22,18,7,Thursday,Summer,179,26,9,30,275.312,98,0,Postgraduate,0,False,False,0,19,8,Symptoms/Abnormal findings
+18,1,7,Monday,Summer,330,16,4,28,275.312,98,0,Graduate,0,False,False,0,25,8,Infectious/Parasitic
+18,1,7,Tuesday,Summer,330,16,4,28,275.312,98,0,Graduate,0,False,False,0,25,8,Infectious/Parasitic
+10,22,7,Tuesday,Summer,361,52,3,28,275.312,98,0,High School,1,True,False,4,27,8,Patient follow-up
+11,26,7,Wednesday,Summer,289,36,13,33,275.312,98,0,High School,2,True,False,1,30,8,Unjustified absence
+3,26,7,Thursday,Summer,179,51,18,38,275.312,98,0,High School,0,True,False,0,31,8,Unjustified absence
+11,19,7,Thursday,Summer,289,36,13,33,275.312,98,0,High School,2,True,False,1,30,8,Injury/Poisoning
+11,19,8,Friday,Summer,289,36,13,33,265.615,94,0,High School,2,True,False,1,30,8,Injury/Poisoning
+9,18,8,Tuesday,Summer,228,14,16,58,265.615,94,0,High School,2,False,False,1,22,8,Symptoms/Abnormal findings
+21,11,8,Thursday,Summer,268,11,8,33,265.615,94,0,Graduate,0,False,False,0,25,8,Digestive system diseases
+1,19,8,Thursday,Summer,235,11,14,37,265.615,94,0,Postgraduate,1,False,False,1,29,8,Injury/Poisoning
+10,8,8,Tuesday,Summer,361,52,3,28,265.615,94,0,High School,1,True,False,4,27,8,Ear/Mastoid diseases
+27,6,8,Wednesday,Summer,184,42,7,27,265.615,94,0,High School,0,False,False,0,21,8,Nervous system diseases
+3,11,9,Monday,Summer,179,51,18,38,294.217,81,0,High School,0,True,False,0,31,8,Digestive system diseases
+3,13,9,Wednesday,Summer,179,51,18,38,294.217,81,0,High School,0,True,False,0,31,8,Musculoskeletal/Connective tissue
+5,26,9,Wednesday,Spring,235,20,13,43,294.217,81,0,High School,1,True,False,0,38,8,Unjustified absence
+3,13,9,Monday,Spring,179,51,18,38,294.217,81,0,High School,0,True,False,0,31,8,Musculoskeletal/Connective tissue
+11,24,10,Monday,Spring,289,36,13,33,265.017,88,0,High School,2,True,False,1,30,8,Blood donation
+11,26,10,Monday,Spring,289,36,13,33,265.017,88,0,High School,2,True,False,1,30,8,Unjustified absence
+11,22,10,Friday,Spring,289,36,13,33,265.017,88,0,High School,2,True,False,1,30,8,Patient follow-up
+22,1,10,Monday,Spring,179,26,9,30,265.017,88,0,Postgraduate,0,False,False,0,19,8,Infectious/Parasitic
+13,22,10,Monday,Spring,369,17,12,31,265.017,88,0,High School,3,True,False,0,25,8,Patient follow-up
+10,10,10,Monday,Spring,361,52,3,28,265.017,88,0,High School,1,True,False,4,27,8,Respiratory system diseases
+34,11,11,Monday,Spring,118,10,10,37,284.031,97,0,High School,0,False,False,0,28,8,Digestive system diseases
+3,6,11,Tuesday,Spring,179,51,18,38,284.031,97,0,High School,0,True,False,0,31,8,Nervous system diseases
+23,1,11,Monday,Spring,378,49,11,36,284.031,97,0,High School,2,False,True,4,21,8,Infectious/Parasitic
+5,26,11,Monday,Spring,235,20,13,43,284.031,97,0,High School,1,True,False,0,38,8,Unjustified absence
+24,13,11,Friday,Spring,246,25,16,41,284.031,97,0,High School,0,True,False,0,23,8,Musculoskeletal/Connective tissue
+24,13,11,Monday,Spring,246,25,16,41,284.031,97,0,High School,0,True,False,0,23,8,Musculoskeletal/Connective tissue
+20,10,11,Wednesday,Spring,260,50,11,36,284.031,97,0,High School,4,True,False,0,23,8,Respiratory system diseases
+20,15,11,Friday,Spring,260,50,11,36,284.031,97,0,High School,4,True,False,0,23,8,Pregnancy/Childbirth
+24,4,12,Thursday,Spring,246,25,16,41,236.629,93,0,High School,0,True,False,0,23,8,Endocrine/Nutritional/Metabolic
+34,25,12,Tuesday,Spring,118,10,10,37,236.629,93,0,High School,0,False,False,0,28,8,Laboratory examination
+5,13,12,Tuesday,Autumn,235,20,13,43,236.629,93,0,High School,1,True,False,0,38,8,Musculoskeletal/Connective tissue
+20,26,12,Wednesday,Autumn,260,50,11,36,236.629,93,0,High School,4,True,False,0,23,8,Unjustified absence
+11,19,12,Monday,Autumn,289,36,13,33,236.629,93,0,High School,2,True,False,1,30,8,Injury/Poisoning
+11,26,1,Monday,Autumn,289,36,13,33,330.061,100,0,High School,2,True,False,1,30,8,Unjustified absence
+15,3,1,Wednesday,Autumn,291,31,12,40,330.061,100,0,High School,1,True,False,1,25,8,Blood/Immune diseases
+5,26,1,Monday,Autumn,235,20,13,43,330.061,100,0,High School,1,True,False,0,38,8,Unjustified absence
+3,10,2,Thursday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,31,8,Respiratory system diseases
+24,26,2,Thursday,Autumn,246,25,16,41,251.818,96,0,High School,0,True,False,0,23,8,Unjustified absence
+6,22,2,Monday,Autumn,189,29,13,33,251.818,96,0,High School,2,False,False,2,25,8,Patient follow-up
+34,18,3,Tuesday,Autumn,118,10,10,37,244.387,98,0,High School,0,False,False,0,28,8,Symptoms/Abnormal findings
+1,22,3,Monday,Autumn,235,11,14,37,244.387,98,0,Postgraduate,1,False,False,1,29,8,Patient follow-up
+17,22,3,Tuesday,Autumn,179,22,17,40,244.387,98,0,Graduate,2,False,True,0,22,8,Patient follow-up
+23,22,3,Tuesday,Autumn,378,49,11,36,244.387,98,0,High School,2,False,True,4,21,8,Patient follow-up
+10,22,3,Wednesday,Autumn,361,52,3,28,244.387,98,0,High School,1,True,False,4,27,8,Patient follow-up
+1,21,3,Thursday,Autumn,235,11,14,37,244.387,98,0,Postgraduate,1,False,False,1,29,8,Factors influencing health status
+36,13,3,Wednesday,Winter,118,13,18,50,244.387,98,0,High School,1,True,False,0,31,8,Musculoskeletal/Connective tissue
+3,28,3,Friday,Winter,179,51,18,38,244.387,98,0,High School,0,True,False,0,31,8,Dental consultation
+11,22,3,Friday,Winter,289,36,13,33,244.387,98,0,High School,2,True,False,1,30,8,Patient follow-up
+20,19,3,Monday,Winter,260,50,11,36,244.387,98,0,High School,4,True,False,0,23,8,Injury/Poisoning
+18,23,4,Wednesday,Winter,330,16,4,28,239.409,98,0,Graduate,0,False,False,0,25,8,Medical consultation
+3,28,4,Wednesday,Winter,179,51,18,38,239.409,98,0,High School,0,True,False,0,31,8,Dental consultation
+26,28,4,Friday,Winter,300,26,13,43,239.409,98,0,High School,2,True,True,1,25,8,Dental consultation
+13,10,5,Monday,Winter,369,17,12,31,246.074,99,0,High School,3,True,False,0,25,8,Respiratory system diseases
+9,18,5,Wednesday,Winter,228,14,16,58,246.074,99,0,High School,2,False,False,1,22,8,Symptoms/Abnormal findings
+18,13,5,Friday,Winter,330,16,4,28,246.074,99,0,Graduate,0,False,False,0,25,8,Musculoskeletal/Connective tissue
+1,1,5,Monday,Winter,235,11,14,37,246.074,99,0,Postgraduate,1,False,False,1,29,8,Infectious/Parasitic
+5,26,6,Tuesday,Winter,235,20,13,43,253.957,95,0,High School,1,True,False,0,38,8,Unjustified absence
+3,5,6,Wednesday,Summer,179,51,18,38,253.957,95,0,High School,0,True,False,0,31,8,Mental/Behavioural disorders
+1,13,6,Tuesday,Summer,235,11,14,37,253.957,95,0,Postgraduate,1,False,False,1,29,8,Musculoskeletal/Connective tissue
+20,13,7,Friday,Summer,260,50,11,36,230.29,92,0,High School,4,True,False,0,23,8,Musculoskeletal/Connective tissue
+21,7,7,Monday,Summer,268,11,8,33,230.29,92,0,Graduate,0,False,False,0,25,8,Eye/Adnexa diseases
+18,25,7,Friday,Summer,330,16,4,28,230.29,92,0,Graduate,0,False,False,0,25,8,Laboratory examination
+34,26,7,Friday,Summer,118,10,10,37,230.29,92,0,High School,0,False,False,0,28,8,Unjustified absence
+34,28,7,Tuesday,Summer,118,10,10,37,230.29,92,0,High School,0,False,False,0,28,8,Dental consultation
+26,15,7,Monday,Summer,300,26,13,43,230.29,92,0,High School,2,True,True,1,25,8,Pregnancy/Childbirth
+10,22,7,Friday,Summer,361,52,3,28,230.29,92,0,High School,1,True,False,4,27,8,Patient follow-up
+11,22,7,Monday,Summer,289,36,13,33,230.29,92,0,High School,2,True,False,1,30,8,Patient follow-up
+5,26,7,Monday,Summer,235,20,13,43,230.29,92,0,High School,1,True,False,0,38,8,Unjustified absence
+11,26,8,Tuesday,Summer,289,36,13,33,249.797,93,0,High School,2,True,False,1,30,8,Unjustified absence
+5,26,8,Tuesday,Summer,235,20,13,43,249.797,93,0,High School,1,True,False,0,38,8,Unjustified absence
+17,25,8,Tuesday,Summer,179,22,17,40,249.797,93,0,Graduate,2,False,True,0,22,8,Laboratory examination
+22,23,9,Friday,Summer,179,26,9,30,261.756,87,0,Postgraduate,0,False,False,0,19,8,Medical consultation
+13,23,9,Tuesday,Spring,369,17,12,31,261.756,87,0,High School,3,True,False,0,25,8,Medical consultation
+10,22,9,Tuesday,Spring,361,52,3,28,261.756,87,0,High School,1,True,False,4,27,8,Patient follow-up
+24,26,10,Friday,Spring,246,25,16,41,284.853,91,0,High School,0,True,False,0,23,8,Unjustified absence
+13,23,10,Tuesday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,25,8,Medical consultation
+13,26,10,Tuesday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,25,8,Unjustified absence
+13,10,10,Thursday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,25,8,Respiratory system diseases
+13,10,10,Friday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,25,8,Respiratory system diseases
+6,23,10,Monday,Spring,189,29,13,33,284.853,91,0,High School,2,False,False,2,25,8,Medical consultation
+25,6,10,Monday,Spring,235,16,8,32,284.853,91,0,Postgraduate,0,False,False,0,25,8,Nervous system diseases
+33,10,10,Monday,Spring,248,25,14,47,284.853,91,0,High School,2,False,False,1,32,8,Respiratory system diseases
+34,9,11,Tuesday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,28,8,Circulatory system diseases
+11,24,11,Wednesday,Spring,289,36,13,33,268.519,93,0,High School,2,True,False,1,30,8,Blood donation
+25,1,11,Friday,Spring,235,16,8,32,268.519,93,0,Postgraduate,0,False,False,0,25,8,Infectious/Parasitic
+10,22,11,Tuesday,Spring,361,52,3,28,268.519,93,0,High School,1,True,False,4,27,8,Patient follow-up
+34,23,11,Monday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,28,8,Medical consultation
+34,8,11,Tuesday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,28,8,Ear/Mastoid diseases
+13,26,11,Friday,Spring,369,17,12,31,268.519,93,0,High School,3,True,False,0,25,8,Unjustified absence
+5,26,12,Friday,Spring,235,20,13,43,280.549,98,0,High School,1,True,False,0,38,8,Unjustified absence
+12,18,12,Monday,Spring,233,51,1,31,280.549,98,0,Graduate,1,True,False,8,21,8,Symptoms/Abnormal findings
+32,10,1,Thursday,Autumn,289,48,29,49,313.532,96,0,High School,0,False,False,2,36,8,Respiratory system diseases
+14,18,1,Tuesday,Autumn,155,12,14,34,313.532,96,0,High School,2,True,False,0,25,8,Symptoms/Abnormal findings
+11,13,1,Wednesday,Autumn,289,36,13,33,313.532,96,0,High School,2,True,False,1,30,8,Musculoskeletal/Connective tissue
+3,13,2,Tuesday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,8,Musculoskeletal/Connective tissue
+33,1,2,Wednesday,Autumn,248,25,14,47,264.249,97,0,High School,2,False,False,1,32,8,Infectious/Parasitic
+28,7,2,Tuesday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,24,8,Eye/Adnexa diseases
+3,13,2,Thursday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,8,Musculoskeletal/Connective tissue
+10,19,3,Monday,Autumn,361,52,3,28,222.196,99,0,High School,1,True,False,4,27,8,Injury/Poisoning
+3,13,3,Tuesday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,8,Musculoskeletal/Connective tissue
+28,7,3,Monday,Autumn,225,26,9,28,222.196,99,0,High School,1,False,False,2,24,8,Eye/Adnexa diseases
+11,23,3,Wednesday,Autumn,289,36,13,33,222.196,99,0,High School,2,True,False,1,30,8,Medical consultation
+16,23,3,Wednesday,Winter,118,15,24,46,222.196,99,0,High School,2,True,True,0,25,8,Medical consultation
+13,22,3,Wednesday,Winter,369,17,12,31,222.196,99,0,High School,3,True,False,0,25,8,Patient follow-up
+28,13,4,Monday,Winter,225,26,9,28,246.288,91,0,High School,1,False,False,2,24,8,Musculoskeletal/Connective tissue
+34,10,4,Monday,Winter,118,10,10,37,246.288,91,0,High School,0,False,False,0,28,8,Respiratory system diseases
+10,19,4,Tuesday,Winter,361,52,3,28,246.288,91,0,High School,1,True,False,4,27,8,Injury/Poisoning
+33,19,4,Wednesday,Winter,248,25,14,47,246.288,91,0,High School,2,False,False,1,32,8,Injury/Poisoning
+6,13,4,Thursday,Winter,189,29,13,33,246.288,91,0,High School,2,False,False,2,25,8,Musculoskeletal/Connective tissue
+1,22,4,Friday,Winter,235,11,14,37,246.288,91,0,Postgraduate,1,False,False,1,29,8,Patient follow-up
+28,19,4,Monday,Winter,225,26,9,28,246.288,91,0,High School,1,False,False,2,24,8,Injury/Poisoning
+28,19,4,Thursday,Winter,225,26,9,28,246.288,91,0,High School,1,False,False,2,24,8,Injury/Poisoning
+1,22,5,Monday,Winter,235,11,14,37,237.656,99,0,Postgraduate,1,False,False,1,29,8,Patient follow-up
+5,26,5,Wednesday,Winter,235,20,13,43,237.656,99,0,High School,1,True,False,0,38,8,Unjustified absence
+29,14,5,Thursday,Winter,225,15,15,41,237.656,99,0,Master/Doctor,2,True,False,2,28,8,Genitourinary system diseases
+29,22,5,Friday,Winter,225,15,15,41,237.656,99,0,Master/Doctor,2,True,False,2,28,8,Patient follow-up
+25,10,5,Monday,Winter,235,16,8,32,237.656,99,0,Postgraduate,0,False,False,0,25,8,Respiratory system diseases
+15,22,5,Wednesday,Winter,291,31,12,40,237.656,99,0,High School,1,True,False,1,25,8,Patient follow-up
+17,10,5,Wednesday,Winter,179,22,17,40,237.656,99,0,Graduate,2,False,True,0,22,8,Respiratory system diseases
+18,10,5,Thursday,Winter,330,16,4,28,237.656,99,0,Graduate,0,False,False,0,25,8,Respiratory system diseases
+10,7,5,Monday,Winter,361,52,3,28,237.656,99,0,High School,1,True,False,4,27,8,Eye/Adnexa diseases
+17,25,5,Friday,Winter,179,22,17,40,237.656,99,0,Graduate,2,False,True,0,22,8,Laboratory examination
+14,10,5,Friday,Winter,155,12,14,34,237.656,99,0,High School,2,True,False,0,25,8,Respiratory system diseases
+16,7,6,Wednesday,Winter,118,15,24,46,275.089,96,0,High School,2,True,True,0,25,8,Eye/Adnexa diseases
+34,26,6,Friday,Winter,118,10,10,37,275.089,96,0,High School,0,False,False,0,28,8,Unjustified absence
+34,10,6,Wednesday,Winter,118,10,10,37,275.089,96,0,High School,0,False,False,0,28,8,Respiratory system diseases
+23,22,6,Thursday,Winter,378,49,11,36,275.089,96,0,High School,2,False,True,4,21,8,Patient follow-up
+12,19,6,Friday,Winter,233,51,1,31,275.089,96,0,Graduate,1,True,False,8,21,8,Injury/Poisoning
+12,22,6,Thursday,Summer,233,51,1,31,275.089,96,0,Graduate,1,True,False,8,21,8,Patient follow-up
+9,6,7,Monday,Summer,228,14,16,58,264.604,93,0,High School,2,False,False,1,22,8,Nervous system diseases
+10,22,7,Wednesday,Summer,361,52,3,28,264.604,93,0,High School,1,True,False,4,27,8,Patient follow-up
+28,22,7,Wednesday,Summer,225,26,9,28,264.604,93,0,High School,1,False,False,2,24,8,Patient follow-up
+11,14,7,Tuesday,Summer,289,36,13,33,264.604,93,0,High School,2,True,False,1,30,8,Genitourinary system diseases
+10,25,8,Monday,Summer,361,52,3,28,205.917,92,0,High School,1,True,False,4,27,7,Laboratory examination
+15,23,10,Thursday,Spring,291,31,12,40,253.465,93,0,High School,1,True,False,1,25,5,Medical consultation
+15,23,11,Thursday,Spring,291,31,12,40,306.345,93,0,High School,1,True,False,1,25,5,Medical consultation
+22,1,10,Wednesday,Spring,179,26,9,30,265.017,88,0,Postgraduate,0,False,False,0,19,5,Infectious/Parasitic
+22,7,10,Wednesday,Spring,179,26,9,30,265.017,88,0,Postgraduate,0,False,False,0,19,5,Eye/Adnexa diseases
+28,23,1,Wednesday,Autumn,225,26,9,28,330.061,100,0,High School,1,False,False,2,24,5,Medical consultation
+34,28,8,Tuesday,Summer,118,10,10,37,249.797,93,0,High School,0,False,False,0,28,5,Dental consultation
+14,25,2,Monday,Autumn,155,12,14,34,264.249,97,0,High School,2,True,False,0,25,5,Laboratory examination
+11,26,7,Tuesday,Summer,289,36,13,33,239.554,97,0,High School,2,True,False,1,30,4,Unjustified absence
+7,7,7,Thursday,Summer,279,5,14,39,239.554,97,0,High School,2,True,True,0,24,4,Eye/Adnexa diseases
+20,23,7,Friday,Summer,260,50,11,36,239.554,97,0,High School,4,True,False,0,23,4,Medical consultation
+3,23,7,Wednesday,Summer,179,51,18,38,239.554,97,0,High School,0,True,False,0,31,4,Medical consultation
+20,28,8,Friday,Summer,260,50,11,36,205.917,92,0,High School,4,True,False,0,23,4,Dental consultation
+30,28,8,Wednesday,Summer,157,27,6,29,205.917,92,0,High School,0,True,True,0,22,4,Dental consultation
+1,23,8,Thursday,Summer,235,11,14,37,205.917,92,0,Postgraduate,1,False,False,1,29,4,Medical consultation
+19,11,8,Thursday,Summer,291,50,12,32,205.917,92,0,High School,0,True,False,0,23,4,Digestive system diseases
+20,23,8,Friday,Summer,260,50,11,36,205.917,92,0,High School,4,True,False,0,23,4,Medical consultation
+34,23,9,Monday,Summer,118,10,10,37,241.476,92,0,High School,0,False,False,0,28,4,Medical consultation
+3,23,9,Tuesday,Summer,179,51,18,38,241.476,92,0,High School,0,True,False,0,31,4,Medical consultation
+15,23,9,Thursday,Summer,291,31,12,40,241.476,92,0,High School,1,True,False,1,25,4,Medical consultation
+20,23,9,Friday,Spring,260,50,11,36,241.476,92,0,High School,4,True,False,0,23,4,Medical consultation
+20,28,11,Friday,Spring,260,50,11,36,306.345,93,0,High School,4,True,False,0,23,4,Dental consultation
+20,28,3,Friday,Autumn,260,50,11,36,343.253,95,0,High School,4,True,False,0,23,4,Dental consultation
+20,28,4,Friday,Winter,260,50,11,36,326.452,96,0,High School,4,True,False,0,23,4,Dental consultation
+27,7,5,Wednesday,Winter,184,42,7,27,378.884,92,0,High School,0,False,False,0,21,4,Eye/Adnexa diseases
+15,23,6,Thursday,Winter,291,31,12,40,377.55,94,0,High School,1,True,False,1,25,4,Medical consultation
+14,23,6,Monday,Winter,155,12,14,34,377.55,94,0,High School,2,True,False,0,25,4,Medical consultation
+34,26,7,Friday,Summer,118,10,10,37,275.312,98,0,High School,0,False,False,0,28,4,Unjustified absence
+20,28,8,Friday,Summer,260,50,11,36,265.615,94,0,High School,4,True,False,0,23,4,Dental consultation
+11,23,8,Tuesday,Summer,289,36,13,33,265.615,94,0,High School,2,True,False,1,30,4,Medical consultation
+15,28,9,Friday,Summer,291,31,12,40,294.217,81,0,High School,1,True,False,1,25,4,Dental consultation
+20,28,9,Friday,Summer,260,50,11,36,294.217,81,0,High School,4,True,False,0,23,4,Dental consultation
+1,26,10,Monday,Spring,235,11,14,37,265.017,88,0,Postgraduate,1,False,False,1,29,4,Unjustified absence
+15,28,10,Tuesday,Spring,291,31,12,40,265.017,88,0,High School,1,True,False,1,25,4,Dental consultation
+15,12,11,Friday,Spring,291,31,12,40,284.031,97,0,High School,1,True,False,1,25,4,Skin/Subcutaneous diseases
+20,28,12,Friday,Spring,260,50,11,36,236.629,93,0,High School,4,True,False,0,23,4,Dental consultation
+1,14,12,Tuesday,Autumn,235,11,14,37,236.629,93,0,Postgraduate,1,False,False,1,29,4,Genitourinary system diseases
+14,23,1,Tuesday,Autumn,155,12,14,34,330.061,100,0,High School,2,True,False,0,25,4,Medical consultation
+36,26,1,Monday,Autumn,118,13,18,50,330.061,100,0,High School,1,True,False,0,31,4,Unjustified absence
+20,28,3,Friday,Autumn,260,50,11,36,244.387,98,0,High School,4,True,False,0,23,4,Dental consultation
+3,28,4,Wednesday,Winter,179,51,18,38,239.409,98,0,High School,0,True,False,0,31,4,Dental consultation
+18,26,4,Friday,Winter,330,16,4,28,239.409,98,0,Graduate,0,False,False,0,25,4,Unjustified absence
+13,22,4,Monday,Winter,369,17,12,31,239.409,98,0,High School,3,True,False,0,25,4,Patient follow-up
+33,26,4,Monday,Winter,248,25,14,47,239.409,98,0,High School,2,False,False,1,32,4,Unjustified absence
+20,28,4,Friday,Winter,260,50,11,36,239.409,98,0,High School,4,True,False,0,23,4,Dental consultation
+3,28,4,Monday,Winter,179,51,18,38,239.409,98,0,High School,0,True,False,0,31,4,Dental consultation
+3,28,5,Wednesday,Winter,179,51,18,38,246.074,99,0,High School,0,True,False,0,31,4,Dental consultation
+28,23,6,Thursday,Winter,225,26,9,28,253.957,95,0,High School,1,False,False,2,24,4,Medical consultation
+20,28,6,Friday,Winter,260,50,11,36,253.957,95,0,High School,4,True,False,0,23,4,Dental consultation
+3,28,6,Monday,Winter,179,51,18,38,253.957,95,0,High School,0,True,False,0,31,4,Dental consultation
+28,25,7,Thursday,Summer,225,26,9,28,230.29,92,0,High School,1,False,False,2,24,4,Laboratory examination
+20,26,7,Monday,Summer,260,50,11,36,230.29,92,0,High School,4,True,False,0,23,4,Unjustified absence
+3,25,8,Thursday,Summer,179,51,18,38,249.797,93,0,High School,0,True,False,0,31,4,Laboratory examination
+24,28,8,Tuesday,Summer,246,25,16,41,249.797,93,0,High School,0,True,False,0,23,4,Dental consultation
+34,28,8,Tuesday,Summer,118,10,10,37,249.797,93,0,High School,0,False,False,0,28,4,Dental consultation
+15,28,8,Thursday,Summer,291,31,12,40,249.797,93,0,High School,1,True,False,1,25,4,Dental consultation
+3,25,8,Monday,Summer,179,51,18,38,249.797,93,0,High School,0,True,False,0,31,4,Laboratory examination
+1,23,8,Tuesday,Summer,235,11,14,37,249.797,93,0,Postgraduate,1,False,False,1,29,4,Medical consultation
+3,23,9,Monday,Summer,179,51,18,38,261.756,87,0,High School,0,True,False,0,31,4,Medical consultation
+28,23,10,Tuesday,Spring,225,26,9,28,284.853,91,0,High School,1,False,False,2,24,4,Medical consultation
+28,23,11,Friday,Spring,225,26,9,28,268.519,93,0,High School,1,False,False,2,24,4,Medical consultation
+33,14,11,Thursday,Spring,248,25,14,47,268.519,93,0,High School,2,False,False,1,32,4,Genitourinary system diseases
+10,14,12,Thursday,Spring,361,52,3,28,280.549,98,0,High School,1,True,False,4,27,4,Genitourinary system diseases
+3,10,3,Monday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,4,Respiratory system diseases
+14,28,4,Tuesday,Winter,155,12,14,34,246.288,91,0,High School,2,True,False,0,25,4,Dental consultation
+5,26,7,Wednesday,Summer,235,20,13,43,264.604,93,0,High School,1,True,False,0,38,4,Unjustified absence
+34,28,7,Monday,Summer,118,10,10,37,264.604,93,0,High School,0,False,False,0,28,4,Dental consultation
+1,11,7,Tuesday,Summer,235,11,14,37,264.604,93,0,Postgraduate,1,False,False,1,29,4,Digestive system diseases
+34,23,9,Monday,Summer,118,10,10,37,241.476,92,0,High School,0,False,False,0,28,3,Medical consultation
+3,23,9,Tuesday,Summer,179,51,18,38,241.476,92,0,High School,0,True,False,0,31,3,Medical consultation
+28,18,9,Wednesday,Spring,225,26,9,28,241.476,92,0,High School,1,False,False,2,24,3,Symptoms/Abnormal findings
+3,23,9,Wednesday,Spring,179,51,18,38,241.476,92,0,High School,0,True,False,0,31,3,Medical consultation
+3,23,9,Friday,Spring,179,51,18,38,241.476,92,0,High School,0,True,False,0,31,3,Medical consultation
+3,23,10,Tuesday,Spring,179,51,18,38,253.465,93,0,High School,0,True,False,0,31,3,Medical consultation
+34,23,10,Tuesday,Spring,118,10,10,37,253.465,93,0,High School,0,False,False,0,28,3,Medical consultation
+3,23,10,Friday,Spring,179,51,18,38,253.465,93,0,High School,0,True,False,0,31,3,Medical consultation
+28,23,10,Friday,Spring,225,26,9,28,253.465,93,0,High School,1,False,False,2,24,3,Medical consultation
+28,23,10,Wednesday,Spring,225,26,9,28,253.465,93,0,High School,1,False,False,2,24,3,Medical consultation
+20,28,10,Friday,Spring,260,50,11,36,253.465,93,0,High School,4,True,False,0,23,3,Dental consultation
+28,23,11,Wednesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,24,3,Medical consultation
+28,13,11,Friday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,24,3,Musculoskeletal/Connective tissue
+28,28,11,Tuesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,24,3,Dental consultation
+15,23,11,Thursday,Spring,291,31,12,40,306.345,93,0,High School,1,True,False,1,25,3,Medical consultation
+28,28,12,Thursday,Spring,225,26,9,28,261.306,97,0,High School,1,False,False,2,24,3,Dental consultation
+20,28,12,Friday,Spring,260,50,11,36,261.306,97,0,High School,4,True,False,0,23,3,Dental consultation
+11,22,1,Thursday,Autumn,289,36,13,33,308.593,95,0,High School,2,True,False,1,30,3,Patient follow-up
+28,25,2,Thursday,Autumn,225,26,9,28,302.585,99,0,High School,1,False,False,2,24,3,Laboratory examination
+30,19,3,Tuesday,Autumn,157,27,6,29,343.253,95,0,High School,0,True,True,0,22,3,Injury/Poisoning
+33,14,3,Friday,Autumn,248,25,14,47,343.253,95,0,High School,2,False,False,1,32,3,Genitourinary system diseases
+3,13,3,Wednesday,Winter,179,51,18,38,343.253,95,0,High School,0,True,False,0,31,3,Musculoskeletal/Connective tissue
+33,14,3,Friday,Winter,248,25,14,47,343.253,95,0,High School,2,False,False,1,32,3,Genitourinary system diseases
+15,23,4,Friday,Winter,291,31,12,40,326.452,96,0,High School,1,True,False,1,25,3,Medical consultation
+1,7,4,Friday,Winter,235,11,14,37,326.452,96,0,Postgraduate,1,False,False,1,29,3,Eye/Adnexa diseases
+30,25,7,Monday,Summer,157,27,6,29,275.312,98,0,High School,0,True,True,0,22,3,Laboratory examination
+30,19,8,Friday,Summer,157,27,6,29,265.615,94,0,High School,0,True,True,0,22,3,Injury/Poisoning
+36,13,8,Thursday,Summer,118,13,18,50,265.615,94,0,High School,1,True,False,0,31,3,Musculoskeletal/Connective tissue
+3,23,9,Friday,Summer,179,51,18,38,294.217,81,0,High School,0,True,False,0,31,3,Medical consultation
+15,28,9,Tuesday,Summer,291,31,12,40,294.217,81,0,High School,1,True,False,1,25,3,Dental consultation
+15,28,9,Friday,Spring,291,31,12,40,294.217,81,0,High School,1,True,False,1,25,3,Dental consultation
+34,7,10,Monday,Spring,118,10,10,37,265.017,88,0,High School,0,False,False,0,28,3,Eye/Adnexa diseases
+20,28,10,Friday,Spring,260,50,11,36,265.017,88,0,High School,4,True,False,0,23,3,Dental consultation
+20,28,11,Friday,Spring,260,50,11,36,284.031,97,0,High School,4,True,False,0,23,3,Dental consultation
+34,11,11,Wednesday,Spring,118,10,10,37,284.031,97,0,High School,0,False,False,0,28,3,Digestive system diseases
+3,28,11,Thursday,Spring,179,51,18,38,284.031,97,0,High School,0,True,False,0,31,3,Dental consultation
+28,12,12,Monday,Spring,225,26,9,28,236.629,93,0,High School,1,False,False,2,24,3,Skin/Subcutaneous diseases
+1,23,12,Monday,Spring,235,11,14,37,236.629,93,0,Postgraduate,1,False,False,1,29,3,Medical consultation
+3,28,12,Monday,Autumn,179,51,18,38,236.629,93,0,High School,0,True,False,0,31,3,Dental consultation
+3,27,2,Wednesday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,31,3,Physiotherapy
+11,22,2,Friday,Autumn,289,36,13,33,251.818,96,0,High School,2,True,False,1,30,3,Patient follow-up
+20,28,2,Friday,Autumn,260,50,11,36,251.818,96,0,High School,4,True,False,0,23,3,Dental consultation
+3,23,2,Friday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,31,3,Medical consultation
+3,27,2,Friday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,31,3,Physiotherapy
+3,27,2,Monday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,31,3,Physiotherapy
+36,14,3,Tuesday,Winter,118,13,18,50,244.387,98,0,High School,1,True,False,0,31,3,Genitourinary system diseases
+20,28,4,Friday,Winter,260,50,11,36,239.409,98,0,High School,4,True,False,0,23,3,Dental consultation
+22,23,5,Wednesday,Winter,179,26,9,30,246.074,99,0,Postgraduate,0,False,False,0,19,3,Medical consultation
+20,28,5,Friday,Winter,260,50,11,36,246.074,99,0,High School,4,True,False,0,23,3,Dental consultation
+17,8,5,Monday,Winter,179,22,17,40,246.074,99,0,Graduate,2,False,True,0,22,3,Ear/Mastoid diseases
+28,25,5,Wednesday,Winter,225,26,9,28,246.074,99,0,High School,1,False,False,2,24,3,Laboratory examination
+34,23,6,Monday,Winter,118,10,10,37,253.957,95,0,High School,0,False,False,0,28,3,Medical consultation
+3,28,6,Monday,Winter,179,51,18,38,253.957,95,0,High School,0,True,False,0,31,3,Dental consultation
+24,28,6,Tuesday,Winter,246,25,16,41,253.957,95,0,High School,0,True,False,0,23,3,Dental consultation
+20,28,8,Monday,Summer,260,50,11,36,249.797,93,0,High School,4,True,False,0,23,3,Dental consultation
+34,28,9,Tuesday,Summer,118,10,10,37,261.756,87,0,High School,0,False,False,0,28,3,Dental consultation
+25,11,10,Thursday,Spring,235,16,8,32,284.853,91,0,Postgraduate,0,False,False,0,25,3,Digestive system diseases
+32,14,10,Wednesday,Spring,289,48,29,49,284.853,91,0,High School,0,False,False,2,36,3,Genitourinary system diseases
+13,23,10,Tuesday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,25,3,Medical consultation
+3,28,10,Wednesday,Spring,179,51,18,38,284.853,91,0,High School,0,True,False,0,31,3,Dental consultation
+28,10,10,Friday,Spring,225,26,9,28,284.853,91,0,High School,1,False,False,2,24,3,Respiratory system diseases
+28,13,10,Tuesday,Spring,225,26,9,28,284.853,91,0,High School,1,False,False,2,24,3,Musculoskeletal/Connective tissue
+34,28,11,Wednesday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,28,3,Dental consultation
+28,14,11,Thursday,Spring,225,26,9,28,268.519,93,0,High School,1,False,False,2,24,3,Genitourinary system diseases
+28,23,12,Wednesday,Spring,225,26,9,28,280.549,98,0,High School,1,False,False,2,24,3,Medical consultation
+28,23,12,Friday,Spring,225,26,9,28,280.549,98,0,High School,1,False,False,2,24,3,Medical consultation
+28,23,12,Thursday,Spring,225,26,9,28,280.549,98,0,High School,1,False,False,2,24,3,Medical consultation
+22,13,1,Monday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,19,3,Musculoskeletal/Connective tissue
+17,18,1,Friday,Autumn,179,22,17,40,313.532,96,0,Graduate,2,False,True,0,22,3,Symptoms/Abnormal findings
+3,27,1,Wednesday,Autumn,179,51,18,38,313.532,96,0,High School,0,True,False,0,31,3,Physiotherapy
+3,27,1,Thursday,Autumn,179,51,18,38,313.532,96,0,High School,0,True,False,0,31,3,Physiotherapy
+28,23,2,Tuesday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,24,3,Medical consultation
+28,28,2,Thursday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,24,3,Dental consultation
+3,27,2,Wednesday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,3,Physiotherapy
+3,27,2,Thursday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,3,Physiotherapy
+28,25,2,Thursday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,24,3,Laboratory examination
+3,27,2,Friday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,3,Physiotherapy
+12,12,2,Wednesday,Autumn,233,51,1,31,264.249,97,0,Graduate,1,True,False,8,21,3,Skin/Subcutaneous diseases
+25,25,2,Monday,Autumn,235,16,8,32,264.249,97,0,Postgraduate,0,False,False,0,25,3,Laboratory examination
+9,25,3,Tuesday,Autumn,228,14,16,58,222.196,99,0,High School,2,False,False,1,22,3,Laboratory examination
+33,25,3,Tuesday,Autumn,248,25,14,47,222.196,99,0,High School,2,False,False,1,32,3,Laboratory examination
+3,27,3,Thursday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,3,Physiotherapy
+22,27,3,Friday,Autumn,179,26,9,30,222.196,99,0,Postgraduate,0,False,False,0,19,3,Physiotherapy
+25,25,3,Monday,Autumn,235,16,8,32,222.196,99,0,Postgraduate,0,False,False,0,25,3,Laboratory examination
+3,27,3,Monday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,3,Physiotherapy
+33,23,3,Thursday,Autumn,248,25,14,47,222.196,99,0,High School,2,False,False,1,32,3,Medical consultation
+3,27,3,Friday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,3,Physiotherapy
+3,27,3,Tuesday,Winter,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,3,Physiotherapy
+3,27,3,Wednesday,Winter,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,3,Physiotherapy
+3,27,3,Thursday,Winter,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,3,Physiotherapy
+36,23,4,Tuesday,Winter,118,13,18,50,246.288,91,0,High School,1,True,False,0,31,3,Medical consultation
+25,16,4,Tuesday,Winter,235,16,8,32,246.288,91,0,Postgraduate,0,False,False,0,25,3,Perinatal conditions
+29,19,5,Wednesday,Winter,225,15,15,41,237.656,99,0,Master/Doctor,2,True,False,2,28,3,Injury/Poisoning
+34,8,5,Wednesday,Winter,118,10,10,37,237.656,99,0,High School,0,False,False,0,28,3,Ear/Mastoid diseases
+36,5,5,Tuesday,Winter,118,13,18,50,237.656,99,0,High School,1,True,False,0,31,3,Mental/Behavioural disorders
+28,6,5,Wednesday,Winter,225,26,9,28,237.656,99,0,High School,1,False,False,2,24,3,Nervous system diseases
+22,27,6,Wednesday,Winter,179,26,9,30,275.089,96,0,Postgraduate,0,False,False,0,19,3,Physiotherapy
+36,19,6,Thursday,Winter,118,13,18,50,275.089,96,0,High School,1,True,False,0,31,3,Injury/Poisoning
+22,13,6,Monday,Summer,179,26,9,30,275.089,96,0,Postgraduate,0,False,False,0,19,3,Musculoskeletal/Connective tissue
+34,25,6,Monday,Summer,118,10,10,37,275.089,96,0,High School,0,False,False,0,28,3,Laboratory examination
+34,10,6,Wednesday,Summer,118,10,10,37,275.089,96,0,High School,0,False,False,0,28,3,Respiratory system diseases
+12,22,6,Wednesday,Summer,233,51,1,31,275.089,96,0,Graduate,1,True,False,8,21,3,Patient follow-up
+3,23,7,Wednesday,Summer,179,51,18,38,239.554,97,0,High School,0,True,False,0,31,2,Medical consultation
+11,23,7,Thursday,Summer,289,36,13,33,239.554,97,0,High School,2,True,False,1,30,2,Medical consultation
+3,23,7,Friday,Summer,179,51,18,38,239.554,97,0,High School,0,True,False,0,31,2,Medical consultation
+33,23,8,Wednesday,Summer,248,25,14,47,205.917,92,0,High School,2,False,False,1,32,2,Medical consultation
+3,23,8,Friday,Summer,179,51,18,38,205.917,92,0,High School,0,True,False,0,31,2,Medical consultation
+3,23,8,Monday,Summer,179,51,18,38,205.917,92,0,High School,0,True,False,0,31,2,Medical consultation
+27,23,9,Tuesday,Summer,184,42,7,27,241.476,92,0,High School,0,False,False,0,21,2,Medical consultation
+14,23,9,Wednesday,Summer,155,12,14,34,241.476,92,0,High School,2,True,False,0,25,2,Medical consultation
+28,23,9,Tuesday,Spring,225,26,9,28,241.476,92,0,High School,1,False,False,2,24,2,Medical consultation
+34,23,9,Tuesday,Spring,118,10,10,37,241.476,92,0,High School,0,False,False,0,28,2,Medical consultation
+28,23,10,Wednesday,Spring,225,26,9,28,253.465,93,0,High School,1,False,False,2,24,2,Medical consultation
+33,23,10,Wednesday,Spring,248,25,14,47,253.465,93,0,High School,2,False,False,1,32,2,Medical consultation
+28,28,10,Tuesday,Spring,225,26,9,28,253.465,93,0,High School,1,False,False,2,24,2,Dental consultation
+36,23,12,Wednesday,Spring,118,13,18,50,261.306,97,0,High School,1,True,False,0,31,2,Medical consultation
+28,23,12,Thursday,Spring,225,26,9,28,261.306,97,0,High School,1,False,False,2,24,2,Medical consultation
+28,23,12,Tuesday,Spring,225,26,9,28,261.306,97,0,High School,1,False,False,2,24,2,Medical consultation
+34,27,12,Friday,Spring,118,10,10,37,261.306,97,0,High School,0,False,False,0,28,2,Physiotherapy
+28,23,12,Friday,Autumn,225,26,9,28,261.306,97,0,High School,1,False,False,2,24,2,Medical consultation
+28,27,1,Wednesday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,24,2,Physiotherapy
+27,23,1,Thursday,Autumn,184,42,7,27,308.593,95,0,High School,0,False,False,0,21,2,Medical consultation
+28,28,1,Thursday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,24,2,Dental consultation
+34,27,1,Monday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,28,2,Physiotherapy
+28,27,1,Tuesday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,24,2,Physiotherapy
+34,27,1,Tuesday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,28,2,Physiotherapy
+34,27,1,Wednesday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,28,2,Physiotherapy
+34,27,1,Thursday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,28,2,Physiotherapy
+34,27,1,Friday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,28,2,Physiotherapy
+14,28,2,Thursday,Autumn,155,12,14,34,302.585,99,0,High School,2,True,False,0,25,2,Dental consultation
+20,28,2,Friday,Autumn,260,50,11,36,302.585,99,0,High School,4,True,False,0,23,2,Dental consultation
+28,28,2,Monday,Autumn,225,26,9,28,302.585,99,0,High School,1,False,False,2,24,2,Dental consultation
+28,23,2,Tuesday,Autumn,225,26,9,28,302.585,99,0,High School,1,False,False,2,24,2,Medical consultation
+19,28,3,Tuesday,Autumn,291,50,12,32,343.253,95,0,High School,0,True,False,0,23,2,Dental consultation
+28,23,3,Wednesday,Autumn,225,26,9,28,343.253,95,0,High School,1,False,False,2,24,2,Medical consultation
+28,28,3,Friday,Winter,225,26,9,28,343.253,95,0,High School,1,False,False,2,24,2,Dental consultation
+28,28,4,Friday,Winter,225,26,9,28,326.452,96,0,High School,1,False,False,2,24,2,Dental consultation
+14,28,5,Thursday,Winter,155,12,14,34,378.884,92,0,High School,2,True,False,0,25,2,Dental consultation
+14,28,5,Monday,Winter,155,12,14,34,378.884,92,0,High School,2,True,False,0,25,2,Dental consultation
+3,11,6,Friday,Winter,179,51,18,38,377.55,94,0,High School,0,True,False,0,31,2,Digestive system diseases
+32,28,6,Monday,Summer,289,48,29,49,377.55,94,0,High School,0,False,False,2,36,2,Dental consultation
+28,28,6,Thursday,Summer,225,26,9,28,377.55,94,0,High School,1,False,False,2,24,2,Dental consultation
+14,25,7,Friday,Summer,155,12,14,34,275.312,98,0,High School,2,True,False,0,25,2,Laboratory examination
+26,14,8,Thursday,Summer,300,26,13,43,265.615,94,0,High School,2,True,True,1,25,2,Genitourinary system diseases
+33,25,8,Monday,Summer,248,25,14,47,265.615,94,0,High School,2,False,False,1,32,2,Laboratory examination
+5,23,10,Monday,Spring,235,20,13,43,265.017,88,0,High School,1,True,False,0,38,2,Medical consultation
+33,23,11,Monday,Spring,248,25,14,47,284.031,97,0,High School,2,False,False,1,32,2,Medical consultation
+1,25,11,Thursday,Spring,235,11,14,37,284.031,97,0,Postgraduate,1,False,False,1,29,2,Laboratory examination
+3,28,12,Monday,Spring,179,51,18,38,236.629,93,0,High School,0,True,False,0,31,2,Dental consultation
+1,25,12,Thursday,Spring,235,11,14,37,236.629,93,0,Postgraduate,1,False,False,1,29,2,Laboratory examination
+30,28,12,Monday,Autumn,157,27,6,29,236.629,93,0,High School,0,True,True,0,22,2,Dental consultation
+14,23,1,Monday,Autumn,155,12,14,34,330.061,100,0,High School,2,True,False,0,25,2,Medical consultation
+34,28,2,Tuesday,Autumn,118,10,10,37,251.818,96,0,High School,0,False,False,0,28,2,Dental consultation
+3,27,2,Monday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,31,2,Physiotherapy
+24,23,2,Tuesday,Autumn,246,25,16,41,251.818,96,0,High School,0,True,False,0,23,2,Medical consultation
+15,23,2,Tuesday,Autumn,291,31,12,40,251.818,96,0,High School,1,True,False,1,25,2,Medical consultation
+24,28,3,Friday,Autumn,246,25,16,41,244.387,98,0,High School,0,True,False,0,23,2,Dental consultation
+3,28,3,Monday,Autumn,179,51,18,38,244.387,98,0,High School,0,True,False,0,31,2,Dental consultation
+36,23,3,Friday,Winter,118,13,18,50,244.387,98,0,High School,1,True,False,0,31,2,Medical consultation
+24,28,3,Tuesday,Winter,246,25,16,41,244.387,98,0,High School,0,True,False,0,23,2,Dental consultation
+34,11,4,Wednesday,Winter,118,10,10,37,239.409,98,0,High School,0,False,False,0,28,2,Digestive system diseases
+33,23,5,Wednesday,Winter,248,25,14,47,246.074,99,0,High School,2,False,False,1,32,2,Medical consultation
+17,11,5,Monday,Winter,179,22,17,40,246.074,99,0,Graduate,2,False,True,0,22,2,Digestive system diseases
+22,25,5,Monday,Winter,179,26,9,30,246.074,99,0,Postgraduate,0,False,False,0,19,2,Laboratory examination
+34,28,6,Tuesday,Winter,118,10,10,37,253.957,95,0,High School,0,False,False,0,28,2,Dental consultation
+3,28,6,Monday,Summer,179,51,18,38,253.957,95,0,High School,0,True,False,0,31,2,Dental consultation
+28,23,6,Wednesday,Summer,225,26,9,28,253.957,95,0,High School,1,False,False,2,24,2,Medical consultation
+36,23,6,Wednesday,Summer,118,13,18,50,253.957,95,0,High School,1,True,False,0,31,2,Medical consultation
+22,21,6,Wednesday,Summer,179,26,9,30,253.957,95,0,Postgraduate,0,False,False,0,19,2,Factors influencing health status
+24,28,6,Friday,Summer,246,25,16,41,253.957,95,0,High School,0,True,False,0,23,2,Dental consultation
+22,23,7,Thursday,Summer,179,26,9,30,230.29,92,0,Postgraduate,0,False,False,0,19,2,Medical consultation
+24,28,7,Tuesday,Summer,246,25,16,41,230.29,92,0,High School,0,True,False,0,23,2,Dental consultation
+7,23,7,Thursday,Summer,279,5,14,39,230.29,92,0,High School,2,True,True,0,24,2,Medical consultation
+15,28,8,Thursday,Summer,291,31,12,40,249.797,93,0,High School,1,True,False,1,25,2,Dental consultation
+14,23,9,Tuesday,Summer,155,12,14,34,261.756,87,0,High School,2,True,False,0,25,2,Medical consultation
+15,28,9,Thursday,Summer,291,31,12,40,261.756,87,0,High School,1,True,False,1,25,2,Dental consultation
+22,23,9,Monday,Summer,179,26,9,30,261.756,87,0,Postgraduate,0,False,False,0,19,2,Medical consultation
+15,28,10,Wednesday,Spring,291,31,12,40,284.853,91,0,High School,1,True,False,1,25,2,Dental consultation
+34,23,10,Tuesday,Spring,118,10,10,37,284.853,91,0,High School,0,False,False,0,28,2,Medical consultation
+32,23,10,Thursday,Spring,289,48,29,49,284.853,91,0,High School,0,False,False,2,36,2,Medical consultation
+28,23,10,Tuesday,Spring,225,26,9,28,284.853,91,0,High School,1,False,False,2,24,2,Medical consultation
+15,28,11,Wednesday,Spring,291,31,12,40,268.519,93,0,High School,1,True,False,1,25,2,Dental consultation
+34,13,11,Thursday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,28,2,Musculoskeletal/Connective tissue
+28,23,11,Tuesday,Spring,225,26,9,28,268.519,93,0,High School,1,False,False,2,24,2,Medical consultation
+28,23,11,Friday,Spring,225,26,9,28,268.519,93,0,High School,1,False,False,2,24,2,Medical consultation
+10,28,11,Monday,Spring,361,52,3,28,268.519,93,0,High School,1,True,False,4,27,2,Dental consultation
+17,18,12,Friday,Spring,179,22,17,40,280.549,98,0,Graduate,2,False,True,0,22,2,Symptoms/Abnormal findings
+28,23,12,Tuesday,Spring,225,26,9,28,280.549,98,0,High School,1,False,False,2,24,2,Medical consultation
+28,23,12,Monday,Spring,225,26,9,28,280.549,98,0,High School,1,False,False,2,24,2,Medical consultation
+17,25,1,Thursday,Autumn,179,22,17,40,313.532,96,0,Graduate,2,False,True,0,22,2,Laboratory examination
+17,25,1,Friday,Autumn,179,22,17,40,313.532,96,0,Graduate,2,False,True,0,22,2,Laboratory examination
+17,25,1,Wednesday,Autumn,179,22,17,40,313.532,96,0,Graduate,2,False,True,0,22,2,Laboratory examination
+22,27,1,Monday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,19,2,Physiotherapy
+22,27,1,Wednesday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,19,2,Physiotherapy
+3,27,1,Friday,Autumn,179,51,18,38,313.532,96,0,High School,0,True,False,0,31,2,Physiotherapy
+3,27,2,Wednesday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,2,Physiotherapy
+3,27,2,Thursday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,2,Physiotherapy
+22,27,2,Thursday,Autumn,179,26,9,30,264.249,97,0,Postgraduate,0,False,False,0,19,2,Physiotherapy
+29,28,2,Friday,Autumn,225,15,15,41,264.249,97,0,Master/Doctor,2,True,False,2,28,2,Dental consultation
+3,27,2,Friday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,2,Physiotherapy
+12,19,2,Monday,Autumn,233,51,1,31,264.249,97,0,Graduate,1,True,False,8,21,2,Injury/Poisoning
+3,27,2,Monday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,2,Physiotherapy
+22,13,2,Thursday,Autumn,179,26,9,30,264.249,97,0,Postgraduate,0,False,False,0,19,2,Musculoskeletal/Connective tissue
+17,23,2,Friday,Autumn,179,22,17,40,264.249,97,0,Graduate,2,False,True,0,22,2,Medical consultation
+22,27,2,Wednesday,Autumn,179,26,9,30,264.249,97,0,Postgraduate,0,False,False,0,19,2,Physiotherapy
+28,7,2,Monday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,24,2,Eye/Adnexa diseases
+3,27,2,Tuesday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,2,Physiotherapy
+33,23,2,Tuesday,Autumn,248,25,14,47,264.249,97,0,High School,2,False,False,1,32,2,Medical consultation
+28,25,2,Tuesday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,24,2,Laboratory examination
+25,25,2,Friday,Autumn,235,16,8,32,264.249,97,0,Postgraduate,0,False,False,0,25,2,Laboratory examination
+3,27,3,Monday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,2,Physiotherapy
+33,23,3,Monday,Autumn,248,25,14,47,222.196,99,0,High School,2,False,False,1,32,2,Medical consultation
+3,27,3,Wednesday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,2,Physiotherapy
+28,27,3,Thursday,Autumn,225,26,9,28,222.196,99,0,High School,1,False,False,2,24,2,Physiotherapy
+28,25,3,Thursday,Autumn,225,26,9,28,222.196,99,0,High School,1,False,False,2,24,2,Laboratory examination
+22,27,3,Friday,Autumn,179,26,9,30,222.196,99,0,Postgraduate,0,False,False,0,19,2,Physiotherapy
+33,13,3,Monday,Autumn,248,25,14,47,222.196,99,0,High School,2,False,False,1,32,2,Musculoskeletal/Connective tissue
+3,27,3,Tuesday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,2,Physiotherapy
+9,25,3,Wednesday,Autumn,228,14,16,58,222.196,99,0,High School,2,False,False,1,22,2,Laboratory examination
+22,23,3,Friday,Autumn,179,26,9,30,222.196,99,0,Postgraduate,0,False,False,0,19,2,Medical consultation
+22,13,3,Monday,Winter,179,26,9,30,222.196,99,0,Postgraduate,0,False,False,0,19,2,Musculoskeletal/Connective tissue
+22,27,4,Friday,Winter,179,26,9,30,246.288,91,0,Postgraduate,0,False,False,0,19,2,Physiotherapy
+17,16,4,Tuesday,Winter,179,22,17,40,246.288,91,0,Graduate,2,False,True,0,22,2,Perinatal conditions
+10,23,4,Tuesday,Winter,361,52,3,28,246.288,91,0,High School,1,True,False,4,27,2,Medical consultation
+34,10,4,Wednesday,Winter,118,10,10,37,246.288,91,0,High School,0,False,False,0,28,2,Respiratory system diseases
+36,14,4,Thursday,Winter,118,13,18,50,246.288,91,0,High School,1,True,False,0,31,2,Genitourinary system diseases
+25,28,5,Wednesday,Winter,235,16,8,32,237.656,99,0,Postgraduate,0,False,False,0,25,2,Dental consultation
+15,28,5,Thursday,Winter,291,31,12,40,237.656,99,0,High School,1,True,False,1,25,2,Dental consultation
+22,27,5,Friday,Winter,179,26,9,30,237.656,99,0,Postgraduate,0,False,False,0,19,2,Physiotherapy
+36,23,5,Monday,Winter,118,13,18,50,237.656,99,0,High School,1,True,False,0,31,2,Medical consultation
+22,27,5,Wednesday,Winter,179,26,9,30,237.656,99,0,Postgraduate,0,False,False,0,19,2,Physiotherapy
+25,23,5,Thursday,Winter,235,16,8,32,237.656,99,0,Postgraduate,0,False,False,0,25,2,Medical consultation
+14,23,5,Wednesday,Winter,155,12,14,34,237.656,99,0,High School,2,True,False,0,25,2,Medical consultation
+22,27,6,Friday,Winter,179,26,9,30,275.089,96,0,Postgraduate,0,False,False,0,19,2,Physiotherapy
+22,13,6,Thursday,Winter,179,26,9,30,275.089,96,0,Postgraduate,0,False,False,0,19,2,Musculoskeletal/Connective tissue
+15,28,6,Thursday,Winter,291,31,12,40,275.089,96,0,High School,1,True,False,1,25,2,Dental consultation
+34,8,6,Friday,Summer,118,10,10,37,275.089,96,0,High School,0,False,False,0,28,2,Ear/Mastoid diseases
+12,19,7,Friday,Summer,233,51,1,31,264.604,93,0,Graduate,1,True,False,8,21,2,Injury/Poisoning
+34,23,7,Wednesday,Summer,118,10,10,37,264.604,93,0,High School,0,False,False,0,28,2,Medical consultation
+3,11,7,Wednesday,Summer,179,51,18,38,239.554,97,0,High School,0,True,False,0,31,1,Digestive system diseases
+3,11,8,Monday,Summer,179,51,18,38,205.917,92,0,High School,0,True,False,0,31,1,Digestive system diseases
+11,23,8,Tuesday,Summer,289,36,13,33,205.917,92,0,High School,2,True,False,1,30,1,Medical consultation
+10,23,8,Monday,Summer,361,52,3,28,205.917,92,0,High School,1,True,False,4,27,1,Medical consultation
+33,23,9,Friday,Spring,248,25,14,47,241.476,92,0,High School,2,False,False,1,32,1,Medical consultation
+22,23,10,Thursday,Spring,179,26,9,30,253.465,93,0,Postgraduate,0,False,False,0,19,1,Medical consultation
+10,23,10,Friday,Spring,361,52,3,28,253.465,93,0,High School,1,True,False,4,27,1,Medical consultation
+3,23,11,Thursday,Spring,179,51,18,38,306.345,93,0,High School,0,True,False,0,31,1,Medical consultation
+28,23,11,Wednesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,24,1,Medical consultation
+33,28,11,Monday,Spring,248,25,14,47,306.345,93,0,High School,2,False,False,1,32,1,Dental consultation
+33,23,12,Tuesday,Spring,248,25,14,47,261.306,97,0,High School,2,False,False,1,32,1,Medical consultation
+28,23,1,Wednesday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,24,1,Medical consultation
+34,19,1,Monday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,28,1,Injury/Poisoning
+34,27,1,Tuesday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,28,1,Physiotherapy
+28,27,1,Friday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,24,1,Physiotherapy
+28,23,1,Tuesday,Autumn,225,26,9,28,308.593,95,0,High School,1,False,False,2,24,1,Medical consultation
+27,23,2,Friday,Autumn,184,42,7,27,302.585,99,0,High School,0,False,False,0,21,1,Medical consultation
+22,23,2,Tuesday,Autumn,179,26,9,30,302.585,99,0,Postgraduate,0,False,False,0,19,1,Medical consultation
+18,23,2,Tuesday,Autumn,330,16,4,28,302.585,99,0,Graduate,0,False,False,0,25,1,Medical consultation
+28,23,2,Wednesday,Autumn,225,26,9,28,302.585,99,0,High School,1,False,False,2,24,1,Medical consultation
+28,23,3,Friday,Autumn,225,26,9,28,343.253,95,0,High School,1,False,False,2,24,1,Medical consultation
+22,13,3,Monday,Winter,179,26,9,30,343.253,95,0,Postgraduate,0,False,False,0,19,1,Musculoskeletal/Connective tissue
+28,28,3,Monday,Winter,225,26,9,28,343.253,95,0,High School,1,False,False,2,24,1,Dental consultation
+15,28,4,Wednesday,Winter,291,31,12,40,326.452,96,0,High School,1,True,False,1,25,1,Dental consultation
+28,23,4,Wednesday,Winter,225,26,9,28,326.452,96,0,High School,1,False,False,2,24,1,Medical consultation
+14,28,4,Tuesday,Winter,155,12,14,34,326.452,96,0,High School,2,True,False,0,25,1,Dental consultation
+14,23,4,Thursday,Winter,155,12,14,34,326.452,96,0,High School,2,True,False,0,25,1,Medical consultation
+36,23,4,Thursday,Winter,118,13,18,50,326.452,96,0,High School,1,True,False,0,31,1,Medical consultation
+15,28,4,Friday,Winter,291,31,12,40,326.452,96,0,High School,1,True,False,1,25,1,Dental consultation
+14,28,5,Monday,Winter,155,12,14,34,378.884,92,0,High School,2,True,False,0,25,1,Dental consultation
+3,12,5,Tuesday,Winter,179,51,18,38,378.884,92,0,High School,0,True,False,0,31,1,Skin/Subcutaneous diseases
+3,11,5,Tuesday,Winter,179,51,18,38,378.884,92,0,High School,0,True,False,0,31,1,Digestive system diseases
+36,23,6,Tuesday,Winter,118,13,18,50,377.55,94,0,High School,1,True,False,0,31,1,Medical consultation
+11,23,8,Monday,Summer,289,36,13,33,265.615,94,0,High School,2,True,False,1,30,1,Medical consultation
+26,13,8,Thursday,Summer,300,26,13,43,265.615,94,0,High School,2,True,True,1,25,1,Musculoskeletal/Connective tissue
+33,23,8,Wednesday,Summer,248,25,14,47,265.615,94,0,High School,2,False,False,1,32,1,Medical consultation
+22,23,8,Thursday,Summer,179,26,9,30,265.615,94,0,Postgraduate,0,False,False,0,19,1,Medical consultation
+1,23,8,Tuesday,Summer,235,11,14,37,265.615,94,0,Postgraduate,1,False,False,1,29,1,Medical consultation
+36,23,8,Thursday,Summer,118,13,18,50,265.615,94,0,High School,1,True,False,0,31,1,Medical consultation
+3,23,9,Thursday,Summer,179,51,18,38,294.217,81,0,High School,0,True,False,0,31,1,Medical consultation
+36,28,9,Thursday,Spring,118,13,18,50,294.217,81,0,High School,1,True,False,0,31,1,Dental consultation
+3,28,10,Wednesday,Spring,179,51,18,38,265.017,88,0,High School,0,True,False,0,31,1,Dental consultation
+36,28,10,Tuesday,Spring,118,13,18,50,265.017,88,0,High School,1,True,False,0,31,1,Dental consultation
+36,28,10,Thursday,Spring,118,13,18,50,265.017,88,0,High School,1,True,False,0,31,1,Dental consultation
+36,23,10,Thursday,Spring,118,13,18,50,265.017,88,0,High School,1,True,False,0,31,1,Medical consultation
+15,23,11,Monday,Spring,291,31,12,40,284.031,97,0,High School,1,True,False,1,25,1,Medical consultation
+1,18,11,Wednesday,Spring,235,11,14,37,284.031,97,0,Postgraduate,1,False,False,1,29,1,Symptoms/Abnormal findings
+3,28,11,Tuesday,Spring,179,51,18,38,284.031,97,0,High School,0,True,False,0,31,1,Dental consultation
+3,23,11,Thursday,Spring,179,51,18,38,284.031,97,0,High School,0,True,False,0,31,1,Medical consultation
+3,28,12,Monday,Spring,179,51,18,38,236.629,93,0,High School,0,True,False,0,31,1,Dental consultation
+36,28,12,Tuesday,Spring,118,13,18,50,236.629,93,0,High School,1,True,False,0,31,1,Dental consultation
+3,28,12,Thursday,Spring,179,51,18,38,236.629,93,0,High School,0,True,False,0,31,1,Dental consultation
+3,28,12,Friday,Spring,179,51,18,38,236.629,93,0,High School,0,True,False,0,31,1,Dental consultation
+22,23,12,Tuesday,Spring,179,26,9,30,236.629,93,0,Postgraduate,0,False,False,0,19,1,Medical consultation
+1,13,1,Tuesday,Autumn,235,11,14,37,330.061,100,0,Postgraduate,1,False,False,1,29,1,Musculoskeletal/Connective tissue
+3,28,1,Wednesday,Autumn,179,51,18,38,330.061,100,0,High School,0,True,False,0,31,1,Dental consultation
+3,28,1,Friday,Autumn,179,51,18,38,330.061,100,0,High School,0,True,False,0,31,1,Dental consultation
+28,7,2,Wednesday,Autumn,225,26,9,28,251.818,96,0,High School,1,False,False,2,24,1,Eye/Adnexa diseases
+36,23,4,Monday,Winter,118,13,18,50,239.409,98,0,High School,1,True,False,0,31,1,Medical consultation
+10,23,5,Thursday,Winter,361,52,3,28,246.074,99,0,High School,1,True,False,4,27,1,Medical consultation
+34,28,5,Monday,Winter,118,10,10,37,246.074,99,0,High School,0,False,False,0,28,1,Dental consultation
+18,11,6,Tuesday,Summer,330,16,4,28,253.957,95,0,Graduate,0,False,False,0,25,1,Digestive system diseases
+2,23,7,Monday,Summer,235,29,12,48,230.29,92,0,High School,1,False,True,5,33,1,Medical consultation
+3,28,7,Tuesday,Summer,179,51,18,38,230.29,92,0,High School,0,True,False,0,31,1,Dental consultation
+36,23,7,Friday,Summer,118,13,18,50,230.29,92,0,High School,1,True,False,0,31,1,Medical consultation
+15,28,7,Thursday,Summer,291,31,12,40,230.29,92,0,High School,1,True,False,1,25,1,Dental consultation
+17,25,8,Monday,Summer,179,22,17,40,249.797,93,0,Graduate,2,False,True,0,22,1,Laboratory examination
+24,28,8,Tuesday,Summer,246,25,16,41,249.797,93,0,High School,0,True,False,0,23,1,Dental consultation
+24,28,9,Tuesday,Summer,246,25,16,41,261.756,87,0,High School,0,True,False,0,23,1,Dental consultation
+33,23,9,Friday,Summer,248,25,14,47,261.756,87,0,High School,2,False,False,1,32,1,Medical consultation
+28,23,9,Wednesday,Summer,225,26,9,28,261.756,87,0,High School,1,False,False,2,24,1,Medical consultation
+32,4,10,Thursday,Spring,289,48,29,49,284.853,91,0,High School,0,False,False,2,36,1,Endocrine/Nutritional/Metabolic
+15,23,10,Friday,Spring,291,31,12,40,284.853,91,0,High School,1,True,False,1,25,1,Medical consultation
+9,1,10,Wednesday,Spring,228,14,16,58,284.853,91,0,High School,2,False,False,1,22,1,Infectious/Parasitic
+15,23,10,Wednesday,Spring,291,31,12,40,284.853,91,0,High School,1,True,False,1,25,1,Medical consultation
+28,13,10,Thursday,Spring,225,26,9,28,284.853,91,0,High School,1,False,False,2,24,1,Musculoskeletal/Connective tissue
+3,21,11,Tuesday,Spring,179,51,18,38,268.519,93,0,High School,0,True,False,0,31,1,Factors influencing health status
+3,28,11,Friday,Spring,179,51,18,38,268.519,93,0,High School,0,True,False,0,31,1,Dental consultation
+3,28,11,Monday,Spring,179,51,18,38,268.519,93,0,High School,0,True,False,0,31,1,Dental consultation
+15,28,12,Wednesday,Spring,291,31,12,40,280.549,98,0,High School,1,True,False,1,25,1,Dental consultation
+22,13,12,Friday,Spring,179,26,9,30,280.549,98,0,Postgraduate,0,False,False,0,19,1,Musculoskeletal/Connective tissue
+22,13,5,Thursday,Winter,179,26,9,30,237.656,99,0,Postgraduate,0,False,False,0,19,1,Musculoskeletal/Connective tissue
+34,28,5,Tuesday,Winter,118,10,10,37,237.656,99,0,High School,0,False,False,0,28,1,Dental consultation
+17,16,5,Friday,Winter,179,22,17,40,237.656,99,0,Graduate,2,False,True,0,22,1,Perinatal conditions
+28,11,5,Monday,Winter,225,26,9,28,237.656,99,0,High School,1,False,False,2,24,1,Digestive system diseases
+36,0,7,Tuesday,Summer,118,13,18,50,239.554,97,1,High School,1,True,False,0,31,0,Unknown/Other
+20,0,9,Monday,Spring,260,50,11,36,241.476,92,1,High School,4,True,False,0,23,0,Unknown/Other
+29,0,9,Monday,Spring,225,26,9,28,241.476,92,1,High School,1,False,False,2,24,0,Unknown/Other
+11,0,9,Tuesday,Spring,289,36,13,33,241.476,92,1,High School,2,True,False,1,30,0,Unknown/Other
+36,0,9,Tuesday,Spring,118,13,18,50,241.476,92,1,High School,1,True,False,0,31,0,Unknown/Other
+13,0,9,Wednesday,Spring,369,17,12,31,241.476,92,1,High School,3,True,False,0,25,0,Unknown/Other
+36,0,10,Wednesday,Spring,118,13,18,50,253.465,93,1,High School,1,True,False,0,31,0,Unknown/Other
+34,27,1,Monday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,28,0,Physiotherapy
+2,0,4,Monday,Winter,235,29,12,48,326.452,96,1,High School,1,False,True,5,33,0,Unknown/Other
+7,0,5,Wednesday,Winter,279,5,14,39,378.884,92,1,High School,2,True,True,0,24,0,Unknown/Other
+18,0,5,Wednesday,Winter,330,16,4,28,378.884,92,1,Graduate,0,False,False,0,25,0,Unknown/Other
+23,0,5,Wednesday,Winter,378,49,11,36,378.884,92,1,High School,2,False,True,4,21,0,Unknown/Other
+31,0,5,Wednesday,Winter,388,15,9,50,378.884,92,1,High School,0,False,False,0,24,0,Unknown/Other
+20,0,7,Thursday,Summer,260,50,11,36,275.312,98,1,High School,4,True,False,0,23,0,Unknown/Other
+5,0,9,Thursday,Summer,235,20,13,43,294.217,81,1,High School,1,True,False,0,38,0,Unknown/Other
+8,0,9,Tuesday,Summer,231,35,14,39,294.217,81,1,High School,2,True,False,2,35,0,Unknown/Other
+19,0,9,Tuesday,Summer,291,50,12,32,294.217,81,1,High School,0,True,False,0,23,0,Unknown/Other
+5,0,9,Thursday,Spring,235,20,13,43,294.217,81,1,High School,1,True,False,0,38,0,Unknown/Other
+36,0,10,Friday,Spring,118,13,18,50,265.017,88,1,High School,1,True,False,0,31,0,Unknown/Other
+33,0,10,Friday,Spring,248,25,14,47,265.017,88,1,High School,2,False,False,1,32,0,Unknown/Other
+5,0,10,Wednesday,Spring,235,20,13,43,265.017,88,1,High School,1,True,False,0,38,0,Unknown/Other
+5,0,10,Friday,Spring,235,20,13,43,265.017,88,1,High School,1,True,False,0,38,0,Unknown/Other
+20,0,10,Tuesday,Spring,260,50,11,36,265.017,88,1,High School,4,True,False,0,23,0,Unknown/Other
+15,0,10,Tuesday,Spring,291,31,12,40,265.017,88,1,High School,1,True,False,1,25,0,Unknown/Other
+30,0,10,Tuesday,Spring,157,27,6,29,265.017,88,1,High School,0,True,True,0,22,0,Unknown/Other
+18,0,11,Tuesday,Spring,330,16,4,28,284.031,97,1,Graduate,0,False,False,0,25,0,Unknown/Other
+23,0,11,Friday,Spring,378,49,11,36,284.031,97,1,High School,2,False,True,4,21,0,Unknown/Other
+7,0,11,Tuesday,Spring,279,5,14,39,284.031,97,1,High School,2,True,True,0,24,0,Unknown/Other
+13,0,3,Wednesday,Autumn,369,17,12,31,244.387,98,1,High School,3,True,False,0,25,0,Unknown/Other
+1,0,3,Thursday,Winter,235,11,14,37,244.387,98,1,Postgraduate,1,False,False,1,29,0,Unknown/Other
+24,0,3,Thursday,Winter,246,25,16,41,244.387,98,1,High School,0,True,False,0,23,0,Unknown/Other
+36,0,3,Thursday,Winter,118,13,18,50,244.387,98,1,High School,1,True,False,0,31,0,Unknown/Other
+3,0,6,Friday,Winter,179,51,18,38,253.957,95,1,High School,0,True,False,0,31,0,Unknown/Other
+28,0,10,Monday,Spring,225,26,9,28,284.853,91,1,High School,1,False,False,2,24,0,Unknown/Other
+15,0,11,Tuesday,Spring,291,31,12,40,268.519,93,1,High School,1,True,False,1,25,0,Unknown/Other
+11,0,11,Wednesday,Spring,289,36,13,33,268.519,93,1,High School,2,True,False,1,30,0,Unknown/Other
+5,0,11,Thursday,Spring,235,20,13,43,268.519,93,1,High School,1,True,False,0,38,0,Unknown/Other
+36,0,5,Tuesday,Winter,118,13,18,50,237.656,99,1,High School,1,True,False,0,31,0,Unknown/Other
+23,0,5,Wednesday,Winter,378,49,11,36,237.656,99,1,High School,2,False,True,4,21,0,Unknown/Other
+2,0,6,Monday,Winter,235,29,12,48,275.089,96,1,High School,1,False,True,5,33,0,Unknown/Other
+21,0,6,Monday,Winter,268,11,8,33,275.089,96,1,Graduate,0,False,False,0,25,0,Unknown/Other
+4,0,0,Tuesday,Summer,118,14,13,40,271.219,95,0,High School,1,True,False,8,34,0,Unknown/Other
+8,0,0,Wednesday,Autumn,231,35,14,39,271.219,95,0,High School,2,True,False,2,35,0,Unknown/Other
+35,0,0,Friday,Winter,179,45,14,53,271.219,95,0,High School,1,False,False,1,25,0,Unknown/Other
+37,26,12,Friday,Spring,260,50,11,36,261.306,97,0,High School,4,True,False,0,23,8,Unjustified absence
+38,9,9,Monday,Summer,246,25,16,41,294.217,81,0,High School,0,True,False,0,23,16,Circulatory system diseases
+39,22,2,Monday,Autumn,189,29,13,33,251.818,96,0,High School,2,False,False,2,25,8,Patient follow-up
+40,22,7,Friday,Summer,361,52,3,28,239.554,97,0,High School,1,True,False,4,27,8,Patient follow-up
+41,28,2,Tuesday,Autumn,118,10,10,37,251.818,96,0,High School,0,False,False,0,28,2,Dental consultation
+42,23,11,Wednesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,24,1,Medical consultation
+43,19,8,Friday,Summer,157,27,6,29,265.615,94,0,High School,0,True,True,0,22,3,Injury/Poisoning
+44,26,8,Tuesday,Summer,235,20,13,43,249.797,93,0,High School,1,True,False,0,38,8,Unjustified absence
+45,19,10,Thursday,Spring,260,50,11,36,253.465,93,0,High School,4,True,False,0,23,16,Injury/Poisoning
+46,23,11,Wednesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,24,1,Medical consultation
+47,23,2,Tuesday,Autumn,246,25,16,41,251.818,96,0,High School,0,True,False,0,23,2,Medical consultation
+48,19,4,Tuesday,Winter,289,36,13,33,326.452,96,0,High School,2,True,False,1,30,8,Injury/Poisoning
+49,27,3,Thursday,Autumn,179,51,18,38,222.196,99,0,High School,0,True,False,0,31,3,Physiotherapy
+50,19,12,Tuesday,Spring,118,10,10,37,261.306,97,0,High School,0,False,False,0,28,64,Injury/Poisoning
+51,23,10,Thursday,Spring,289,48,29,49,284.853,91,0,High School,0,False,False,2,36,2,Medical consultation
+52,28,2,Friday,Autumn,260,50,11,36,251.818,96,0,High School,4,True,False,0,23,3,Dental consultation
+53,10,5,Monday,Winter,235,16,8,32,237.656,99,0,Postgraduate,0,False,False,0,25,8,Respiratory system diseases
+54,23,7,Thursday,Summer,289,36,13,33,239.554,97,0,High School,2,True,False,1,30,2,Medical consultation
+55,19,7,Monday,Summer,289,36,13,33,275.312,98,0,High School,2,True,False,1,30,32,Injury/Poisoning
+56,8,3,Thursday,Autumn,179,22,17,40,343.253,95,0,Graduate,2,False,True,0,22,8,Ear/Mastoid diseases
+57,13,5,Monday,Winter,235,20,13,43,246.074,99,0,High School,1,True,False,0,38,16,Musculoskeletal/Connective tissue
+58,25,5,Monday,Winter,179,26,9,30,246.074,99,0,Postgraduate,0,False,False,0,19,2,Laboratory examination
+59,23,3,Wednesday,Autumn,289,36,13,33,222.196,99,0,High School,2,True,False,1,30,8,Medical consultation
+60,15,7,Monday,Summer,300,26,13,43,230.29,92,0,High School,2,True,True,1,25,8,Pregnancy/Childbirth
+61,28,2,Friday,Autumn,225,15,15,41,264.249,97,0,Master/Doctor,2,True,False,2,28,2,Dental consultation
+62,18,1,Tuesday,Autumn,289,36,13,33,308.593,95,0,High School,2,True,False,1,30,8,Symptoms/Abnormal findings
+63,23,5,Monday,Winter,118,13,18,50,237.656,99,0,High School,1,True,False,0,31,2,Medical consultation
+64,12,5,Tuesday,Winter,179,51,18,38,378.884,92,0,High School,0,True,False,0,31,1,Skin/Subcutaneous diseases
+65,23,11,Wednesday,Spring,225,26,9,28,306.345,93,0,High School,1,False,False,2,24,3,Medical consultation
+66,23,4,Tuesday,Winter,118,13,18,50,246.288,91,0,High School,1,True,False,0,31,3,Medical consultation
+67,25,1,Thursday,Autumn,179,22,17,40,313.532,96,0,Graduate,2,False,True,0,22,2,Laboratory examination
+68,23,5,Wednesday,Winter,179,26,9,30,246.074,99,0,Postgraduate,0,False,False,0,19,3,Medical consultation
+69,23,10,Friday,Spring,291,31,12,40,284.853,91,0,High School,1,True,False,1,25,1,Medical consultation
+70,13,4,Wednesday,Winter,246,25,16,41,326.452,96,0,High School,0,True,False,0,23,24,Musculoskeletal/Connective tissue
+71,28,8,Tuesday,Summer,118,10,10,37,249.797,93,0,High School,0,False,False,0,28,4,Dental consultation
+72,28,10,Wednesday,Spring,179,51,18,38,265.017,88,0,High School,0,True,False,0,31,1,Dental consultation
+73,26,1,Monday,Autumn,235,20,13,43,330.061,100,0,High School,1,True,False,0,38,8,Unjustified absence
+74,28,4,Friday,Winter,248,25,14,47,326.452,96,0,High School,2,False,False,1,32,8,Dental consultation
+75,14,10,Tuesday,Spring,291,31,12,40,253.465,93,0,High School,1,True,False,1,25,8,Genitourinary system diseases
+76,24,8,Tuesday,Summer,289,36,13,33,205.917,92,0,High School,2,True,False,1,30,8,Blood donation
+77,27,2,Wednesday,Autumn,179,26,9,30,264.249,97,0,Postgraduate,0,False,False,0,19,2,Physiotherapy
+78,9,9,Wednesday,Summer,246,25,16,41,294.217,81,0,High School,0,True,False,0,23,32,Circulatory system diseases
+79,23,10,Wednesday,Spring,248,25,14,47,253.465,93,0,High School,2,False,False,1,32,2,Medical consultation
+80,23,8,Thursday,Summer,235,11,14,37,205.917,92,0,Postgraduate,1,False,False,1,29,4,Medical consultation
+81,23,2,Friday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,31,3,Medical consultation
+82,23,2,Tuesday,Autumn,225,26,9,28,302.585,99,0,High School,1,False,False,2,24,2,Medical consultation
+83,27,1,Tuesday,Autumn,118,10,10,37,308.593,95,0,High School,0,False,False,0,28,2,Physiotherapy
+84,23,10,Tuesday,Spring,369,17,12,31,284.853,91,0,High School,3,True,False,0,25,3,Medical consultation
+85,28,11,Monday,Spring,248,25,14,47,306.345,93,0,High School,2,False,False,1,32,1,Dental consultation
+86,26,12,Wednesday,Autumn,260,50,11,36,236.629,93,0,High School,4,True,False,0,23,8,Unjustified absence
+87,27,2,Friday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,3,Physiotherapy
+88,27,2,Friday,Autumn,179,51,18,38,251.818,96,0,High School,0,True,False,0,31,3,Physiotherapy
+89,18,5,Tuesday,Winter,179,51,18,38,378.884,92,0,High School,0,True,False,0,31,8,Symptoms/Abnormal findings
+90,26,12,Friday,Spring,235,20,13,43,280.549,98,0,High School,1,True,False,0,38,8,Unjustified absence
+91,13,2,Thursday,Autumn,179,51,18,38,264.249,97,0,High School,0,True,False,0,31,8,Musculoskeletal/Connective tissue
+92,19,4,Wednesday,Winter,248,25,14,47,246.288,91,0,High School,2,False,False,1,32,8,Injury/Poisoning
+93,11,11,Monday,Spring,155,12,14,34,284.031,97,0,High School,2,True,False,0,25,120,Digestive system diseases
+94,23,11,Monday,Spring,291,31,12,40,284.031,97,0,High School,1,True,False,1,25,1,Medical consultation
+95,0,7,Tuesday,Summer,118,13,18,50,239.554,97,1,High School,1,True,False,0,31,0,Unknown/Other
+96,22,7,Wednesday,Summer,225,26,9,28,264.604,93,0,High School,1,False,False,2,24,8,Patient follow-up
+97,26,7,Monday,Summer,260,50,11,36,230.29,92,0,High School,4,True,False,0,23,4,Unjustified absence
+98,23,3,Thursday,Autumn,248,25,14,47,222.196,99,0,High School,2,False,False,1,32,3,Medical consultation
+99,23,4,Wednesday,Winter,225,26,9,28,326.452,96,0,High School,1,False,False,2,24,1,Medical consultation
+100,13,6,Monday,Winter,291,31,12,40,253.957,95,0,High School,1,True,False,1,25,40,Musculoskeletal/Connective tissue
+101,26,10,Friday,Spring,246,25,16,41,284.853,91,0,High School,0,True,False,0,23,8,Unjustified absence
+102,8,8,Tuesday,Summer,361,52,3,28,265.615,94,0,High School,1,True,False,4,27,8,Ear/Mastoid diseases
+103,13,6,Wednesday,Winter,118,13,18,50,377.55,94,0,High School,1,True,False,0,31,8,Musculoskeletal/Connective tissue
+104,28,5,Monday,Winter,118,10,10,37,246.074,99,0,High School,0,False,False,0,28,1,Dental consultation
+105,28,11,Thursday,Spring,179,51,18,38,284.031,97,0,High School,0,True,False,0,31,3,Dental consultation
+106,26,10,Wednesday,Spring,289,36,13,33,253.465,93,0,High School,2,True,False,1,30,8,Unjustified absence
+107,13,1,Monday,Autumn,179,26,9,30,313.532,96,0,Postgraduate,0,False,False,0,19,3,Musculoskeletal/Connective tissue
+108,27,12,Friday,Spring,118,10,10,37,261.306,97,0,High School,0,False,False,0,28,2,Physiotherapy
+109,7,7,Thursday,Summer,279,5,14,39,239.554,97,0,High School,2,True,True,0,24,4,Eye/Adnexa diseases
+110,23,1,Tuesday,Autumn,155,12,14,34,330.061,100,0,High School,2,True,False,0,25,4,Medical consultation
+111,28,12,Monday,Spring,179,51,18,38,236.629,93,0,High School,0,True,False,0,31,2,Dental consultation
+112,23,6,Wednesday,Summer,225,26,9,28,253.957,95,0,High School,1,False,False,2,24,2,Medical consultation
+113,18,3,Tuesday,Autumn,118,10,10,37,244.387,98,0,High School,0,False,False,0,28,8,Symptoms/Abnormal findings
+114,23,7,Monday,Summer,235,29,12,48,230.29,92,0,High School,1,False,True,5,33,1,Medical consultation
+115,18,12,Tuesday,Autumn,155,12,14,34,280.549,98,0,High School,2,True,False,0,25,80,Symptoms/Abnormal findings
+116,13,4,Wednesday,Winter,179,51,18,38,326.452,96,0,High School,0,True,False,0,31,24,Musculoskeletal/Connective tissue
+117,28,12,Monday,Autumn,179,51,18,38,236.629,93,0,High School,0,True,False,0,31,3,Dental consultation
+118,9,11,Tuesday,Spring,118,10,10,37,268.519,93,0,High School,0,False,False,0,28,8,Circulatory system diseases
+119,0,0,Tuesday,Summer,118,14,13,40,271.219,95,0,High School,1,True,False,8,34,0,Unknown/Other
+120,26,6,Friday,Winter,118,10,10,37,275.089,96,0,High School,0,False,False,0,28,8,Unjustified absence
+121,14,12,Tuesday,Autumn,235,11,14,37,236.629,93,0,Postgraduate,1,False,False,1,29,4,Genitourinary system diseases
+122,23,2,Tuesday,Autumn,248,25,14,47,264.249,97,0,High School,2,False,False,1,32,2,Medical consultation
+123,28,6,Tuesday,Winter,246,25,16,41,253.957,95,0,High School,0,True,False,0,23,3,Dental consultation
+124,1,7,Monday,Summer,260,50,11,36,239.554,97,0,High School,4,True,False,0,23,8,Infectious/Parasitic
+125,23,2,Tuesday,Autumn,179,26,9,30,302.585,99,0,Postgraduate,0,False,False,0,19,1,Medical consultation
+126,25,5,Friday,Winter,179,22,17,40,237.656,99,0,Graduate,2,False,True,0,22,8,Laboratory examination
+127,23,2,Tuesday,Autumn,225,26,9,28,264.249,97,0,High School,1,False,False,2,24,3,Medical consultation
+128,28,3,Monday,Autumn,179,51,18,38,244.387,98,0,High School,0,True,False,0,31,16,Dental consultation
+129,10,8,Wednesday,Summer,330,16,4,28,205.917,92,0,Graduate,0,False,False,0,25,8,Respiratory system diseases
+130,12,11,Friday,Spring,291,31,12,40,284.031,97,0,High School,1,True,False,1,25,4,Skin/Subcutaneous diseases
+131,18,7,Thursday,Summer,179,26,9,30,275.312,98,0,Postgraduate,0,False,False,0,19,8,Symptoms/Abnormal findings
+132,11,6,Friday,Winter,179,51,18,38,377.55,94,0,High School,0,True,False,0,31,2,Digestive system diseases
+133,10,5,Friday,Winter,155,12,14,34,237.656,99,0,High School,2,True,False,0,25,8,Respiratory system diseases
+134,10,11,Wednesday,Spring,260,50,11,36,284.031,97,0,High School,4,True,False,0,23,8,Respiratory system diseases
+135,28,10,Tuesday,Spring,225,26,9,28,253.465,93,0,High School,1,False,False,2,24,2,Dental consultation
+136,23,9,Friday,Spring,260,50,11,36,241.476,92,0,High School,4,True,False,0,23,4,Medical consultation

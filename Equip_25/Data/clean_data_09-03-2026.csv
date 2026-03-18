@@ -15,7 +15,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 89776,Entire home/apt,650.0,True,7,18,41,224,96,2011-11-10,2019-12-01,322,3.32,Barcelona,2019-12-10,True
 89954,Entire home/apt,1030.0,True,27,48,49,61,97,2011-07-01,2018-11-01,181,2.05,Madrid,2018-11-07,True
 96807,Private room,290.0,True,30,60,90,365,91,2011-06-08,2019-07-07,77,0.75,Madrid,2019-12-10,True
-101580,Entire home/apt,,True,22,52,82,237,99,2017-05-28,2018-10-14,14,0.74,Girona,2018-12-22,True
 103386,Entire home/apt,840.0,True,17,38,64,229,93,2011-11-01,2019-04-19,13,0.14,Valencia,2019-10-31,True
 107437,Entire home/apt,2200.0,True,12,41,59,250,93,2011-07-08,2018-07-28,34,0.39,Barcelona,2018-10-10,True
 121210,Private room,510.0,True,13,38,68,68,89,2011-05-31,2017-12-09,154,1.87,Barcelona,2018-04-12,True
@@ -51,7 +50,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 352772,Entire home/apt,850.0,True,0,0,0,219,94,2014-02-28,2020-10-18,103,1.28,Barcelona,2020-11-06,True
 353713,Private room,370.0,True,4,11,11,11,95,2014-09-15,2018-07-27,247,5.25,Madrid,2018-08-14,True
 354838,Entire home/apt,700.0,True,0,0,0,0,95,2012-04-08,2018-07-03,38,0.44,Madrid,2019-06-07,True
-361488,Entire home/apt,,True,0,0,0,0,,,,0,,Madrid,2019-04-11,
 363601,Entire home/apt,600.0,True,0,0,0,134,84,2012-08-20,2018-08-23,26,0.27,Barcelona,2020-10-12,True
 365911,Entire home/apt,1130.0,True,15,37,52,305,94,2012-07-26,2018-05-08,40,0.57,Barcelona,2018-05-14,True
 374558,Entire home/apt,540.0,False,0,0,2,2,87,2013-05-03,2017-01-03,91,1.93,Madrid,2017-04-08,True
@@ -81,7 +79,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 468912,Private room,350.0,True,24,42,54,317,94,2017-06-05,2018-01-04,18,2.22,Barcelona,2018-02-07,True
 471669,Private room,800.0,True,25,55,81,338,89,2013-05-27,2019-02-27,58,0.84,Barcelona,2019-03-08,True
 472062,Entire home/apt,1750.0,True,7,25,55,330,94,2016-01-18,2018-08-09,20,0.65,Barcelona,2018-08-14,True
-474387,Entire home/apt,,False,8,38,68,340,81,2013-04-22,2016-02-25,16,0.35,Barcelona,2017-02-09,True
 478923,Entire home/apt,2080.0,True,25,41,71,324,96,2012-10-01,2018-09-17,11,0.12,Mallorca,2020-04-23,True
 487818,Entire home/apt,2000.0,True,22,35,65,251,99,2015-09-17,2018-11-09,16,0.42,Mallorca,2018-11-20,True
 494480,Entire home/apt,550.0,True,25,55,85,360,95,2019-12-29,2020-03-05,30,4.96,Menorca,2020-06-30,True
@@ -155,8 +152,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 717300,Entire home/apt,950.0,False,13,40,53,132,100,2016-06-21,2016-06-21,1,0.11,Mallorca,2017-03-15,True
 717710,Entire home/apt,650.0,False,0,0,14,254,90,2013-05-10,2017-02-25,30,0.64,Barcelona,2017-04-08,True
 718469,Entire home/apt,570.0,True,0,0,28,297,98,2013-04-29,2020-10-04,344,3.84,Barcelona,2020-10-12,True
-721378,Entire home/apt,,True,15,35,65,340,93,2018-03-03,2019-02-27,3,0.16,Barcelona,2019-09-17,True
-721509,Entire home/apt,,True,23,48,78,158,80,2018-04-18,2018-04-18,1,1.17,Barcelona,2018-05-14,True
 723935,Entire home/apt,2200.0,True,13,32,62,314,91,2018-05-06,2019-08-17,9,0.57,Girona,2019-08-31,True
 724177,Entire home/apt,650.0,True,19,46,74,165,84,2012-10-30,2018-07-23,187,2.71,Sevilla,2018-07-31,True
 725659,Entire home/apt,750.0,True,0,2,8,277,94,2013-03-13,2018-01-02,105,1.69,Barcelona,2018-05-14,True
@@ -300,7 +295,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 1068919,Entire home/apt,4000.0,True,17,37,51,323,81,2016-01-04,2018-11-25,17,0.43,Barcelona,2019-04-10,True
 1069174,Entire home/apt,750.0,True,17,47,77,352,91,2013-05-20,2019-12-08,201,2.55,Madrid,2019-12-10,True
 1069572,Entire home/apt,770.0,True,30,52,82,349,96,2015-01-03,2018-01-10,26,0.71,Barcelona,2018-01-17,True
-1071662,Entire home/apt,,True,23,53,83,358,,,,0,,Girona,2018-12-22,
 1073748,Entire home/apt,1300.0,True,0,0,0,131,100,2013-05-05,2020-08-28,92,1.02,Barcelona,2020-11-06,True
 1075276,Entire home/apt,800.0,True,29,33,46,321,96,2014-04-23,2018-09-30,11,0.19,Sevilla,2019-02-18,True
 1078049,Entire home/apt,1500.0,True,1,8,15,248,87,2013-05-27,2019-02-23,48,0.68,Barcelona,2019-04-10,True
@@ -463,7 +457,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 1639471,Private room,480.0,True,8,17,47,310,89,2013-09-22,2019-09-28,194,2.66,Madrid,2019-10-16,True
 1639547,Entire home/apt,700.0,True,0,0,0,239,95,2013-09-23,2020-02-16,24,0.28,Madrid,2020-10-17,True
 1645680,Private room,890.0,True,30,60,90,365,94,2014-04-26,2019-10-31,87,1.3,Mallorca,2019-11-28,True
-1648617,Entire home/apt,,True,6,15,24,291,99,2014-07-14,2019-06-10,38,0.64,Mallorca,2019-06-27,True
 1660109,Entire home/apt,1390.0,True,28,52,56,301,97,2014-05-05,2018-07-06,29,0.48,Girona,2019-04-29,True
 1670427,Entire home/apt,650.0,True,27,57,87,362,94,2013-10-08,2020-07-14,503,5.97,Barcelona,2020-10-12,True
 1672204,Entire home/apt,900.0,True,28,50,60,210,90,2014-04-22,2020-01-04,83,1.14,Barcelona,2020-05-11,True
@@ -612,7 +605,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 2511423,Entire home/apt,1400.0,True,28,58,88,363,100,2019-07-31,2019-07-31,1,0.07,Girona,2020-10-28,True
 2514285,Entire home/apt,720.0,True,30,60,90,344,92,2014-06-07,2019-09-30,21,0.31,Mallorca,2019-12-31,True
 2517647,Entire home/apt,1090.0,True,0,0,0,146,86,2014-04-29,2018-10-17,57,1.04,Mallorca,2018-11-20,True
-2531084,Entire home/apt,,True,20,48,66,307,97,2014-05-30,2018-07-27,57,1.14,Sevilla,2018-07-31,True
 2534835,Entire home/apt,700.0,False,0,0,0,179,97,2014-04-27,2017-06-17,151,3.94,Barcelona,2017-07-06,True
 2535466,Entire home/apt,750.0,True,30,52,62,293,94,2014-07-01,2018-04-22,35,0.49,Valencia,2020-05-31,True
 2536121,Entire home/apt,1200.0,False,8,12,17,188,94,2014-03-28,2017-02-27,57,1.61,Barcelona,2017-03-06,True
@@ -682,7 +674,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 2930904,Private room,210.0,True,20,43,73,348,99,2014-10-31,2019-01-11,16,0.31,Sevilla,2019-02-18,True
 2934212,Entire home/apt,700.0,True,0,0,0,0,88,2014-08-24,2019-04-29,35,0.62,Barcelona,2019-05-14,True
 2945083,Entire home/apt,550.0,True,0,0,0,200,92,2014-05-20,2018-08-27,37,0.64,Valencia,2019-02-28,True
-2963691,Entire home/apt,,True,30,58,61,332,99,2015-08-19,2019-08-31,27,0.47,Mallorca,2020-05-28,True
 2965156,Entire home/apt,1790.0,True,0,0,0,0,95,2016-08-06,2018-08-11,4,0.11,Girona,2019-08-31,True
 2967668,Entire home/apt,1050.0,True,13,43,73,348,97,2014-06-20,2017-11-04,41,0.98,Barcelona,2017-12-09,True
 2974139,Entire home/apt,950.0,True,5,12,16,222,91,2014-05-10,2018-06-25,28,0.56,Barcelona,2018-07-10,True
@@ -717,7 +708,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 3097665,Entire home/apt,700.0,True,0,1,25,25,90,2017-06-29,2020-02-19,49,1.24,Barcelona,2020-10-12,True
 3099873,Entire home/apt,750.0,True,25,52,82,338,89,2014-08-28,2018-08-04,15,0.31,Girona,2018-08-30,True
 3107364,Entire home/apt,1190.0,True,29,59,81,349,90,2014-07-27,2019-10-20,26,0.4,Mallorca,2019-12-31,True
-3107710,Entire home/apt,,True,9,34,64,339,80,2016-06-20,2018-08-20,11,0.38,Barcelona,2018-11-07,True
 3110029,Entire home/apt,1900.0,True,8,14,44,232,95,2016-02-25,2019-03-27,11,0.28,Barcelona,2019-05-14,True
 3111682,Entire home/apt,700.0,True,30,60,67,310,97,2014-08-08,2019-01-10,31,0.55,Mallorca,2019-04-24,True
 3120157,Entire home/apt,1790.0,True,9,22,24,276,100,2017-04-20,2017-04-20,1,0.04,Mallorca,2019-05-27,True
@@ -751,7 +741,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 3255204,Entire home/apt,390.0,True,23,53,83,173,98,2015-04-07,2020-03-04,18,0.28,Barcelona,2020-07-17,True
 3265618,Entire home/apt,1000.0,True,30,60,90,365,100,2020-08-25,2020-08-25,1,0.26,Mallorca,2020-12-19,True
 3269446,Private room,250.0,True,0,0,0,0,100,2017-11-01,2017-11-01,1,0.03,Barcelona,2020-05-11,True
-3275634,Entire home/apt,,True,30,60,90,365,73,2016-04-11,2016-08-14,4,0.09,Valencia,2020-02-29,False
 3275784,Entire home/apt,1500.0,True,0,0,0,214,95,2014-08-29,2019-09-19,8,0.1,Mallorca,2021-01-16,True
 3279230,Entire home/apt,2850.0,True,0,0,16,149,100,2019-05-05,2019-05-05,1,0.05,Mallorca,2021-01-16,True
 3281769,Entire home/apt,1250.0,True,24,51,59,91,94,2014-06-16,2020-03-05,128,1.72,Barcelona,2020-08-24,True
@@ -894,7 +883,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 3948967,Entire home/apt,1140.0,False,6,9,18,253,93,2015-04-14,2017-02-26,103,4.52,Barcelona,2017-03-06,True
 3950979,Entire home/apt,820.0,False,20,39,46,261,94,2015-03-16,2017-01-29,7,0.3,Madrid,2017-03-06,True
 3970654,Private room,550.0,False,21,51,81,150,92,2014-09-07,2017-01-27,93,3.1,Barcelona,2017-03-06,True
-3972514,Entire home/apt,,True,9,9,10,169,100,2015-05-05,2019-04-14,6,0.12,Mallorca,2019-05-27,True
 3992145,Entire home/apt,1300.0,True,29,59,89,364,100,2014-10-20,2014-11-03,2,0.05,Malaga,2017-11-25,True
 3992649,Entire home/apt,1000.0,True,0,15,45,320,100,2018-10-26,2019-01-31,2,0.1,Barcelona,2020-07-17,True
 4000081,Private room,150.0,True,0,0,0,0,100,2018-12-31,2019-01-31,2,0.91,Madrid,2019-03-08,True
@@ -928,7 +916,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 4202082,Private room,330.0,True,30,60,90,365,86,2015-05-16,2017-10-10,10,0.31,Madrid,2018-01-17,True
 4209027,Private room,290.0,True,0,17,47,47,80,2015-04-25,2017-10-22,98,2.99,Barcelona,2018-01-17,True
 4210151,Private room,350.0,True,30,60,90,365,91,2015-01-27,2016-08-24,16,0.46,Barcelona,2017-12-09,True
-4254382,Entire home/apt,,True,0,0,0,0,99,2015-02-16,2018-08-20,31,0.65,Mallorca,2019-01-28,True
 4256038,Entire home/apt,850.0,True,16,37,67,311,89,2014-10-14,2018-01-30,103,2.58,Barcelona,2018-02-07,True
 4256300,Entire home/apt,500.0,True,4,22,50,316,94,2014-11-01,2018-07-04,127,2.82,Malaga,2018-07-31,True
 4299561,Entire home/apt,450.0,True,19,29,56,178,91,2014-10-20,2017-11-01,137,3.72,Barcelona,2017-11-13,True
@@ -1026,7 +1013,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 4960267,Entire home/apt,3500.0,True,29,59,89,364,100,2015-08-10,2015-08-10,1,0.03,Mallorca,2018-09-18,True
 4964191,Private room,990.0,True,28,58,88,163,92,2016-03-06,2020-02-28,33,0.68,Barcelona,2020-03-16,True
 4969560,Entire home/apt,1000.0,True,0,0,0,0,,,,0,,Madrid,2018-09-11,
-4970202,Entire home/apt,,True,0,0,0,0,100,2015-03-08,2016-02-12,2,0.05,Barcelona,2018-04-12,True
 4970465,Entire home/apt,650.0,False,1,7,37,301,,,,0,,Barcelona,2017-07-06,
 4970715,Entire home/apt,770.0,True,10,27,57,316,87,2016-06-05,2017-11-24,3,0.15,Barcelona,2018-01-17,True
 4994458,Entire home/apt,2110.0,True,1,1,1,1,85,2015-08-24,2019-07-25,12,0.19,Menorca,2020-12-30,True
@@ -1117,7 +1103,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 5407955,Private room,430.0,False,1,18,20,22,95,2015-03-18,2017-04-30,66,2.57,Barcelona,2017-05-07,True
 5408781,Entire home/apt,350.0,True,30,60,90,349,,,,0,,Girona,2020-03-26,
 5417854,Entire home/apt,750.0,True,0,0,0,0,97,2015-09-10,2018-09-30,25,0.59,Mallorca,2019-03-25,True
-5429715,Entire home/apt,,True,24,54,77,296,100,2019-12-08,2019-12-08,1,0.09,Girona,2020-10-28,True
 5437526,Private room,250.0,True,27,28,58,333,95,2015-11-08,2018-10-31,11,0.24,Madrid,2019-08-12,True
 5442567,Entire home/apt,1060.0,True,0,0,0,0,100,2015-07-23,2017-06-27,4,0.09,Girona,2019-02-19,True
 5442955,Entire home/apt,440.0,True,28,50,80,122,87,2015-04-03,2018-11-02,105,2.41,Mallorca,2018-11-20,True
@@ -1205,7 +1190,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 5907982,Entire home/apt,890.0,True,10,22,45,311,92,2016-07-13,2018-11-27,84,2.9,Barcelona,2018-12-10,True
 5916897,Private room,400.0,True,18,30,30,30,96,2015-05-12,2019-09-30,132,2.44,Barcelona,2019-11-09,True
 5935568,Private room,450.0,True,0,0,0,0,,,,0,,Madrid,2018-11-07,
-5936519,Entire home/apt,,True,29,59,89,315,100,2016-04-30,2018-10-07,7,0.22,Mallorca,2018-12-18,True
 5937087,Private room,350.0,True,0,0,25,295,96,2015-06-07,2017-10-22,90,2.61,Girona,2018-04-21,True
 5958368,Entire home/apt,950.0,True,18,26,31,36,86,2015-11-08,2018-01-01,35,1.33,Barcelona,2018-01-17,True
 5963397,Entire home/apt,1200.0,True,30,53,70,317,83,2015-07-30,2017-08-08,8,0.24,Menorca,2018-04-21,True
@@ -1223,7 +1207,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 6012959,Entire home/apt,700.0,True,0,0,0,86,87,2017-07-09,2018-08-05,3,0.1,Girona,2020-01-31,True
 6028994,Entire home/apt,690.0,True,0,0,0,259,74,2015-11-16,2019-07-28,7,0.14,Valencia,2020-02-29,False
 6034484,Entire home/apt,1330.0,True,30,47,53,259,94,2015-07-15,2019-10-04,65,1.13,Mallorca,2020-04-23,True
-6035889,Entire home/apt,,True,21,51,81,351,94,2015-07-13,2020-03-11,59,1.02,Barcelona,2020-05-11,True
 6037548,Private room,350.0,True,8,20,39,254,98,2015-05-03,2018-12-16,186,4.26,Sevilla,2018-12-21,True
 6043569,Private room,200.0,True,0,0,0,0,,,,0,,Madrid,2019-03-08,
 6058351,Entire home/apt,1400.0,False,30,48,67,341,90,2015-04-26,2017-03-02,43,1.92,Barcelona,2017-03-06,True
@@ -1232,7 +1215,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 6083021,Private room,250.0,True,0,0,0,0,,,,0,,Barcelona,2018-10-10,
 6103525,Entire home/apt,300.0,True,0,0,0,0,100,2015-07-23,2015-07-23,1,0.04,Barcelona,2017-11-13,True
 6109659,Private room,300.0,True,0,0,0,219,96,2015-06-01,2015-11-07,17,0.35,Barcelona,2019-06-07,True
-6112685,Entire home/apt,,False,28,58,88,363,100,2016-07-16,2016-07-16,1,0.13,Mallorca,2017-03-15,True
 6139692,Private room,900.0,True,30,60,90,365,95,2015-06-15,2017-09-14,31,1.04,Barcelona,2017-12-09,True
 6160263,Private room,180.0,True,11,41,71,346,86,2015-06-15,2020-12-23,44,0.66,Madrid,2021-01-12,True
 6160553,Private room,250.0,True,10,29,48,299,97,2015-08-13,2018-08-11,85,2.36,Barcelona,2018-08-14,True
@@ -1246,8 +1228,7 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 6188369,Entire home/apt,700.0,False,0,0,0,0,100,2015-05-17,2015-08-01,3,0.13,Madrid,2017-04-08,True
 6190322,Entire home/apt,470.0,True,5,15,33,293,96,2015-06-07,2019-07-24,156,3.13,Malaga,2019-07-30,True
 6190687,Entire home/apt,1700.0,True,14,42,42,42,,,,0,,Girona,2018-08-30,
-6191590,Entire home/apt,,True,27,50,59,149,80,2018-05-26,2018-05-26,1,0.11,Girona,2019-02-19,True
-6191684,Entire home/apt,,True,11,41,70,77,100,2018-09-01,2018-09-01,1,0.08,Girona,2019-09-30,True
+6191684,Entire home/apt,1870.0,True,18,42,72,305,100,2018-09-01,2020-08-01,2,0.07,Girona,2020-11-28,True
 6199834,Entire home/apt,800.0,False,7,23,46,315,98,2015-05-02,2017-03-04,76,3.43,Madrid,2017-03-06,True
 6225869,Private room,400.0,True,5,7,28,37,96,2015-06-01,2018-08-26,40,0.82,Menorca,2019-06-30,True
 6229018,Entire home/apt,1480.0,True,25,25,25,25,99,2015-05-12,2020-03-08,145,2.39,Girona,2020-05-28,True
@@ -1341,7 +1322,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 6669701,Private room,170.0,True,0,0,0,0,,2015-06-09,2015-06-09,1,0.02,Madrid,2018-11-07,
 6671489,Entire home/apt,1400.0,True,26,56,86,345,95,2015-10-16,2019-10-27,11,0.18,Sevilla,2020-10-29,True
 6679735,Entire home/apt,3550.0,True,0,0,0,173,90,2016-07-02,2018-05-01,2,0.04,Mallorca,2020-10-21,True
-6695341,Entire home/apt,,False,0,0,0,0,,,,0,,Mallorca,2017-03-15,
 6697001,Entire home/apt,1050.0,True,5,20,50,73,90,2015-07-03,2017-08-30,52,1.97,Barcelona,2017-09-12,True
 6707323,Entire home/apt,3500.0,True,30,60,90,295,97,2015-08-15,2019-10-25,15,0.23,Mallorca,2021-02-11,True
 6719318,Entire home/apt,740.0,True,0,6,36,311,93,2019-05-08,2019-07-21,4,0.22,Mallorca,2020-11-08,True
@@ -1592,7 +1572,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 7933821,Entire home/apt,450.0,True,30,31,31,203,91,2015-09-02,2020-03-15,49,0.88,Valencia,2020-04-28,True
 7938522,Entire home/apt,2500.0,True,10,24,41,312,92,2015-10-08,2019-07-06,40,0.88,Mallorca,2019-07-25,True
 7944610,Entire home/apt,3500.0,False,10,28,52,313,86,2015-10-26,2017-07-16,42,1.96,Barcelona,2017-08-06,True
-7948633,Entire home/apt,,True,0,0,0,0,,,,0,,Mallorca,2019-06-27,
 7968113,Private room,380.0,True,29,59,89,364,96,2015-10-31,2018-07-15,85,2.54,Madrid,2018-08-14,True
 7968185,Shared room,250.0,True,30,60,90,365,90,2016-02-24,2018-01-01,6,0.26,Barcelona,2018-02-07,True
 7968876,Entire home/apt,570.0,True,0,6,16,268,98,2015-09-21,2018-11-19,64,1.68,Sevilla,2018-11-22,True
@@ -1619,7 +1598,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 8099448,Private room,250.0,True,29,59,89,364,100,2016-02-26,2017-06-18,4,0.17,Barcelona,2018-02-07,True
 8105067,Private room,270.0,True,24,51,81,356,92,2015-09-14,2019-10-24,134,2.69,Madrid,2019-11-09,True
 8109509,Entire home/apt,530.0,True,0,0,0,0,90,2015-09-15,2015-10-10,2,0.07,Barcelona,2018-01-17,True
-8110333,Entire home/apt,,False,17,37,56,311,85,2016-01-03,2017-04-16,22,1.36,Barcelona,2017-05-07,True
 8142940,Entire home/apt,2250.0,True,0,0,9,284,98,2016-06-28,2018-07-28,10,0.29,Girona,2019-05-29,True
 8158709,Entire home/apt,390.0,True,28,58,65,65,95,2015-09-18,2020-07-22,122,2.06,Madrid,2020-08-25,True
 8181779,Entire home/apt,1100.0,True,11,41,71,161,90,2016-07-19,2018-08-10,12,0.39,Barcelona,2019-02-06,True
@@ -1640,7 +1618,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 8316352,Private room,550.0,True,4,9,9,16,97,2015-09-28,2019-03-22,21,0.49,Madrid,2019-04-11,True
 8317251,Entire home/apt,2000.0,True,30,60,90,365,,,,0,,Mallorca,2020-11-08,
 8338269,Entire home/apt,990.0,True,4,7,7,165,98,2015-10-26,2018-09-25,50,1.42,Menorca,2018-09-28,True
-8345256,Entire home/apt,,True,30,60,90,365,98,2015-09-21,2018-07-15,48,0.76,Madrid,2020-12-17,True
 8345529,Private room,400.0,False,6,22,46,130,95,2016-10-17,2017-03-03,4,0.7,Barcelona,2017-04-08,True
 8352016,Entire home/apt,750.0,True,0,0,1,244,99,2015-09-29,2020-10-22,203,3.16,Girona,2021-01-31,True
 8352449,Entire home/apt,490.0,True,25,50,80,80,89,2015-09-30,2018-06-05,58,1.66,Sevilla,2018-08-27,True
@@ -1768,10 +1745,8 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 9454217,Private room,350.0,False,15,45,75,75,96,2015-11-22,2017-03-27,14,0.85,Madrid,2017-04-08,True
 9469358,Private room,1300.0,True,30,58,74,275,98,2016-08-19,2018-10-26,8,0.19,Barcelona,2020-03-16,True
 9469885,Entire home/apt,440.0,True,0,0,0,0,87,2016-01-09,2019-11-24,169,3.62,Valencia,2019-11-30,True
-9473403,Entire home/apt,,True,0,0,0,66,98,2015-12-23,2017-09-25,78,2.02,Madrid,2019-03-08,True
 9475572,Private room,250.0,True,21,51,81,356,92,2016-06-18,2017-07-16,10,0.53,Barcelona,2018-01-17,True
 9483720,Entire home/apt,4200.0,True,9,25,41,302,91,2016-02-13,2019-04-23,35,0.83,Barcelona,2019-08-12,True
-9484967,Entire home/apt,,True,30,60,90,365,80,2016-07-31,2020-08-25,2,0.04,Mallorca,2020-09-19,True
 9485319,Entire home/apt,550.0,True,0,17,47,322,96,2015-11-23,2017-10-31,65,2.51,Madrid,2018-01-17,True
 9487962,Entire home/apt,3110.0,True,15,25,39,295,94,2016-02-15,2018-03-20,18,0.67,Barcelona,2018-05-14,True
 9501190,Entire home/apt,1640.0,True,30,60,90,310,86,2018-09-03,2019-11-05,7,0.44,Mallorca,2019-12-31,True
@@ -1895,7 +1870,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 10534488,Entire home/apt,390.0,True,7,26,45,278,89,2016-03-24,2019-03-24,86,2.37,Valencia,2019-03-31,True
 10539411,Entire home/apt,4000.0,True,16,46,49,49,89,2016-03-03,2018-08-11,25,0.79,Girona,2018-10-20,True
 10539504,Private room,400.0,True,0,0,0,0,95,2016-04-13,2017-01-31,12,0.28,Madrid,2019-11-09,True
-10541401,Entire home/apt,,True,28,58,88,324,95,2018-07-11,2019-07-25,4,0.14,Menorca,2020-11-30,True
 10548137,Hotel room,1170.0,True,24,54,84,271,90,2016-06-19,2019-09-06,8,0.19,Girona,2019-12-31,True
 10553326,Private room,200.0,True,23,49,79,351,94,2016-02-22,2018-01-03,104,4.55,Barcelona,2018-01-17,True
 10559621,Private room,650.0,True,24,54,84,359,90,2016-02-24,2017-09-15,54,2.78,Barcelona,2017-10-07,True
@@ -1916,7 +1890,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 10705908,Private room,350.0,True,30,60,90,90,,2016-08-09,2016-08-09,1,0.03,Valencia,2019-09-01,
 10713417,Private room,370.0,True,0,0,7,282,96,2016-03-02,2018-09-30,68,2.17,Barcelona,2018-10-10,True
 10717396,Entire home/apt,590.0,True,1,24,54,54,95,2016-02-01,2019-10-25,113,2.49,Madrid,2019-11-09,True
-10724048,Private room,,True,0,0,0,0,,,,0,,Barcelona,2019-12-10,
 10737049,Entire home/apt,490.0,True,22,42,67,156,98,2016-01-31,2018-04-24,102,3.72,Madrid,2018-05-14,True
 10737502,Entire home/apt,700.0,True,15,40,70,278,89,2016-06-20,2018-10-13,75,2.62,Barcelona,2018-11-07,True
 10737758,Entire home/apt,3000.0,True,7,19,39,208,92,2016-04-09,2019-07-29,152,3.68,Barcelona,2019-09-17,True
@@ -1962,7 +1935,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 11074413,Entire home/apt,2570.0,True,20,26,26,26,60,2019-10-19,2019-10-19,1,0.09,Mallorca,2020-09-19,False
 11083903,Private room,150.0,True,0,0,0,0,,,,0,,Madrid,2019-03-08,
 11102825,Entire home/apt,1500.0,True,23,39,39,112,94,2016-07-11,2017-08-26,7,0.23,Menorca,2019-01-30,True
-11107557,Entire home/apt,,True,5,9,24,298,96,2016-07-12,2018-05-20,27,1.1,Mallorca,2018-07-29,True
 11114286,Entire home/apt,600.0,True,3,27,57,120,98,2016-02-23,2019-09-14,107,2.47,Sevilla,2019-09-30,True
 11117507,Entire home/apt,990.0,True,0,0,0,0,67,2016-02-26,2017-08-13,3,0.15,Barcelona,2017-11-13,False
 11120533,Entire home/apt,600.0,True,15,38,66,290,85,2016-02-14,2018-03-17,137,5.23,Sevilla,2018-04-21,True
@@ -1977,13 +1949,11 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 11159274,Entire home/apt,900.0,True,9,22,46,72,91,2016-04-12,2017-08-21,9,0.53,Barcelona,2017-09-12,True
 11162926,Entire home/apt,3860.0,True,2,2,2,139,100,2018-01-31,2018-01-31,1,0.07,Mallorca,2019-04-24,True
 11163417,Entire home/apt,660.0,True,0,0,0,9,98,2016-06-17,2019-08-27,22,0.56,Menorca,2019-09-30,True
-11164099,Entire home/apt,,True,22,22,22,259,100,2019-09-14,2019-09-14,1,0.08,Mallorca,2020-10-21,True
 11179999,Private room,400.0,False,27,57,83,357,92,2016-04-09,2016-10-31,11,1.01,Barcelona,2017-03-06,True
 11180610,Entire home/apt,710.0,True,23,26,42,42,98,2016-05-03,2019-08-08,50,1.27,Madrid,2019-08-12,True
 11180810,Entire home/apt,2200.0,True,16,22,31,230,99,2016-03-27,2020-02-23,38,0.81,Sevilla,2020-02-29,True
 11183000,Entire home/apt,3230.0,True,28,58,88,312,90,2016-03-29,2020-10-08,38,0.69,Malaga,2020-10-30,True
 11185169,Entire home/apt,550.0,True,24,49,77,210,98,2016-11-27,2020-03-07,182,4.57,Sevilla,2020-03-23,True
-11196074,Entire home/apt,,True,13,38,68,322,,,,0,,Mallorca,2019-11-28,
 11197075,Entire home/apt,4250.0,True,0,0,0,207,80,2016-07-24,2017-06-24,2,0.05,Mallorca,2019-11-28,True
 11198148,Private room,400.0,False,20,50,80,355,,,,0,,Barcelona,2017-01-04,
 11215157,Entire home/apt,1100.0,True,0,0,0,245,98,2016-05-01,2017-12-10,10,0.32,Mallorca,2018-12-18,True
@@ -2007,7 +1977,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 11329594,Private room,600.0,True,15,42,72,72,99,2016-02-29,2019-06-29,126,3.15,Sevilla,2019-06-29,True
 11329943,Private room,390.0,True,10,28,56,223,95,2016-02-27,2018-10-23,153,4.73,Madrid,2018-11-07,True
 11355613,Entire home/apt,1430.0,True,27,57,72,130,,,,0,,Girona,2019-04-29,
-11356663,Entire home/apt,,True,0,0,0,212,89,2016-05-04,2019-01-01,66,1.65,Valencia,2019-09-01,True
 11357060,Entire home/apt,2700.0,True,15,31,43,131,97,2016-10-29,2019-10-29,7,0.17,Mallorca,2020-04-23,True
 11357206,Entire home/apt,1860.0,True,0,0,0,0,100,2018-04-29,2018-04-29,1,0.03,Malaga,2020-10-30,True
 11366342,Private room,180.0,False,0,0,0,0,90,2016-08-22,2016-08-28,2,0.36,Barcelona,2017-02-09,True
@@ -2034,7 +2003,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 11438763,Entire home/apt,710.0,True,29,56,86,253,80,2016-10-17,2019-10-01,3,0.08,Madrid,2019-12-10,True
 11459265,Private room,300.0,True,0,11,11,11,88,2016-03-14,2017-09-09,39,1.95,Barcelona,2017-11-13,True
 11486871,Private room,550.0,True,28,58,88,363,80,2016-05-24,2017-05-28,2,0.13,Barcelona,2017-09-12,True
-11488053,Entire home/apt,,True,23,53,83,358,,,,0,,Mallorca,2020-09-19,
 11495378,Private room,600.0,True,0,0,0,0,83,2016-05-03,2016-07-19,10,0.2,Barcelona,2020-06-13,True
 11516651,Entire home/apt,5000.0,True,29,33,60,335,92,2017-04-17,2018-11-02,5,0.19,Girona,2019-06-30,True
 11519240,Private room,290.0,True,30,60,90,90,99,2016-03-23,2020-02-29,77,1.38,Valencia,2020-11-10,True
@@ -2296,7 +2264,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 12970898,Entire home/apt,6071.0,True,0,0,3,3,93,2018-03-09,2020-08-23,38,1.24,Valencia,2020-09-28,True
 12975744,Entire home/apt,620.0,True,16,32,52,323,94,2016-05-15,2019-06-29,49,1.27,Girona,2019-07-29,True
 12979463,Entire home/apt,800.0,True,23,53,83,83,81,2016-07-02,2018-08-19,14,0.34,Girona,2019-11-30,True
-12980733,Entire home/apt,,True,22,43,52,256,89,2016-07-16,2019-09-08,18,0.41,Girona,2020-03-26,True
 12982089,Entire home/apt,1350.0,True,0,0,0,128,100,2017-08-08,2019-08-25,4,0.14,Girona,2019-12-31,True
 12982507,Private room,360.0,False,7,37,67,102,,,,0,,Madrid,2017-04-08,
 12983168,Entire home/apt,1000.0,True,0,30,60,335,96,2016-08-11,2019-08-18,9,0.25,Valencia,2019-09-01,True
@@ -2382,7 +2349,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 13222926,Private room,300.0,False,30,60,90,365,75,2016-05-28,2016-08-17,5,0.69,Barcelona,2017-01-04,False
 13230236,Entire home/apt,1000.0,True,0,5,35,35,97,2016-10-10,2017-09-12,7,0.28,Madrid,2018-11-07,True
 13233495,Entire home/apt,1500.0,True,28,28,28,120,,,,0,,Girona,2019-08-31,
-13242295,Entire home/apt,,True,0,0,0,0,97,2016-07-25,2018-11-30,9,0.24,Mallorca,2019-09-28,True
 13243891,Private room,320.0,True,25,55,85,360,99,2016-06-04,2018-06-18,19,0.67,Barcelona,2018-10-10,True
 13246596,Entire home/apt,540.0,True,4,14,18,283,93,2016-06-17,2019-05-02,76,2.15,Girona,2019-05-29,True
 13249894,Entire home/apt,1150.0,True,27,57,83,311,99,2016-07-14,2019-09-06,30,0.68,Girona,2020-03-26,True
@@ -2391,7 +2357,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 13256597,Entire home/apt,1370.0,True,20,39,66,66,94,2016-11-07,2018-04-25,25,1.37,Madrid,2018-05-14,True
 13257273,Entire home/apt,600.0,True,6,36,66,85,92,2016-08-15,2018-05-13,13,0.54,Barcelona,2018-08-14,True
 13258053,Entire home/apt,2800.0,True,0,0,0,0,100,2016-06-13,2019-07-13,4,0.08,Mallorca,2020-06-25,True
-13259140,Private room,,True,0,0,0,0,94,2016-06-03,2016-07-04,7,0.22,Barcelona,2019-02-06,True
 13260550,Private room,400.0,True,30,60,90,365,,,,0,,Valencia,2020-05-31,
 13260979,Private room,190.0,False,4,4,4,102,94,2016-06-05,2017-03-27,31,3.07,Barcelona,2017-04-08,True
 13269213,Private room,300.0,True,0,4,14,44,95,2016-06-08,2018-04-10,191,8.63,Barcelona,2018-04-12,True
@@ -2506,7 +2471,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 13646947,Private room,280.0,True,0,0,0,0,99,2016-07-11,2017-06-19,26,1.08,Barcelona,2018-07-10,True
 13647725,Entire home/apt,510.0,True,11,23,53,328,97,2016-07-30,2018-12-10,13,0.44,Barcelona,2019-01-14,True
 13648073,Entire home/apt,1700.0,True,9,14,29,177,95,2016-05-30,2019-03-05,21,0.62,Mallorca,2019-03-25,True
-13651387,Entire home/apt,,True,13,22,33,290,100,2016-10-08,2018-05-11,2,0.1,Barcelona,2018-05-14,True
 13653047,Entire home/apt,800.0,True,27,55,81,356,98,2019-05-13,2020-02-28,20,1.41,Madrid,2020-07-17,True
 13656676,Entire home/apt,1000.0,True,30,60,90,334,87,2016-07-26,2018-08-26,14,0.44,Girona,2019-03-30,True
 13662267,Entire home/apt,680.0,True,4,9,22,242,88,2016-05-02,2018-07-06,5,0.16,Malaga,2018-11-27,True
@@ -2537,10 +2501,8 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 13717362,Private room,250.0,False,30,60,90,365,100,2016-07-03,2016-07-03,1,0.11,Madrid,2017-04-08,True
 13719380,Private room,550.0,True,28,58,88,88,100,2019-08-31,2019-10-20,3,1.3,Barcelona,2019-11-09,True
 13720635,Entire home/apt,600.0,False,3,5,9,9,88,2016-07-25,2016-12-04,11,1.3,Barcelona,2017-04-08,True
-13722943,Shared room,,False,0,0,0,0,,,,0,,Barcelona,2017-02-09,
 13732070,Private room,250.0,True,0,0,0,0,100,2017-06-06,2017-06-06,1,0.06,Madrid,2018-10-10,True
 13735092,Entire home/apt,1350.0,True,9,31,34,214,100,2017-07-14,2019-05-12,20,0.89,Valencia,2019-05-31,True
-13742696,Entire home/apt,,True,7,30,44,275,80,2018-06-17,2019-12-31,3,0.15,Barcelona,2020-02-16,True
 13744939,Private room,170.0,True,0,0,0,0,97,2016-07-02,2016-07-19,6,0.18,Madrid,2019-04-11,True
 13744974,Private room,250.0,True,0,0,0,0,,,,0,,Madrid,2020-05-14,
 13746010,Entire home/apt,970.0,True,21,49,65,273,93,2018-07-21,2019-09-21,6,0.33,Mallorca,2020-01-29,True
@@ -2567,7 +2529,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 13783193,Entire home/apt,650.0,True,0,0,28,303,81,2016-09-01,2019-06-25,20,0.53,Girona,2019-10-30,True
 13790837,Private room,410.0,False,11,27,34,34,98,2016-07-10,2017-03-03,40,5.09,Barcelona,2017-03-06,True
 13792342,Entire home/apt,2850.0,True,23,39,41,276,,,,0,,Mallorca,2019-04-24,
-13792358,Entire home/apt,,True,7,27,49,194,100,2017-08-28,2017-08-28,1,0.04,Mallorca,2019-09-28,True
 13792394,Entire home/apt,1380.0,True,0,6,36,262,100,2017-01-25,2018-08-18,2,0.04,Mallorca,2020-11-08,True
 13792441,Entire home/apt,2210.0,False,21,24,38,174,,,,0,,Mallorca,2017-03-15,
 13792565,Entire home/apt,2410.0,True,1,8,29,291,100,2016-09-03,2016-09-03,1,0.03,Mallorca,2019-05-27,True
@@ -2597,7 +2558,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 13843488,Entire home/apt,950.0,True,17,45,45,300,94,2016-08-28,2019-03-01,38,1.15,Girona,2019-05-29,True
 13851443,Entire home/apt,2990.0,False,28,58,88,363,70,2016-09-20,2017-03-12,5,0.66,Barcelona,2017-05-07,False
 13852472,Private room,600.0,True,28,58,88,179,100,2018-04-22,2018-04-22,1,0.04,Madrid,2020-05-14,True
-13855168,Entire home/apt,,True,0,0,0,230,,,,0,,Girona,2018-04-21,
 13862548,Entire home/apt,950.0,True,30,52,68,244,98,2018-05-30,2019-08-17,8,0.38,Mallorca,2020-02-29,True
 13875398,Private room,200.0,True,6,11,36,311,78,2016-07-16,2018-05-13,12,0.55,Barcelona,2018-05-14,False
 13875931,Entire home/apt,500.0,True,29,59,89,89,85,2016-07-20,2018-08-31,25,0.53,Valencia,2020-06-30,True
@@ -2689,7 +2649,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 14118725,Entire home/apt,890.0,True,28,58,88,88,,,,0,,Madrid,2018-09-11,
 14119865,Entire home/apt,550.0,True,29,59,89,269,83,2016-09-20,2018-08-01,7,0.15,Barcelona,2020-09-12,True
 14122354,Entire home/apt,700.0,True,0,0,0,0,99,2016-08-08,2020-08-19,30,0.55,Mallorca,2021-02-11,True
-14124456,Entire home/apt,,True,30,48,55,284,98,2016-08-24,2017-10-28,9,0.45,Menorca,2018-04-21,True
 14125592,Entire home/apt,600.0,True,3,33,63,153,93,2016-08-14,2019-11-24,151,3.78,Madrid,2019-12-10,True
 14129647,Entire home/apt,800.0,True,0,0,0,0,,,,0,,Girona,2019-04-29,
 14130801,Entire home/apt,1100.0,True,0,0,0,0,83,2016-08-19,2017-08-30,8,0.47,Barcelona,2018-01-17,True
@@ -2752,7 +2711,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 14287583,Private room,240.0,True,1,1,1,1,91,2016-08-16,2020-04-30,14,0.26,Barcelona,2021-01-12,True
 14288527,Entire home/apt,670.0,True,19,49,79,160,97,2016-08-10,2020-10-12,237,4.49,Malaga,2020-12-30,True
 14293369,Entire home/apt,1400.0,True,1,9,39,314,100,2016-08-27,2018-05-04,3,0.09,Mallorca,2019-06-27,True
-14299477,Entire home/apt,,True,16,33,35,297,93,2018-02-04,2019-04-21,19,1.28,Menorca,2019-05-01,True
 14302642,Private room,230.0,True,30,60,81,81,93,2017-07-26,2019-10-15,32,0.92,Barcelona,2020-06-13,True
 14305002,Entire home/apt,600.0,True,0,0,0,0,,,,0,,Madrid,2018-08-14,
 14309144,Private room,500.0,True,0,28,58,333,,2016-08-09,2016-08-09,1,0.03,Malaga,2019-06-30,
@@ -2834,7 +2792,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 14680620,Entire home/apt,1060.0,True,14,16,16,226,90,2016-10-10,2019-08-24,18,0.51,Mallorca,2019-09-28,True
 14682290,Private room,300.0,True,8,25,55,330,91,2016-11-01,2019-03-21,35,1.2,Barcelona,2019-04-10,True
 14684040,Private room,530.0,True,15,40,53,53,99,2016-10-02,2019-12-08,124,3.24,Barcelona,2019-12-10,True
-14700232,Entire home/apt,,True,23,53,83,358,,,,0,,Mallorca,2020-05-28,
 14703600,Entire home/apt,710.0,True,5,23,48,217,100,2017-05-03,2017-05-03,1,0.04,Mallorca,2019-03-25,True
 14712529,Entire home/apt,770.0,True,6,12,28,142,99,2016-10-06,2019-05-05,149,4.77,Madrid,2019-05-14,True
 14719647,Entire home/apt,1590.0,True,10,28,50,217,93,2016-10-12,2018-01-06,55,3.62,Barcelona,2018-01-17,True
@@ -2862,7 +2819,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 14894906,Private room,280.0,True,0,0,0,0,89,2016-09-29,2018-04-22,30,1.54,Barcelona,2018-05-14,True
 14896116,Private room,370.0,True,0,0,0,0,70,2017-07-13,2019-07-14,2,0.07,Barcelona,2019-10-16,False
 14896686,Private room,550.0,False,10,21,36,289,84,2017-02-27,2017-04-02,5,3.8,Barcelona,2017-04-08,True
-14904922,Entire home/apt,,True,8,38,68,343,98,2017-02-02,2018-09-03,15,0.77,Mallorca,2018-09-18,True
 14907916,Entire home/apt,570.0,True,17,43,65,320,92,2016-09-18,2019-12-01,25,0.63,Girona,2019-12-31,True
 14910368,Entire home/apt,950.0,True,30,60,90,334,85,2016-09-18,2019-07-21,19,0.52,Girona,2019-09-30,True
 14911737,Private room,200.0,True,5,21,46,136,92,2016-09-12,2019-09-09,100,2.69,Madrid,2019-10-16,True
@@ -2900,7 +2856,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 15031239,Entire home/apt,550.0,True,30,60,90,365,100,2017-08-14,2017-08-21,2,0.08,Mallorca,2019-10-28,True
 15031780,Entire home/apt,670.0,True,30,60,90,362,80,2018-04-04,2018-07-16,2,0.06,Malaga,2020-10-30,True
 15032997,Entire home/apt,1290.0,True,20,44,51,326,90,2017-08-19,2018-08-22,4,0.19,Mallorca,2019-05-27,True
-15033343,Entire home/apt,,True,23,53,83,358,,,,0,,Mallorca,2020-09-19,
 15034204,Entire home/apt,650.0,True,0,0,0,132,97,2016-09-25,2019-04-22,82,2.53,Madrid,2019-06-07,True
 15034907,Entire home/apt,1600.0,True,1,6,11,286,92,2018-06-02,2019-04-01,5,0.39,Mallorca,2019-06-27,True
 15036949,Entire home/apt,1000.0,True,15,45,72,73,96,2017-07-29,2018-09-17,5,0.3,Malaga,2018-12-22,True
@@ -2947,7 +2902,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 15174318,Entire home/apt,1080.0,True,30,57,81,356,91,2016-10-19,2020-02-04,67,1.4,Madrid,2020-10-17,True
 15179060,Entire home/apt,630.0,True,0,24,40,295,77,2016-10-17,2018-12-16,6,0.19,Barcelona,2019-05-14,False
 15179188,Private room,500.0,True,0,0,0,0,92,2017-02-27,2018-02-25,36,0.77,Madrid,2021-01-12,True
-15188771,Entire home/apt,,True,23,53,74,128,,,,0,,Mallorca,2018-04-18,
 15189300,Entire home/apt,1000.0,True,14,25,26,267,100,2017-07-09,2018-04-13,6,0.64,Girona,2018-04-21,True
 15192087,Entire home/apt,1170.0,True,21,30,37,289,97,2016-10-22,2020-05-24,120,2.78,Mallorca,2020-05-28,True
 15197781,Entire home/apt,2000.0,True,30,57,87,287,90,2016-12-11,2020-02-09,7,0.18,Madrid,2020-03-17,True
@@ -2966,7 +2920,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 15228673,Entire home/apt,840.0,True,29,59,68,144,80,2017-04-05,2019-09-11,4,0.11,Mallorca,2020-04-23,True
 15228688,Entire home/apt,1150.0,True,0,0,6,95,,,,0,,Mallorca,2018-07-29,
 15234209,Private room,200.0,True,2,17,32,303,99,2017-01-30,2017-10-05,31,3.77,Barcelona,2017-10-07,True
-15241162,Entire home/apt,,True,0,0,0,28,88,2016-11-06,2020-08-10,9,0.19,Madrid,2020-11-06,True
 15245145,Private room,220.0,True,0,0,15,290,92,2016-10-09,2017-10-31,5,0.33,Madrid,2018-01-17,True
 15245258,Entire home/apt,1200.0,False,0,0,0,0,87,2017-01-04,2017-02-26,3,0.6,Barcelona,2017-06-05,True
 15248430,Private room,350.0,True,0,0,0,0,97,2016-10-06,2018-07-16,88,2.42,Barcelona,2019-10-16,True
@@ -2974,7 +2927,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 15253506,Entire home/apt,3150.0,False,11,36,65,338,,,,0,,Barcelona,2017-01-04,
 15254167,Private room,320.0,False,26,56,86,361,80,2016-10-02,2016-12-19,9,2.91,Barcelona,2017-01-04,True
 15259141,Entire home/apt,1990.0,True,28,30,34,85,,,,0,,Mallorca,2018-04-18,
-15262802,Entire home/apt,,True,10,23,50,306,86,2016-12-29,2018-11-19,29,1.24,Barcelona,2018-12-10,True
 15265238,Private room,990.0,True,0,0,0,109,,,,0,,Barcelona,2019-01-14,
 15277194,Entire home/apt,2300.0,False,23,53,72,295,,,,0,,Mallorca,2017-03-15,
 15279710,Private room,200.0,True,16,34,62,337,88,2016-10-14,2020-02-21,255,6.29,Sevilla,2020-02-29,True
@@ -3051,7 +3003,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 15606679,Entire home/apt,1000.0,True,23,53,82,357,95,2017-08-13,2020-10-01,11,0.27,Menorca,2020-12-30,True
 15628078,Entire home/apt,1400.0,True,10,29,46,126,100,2018-05-27,2018-05-27,1,0.38,Barcelona,2018-08-14,True
 15636856,Private room,290.0,False,19,41,71,161,96,2016-11-26,2017-07-01,44,6.03,Barcelona,2017-07-06,True
-15644356,Entire home/apt,,True,29,31,31,272,100,2017-08-14,2017-08-14,1,0.04,Girona,2019-09-30,True
 15654614,Entire home/apt,4280.0,True,22,52,64,64,,,,0,,Mallorca,2018-10-17,
 15654963,Entire home/apt,790.0,False,29,59,89,364,,,,0,,Madrid,2017-04-08,
 15656695,Private room,350.0,False,19,49,79,79,80,2016-11-05,2016-11-13,2,0.63,Barcelona,2017-02-09,True
@@ -3059,7 +3010,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 15658785,Entire home/apt,460.0,True,13,32,57,59,98,2016-12-27,2018-11-18,60,2.62,Sevilla,2018-11-22,True
 15659961,Private room,200.0,True,0,0,17,288,97,2017-05-14,2019-11-01,35,1.07,Sevilla,2020-01-30,True
 15667563,Private room,220.0,True,27,54,84,175,92,2017-01-02,2018-07-30,53,2.74,Madrid,2018-08-14,True
-15670908,Entire home/apt,,True,30,60,90,275,100,2018-12-20,2019-08-24,2,0.08,Mallorca,2021-01-16,True
 15672559,Entire home/apt,640.0,True,30,55,85,175,97,2016-11-20,2020-02-28,151,3.76,Malaga,2020-03-26,True
 15695052,Private room,350.0,False,29,59,89,364,,2016-10-26,2016-10-30,2,0.87,Barcelona,2017-01-04,
 15696421,Entire home/apt,1470.0,True,0,21,44,319,,,,0,,Mallorca,2018-08-21,
@@ -3081,7 +3031,7 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 15766975,Entire home/apt,2890.0,True,28,58,88,313,91,2017-06-05,2019-01-01,7,0.34,Girona,2019-02-19,True
 15767841,Private room,750.0,True,29,59,89,95,100,2018-07-01,2018-08-31,2,0.47,Barcelona,2018-11-07,True
 15769906,Entire home/apt,1050.0,True,7,23,41,97,99,2017-02-21,2018-07-07,50,2.9,Sevilla,2018-07-31,True
-15787767,Entire home/apt,,True,0,0,0,167,91,2016-11-12,2019-08-18,37,0.78,Malaga,2020-10-30,True
+15787767,Entire home/apt,590.0,True,23,49,79,294,91,2016-11-12,2018-09-19,32,1.17,Malaga,2019-02-24,True
 15794719,Private room,600.0,True,30,60,90,365,100,2016-11-06,2017-03-29,3,0.27,Barcelona,2017-10-07,True
 15800162,Entire home/apt,840.0,True,0,0,0,0,70,2015-08-11,2019-12-08,4,0.06,Malaga,2020-10-30,False
 15800164,Entire home/apt,800.0,True,25,55,85,353,90,2015-08-12,2016-11-28,4,0.08,Malaga,2019-09-30,True
@@ -3110,12 +3060,10 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 15868228,Entire home/apt,750.0,True,0,0,0,0,90,2016-12-06,2020-03-08,151,3.57,Madrid,2020-06-13,True
 15871248,Private room,240.0,False,0,24,54,55,87,2016-12-09,2017-01-01,3,1.47,Barcelona,2017-02-09,True
 15882675,Entire home/apt,1200.0,True,10,40,44,97,87,2017-04-17,2019-10-26,3,0.08,Girona,2020-03-26,True
-15882695,Entire home/apt,,True,0,0,0,7,,,,0,,Girona,2019-05-29,
 15882711,Entire home/apt,4990.0,True,0,0,0,35,,,,0,,Girona,2019-03-30,
 15882726,Entire home/apt,4390.0,True,0,0,0,28,,,,0,,Girona,2019-12-31,
 15882755,Entire home/apt,600.0,True,28,58,88,342,67,2015-07-26,2017-08-26,3,0.07,Girona,2018-12-22,False
 15883288,Entire home/apt,1760.0,True,6,22,37,167,90,2016-05-18,2020-03-16,21,0.44,Mallorca,2020-04-23,True
-15883302,Entire home/apt,,True,5,19,27,218,80,2019-05-27,2019-09-18,3,0.33,Mallorca,2020-02-29,True
 15885378,Entire home/apt,650.0,True,0,0,0,0,80,2016-04-04,2018-04-02,4,0.11,Girona,2019-05-29,True
 15895265,Entire home/apt,800.0,True,27,47,71,86,93,2016-11-20,2019-08-17,19,0.54,Valencia,2019-10-31,True
 15895803,Private room,380.0,True,9,13,18,192,96,2016-11-20,2019-06-23,62,1.96,Madrid,2019-07-10,True
@@ -3129,7 +3077,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 15923937,Entire home/apt,1000.0,True,0,0,0,0,80,2016-12-29,2016-12-29,1,0.05,Sevilla,2018-07-31,True
 15929441,Entire home/apt,470.0,True,0,0,0,0,94,2016-11-19,2017-06-20,74,4.42,Madrid,2018-04-12,True
 15935137,Entire home/apt,850.0,True,17,41,58,197,98,2017-05-20,2018-01-31,16,1.85,Barcelona,2018-02-07,True
-15938138,Entire home/apt,,True,29,59,89,337,95,2016-12-29,2018-07-28,5,0.19,Girona,2019-02-19,True
 15946934,Entire home/apt,690.0,True,29,59,89,359,92,2017-06-11,2018-05-20,23,1.06,Girona,2019-03-30,True
 15950513,Entire home/apt,500.0,True,4,11,16,273,93,2016-12-04,2018-09-15,90,4.12,Malaga,2018-09-29,True
 15953046,Entire home/apt,1520.0,True,0,0,0,0,93,2016-09-21,2019-06-08,9,0.18,Mallorca,2020-10-21,True
@@ -3152,7 +3099,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 16059695,Private room,250.0,True,17,32,32,32,94,2016-12-02,2018-06-16,92,4.78,Madrid,2018-07-10,True
 16060354,Entire home/apt,600.0,True,16,41,62,157,93,2016-12-11,2019-02-03,20,0.72,Girona,2019-03-30,True
 16060437,Entire home/apt,1200.0,True,7,23,53,55,93,2017-08-05,2017-08-31,3,0.25,Malaga,2018-07-31,True
-16064297,Entire home/apt,,True,0,5,5,258,98,2016-12-26,2018-01-13,10,0.39,Madrid,2019-02-06,True
 16064480,Entire home/apt,850.0,True,23,53,78,353,94,2016-12-16,2018-08-14,68,3.34,Sevilla,2018-08-27,True
 16066235,Entire home/apt,690.0,True,0,9,9,126,98,2016-12-08,2020-03-03,68,1.63,Menorca,2020-05-31,True
 16068474,Entire home/apt,990.0,True,20,48,74,163,92,2016-12-06,2019-09-03,46,1.36,Malaga,2019-09-30,True
@@ -3310,7 +3256,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 16534850,Private room,320.0,True,6,26,56,319,88,2017-01-01,2018-04-01,5,0.33,Barcelona,2018-04-12,True
 16537660,Entire home/apt,750.0,True,15,21,32,233,100,2017-10-07,2019-02-03,5,0.28,Mallorca,2019-03-25,True
 16539985,Entire home/apt,1150.0,True,27,57,87,362,100,2018-08-04,2019-08-09,3,0.2,Girona,2019-10-30,True
-16541989,Entire home/apt,,True,2,2,10,278,,,,0,,Mallorca,2019-12-31,
 16543166,Entire home/apt,780.0,True,16,41,67,342,98,2017-01-31,2018-06-21,74,4.28,Madrid,2018-07-10,True
 16553196,Entire home/apt,810.0,True,29,40,40,40,90,2019-07-08,2019-07-28,2,1.13,Girona,2019-08-31,True
 16553213,Entire home/apt,1250.0,True,0,0,0,0,80,2017-05-28,2017-05-28,1,0.03,Girona,2020-01-31,True
@@ -3395,7 +3340,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 16875193,Entire home/apt,850.0,True,3,27,57,332,98,2017-03-02,2019-07-15,23,0.75,Madrid,2019-09-19,True
 16875716,Entire home/apt,2300.0,True,29,59,89,351,92,2017-06-20,2019-08-10,15,0.57,Menorca,2019-09-01,True
 16876467,Entire home/apt,4500.0,True,0,9,23,179,100,2017-05-01,2019-08-24,18,0.6,Girona,2019-10-30,True
-16880095,Entire home/apt,,True,30,60,90,365,,,,0,,Barcelona,2018-02-07,
 16882733,Entire home/apt,490.0,False,4,5,8,210,86,2017-01-27,2017-03-05,10,8.0,Barcelona,2017-03-06,True
 16891365,Entire home/apt,500.0,True,9,9,39,239,100,2017-03-04,2018-11-17,6,0.2,Barcelona,2019-09-17,True
 16891845,Private room,250.0,True,23,51,77,352,95,2017-02-17,2018-01-31,30,2.57,Barcelona,2018-02-07,True
@@ -3476,7 +3420,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 17152296,Entire home/apt,550.0,True,28,58,88,178,98,2017-02-12,2020-11-28,272,5.89,Madrid,2020-12-17,True
 17152449,Private room,200.0,True,0,0,0,0,93,2017-02-27,2017-04-04,5,0.15,Madrid,2019-11-09,True
 17154449,Entire home/apt,1700.0,True,13,40,70,336,90,2017-04-25,2017-08-14,5,1.09,Barcelona,2017-09-12,True
-17165421,Entire home/apt,,True,0,5,35,275,98,2017-05-26,2017-09-17,8,0.19,Mallorca,2020-11-08,True
 17166233,Entire home/apt,1200.0,True,0,19,35,55,,,,0,,Girona,2020-05-28,
 17174195,Entire home/apt,650.0,True,24,54,73,335,90,2017-10-15,2020-01-05,25,0.85,Girona,2020-03-26,True
 17176553,Entire home/apt,550.0,True,2,19,37,285,96,2017-04-17,2019-04-30,51,2.05,Madrid,2019-05-14,True
@@ -3489,7 +3432,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 17210787,Private room,130.0,True,0,0,0,139,,,,0,,Madrid,2020-03-17,
 17210887,Entire home/apt,1200.0,True,5,5,29,214,100,2017-06-15,2017-06-15,1,0.03,Mallorca,2020-06-25,True
 17211188,Entire home/apt,1000.0,True,9,26,49,131,100,2017-04-27,2018-04-01,8,0.69,Barcelona,2018-04-12,True
-17211611,Entire home/apt,,True,29,59,89,364,,,,0,,Barcelona,2020-06-13,
 17215884,Entire home/apt,600.0,True,26,26,26,63,100,2017-05-27,2020-10-25,14,0.34,Girona,2020-10-28,True
 17216114,Entire home/apt,900.0,True,10,40,70,345,94,2017-04-17,2018-08-26,7,0.26,Girona,2019-07-29,True
 17217455,Entire home/apt,2900.0,True,3,10,28,97,97,2017-03-19,2019-01-27,13,0.55,Madrid,2019-03-08,True
@@ -3503,13 +3445,11 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 17233378,Entire home/apt,3000.0,True,30,60,85,339,,,,0,,Girona,2018-04-21,
 17235015,Entire home/apt,550.0,True,30,60,90,365,88,2017-05-26,2020-08-22,15,0.36,Girona,2020-10-28,True
 17235126,Private room,380.0,True,0,0,0,0,80,2017-02-22,2020-03-01,5,0.13,Madrid,2020-04-17,True
-17236336,Entire home/apt,,True,16,31,61,324,100,2017-06-03,2018-07-29,2,0.05,Mallorca,2020-06-25,True
 17243123,Entire home/apt,2000.0,True,27,54,61,262,99,2017-06-29,2020-02-23,27,0.8,Mallorca,2020-04-23,True
 17243915,Entire home/apt,3850.0,True,26,44,57,121,99,2017-03-09,2020-03-02,126,3.47,Madrid,2020-03-17,True
 17245845,Entire home/apt,1240.0,False,30,57,87,361,,,,0,,Madrid,2017-03-06,
 17249166,Entire home/apt,450.0,True,0,0,0,62,90,2017-08-08,2018-05-21,4,0.09,Girona,2021-02-27,True
 17252208,Entire home/apt,3300.0,True,0,0,20,190,100,2019-08-17,2019-08-17,1,0.06,Mallorca,2021-01-16,True
-17253043,Entire home/apt,,True,30,60,90,365,100,2017-07-22,2017-07-22,1,0.03,Mallorca,2020-11-08,True
 17253251,Entire home/apt,800.0,False,0,0,0,0,,,,0,,Barcelona,2017-03-06,
 17253398,Entire home/apt,690.0,True,28,58,88,298,88,2017-06-10,2018-08-28,16,0.81,Menorca,2019-01-30,True
 17259098,Private room,190.0,False,29,59,89,364,100,2017-02-28,2017-02-28,1,5.07,Madrid,2017-03-06,True
@@ -3564,7 +3504,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 17374656,Entire home/apt,820.0,True,30,60,83,83,100,2019-09-16,2019-09-16,1,2.17,Girona,2019-09-30,True
 17374662,Entire home/apt,890.0,True,0,0,0,0,,,,0,,Girona,2018-11-26,
 17374675,Entire home/apt,900.0,True,0,0,0,39,,,,0,,Girona,2019-04-29,
-17376414,Entire home/apt,,True,0,0,27,176,95,2017-07-09,2019-10-06,15,0.49,Mallorca,2020-01-29,True
 17378294,Entire home/apt,780.0,True,0,0,0,0,97,2017-03-05,2020-03-16,187,4.11,Madrid,2020-12-17,True
 17384199,Entire home/apt,2750.0,True,24,31,32,254,98,2017-05-01,2019-03-31,19,0.79,Girona,2019-04-29,True
 17384311,Entire home/apt,900.0,True,30,60,90,334,100,2017-03-31,2020-10-08,85,1.99,Mallorca,2020-10-21,True
@@ -3634,7 +3573,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 17587681,Entire home/apt,650.0,True,16,32,49,49,99,2017-03-20,2020-02-11,160,4.57,Madrid,2020-02-18,True
 17591337,Entire home/apt,1140.0,True,0,9,32,156,93,2019-05-10,2019-09-16,3,0.22,Mallorca,2020-06-25,True
 17596395,Entire home/apt,1450.0,False,3,9,27,299,100,2017-04-12,2017-07-23,4,1.05,Barcelona,2017-08-06,True
-17598389,Entire home/apt,,True,30,60,90,365,,,,0,,Mallorca,2019-11-28,
 17598748,Entire home/apt,2150.0,True,6,12,12,12,100,2018-06-30,2019-10-04,4,0.15,Mallorca,2020-09-19,True
 17604685,Entire home/apt,500.0,True,25,30,30,268,86,2017-03-24,2018-08-20,95,5.54,Sevilla,2018-08-27,True
 17604838,Entire home/apt,590.0,True,3,4,4,75,98,2017-03-20,2019-02-23,68,2.91,Valencia,2019-02-28,True
@@ -3648,7 +3586,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 17630084,Private room,260.0,True,0,22,52,52,87,2017-03-19,2019-08-29,57,1.32,Valencia,2020-10-24,True
 17630099,Entire home/apt,2320.0,True,0,0,0,0,,,,0,,Madrid,2019-06-07,
 17635016,Entire home/apt,2000.0,True,29,31,31,31,100,2019-04-22,2019-04-22,1,0.19,Girona,2019-09-30,True
-17635017,Entire home/apt,,True,29,57,60,167,100,2019-06-10,2019-06-10,1,0.09,Girona,2020-05-28,True
 17635260,Entire home/apt,450.0,True,0,0,0,125,90,2018-07-20,2018-08-25,2,0.28,Girona,2019-02-19,True
 17635408,Entire home/apt,1000.0,True,0,0,0,0,,,,0,,Girona,2019-10-30,
 17635438,Entire home/apt,940.0,True,30,60,90,344,100,2018-05-13,2018-05-13,1,0.15,Girona,2018-11-26,True
@@ -3693,8 +3630,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 17715487,Entire home/apt,1660.0,True,0,0,0,48,100,2018-09-09,2018-09-09,1,0.19,Mallorca,2019-02-17,True
 17716207,Private room,350.0,False,3,15,45,136,87,2017-03-23,2017-04-29,8,5.4,Barcelona,2017-05-07,True
 17725903,Entire home/apt,1290.0,True,8,8,15,105,90,2018-06-01,2019-08-24,6,0.24,Mallorca,2020-06-25,True
-17726001,Entire home/apt,,False,2,16,45,135,100,2017-03-27,2017-07-22,4,0.92,Barcelona,2017-08-06,True
-17726179,Entire home/apt,,True,7,30,60,335,100,2017-07-25,2017-08-08,2,1.24,Barcelona,2017-09-12,True
 17726300,Entire home/apt,1750.0,True,0,0,8,249,94,2017-05-18,2020-08-13,10,0.22,Mallorca,2021-02-11,True
 17726447,Entire home/apt,300.0,True,25,52,82,357,87,2017-03-24,2019-08-03,104,3.55,Girona,2019-08-31,True
 17729038,Private room,230.0,True,13,43,73,73,99,2017-03-18,2018-12-21,139,6.34,Madrid,2019-01-14,True
@@ -3725,7 +3660,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 17764253,Entire home/apt,1150.0,True,16,21,39,307,100,2017-04-16,2018-04-11,12,0.77,Girona,2018-07-31,True
 17764953,Entire home/apt,800.0,True,22,40,66,324,98,2017-04-17,2020-02-20,25,0.65,Girona,2020-06-29,True
 17770213,Private room,300.0,True,21,47,77,77,97,2017-04-23,2019-05-15,37,1.47,Sevilla,2019-05-29,True
-17773603,Entire home/apt,,True,23,53,83,330,,,,0,,Mallorca,2018-09-18,
 17773935,Private room,300.0,True,0,0,0,0,89,2017-03-26,2018-11-04,60,2.45,Barcelona,2019-04-10,True
 17778087,Entire home/apt,520.0,True,15,32,60,330,89,2017-04-11,2020-06-14,119,3.08,Malaga,2020-06-30,True
 17785758,Entire home/apt,950.0,True,0,16,46,321,97,2017-03-30,2018-07-07,7,0.44,Girona,2018-07-31,True
@@ -3757,7 +3691,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 17834473,Private room,400.0,True,29,59,89,89,82,2017-05-03,2019-05-26,10,0.37,Sevilla,2019-07-29,True
 17835432,Entire home/apt,3500.0,True,0,0,0,23,90,2017-05-29,2019-09-11,21,0.69,Barcelona,2019-12-10,True
 17840271,Entire home/apt,1250.0,True,13,36,63,296,,,,0,,Barcelona,2018-04-12,
-17845863,Private room,,True,30,60,90,365,80,2017-03-30,2017-07-09,6,0.22,Madrid,2019-07-10,True
 17852724,Entire home/apt,500.0,True,0,0,6,243,97,2017-04-01,2019-05-05,82,3.17,Mallorca,2019-05-27,True
 17854156,Private room,220.0,True,0,0,0,0,94,2017-04-02,2019-01-26,80,3.55,Mallorca,2019-02-17,True
 17856140,Entire home/apt,1000.0,True,25,48,78,277,91,2017-06-24,2019-11-23,36,1.19,Mallorca,2019-12-31,True
@@ -3830,7 +3763,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 18045510,Entire home/apt,590.0,True,0,0,0,19,97,2017-04-30,2018-05-26,37,2.32,Sevilla,2018-08-27,True
 18048634,Private room,150.0,False,2,2,4,94,,,,0,,Barcelona,2017-06-05,
 18048868,Entire home/apt,2400.0,True,0,9,27,235,,,,0,,Mallorca,2018-07-29,
-18051043,Entire home/apt,,True,0,0,0,0,100,2017-04-17,2017-04-17,1,0.03,Madrid,2020-04-17,True
 18052103,Entire home/apt,1030.0,True,8,27,57,182,93,2016-06-06,2018-10-19,58,1.97,Mallorca,2018-11-20,True
 18052304,Entire home/apt,600.0,True,27,43,45,269,98,2017-06-04,2019-11-26,38,1.1,Mallorca,2020-04-23,True
 18056093,Private room,450.0,False,0,0,15,15,100,2017-04-16,2017-05-01,2,2.9,Barcelona,2017-05-07,True
@@ -3965,13 +3897,11 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 18447026,Entire home/apt,600.0,True,23,53,83,358,95,2017-05-28,2018-09-09,15,0.93,Malaga,2018-09-29,True
 18452162,Entire home/apt,1770.0,True,15,45,75,317,80,2020-08-01,2020-08-01,1,1.13,Mallorca,2020-08-28,True
 18454432,Entire home/apt,4900.0,True,13,34,64,339,88,2017-06-16,2019-02-08,26,1.19,Barcelona,2019-04-10,True
-18454649,Entire home/apt,,True,29,54,84,359,,,,0,,Mallorca,2020-08-28,
 18455442,Private room,250.0,True,0,0,0,129,97,2017-06-24,2020-03-05,8,0.24,Barcelona,2020-04-16,True
 18456461,Entire home/apt,1000.0,True,9,32,55,281,100,2020-02-12,2020-02-12,1,5.07,Madrid,2020-02-18,True
 18457389,Private room,310.0,True,0,0,0,0,,,,0,,Barcelona,2019-11-09,
 18457852,Entire home/apt,1100.0,True,29,33,33,33,100,2019-08-25,2020-09-01,2,0.14,Girona,2020-10-28,True
 18458845,Entire home/apt,600.0,True,13,43,73,348,80,2017-08-19,2017-08-19,1,0.08,Girona,2018-08-30,True
-18459019,Entire home/apt,,True,14,18,39,299,100,2017-09-16,2018-01-11,5,1.24,Barcelona,2018-01-17,True
 18460134,Private room,2450.0,True,30,60,90,365,,,,0,,Mallorca,2020-12-19,
 18462635,Private room,130.0,True,24,54,84,84,80,2017-05-18,2019-10-22,72,2.42,Barcelona,2019-11-09,True
 18466836,Entire home/apt,530.0,True,0,0,0,0,60,2019-05-05,2019-05-05,1,0.07,Girona,2020-06-29,False
@@ -3992,7 +3922,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 18502042,Entire home/apt,750.0,True,0,0,0,0,100,2017-07-12,2018-10-02,6,0.28,Mallorca,2019-04-24,True
 18505909,Entire home/apt,460.0,True,27,52,55,311,100,2017-06-23,2017-07-16,3,0.09,Mallorca,2020-04-23,True
 18513889,Entire home/apt,710.0,True,8,34,34,104,95,2017-05-23,2017-11-06,25,3.18,Madrid,2018-01-17,True
-18513964,Entire home/apt,,True,5,16,16,16,85,2018-05-05,2018-09-14,4,0.89,Mallorca,2018-09-18,True
 18520217,Entire home/apt,950.0,True,0,27,57,287,97,2018-05-15,2019-07-30,6,0.27,Girona,2020-03-26,True
 18521609,Private room,200.0,True,0,0,0,134,99,2017-08-03,2020-02-29,127,3.69,Barcelona,2020-06-13,True
 18523965,Entire home/apt,3000.0,True,30,60,90,180,100,2018-01-02,2018-09-01,2,0.17,Menorca,2018-12-22,True
@@ -4037,7 +3966,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 18589571,Hotel room,100.0,True,0,0,0,0,80,2017-08-19,2018-09-03,3,0.11,Girona,2019-12-31,True
 18590075,Private room,440.0,True,0,0,0,197,87,2017-05-23,2019-08-27,23,0.7,Barcelona,2020-02-16,True
 18590353,Entire home/apt,2750.0,True,28,55,85,314,98,2017-05-29,2018-11-04,13,0.72,Girona,2018-11-26,True
-18607839,Entire home/apt,,True,22,26,26,205,100,2017-09-29,2018-09-01,2,0.08,Mallorca,2019-09-28,True
 18611022,Entire home/apt,1000.0,True,0,17,35,117,100,2017-07-11,2019-01-06,12,0.62,Mallorca,2019-02-17,True
 18612011,Entire home/apt,3600.0,True,30,60,90,365,93,2017-08-04,2018-07-24,3,0.24,Mallorca,2018-08-21,True
 18612212,Private room,380.0,False,19,49,79,79,,,,0,,Barcelona,2017-07-06,
@@ -4047,7 +3975,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 18623240,Entire home/apt,850.0,True,27,57,87,87,100,2017-05-11,2019-07-27,6,0.18,Girona,2020-01-31,True
 18625063,Entire home/apt,2080.0,True,12,20,44,252,99,2017-05-30,2019-01-10,45,2.25,Sevilla,2019-01-29,True
 18627240,Entire home/apt,750.0,True,6,18,23,234,98,2017-07-03,2018-04-08,9,0.95,Mallorca,2018-04-18,True
-18628538,Entire home/apt,,True,0,0,0,45,100,2018-06-26,2019-08-10,3,0.16,Mallorca,2019-12-31,True
 18631940,Private room,700.0,True,0,19,49,49,99,2017-05-28,2019-04-23,34,1.44,Madrid,2019-05-14,True
 18633274,Entire home/apt,1650.0,True,2,14,22,103,100,2018-09-27,2018-09-27,1,0.17,Mallorca,2019-03-25,True
 18633600,Entire home/apt,800.0,True,20,20,20,20,85,2017-12-09,2019-07-23,11,0.55,Madrid,2019-08-12,True
@@ -4061,7 +3988,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 18663087,Entire home/apt,760.0,True,3,16,32,180,99,2017-05-14,2018-09-23,99,5.86,Madrid,2018-10-10,True
 18666666,Private room,300.0,True,0,0,0,14,94,2017-06-18,2019-08-10,29,0.78,Madrid,2020-07-17,True
 18667621,Entire home/apt,1300.0,True,30,55,81,340,86,2017-07-09,2019-01-01,8,0.37,Girona,2019-04-29,True
-18668209,Entire home/apt,,True,15,21,41,102,,,,0,,Mallorca,2019-04-24,
 18670982,Entire home/apt,800.0,True,20,35,65,340,100,2017-08-09,2019-08-12,3,0.09,Girona,2020-06-29,True
 18677205,Entire home/apt,450.0,True,18,48,78,266,100,2018-04-03,2018-06-20,2,0.19,Mallorca,2019-02-17,True
 18679105,Private room,650.0,True,30,60,90,90,83,2017-05-29,2017-07-18,6,1.39,Barcelona,2017-10-07,True
@@ -4073,7 +3999,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 18698731,Private room,450.0,True,0,10,40,40,85,2017-05-14,2017-08-27,17,4.27,Barcelona,2017-09-12,True
 18700323,Entire home/apt,950.0,True,26,34,54,314,96,2017-05-17,2019-06-19,25,0.93,Madrid,2019-08-12,True
 18709873,Entire home/apt,690.0,True,1,20,45,320,,,,0,,Barcelona,2017-10-07,
-18712241,Entire home/apt,,True,30,37,47,105,80,2019-06-19,2019-06-19,1,0.09,Mallorca,2020-05-28,True
 18715709,Private room,250.0,True,0,0,0,0,100,2017-07-04,2017-07-04,1,0.06,Madrid,2018-12-10,True
 18716352,Entire home/apt,2500.0,False,2,12,27,277,,,,0,,Barcelona,2017-08-06,
 18723929,Private room,650.0,True,1,1,1,1,95,2018-05-04,2020-01-24,13,0.6,Madrid,2020-02-18,True
@@ -4130,7 +4055,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 18817414,Entire home/apt,4990.0,True,22,49,67,266,93,2018-04-07,2019-09-05,3,0.14,Mallorca,2020-01-29,True
 18819488,Entire home/apt,2000.0,True,13,22,40,212,97,2015-06-24,2019-10-14,24,0.46,Barcelona,2019-11-09,True
 18819497,Entire home/apt,1500.0,False,6,19,32,279,98,2016-09-05,,24,2.18,Barcelona,2017-08-06,True
-18824175,Entire home/apt,,True,23,53,83,358,100,2017-09-01,2019-07-15,3,0.08,Girona,2020-10-28,True
 18825554,Entire home/apt,500.0,True,2,7,8,230,95,2017-05-19,2018-02-25,5,0.32,Madrid,2018-09-11,True
 18826217,Entire home/apt,750.0,True,16,36,60,306,98,2017-06-14,2019-02-21,18,0.88,Malaga,2019-02-24,True
 18834053,Entire home/apt,1000.0,True,17,40,61,280,95,2017-07-27,2017-08-27,4,0.45,Girona,2018-04-21,True
@@ -4284,7 +4208,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 19138115,Private room,300.0,True,0,0,0,0,90,2017-06-18,2017-07-03,2,0.55,Barcelona,2017-10-07,True
 19150818,Private room,400.0,True,29,59,89,361,100,2017-08-20,2019-08-22,2,0.07,Malaga,2020-01-31,True
 19153481,Entire home/apt,1820.0,True,19,49,79,315,100,2017-07-15,2018-07-27,9,0.67,Menorca,2018-08-29,True
-19154124,Entire home/apt,,True,10,30,46,321,95,2017-08-21,2018-08-06,11,0.75,Barcelona,2018-11-07,True
 19154451,Entire home/apt,700.0,True,27,57,87,214,,2018-05-11,2018-05-13,3,0.46,Girona,2018-11-26,
 19155983,Entire home/apt,850.0,True,1,1,1,1,78,2017-09-18,2019-09-01,8,0.25,Girona,2020-05-28,False
 19158294,Entire home/apt,810.0,True,0,0,0,0,98,2017-07-04,2019-08-17,11,0.28,Valencia,2020-09-28,True
@@ -4309,7 +4232,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 19176012,Private room,250.0,True,26,56,86,133,96,2017-06-25,2019-07-14,88,3.44,Madrid,2019-08-12,True
 19176730,Entire home/apt,5043.0,True,7,7,7,7,92,2017-08-14,2020-08-19,35,0.96,Valencia,2020-08-30,True
 19185015,Entire home/apt,640.0,True,0,27,31,32,,,,0,,Girona,2019-07-29,
-19186324,Entire home/apt,,True,29,59,89,179,,,,0,,Barcelona,2018-07-10,
 19189101,Entire home/apt,1380.0,True,0,0,0,0,98,2017-07-10,2020-10-29,182,4.47,Sevilla,2020-11-30,True
 19190552,Entire home/apt,650.0,True,22,47,68,343,80,2017-06-30,2019-03-21,2,0.09,Madrid,2019-05-14,True
 19193802,Entire home/apt,2200.0,True,8,10,16,231,100,2017-09-04,2019-05-10,54,2.66,Barcelona,2019-05-14,True
@@ -4364,7 +4286,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 19310672,Entire home/apt,1620.0,True,30,33,33,33,80,2018-09-01,2018-09-01,1,1.13,Girona,2018-09-28,True
 19310690,Private room,600.0,True,1,10,29,222,100,2017-06-27,2017-09-09,13,5.13,Barcelona,2017-09-12,True
 19312456,Entire home/apt,2500.0,True,0,0,0,0,,,,0,,Mallorca,2019-03-25,
-19321540,Entire home/apt,,True,30,60,90,365,,,,0,,Barcelona,2019-09-17,
 19322427,Private room,500.0,True,0,0,0,0,,2018-02-24,2018-02-24,1,0.09,Sevilla,2019-01-29,
 19324222,Private room,350.0,True,0,0,0,0,95,2017-06-22,2017-07-01,4,0.17,Barcelona,2019-06-07,True
 19327719,Entire home/apt,1200.0,True,11,32,52,292,100,2017-09-26,2017-09-26,1,0.27,Madrid,2018-01-17,True
@@ -4404,7 +4325,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 19410032,Private room,500.0,True,0,0,0,0,,2017-06-21,2017-06-21,1,0.03,Barcelona,2020-06-13,
 19410686,Private room,250.0,True,0,0,0,0,,,,0,,Madrid,2019-12-10,
 19411356,Entire home/apt,300.0,True,0,0,0,0,90,2017-07-03,2018-08-30,2,0.06,Madrid,2020-04-17,True
-19412149,Entire home/apt,,True,9,10,10,85,100,2018-08-10,2019-07-09,4,0.18,Menorca,2020-05-31,True
 19418846,Private room,300.0,True,0,0,0,0,89,2017-07-11,2019-06-22,17,0.5,Barcelona,2020-05-11,True
 19419933,Entire home/apt,790.0,True,28,58,81,171,99,2017-08-06,2018-11-19,17,0.59,Valencia,2019-12-31,True
 19420887,Private room,340.0,True,21,36,49,49,97,2017-07-17,2019-01-22,33,1.73,Mallorca,2019-02-17,True
@@ -4484,7 +4404,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 19569193,Entire home/apt,620.0,True,29,59,87,362,93,2017-07-22,2019-08-03,3,0.1,Girona,2019-12-31,True
 19572721,Entire home/apt,600.0,True,0,0,0,0,100,2017-09-15,2017-09-15,1,0.05,Madrid,2019-05-14,True
 19573319,Entire home/apt,1800.0,True,2,7,15,24,99,2017-07-16,2018-05-08,39,3.93,Madrid,2018-05-14,True
-19584088,Entire home/apt,,True,27,57,87,362,100,2017-08-22,2017-08-22,1,0.07,Mallorca,2018-10-17,True
 19586020,Entire home/apt,800.0,True,29,57,85,305,,,,0,,Girona,2019-02-19,
 19591315,Entire home/apt,410.0,True,9,17,40,311,,,,0,,Madrid,2018-08-14,
 19598986,Private room,240.0,True,6,23,31,31,92,2017-07-11,2018-05-12,67,6.63,Madrid,2018-05-14,True
@@ -4544,7 +4463,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 19780600,Entire home/apt,1750.0,True,30,60,90,344,90,2018-07-26,2018-11-03,4,0.82,Girona,2018-12-22,True
 19782028,Private room,450.0,True,14,44,67,67,90,2017-08-10,2017-08-20,2,1.84,Barcelona,2017-09-12,True
 19782724,Entire home/apt,1250.0,True,0,0,0,0,,,,0,,Girona,2020-01-31,
-19784562,Entire home/apt,,True,19,41,58,225,97,2017-07-31,2018-04-15,8,0.93,Mallorca,2018-04-18,True
 19785957,Private room,180.0,True,2,4,16,26,95,2017-08-01,2018-08-02,19,1.5,Mallorca,2018-08-21,True
 19792591,Private room,320.0,True,13,43,73,73,90,2017-07-19,2019-07-28,47,1.93,Girona,2019-07-29,True
 19794259,Private room,210.0,True,30,60,90,365,100,2019-12-21,2020-03-15,2,0.42,Madrid,2020-05-14,True
@@ -4570,7 +4488,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 19865607,Entire home/apt,5000.0,True,30,60,90,365,83,2017-08-27,2020-03-14,24,0.76,Barcelona,2020-04-16,True
 19865779,Entire home/apt,620.0,True,0,0,0,136,87,2017-11-17,2020-10-19,36,1.01,Barcelona,2020-11-06,True
 19866514,Entire home/apt,3000.0,True,15,16,16,16,100,2018-06-30,2018-06-30,1,0.5,Girona,2018-08-30,True
-19867396,Private room,,True,29,59,89,90,70,2017-07-26,2017-08-20,4,0.1,Valencia,2021-01-19,False
 19868051,Entire home/apt,2140.0,True,0,0,23,203,100,2017-07-19,2017-08-26,2,0.15,Girona,2018-08-30,True
 19869060,Entire home/apt,2150.0,True,29,59,89,364,100,2017-08-28,2017-08-28,1,0.21,Barcelona,2018-01-17,True
 19871929,Private room,400.0,True,23,53,83,84,100,2017-08-26,2018-04-07,2,0.13,Madrid,2018-12-10,True
@@ -5149,7 +5066,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 21802069,Shared room,130.0,True,30,60,90,365,100,2020-07-13,2020-07-13,1,0.49,Madrid,2020-09-13,True
 21805707,Entire home/apt,1310.0,True,21,51,81,354,67,2017-12-29,2019-03-03,3,0.12,Girona,2020-01-31,False
 21806017,Entire home/apt,2530.0,True,0,0,0,249,,,,0,,Mallorca,2021-01-16,
-21813842,Entire home/apt,,True,14,14,14,254,93,2018-06-10,2019-06-21,3,0.18,Mallorca,2019-10-28,True
 21821450,Entire home/apt,1160.0,True,30,60,90,365,93,2018-03-31,2020-07-28,6,0.18,Mallorca,2020-12-19,True
 21821492,Entire home/apt,880.0,True,22,38,46,272,,,,0,,Mallorca,2018-04-18,
 21825936,Entire home/apt,2660.0,True,0,0,0,26,,,,0,,Girona,2018-07-31,
@@ -5169,7 +5085,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 21877838,Hotel room,840.0,True,0,0,0,0,95,2017-12-08,2019-04-21,13,0.61,Madrid,2019-09-19,True
 21878248,Entire home/apt,480.0,True,7,13,30,90,90,2018-01-02,2018-01-13,2,4.05,Barcelona,2018-01-17,True
 21888979,Entire home/apt,2500.0,True,26,56,84,153,82,2018-01-01,2019-09-25,29,0.95,Barcelona,2020-07-17,True
-21889037,Private room,,True,30,60,90,356,92,2018-03-15,2019-12-31,57,2.15,Sevilla,2020-05-30,True
 21889721,Entire home/apt,2070.0,True,0,0,0,7,100,2018-01-11,2018-01-11,1,0.03,Madrid,2021-01-12,True
 21891523,Entire home/apt,2000.0,True,2,25,50,323,93,2018-02-20,2018-09-05,30,4.49,Barcelona,2018-09-11,True
 21896909,Hotel room,610.0,True,1,1,1,1,85,2017-12-29,2019-12-06,17,0.47,Sevilla,2020-12-31,True
@@ -5230,10 +5145,8 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 22026057,Entire home/apt,1790.0,True,1,1,1,132,100,2018-08-15,2018-08-15,1,0.48,Mallorca,2018-10-17,True
 22026060,Entire home/apt,2230.0,True,0,8,37,127,,,,0,,Mallorca,2019-02-17,
 22028868,Entire home/apt,1060.0,True,26,40,47,175,,,,0,,Girona,2020-04-30,
-22029379,Entire home/apt,,True,19,49,79,339,,,,0,,Mallorca,2018-10-17,
 22030284,Private room,180.0,True,0,0,0,0,,2017-12-01,2017-12-01,1,0.03,Madrid,2020-11-06,
 22030643,Private room,200.0,True,29,59,62,211,95,2018-04-21,2019-03-04,30,2.66,Girona,2019-03-30,True
-22032691,Entire home/apt,,True,30,60,90,365,100,2018-08-18,2018-08-18,1,0.06,Mallorca,2019-12-31,True
 22033482,Entire home/apt,1200.0,True,11,20,34,67,99,2017-12-05,2019-11-27,157,6.59,Sevilla,2019-11-29,True
 22042300,Private room,130.0,True,15,34,34,34,100,2018-04-25,2018-05-08,2,3.2,Madrid,2018-05-14,True
 22048206,Entire home/apt,690.0,True,15,45,45,45,91,2017-12-29,2019-10-22,50,2.24,Madrid,2019-11-09,True
@@ -5242,8 +5155,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 22071847,Entire home/apt,850.0,True,29,45,67,298,93,2018-01-02,2018-07-15,6,0.81,Madrid,2018-08-14,True
 22075521,Private room,750.0,True,0,0,0,0,,,,0,,Madrid,2021-01-12,
 22077629,Entire home/apt,600.0,True,29,59,89,361,,,,0,,Madrid,2019-01-14,
-22080550,Entire home/apt,,True,30,60,90,365,,,,0,,Mallorca,2020-06-25,
-22080562,Entire home/apt,,True,30,60,90,365,,,,0,,Mallorca,2021-01-16,
 22080641,Entire home/apt,1370.0,True,0,0,2,112,80,2018-08-25,2018-08-25,1,0.1,Mallorca,2019-06-27,True
 22084886,Entire home/apt,2270.0,True,30,60,90,365,100,2020-08-18,2020-08-18,1,0.2,Mallorca,2021-01-16,True
 22084898,Entire home/apt,3040.0,True,0,12,14,58,,,,0,,Mallorca,2019-02-17,
@@ -5281,7 +5192,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 22187984,Entire home/apt,750.0,True,0,0,0,14,97,2018-07-09,2020-08-24,21,0.67,Valencia,2021-02-20,True
 22188551,Private room,400.0,True,0,0,0,0,,,,0,,Barcelona,2018-02-07,
 22196835,Entire home/apt,420.0,True,0,0,0,131,,2020-02-07,2020-02-07,1,0.32,Barcelona,2020-05-11,
-22197717,Entire home/apt,,True,18,48,78,291,94,2016-09-19,2018-04-24,13,0.55,Madrid,2018-09-11,True
 22198312,Entire home/apt,610.0,True,20,43,61,327,83,2018-07-15,2019-02-12,6,0.42,Madrid,2019-09-19,True
 22198896,Entire home/apt,800.0,True,0,3,6,6,93,2018-01-23,2020-01-03,29,1.17,Madrid,2020-02-18,True
 22203198,Private room,260.0,True,0,0,0,0,97,2017-12-31,2019-01-04,19,0.59,Madrid,2020-09-13,True
@@ -5322,7 +5232,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 22337052,Private room,350.0,True,3,3,3,3,98,2017-12-30,2019-02-26,46,3.23,Madrid,2019-03-08,True
 22342492,Entire home/apt,1790.0,True,26,55,85,261,98,2018-02-07,2020-02-23,49,1.6,Madrid,2020-08-25,True
 22350554,Private room,240.0,True,6,36,66,133,100,2018-01-06,2020-10-04,61,1.64,Madrid,2021-02-09,True
-22351337,Entire home/apt,,True,30,60,90,365,,,,0,,Barcelona,2018-02-07,
 22352817,Entire home/apt,600.0,True,27,29,29,29,93,2018-04-02,2019-09-24,15,0.84,Girona,2019-09-30,True
 22353005,Entire home/apt,690.0,True,0,0,0,0,100,2018-06-08,2018-06-08,1,0.04,Barcelona,2020-07-17,True
 22354625,Entire home/apt,790.0,True,3,5,22,290,96,2017-12-28,2018-07-31,38,5.04,Madrid,2018-08-14,True
@@ -5375,7 +5284,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 22522305,Entire home/apt,3000.0,True,0,0,0,179,100,2018-09-08,2018-09-08,1,0.42,Mallorca,2018-11-20,True
 22527050,Entire home/apt,1200.0,True,14,28,30,191,98,2018-03-31,2018-10-20,11,0.93,Mallorca,2019-03-25,True
 22531387,Private room,150.0,True,1,18,33,300,96,2018-01-05,2018-01-20,5,4.61,Barcelona,2018-02-07,True
-22537863,Entire home/apt,,True,23,53,83,358,,,,0,,Mallorca,2019-04-24,
 22539956,Entire home/apt,1370.0,True,7,29,59,209,100,2019-05-21,2019-06-27,2,0.6,Mallorca,2019-08-31,True
 22540705,Entire home/apt,450.0,True,7,23,23,23,84,2018-02-28,2019-06-30,11,0.65,Girona,2019-07-29,True
 22542701,Entire home/apt,700.0,True,8,17,33,82,97,2018-02-18,2019-02-06,22,1.75,Madrid,2019-03-08,True
@@ -5461,7 +5369,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 22737815,Entire home/apt,900.0,True,29,59,89,197,97,2018-05-11,2020-02-02,61,2.1,Barcelona,2020-10-12,True
 22738638,Entire home/apt,650.0,True,8,33,58,62,96,2018-01-21,2019-05-19,38,2.3,Madrid,2019-06-07,True
 22739042,Entire home/apt,950.0,True,18,45,75,308,76,2018-02-16,2019-12-26,37,1.62,Barcelona,2020-01-10,False
-22741501,Shared room,,True,22,52,82,339,100,2018-03-02,2018-04-02,2,0.83,Barcelona,2018-05-14,True
 22748653,Entire home/apt,450.0,True,10,40,70,225,91,2018-04-22,2018-07-17,9,2.12,Malaga,2018-08-29,True
 22757562,Entire home/apt,750.0,True,0,0,0,0,,,,0,,Girona,2018-12-22,
 22760147,Entire home/apt,400.0,True,10,40,67,154,97,2018-01-25,2019-01-06,58,4.78,Sevilla,2019-01-29,True
@@ -5474,7 +5381,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 22778959,Private room,230.0,True,15,34,56,56,89,2018-03-19,2019-10-19,50,2.13,Valencia,2020-02-29,True
 22779020,Private room,250.0,True,19,41,71,346,97,2018-01-25,2020-02-24,75,2.62,Barcelona,2020-06-13,True
 22781711,Entire home/apt,600.0,True,27,57,87,87,,,,0,,Barcelona,2021-01-12,
-22782191,Private room,,True,30,60,90,365,,,,0,,Mallorca,2019-06-27,
 22783470,Entire home/apt,900.0,True,19,49,79,212,,,,0,,Mallorca,2018-08-21,
 22785047,Private room,250.0,True,0,0,0,16,,,,0,,Madrid,2019-01-14,
 22786126,Entire home/apt,2200.0,True,30,60,90,365,90,2018-08-19,2019-07-01,2,0.07,Mallorca,2020-11-08,True
@@ -5498,7 +5404,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 22862857,Entire home/apt,940.0,True,9,32,62,150,,2018-02-10,2018-02-10,1,0.14,Sevilla,2018-09-22,
 22864423,Entire home/apt,4500.0,True,23,49,73,267,100,2018-03-25,2018-10-15,13,1.2,Sevilla,2019-02-18,True
 22864811,Entire home/apt,260.0,True,17,17,17,17,93,2018-05-19,2019-09-09,20,1.22,Girona,2019-09-30,True
-22871853,Entire home/apt,,True,0,0,0,214,80,2018-08-22,2018-08-22,1,0.26,Mallorca,2018-12-18,True
 22872147,Entire home/apt,2500.0,True,20,32,49,127,100,2018-04-03,2018-04-03,1,2.03,Mallorca,2018-04-18,True
 22873528,Entire home/apt,1350.0,True,8,31,61,332,,,,0,,Girona,2018-10-20,
 22873587,Entire home/apt,740.0,True,21,51,81,293,,,,0,,Girona,2020-01-31,
@@ -5549,10 +5454,9 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 23057226,Entire home/apt,660.0,True,29,59,89,262,,,,0,,Girona,2019-09-30,
 23066116,Entire home/apt,2250.0,True,17,40,70,164,,,,0,,Girona,2018-12-22,
 23066523,Private room,600.0,True,30,60,90,365,87,2018-07-03,2018-09-18,6,0.69,Mallorca,2019-03-25,True
-23066673,Entire home/apt,,True,0,7,36,120,80,2018-06-01,2018-07-31,2,0.12,Barcelona,2019-10-16,True
+23066673,Entire home/apt,1000.0,True,0,0,0,272,80,2018-06-01,2018-07-31,2,0.09,Barcelona,2020-04-16,True
 23067514,Entire home/apt,850.0,True,5,12,25,110,97,2018-02-18,2019-05-04,67,4.53,Madrid,2019-05-14,True
 23068260,Entire home/apt,600.0,True,0,0,13,118,98,2018-04-26,2019-08-02,8,0.36,Mallorca,2020-02-29,True
-23068595,Entire home/apt,,True,8,19,49,91,,,,0,,Mallorca,2018-08-21,
 23069597,Entire home/apt,650.0,True,26,56,56,282,,2018-02-08,2018-02-08,3,1.27,Girona,2018-04-21,
 23073900,Entire home/apt,3340.0,True,0,0,21,170,,,,0,,Menorca,2018-12-22,
 23083562,Entire home/apt,1560.0,True,19,48,72,107,,,,0,,Menorca,2018-08-29,
@@ -5568,7 +5472,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 23133166,Entire home/apt,450.0,True,3,10,15,85,98,2018-02-27,2019-03-26,17,1.21,Malaga,2019-05-01,True
 23134823,Entire home/apt,650.0,True,29,59,65,65,98,2018-02-18,2020-09-06,76,2.35,Malaga,2020-10-30,True
 23136321,Entire home/apt,600.0,True,17,25,45,292,86,2018-02-11,2020-03-08,43,1.7,Sevilla,2020-03-23,True
-23136859,Entire home/apt,,True,0,0,16,210,97,2018-04-08,2019-10-27,12,0.53,Mallorca,2020-02-29,True
 23138068,Entire home/apt,790.0,True,7,21,51,141,89,2018-04-09,2018-08-29,7,1.31,Mallorca,2018-09-18,True
 23147911,Entire home/apt,900.0,True,30,60,90,365,93,2018-05-13,2019-04-28,5,0.25,Madrid,2020-01-10,True
 23152577,Entire home/apt,1000.0,True,0,0,0,86,,,,0,,Barcelona,2019-12-10,
@@ -5640,9 +5543,7 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 23280535,Entire home/apt,1050.0,True,29,51,78,184,97,2018-04-07,2019-10-31,28,1.23,Girona,2020-02-29,True
 23281523,Entire home/apt,500.0,True,4,18,44,313,95,2018-02-23,2019-08-07,45,2.56,Madrid,2019-08-12,True
 23282173,Entire home/apt,820.0,True,0,0,1,97,99,2018-03-06,2019-05-06,50,3.5,Barcelona,2019-05-14,True
-23282248,Entire home/apt,,True,21,51,81,114,100,2018-07-24,2018-07-24,1,0.08,Mallorca,2019-08-31,True
 23282254,Entire home/apt,1630.0,True,21,45,68,217,100,2018-08-25,2018-08-25,1,0.14,Mallorca,2019-03-25,True
-23282268,Entire home/apt,,True,28,58,88,348,,,,0,,Mallorca,2020-10-21,
 23282272,Entire home/apt,3190.0,True,28,58,88,353,,,,0,,Mallorca,2020-09-19,
 23282282,Entire home/apt,2080.0,True,17,47,77,262,100,2018-10-20,2018-10-20,1,0.52,Mallorca,2018-12-18,True
 23284722,Entire home/apt,2560.0,True,30,60,90,297,,,,0,,Mallorca,2018-12-18,
@@ -5652,10 +5553,7 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 23300958,Entire home/apt,3720.0,True,23,53,83,264,,,,0,,Girona,2018-08-30,
 23315401,Entire home/apt,1070.0,True,20,43,73,231,,,,0,,Sevilla,2018-04-21,
 23315411,Entire home/apt,1700.0,True,30,60,90,365,88,2018-10-14,2019-05-06,5,0.19,Sevilla,2020-12-31,True
-23316307,Entire home/apt,,True,25,41,54,179,,,,0,,Mallorca,2018-04-18,
-23316957,Entire home/apt,,True,23,46,76,210,,,,0,,Mallorca,2018-11-20,
 23320935,Entire home/apt,990.0,True,16,35,58,309,,,,0,,Malaga,2019-12-31,
-23321053,Entire home/apt,,True,30,60,90,365,,,,0,,Mallorca,2019-08-31,
 23321702,Entire home/apt,900.0,True,14,42,70,197,100,2018-03-18,2018-04-09,2,0.87,Malaga,2018-05-27,True
 23322353,Entire home/apt,930.0,True,8,18,48,65,86,2018-02-17,2018-08-26,42,6.2,Barcelona,2018-09-11,True
 23322783,Private room,230.0,True,0,2,32,307,100,2019-03-01,2020-02-29,7,0.42,Madrid,2020-07-17,True
@@ -5732,7 +5630,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 23523562,Entire home/apt,1800.0,True,29,49,79,80,100,2018-07-22,2018-08-12,2,0.18,Girona,2019-06-30,True
 23523885,Private room,220.0,True,0,11,22,271,92,2018-03-02,2020-05-27,216,8.0,Valencia,2020-05-31,True
 23531444,Entire home/apt,790.0,True,5,31,58,224,,,,0,,Madrid,2018-04-12,
-23531958,Entire home/apt,,True,30,60,90,365,,,,0,,Mallorca,2019-02-17,
 23532041,Entire home/apt,1100.0,True,29,59,89,364,93,2018-06-30,2020-08-10,6,0.2,Mallorca,2020-12-19,True
 23533196,Entire home/apt,600.0,True,27,57,87,199,92,2018-07-07,2020-01-31,44,1.89,Barcelona,2020-06-13,True
 23542535,Entire home/apt,1550.0,True,0,0,0,0,100,2018-08-06,2018-08-06,1,0.27,Menorca,2018-11-27,True
@@ -5770,7 +5667,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 23635799,Entire home/apt,500.0,True,17,44,74,164,89,2018-03-18,2018-04-20,7,6.08,Malaga,2018-04-22,True
 23635900,Entire home/apt,300.0,True,0,0,0,0,78,2018-03-31,2019-08-31,9,0.43,Girona,2019-12-31,False
 23638684,Entire home/apt,1200.0,True,23,53,83,328,,,,0,,Girona,2019-02-19,
-23647021,Entire home/apt,,True,2,25,51,326,90,2018-03-31,2018-07-02,3,0.76,Mallorca,2018-07-29,True
 23648479,Private room,400.0,True,0,0,0,0,80,2018-03-15,2018-03-18,2,0.08,Barcelona,2020-05-11,True
 23656535,Entire home/apt,600.0,True,5,5,5,241,93,2018-03-30,2018-08-14,8,1.0,Malaga,2018-11-27,True
 23657557,Entire home/apt,1400.0,True,12,33,53,65,,,,0,,Madrid,2019-09-19,
@@ -5803,7 +5699,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 23703736,Entire home/apt,1260.0,True,0,0,0,0,88,2018-04-04,2019-12-20,8,0.25,Malaga,2020-11-30,True
 23705486,Entire home/apt,600.0,True,3,11,41,105,100,2018-07-08,2018-07-08,1,1.32,Malaga,2018-07-31,True
 23705809,Entire home/apt,480.0,True,4,16,37,252,99,2018-03-21,2019-06-23,28,1.61,Sevilla,2019-08-31,True
-23707275,Entire home/apt,,True,30,60,90,270,,,,0,,Girona,2020-10-28,
 23713086,Entire home/apt,1500.0,True,20,50,80,355,100,2018-08-15,2018-08-15,1,0.24,Girona,2018-12-22,True
 23713242,Entire home/apt,750.0,True,26,56,79,322,100,2018-04-01,2018-04-01,1,1.52,Girona,2018-04-21,True
 23713332,Entire home/apt,800.0,True,3,30,31,45,,2018-03-19,2018-03-19,1,0.23,Girona,2018-07-31,
@@ -5825,7 +5720,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 23757365,Entire home/apt,1000.0,True,0,0,0,258,100,2018-08-31,2018-08-31,1,0.07,Barcelona,2019-11-09,True
 23757508,Entire home/apt,2440.0,True,15,23,36,170,,,,0,,Barcelona,2018-05-14,
 23758038,Entire home/apt,2540.0,True,0,0,0,200,73,2018-06-08,2018-09-05,3,0.47,Mallorca,2018-12-18,False
-23758120,Entire home/apt,,True,29,52,82,243,,,,0,,Girona,2018-11-26,
 23759000,Private room,600.0,True,0,0,0,0,99,2018-04-03,2019-11-16,37,1.22,Barcelona,2020-10-12,True
 23759217,Entire home/apt,500.0,True,11,41,45,182,,,,0,,Girona,2019-07-29,
 23761249,Shared room,150.0,True,30,60,90,180,97,2018-04-02,2019-05-31,26,0.76,Barcelona,2021-02-09,True
@@ -5847,7 +5741,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 23810425,Private room,350.0,True,11,41,71,346,75,2018-04-07,2018-11-20,19,1.57,Barcelona,2019-04-10,False
 23813227,Entire home/apt,420.0,True,22,24,54,145,95,2018-04-02,2019-11-21,61,3.06,Valencia,2019-11-30,True
 23815177,Entire home/apt,1450.0,True,0,11,15,183,,,,0,,Mallorca,2019-08-31,
-23815528,Entire home/apt,,True,29,52,82,301,,,,0,,Mallorca,2020-08-28,
 23815892,Entire home/apt,1210.0,True,21,43,45,86,,,,0,,Mallorca,2018-04-18,
 23817596,Entire home/apt,810.0,True,26,54,84,288,90,2018-08-10,2021-02-13,8,0.26,Sevilla,2021-02-27,True
 23818160,Entire home/apt,1170.0,True,30,60,90,362,78,2018-05-01,2020-09-12,8,0.27,Mallorca,2020-10-21,False
@@ -5860,7 +5753,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 23848930,Entire home/apt,950.0,True,10,23,36,240,99,2018-03-31,2020-02-17,89,3.87,Malaga,2020-02-29,True
 23850453,Entire home/apt,310.0,True,11,34,64,249,95,2018-05-03,2019-11-22,124,6.54,Valencia,2019-11-30,True
 23864280,Entire home/apt,890.0,True,0,20,42,317,98,2018-04-14,2018-07-28,12,3.38,Malaga,2018-07-31,True
-23864535,Entire home/apt,,True,5,5,5,49,,,,0,,Mallorca,2020-09-19,
 23869446,Entire home/apt,600.0,True,9,19,41,244,100,2018-04-23,2018-04-23,1,0.04,Valencia,2020-02-29,True
 23872048,Entire home/apt,950.0,True,29,59,89,89,94,2018-04-01,2020-03-12,58,2.28,Madrid,2020-05-14,True
 23872258,Entire home/apt,1410.0,True,30,60,85,354,100,2018-06-08,2020-03-06,3,0.12,Madrid,2020-06-13,True
@@ -5986,8 +5878,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 24223980,Entire home/apt,900.0,True,0,0,0,182,100,2018-05-04,2019-08-29,4,0.2,Girona,2019-12-31,True
 24224594,Entire home/apt,550.0,True,29,52,82,357,87,2018-07-11,2020-03-12,24,1.13,Barcelona,2020-04-16,True
 24228191,Private room,590.0,True,13,43,49,139,100,2018-06-11,2018-08-27,6,1.51,Barcelona,2018-10-10,True
-24228419,Entire home/apt,,True,0,0,0,0,,,,0,,Mallorca,2019-09-28,
-24231755,Entire home/apt,,True,28,58,88,349,,,,0,,Mallorca,2020-03-22,
 24236748,Entire home/apt,870.0,True,23,23,23,78,,,,0,,Girona,2019-05-29,
 24236959,Entire home/apt,1120.0,True,21,51,76,224,,,,0,,Mallorca,2019-03-25,
 24239205,Entire home/apt,490.0,True,11,34,37,38,,,,0,,Girona,2019-06-30,
@@ -6365,7 +6255,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 25541322,Entire home/apt,400.0,True,30,60,90,365,,,,0,,Barcelona,2020-02-16,
 25543867,Entire home/apt,800.0,True,10,40,68,343,100,2018-06-18,2018-06-18,1,1.38,Madrid,2018-07-10,True
 25559303,Private room,500.0,True,30,60,90,180,100,2019-12-29,2019-12-29,1,0.38,Madrid,2020-03-17,True
-25562468,Entire home/apt,,True,29,41,49,317,,,,0,,Mallorca,2020-05-28,
 25565957,Entire home/apt,2110.0,True,0,0,0,128,,,,0,,Mallorca,2018-07-29,
 25569883,Entire home/apt,4630.0,True,28,53,53,149,,,,0,,Mallorca,2018-08-21,
 25575730,Entire home/apt,1220.0,True,13,13,13,214,,,,0,,Mallorca,2018-10-17,
@@ -6480,7 +6369,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 26160087,Entire home/apt,670.0,True,30,60,90,365,,,,0,,Girona,2020-04-30,
 26160173,Entire home/apt,1590.0,True,30,60,90,365,,,,0,,Girona,2020-01-31,
 26160980,Private room,270.0,True,5,29,58,58,98,2018-07-04,2019-09-24,48,3.22,Valencia,2019-09-30,True
-26162436,Entire home/apt,,True,16,33,54,227,75,2018-07-24,2018-10-15,4,0.47,Madrid,2019-04-11,False
 26163484,Entire home/apt,490.0,True,0,0,0,0,94,2018-06-27,2019-05-29,96,3.89,Madrid,2020-07-17,True
 26172596,Entire home/apt,1900.0,True,0,0,3,239,,,,0,,Mallorca,2018-12-18,
 26180556,Entire home/apt,1400.0,True,30,58,86,176,97,2018-09-30,2019-07-06,30,3.02,Sevilla,2019-07-29,True
@@ -6492,7 +6380,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 26212637,Entire home/apt,2840.0,True,26,51,51,51,88,2018-07-23,2018-10-21,5,1.42,Barcelona,2018-11-07,True
 26213529,Entire home/apt,1210.0,True,25,33,63,331,95,2018-07-24,2019-05-12,4,0.32,Madrid,2019-08-12,True
 26216092,Entire home/apt,800.0,True,24,44,74,349,,,,0,,Madrid,2018-07-10,
-26218443,Hotel room,,True,30,60,90,365,,,,0,,Madrid,2020-06-13,
 26220384,Entire home/apt,2060.0,True,7,11,41,245,,,,0,,Mallorca,2019-08-31,
 26224658,Entire home/apt,570.0,True,30,60,90,136,92,2018-07-06,2021-01-10,134,4.42,Madrid,2021-01-12,True
 26238907,Private room,400.0,True,0,0,0,0,97,2018-09-16,2018-10-28,7,0.4,Sevilla,2020-02-29,True
@@ -6515,7 +6402,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 26318112,Entire home/apt,2180.0,True,0,0,0,146,,,,0,,Menorca,2018-12-22,
 26318196,Entire home/apt,3540.0,True,20,34,45,124,,,,0,,Mallorca,2020-05-28,
 26318807,Entire home/apt,2030.0,True,0,0,14,66,,,,0,,Menorca,2019-02-24,
-26320505,Private room,,True,14,33,55,324,,,,0,,Barcelona,2019-08-12,
 26320782,Entire home/apt,1810.0,True,0,5,35,130,,,,0,,Girona,2019-06-30,
 26321760,Entire home/apt,700.0,True,0,3,3,218,100,2019-05-06,2019-07-11,2,0.34,Girona,2019-10-30,True
 26322985,Entire home/apt,1710.0,True,30,57,85,154,98,2018-07-09,2020-03-01,66,2.58,Madrid,2020-08-25,True
@@ -6562,7 +6448,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 26498632,Private room,200.0,True,12,42,72,72,100,2018-07-23,2018-09-21,4,1.54,Barcelona,2018-10-10,True
 26500221,Private room,150.0,True,0,0,0,0,100,2018-07-14,2018-10-14,6,0.51,Madrid,2019-07-10,True
 26510091,Entire home/apt,650.0,True,29,59,89,364,87,2019-07-30,2019-08-26,3,0.74,Menorca,2019-11-30,True
-26511583,Hotel room,,True,0,0,0,183,100,2018-11-15,2018-11-15,1,0.04,Mallorca,2020-10-21,True
 26516873,Private room,550.0,True,29,59,89,364,84,2018-09-10,2019-09-07,11,0.47,Barcelona,2020-08-24,True
 26518996,Entire home/apt,450.0,True,14,40,64,154,74,2018-07-17,2018-11-18,14,2.92,Madrid,2018-12-10,False
 26527760,Entire home/apt,600.0,True,0,0,0,0,89,2018-07-15,2019-09-30,16,0.55,Valencia,2020-12-21,True
@@ -6676,8 +6561,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 27026653,Entire home/apt,630.0,True,13,38,63,300,100,2019-01-03,2019-04-15,2,0.52,Malaga,2019-05-01,True
 27028034,Entire home/apt,900.0,True,28,58,79,351,96,2018-07-25,2020-03-01,142,6.83,Madrid,2020-04-17,True
 27030253,Private room,270.0,True,17,23,53,143,,,,0,,Barcelona,2019-08-12,
-27042895,Entire home/apt,,True,8,38,68,277,,,,0,,Mallorca,2020-12-19,
-27044767,Entire home/apt,,True,13,37,67,342,100,2018-08-13,2018-08-13,1,1.05,Barcelona,2018-09-11,True
 27047776,Entire home/apt,1040.0,True,30,60,90,328,97,2018-08-10,2020-10-16,35,1.18,Malaga,2021-01-31,True
 27051994,Entire home/apt,800.0,True,30,60,90,365,,,,0,,Girona,2018-11-26,
 27056906,Entire home/apt,980.0,True,15,31,31,31,100,2018-08-19,2018-11-03,17,6.46,Madrid,2018-11-07,True
@@ -6725,7 +6608,6 @@ apartment_id,room_type,price,has_availability,availability_30,availability_60,av
 27224471,Entire home/apt,540.0,True,30,46,69,179,,,,0,,Girona,2020-02-29,
 27224489,Entire home/apt,1030.0,True,14,14,14,213,,,,0,,Girona,2018-12-22,
 27224529,Entire home/apt,440.0,True,19,48,58,114,,,,0,,Girona,2019-03-30,
-27224936,Entire home/apt,,True,4,34,64,230,100,2020-10-24,2020-10-24,1,0.24,Girona,2021-02-27,True
 27231706,Entire home/apt,1950.0,True,11,25,55,330,90,2018-09-20,2019-06-05,16,1.24,Barcelona,2019-10-16,True
 27237828,Entire home/apt,1500.0,True,22,47,77,78,100,2018-08-26,2018-08-26,1,7.6,Girona,2018-08-30,True
 27241318,Entire home/apt,3130.0,True,26,37,37,243,100,2020-03-13,2020-03-13,1,0.74,Mallorca,2020-04-23,True

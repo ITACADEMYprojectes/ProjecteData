@@ -1,0 +1,16 @@
+city,room_type,availability_True,availability_False,occupancy_True_%,occupancy_False_%,uplift_occ,uplift_occ_%,listings_True,listings_False
+Girona,Private room,13.3,19.0,55.6,36.7,0.1895238095238096,19.0,35.0,29.0
+Girona,Entire home/apt,13.1,16.3,56.3,45.7,0.10622992158430389,10.6,663.0,449.0
+Malaga,Private room,10.6,13.7,64.5,54.4,0.10136852394916918,10.1,33.0,31.0
+Menorca,Entire home/apt,13.7,15.5,54.4,48.2,0.06203703703703711,6.2,78.0,72.0
+Barcelona,Private room,10.4,11.9,65.4,60.2,0.05199436086369047,5.2,422.0,539.0
+Valencia,Entire home/apt,12.0,13.2,60.1,56.1,0.03998411643026012,4.0,141.0,128.0
+Valencia,Private room,13.2,14.2,55.9,52.8,0.03159968479117414,3.2,36.0,47.0
+Madrid,Private room,9.4,10.2,68.8,66.1,0.026804897881092304,2.7,230.0,303.0
+Mallorca,Private room,15.1,15.2,49.7,49.2,0.004924953095684748,0.5,52.0,41.0
+Barcelona,Entire home/apt,11.4,11.5,61.9,61.7,0.0019062970126799694,0.2,470.0,363.0
+Mallorca,Entire home/apt,13.1,12.6,56.4,58.0,-0.015929913830963316,-1.6,638.0,414.0
+Sevilla,Private room,12.1,11.3,59.7,62.3,-0.026434108527131683,-2.6,43.0,40.0
+Madrid,Entire home/apt,11.3,10.5,62.3,65.0,-0.026672017121455394,-2.7,623.0,358.0
+Sevilla,Entire home/apt,14.9,14.1,50.4,53.1,-0.02732671543016363,-2.7,220.0,87.0
+Malaga,Entire home/apt,12.8,12.0,57.3,60.1,-0.02897435897435896,-2.9,234.0,90.0

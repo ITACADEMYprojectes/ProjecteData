@@ -30,6 +30,20 @@ Se ha utilizado MySQL para llevar a cabo una exploración inicial del dataset me
 
 ---
 
+### Notas despues de la reunion (Martes 21/04/2026):
+
+- ¿Qué son las filas del dataset?
+R/. Cada fila es un cliente, es decir, que la unidad de registro y por ende, la granularidad de la base de datos es un cliente
+
+- ¿Cómo se van a tratar los valores faltantes? - Perfil cliente:
+R/. Buscar estrategias de imputación.
+Consejo: valorar estrategias que consideren el valor conjunto con otras variables
+--> esto sobre las 21 filas que tienen info faltante en alguna de las columnas demograficas.
+
+- hay un warning en la documentación del dataset --> es importante sobre una variable (Fede)
+
+- shout-out a finanzas por el tema de los nulls en el poutcome 
+
 ### Evidencias
 
 ### Estructura de la tabla

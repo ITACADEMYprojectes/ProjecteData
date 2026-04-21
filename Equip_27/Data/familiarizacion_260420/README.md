@@ -30,22 +30,22 @@ Se ha utilizado MySQL para llevar a cabo una exploración inicial del dataset me
 ### Evidencias
 
 ### Estructura de la tabla
-![Estructura](familiarizacion_fede/estructura_tabla.png)
+![Estructura](estructura_tabla.png)
 
 ### Número total de registros
-![Registros](familiarizacion_fede/registros_totales.png)
+![Registros](registros_totales.png)
 
 ### Vista rápida de los datos
-![Vista](familiarizacion_fede/vista_rapida_datos.png)
+![Vista](vista_rapida_datos.png)
 
 ### Distribución de la variable objetivo
-![Objetivo](familiarizacion_fede/distribucion_variable_objetivo.png)
+![Objetivo](distribucion_variable_objetivo.png)
 
 ### Distribución de contactos
-![Contactos](familiarizacion_fede/distribucion_contactos.png)
+![Contactos](distribucion_contactos.png)
 
 ### Relación contactos vs tasa de éxito
-![Tasa](familiarizacion_fede/contactos_tasa_exito.png)
+![Tasa](contactos_tasa_exito.png)
 
 ### Valores nulos
-![Nulos](familiarizacion_fede/valores_nulos.png)
+![Nulos](valores_nulos.png)

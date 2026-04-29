@@ -1,0 +1,807 @@
+id,motivo_ausencia,mes_ausencia,dia_semana,estaciones,gasto_transporte,distancia_casa_trabajo,tiempo_servicio,edad,carga_trabajo_diaria,cumplimiento_objetivo,falta_disciplinaria,educacion,hijos,bebedor_social,fumador_social,mascota,peso,estatura,indice_masa_corporal,horas_ausentismo,indicador_enfermedad,motivo_ausencia_mapeado,mes_ausencia_mapeado,educacion_mapeada
+14,11,11,Lunes,Primavera,155,12,14,34,"284,031",97,0,1,2,1,0,0,95,196,25,120,Enfermedad,Sistema Digestivo,Noviembre,Bachillerato
+36,13,4,Miercoles,Invierno,118,13,18,50,"239,409",98,0,1,1,1,0,0,98,178,31,120,Enfermedad,Sistema Osteomuscular,Abril,Bachillerato
+9,6,7,Martes,Verano,228,14,16,58,"264,604",93,0,1,2,0,0,1,65,172,22,120,Enfermedad,Sistema Nervioso,Julio,Bachillerato
+28,9,7,Martes,Verano,225,26,9,28,"230,29",92,0,1,1,0,0,2,69,169,24,112,Enfermedad,Sistema Circulatorio,Julio,Bachillerato
+9,12,3,Martes,Otoño,228,14,16,58,"222,196",99,0,1,2,0,0,1,65,172,22,112,Enfermedad,Piel y Tejido Subcutáneo,Marzo,Bachillerato
+11,19,3,Lunes,Invierno,289,36,13,33,"222,196",99,0,1,2,1,0,1,90,172,30,104,Enfermedad,Lesiones y Envenenamientos,Marzo,Bachillerato
+36,13,6,Miercoles,Invierno,118,13,18,50,"377,55",94,0,1,1,1,0,0,98,178,31,80,Enfermedad,Sistema Osteomuscular,Junio,Bachillerato
+14,18,12,Martes,Otoño,155,12,14,34,"280,549",98,0,1,2,1,0,0,95,196,25,80,Enfermedad,Síntomas y Hallazgos Clínicos,Diciembre,Bachillerato
+13,13,7,Lunes,Verano,369,17,12,31,"264,604",93,0,1,3,1,0,0,70,169,25,80,Enfermedad,Sistema Osteomuscular,Julio,Bachillerato
+34,19,12,Martes,Primavera,118,10,10,37,"261,306",97,0,1,0,0,0,0,83,172,28,64,Enfermedad,Lesiones y Envenenamientos,Diciembre,Bachillerato
+22,1,10,Miercoles,Primavera,179,26,9,30,"265,017",88,0,3,0,0,0,0,56,171,19,64,Enfermedad,Infecciosas y Parasitarias,Octubre,Posgrado
+26,19,5,Viernes,Invierno,300,26,13,43,"237,656",99,0,1,2,1,1,1,77,175,25,64,Enfermedad,Lesiones y Envenenamientos,Mayo,Bachillerato
+34,19,12,Martes,Primavera,118,10,10,37,"261,306",97,0,1,0,0,0,0,83,172,28,56,Enfermedad,Lesiones y Envenenamientos,Diciembre,Bachillerato
+20,19,4,Viernes,Invierno,260,50,11,36,"326,452",96,0,1,4,1,0,0,65,168,23,56,Enfermedad,Lesiones y Envenenamientos,Abril,Bachillerato
+14,10,5,Lunes,Invierno,155,12,14,34,"237,656",99,0,1,2,1,0,0,95,196,25,48,Enfermedad,Sistema Respiratorio,Mayo,Bachillerato
+14,19,7,Lunes,Verano,155,12,14,34,"239,554",97,0,1,2,1,0,0,95,196,25,40,Enfermedad,Lesiones y Envenenamientos,Julio,Bachillerato
+10,13,8,Lunes,Verano,361,52,3,28,"205,917",92,0,1,1,1,0,4,80,172,27,40,Enfermedad,Sistema Osteomuscular,Agosto,Bachillerato
+15,14,11,Lunes,Primavera,291,31,12,40,"306,345",93,0,1,1,1,0,1,73,171,25,40,Enfermedad,Sistema Genitourinario,Noviembre,Bachillerato
+20,13,3,Viernes,Otoño,260,50,11,36,"343,253",95,0,1,4,1,0,0,65,168,23,40,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+17,11,3,Lunes,Otoño,179,22,17,40,"343,253",95,0,2,2,0,1,0,63,170,22,40,Enfermedad,Sistema Digestivo,Marzo,Grado 
+15,7,9,Lunes,Primavera,291,31,12,40,"294,217",81,0,1,1,1,0,1,73,171,25,40,Enfermedad,Oftalmología (Ojo),Septiembre,Bachillerato
+15,13,6,Lunes,Invierno,291,31,12,40,"253,957",95,0,1,1,1,0,1,73,171,25,40,Enfermedad,Sistema Osteomuscular,Junio,Bachillerato
+15,14,9,Lunes,Primavera,291,31,12,40,"241,476",92,0,1,1,1,0,1,73,171,25,32,Enfermedad,Sistema Genitourinario,Septiembre,Bachillerato
+14,10,11,Lunes,Primavera,155,12,14,34,"306,345",93,0,1,2,1,0,0,95,196,25,32,Enfermedad,Sistema Respiratorio,Noviembre,Bachillerato
+11,19,7,Lunes,Verano,289,36,13,33,"275,312",98,0,1,2,1,0,1,90,172,30,32,Enfermedad,Lesiones y Envenenamientos,Julio,Bachillerato
+24,9,9,Miercoles,Verano,246,25,16,41,"294,217",81,0,1,0,1,0,0,67,170,23,32,Enfermedad,Sistema Circulatorio,Septiembre,Bachillerato
+34,19,1,Lunes,Otoño,118,10,10,37,"330,061",100,0,1,0,0,0,0,83,172,28,32,Enfermedad,Lesiones y Envenenamientos,Enero,Bachillerato
+3,13,12,Martes,Primavera,179,51,18,38,"280,549",98,0,1,0,1,0,0,89,170,31,32,Enfermedad,Sistema Osteomuscular,Diciembre,Bachillerato
+11,7,11,Miercoles,Primavera,289,36,13,33,"306,345",93,0,1,2,1,0,1,90,172,30,24,Enfermedad,Oftalmología (Ojo),Noviembre,Bachillerato
+3,13,3,Martes,Otoño,179,51,18,38,"343,253",95,0,1,0,1,0,0,89,170,31,24,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+24,13,4,Miercoles,Invierno,246,25,16,41,"326,452",96,0,1,0,1,0,0,67,170,23,24,Enfermedad,Sistema Osteomuscular,Abril,Bachillerato
+3,13,4,Miercoles,Invierno,179,51,18,38,"326,452",96,0,1,0,1,0,0,89,170,31,24,Enfermedad,Sistema Osteomuscular,Abril,Bachillerato
+14,12,4,Miercoles,Invierno,155,12,14,34,"326,452",96,0,1,2,1,0,0,95,196,25,24,Enfermedad,Piel y Tejido Subcutáneo,Abril,Bachillerato
+11,13,5,Miercoles,Invierno,289,36,13,33,"378,884",92,0,1,2,1,0,1,90,172,30,24,Enfermedad,Sistema Osteomuscular,Mayo,Bachillerato
+36,13,5,Miercoles,Invierno,118,13,18,50,"378,884",92,0,1,1,1,0,0,98,178,31,24,Enfermedad,Sistema Osteomuscular,Mayo,Bachillerato
+24,10,6,Martes,Invierno,246,25,16,41,"377,55",94,0,1,0,1,0,0,67,170,23,24,Enfermedad,Sistema Respiratorio,Junio,Bachillerato
+11,19,9,Miercoles,Verano,289,36,13,33,"294,217",81,0,1,2,1,0,1,90,172,30,24,Enfermedad,Lesiones y Envenenamientos,Septiembre,Bachillerato
+24,10,2,Viernes,Otoño,246,25,16,41,"251,818",96,0,1,0,1,0,0,67,170,23,24,Enfermedad,Sistema Respiratorio,Febrero,Bachillerato
+3,28,6,Lunes,Invierno,179,51,18,38,"253,957",95,0,1,0,1,0,0,89,170,31,24,No Enfermedad,Consulta Dental,Junio,Bachillerato
+18,2,11,Miercoles,Primavera,330,16,4,28,"268,519",93,0,2,0,0,0,0,84,182,25,24,Enfermedad,Neoplasias,Noviembre,Grado 
+22,12,1,Lunes,Otoño,179,26,9,30,"313,532",96,0,3,0,0,0,0,56,171,19,24,Enfermedad,Piel y Tejido Subcutáneo,Enero,Posgrado
+14,13,3,Miercoles,Invierno,155,12,14,34,"222,196",99,0,1,2,1,0,0,95,196,25,24,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+13,7,4,Lunes,Invierno,369,17,12,31,"246,288",91,0,1,3,1,0,0,70,169,25,24,Enfermedad,Oftalmología (Ojo),Abril,Bachillerato
+36,19,6,Jueves,Invierno,118,13,18,50,"275,089",96,0,1,1,1,0,0,98,178,31,24,Enfermedad,Lesiones y Envenenamientos,Junio,Bachillerato
+20,19,10,Jueves,Primavera,260,50,11,36,"253,465",93,0,1,4,1,0,0,65,168,23,16,Enfermedad,Lesiones y Envenenamientos,Octubre,Bachillerato
+14,1,3,Lunes,Otoño,155,12,14,34,"343,253",95,0,1,2,1,0,0,95,196,25,16,Enfermedad,Infecciosas y Parasitarias,Marzo,Bachillerato
+20,26,3,Lunes,Otoño,260,50,11,36,"343,253",95,0,1,4,1,0,0,65,168,23,16,No Enfermedad,Falta injustificada,Marzo,Bachillerato
+28,11,3,Miercoles,Invierno,225,26,9,28,"343,253",95,0,1,1,0,0,2,69,169,24,16,Enfermedad,Sistema Digestivo,Marzo,Bachillerato
+7,14,3,Jueves,Invierno,279,5,14,39,"343,253",95,0,1,2,1,1,0,68,168,24,16,Enfermedad,Sistema Genitourinario,Marzo,Bachillerato
+11,13,4,Jueves,Invierno,289,36,13,33,"326,452",96,0,1,2,1,0,1,90,172,30,16,Enfermedad,Sistema Osteomuscular,Abril,Bachillerato
+1,13,6,Viernes,Invierno,235,11,14,37,"377,55",94,0,3,1,0,0,1,88,172,29,16,Enfermedad,Sistema Osteomuscular,Junio,Posgrado
+14,19,7,Martes,Verano,155,12,14,34,"275,312",98,0,1,2,1,0,0,95,196,25,16,Enfermedad,Lesiones y Envenenamientos,Julio,Bachillerato
+24,9,9,Lunes,Verano,246,25,16,41,"294,217",81,0,1,0,1,0,0,67,170,23,16,Enfermedad,Sistema Circulatorio,Septiembre,Bachillerato
+11,19,10,Jueves,Primavera,289,36,13,33,"265,017",88,0,1,2,1,0,1,90,172,30,16,Enfermedad,Lesiones y Envenenamientos,Octubre,Bachillerato
+22,23,10,Jueves,Primavera,179,26,9,30,"265,017",88,0,3,0,0,0,0,56,171,19,16,No Enfermedad,Consulta Médica,Octubre,Posgrado
+30,11,2,Miercoles,Otoño,157,27,6,29,"251,818",96,0,1,0,1,1,0,75,185,22,16,Enfermedad,Sistema Digestivo,Febrero,Bachillerato
+24,19,3,Miercoles,Otoño,246,25,16,41,"244,387",98,0,1,0,1,0,0,67,170,23,16,Enfermedad,Lesiones y Envenenamientos,Marzo,Bachillerato
+3,28,3,Lunes,Otoño,179,51,18,38,"244,387",98,0,1,0,1,0,0,89,170,31,16,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+5,13,5,Lunes,Invierno,235,20,13,43,"246,074",99,0,1,1,1,0,0,106,167,38,16,Enfermedad,Sistema Osteomuscular,Mayo,Bachillerato
+18,23,8,Jueves,Verano,330,16,4,28,"249,797",93,0,2,0,0,0,0,84,182,25,16,No Enfermedad,Consulta Médica,Agosto,Grado 
+22,13,12,Martes,Primavera,179,26,9,30,"280,549",98,0,3,0,0,0,0,56,171,19,16,Enfermedad,Sistema Osteomuscular,Diciembre,Posgrado
+22,12,1,Jueves,Otoño,179,26,9,30,"313,532",96,0,3,0,0,0,0,56,171,19,16,Enfermedad,Piel y Tejido Subcutáneo,Enero,Posgrado
+6,22,7,Martes,Verano,189,29,13,33,"264,604",93,0,1,2,0,0,2,69,167,25,16,No Enfermedad,Seguimiento del Paciente,Julio,Bachillerato
+10,22,7,Viernes,Verano,361,52,3,28,"239,554",97,0,1,1,1,0,4,80,172,27,8,No Enfermedad,Seguimiento del Paciente,Julio,Bachillerato
+1,22,7,Lunes,Verano,235,11,14,37,"239,554",97,0,3,1,0,0,1,88,172,29,8,No Enfermedad,Seguimiento del Paciente,Julio,Posgrado
+20,1,7,Lunes,Verano,260,50,11,36,"239,554",97,0,1,4,1,0,0,65,168,23,8,Enfermedad,Infecciosas y Parasitarias,Julio,Bachillerato
+20,1,7,Martes,Verano,260,50,11,36,"239,554",97,0,1,4,1,0,0,65,168,23,8,Enfermedad,Infecciosas y Parasitarias,Julio,Bachillerato
+20,11,7,Miercoles,Verano,260,50,11,36,"239,554",97,0,1,4,1,0,0,65,168,23,8,Enfermedad,Sistema Digestivo,Julio,Bachillerato
+24,14,7,Viernes,Verano,246,25,16,41,"239,554",97,0,1,0,1,0,0,67,170,23,8,Enfermedad,Sistema Genitourinario,Julio,Bachillerato
+3,21,7,Lunes,Verano,179,51,18,38,"239,554",97,0,1,0,1,0,0,89,170,31,8,Enfermedad,Factores de Salud,Julio,Bachillerato
+6,11,7,Jueves,Verano,189,29,13,33,"239,554",97,0,1,2,0,0,2,69,167,25,8,Enfermedad,Sistema Digestivo,Julio,Bachillerato
+18,10,8,Miercoles,Verano,330,16,4,28,"205,917",92,0,2,0,0,0,0,84,182,25,8,Enfermedad,Sistema Respiratorio,Agosto,Grado 
+11,18,8,Lunes,Verano,289,36,13,33,"205,917",92,0,1,2,1,0,1,90,172,30,8,Enfermedad,Síntomas y Hallazgos Clínicos,Agosto,Bachillerato
+11,18,8,Miercoles,Verano,289,36,13,33,"205,917",92,0,1,2,1,0,1,90,172,30,8,Enfermedad,Síntomas y Hallazgos Clínicos,Agosto,Bachillerato
+3,18,8,Lunes,Verano,179,51,18,38,"205,917",92,0,1,0,1,0,0,89,170,31,8,Enfermedad,Síntomas y Hallazgos Clínicos,Agosto,Bachillerato
+2,18,8,Jueves,Verano,235,29,12,48,"205,917",92,0,1,1,0,1,5,88,163,33,8,Enfermedad,Síntomas y Hallazgos Clínicos,Agosto,Bachillerato
+2,18,8,Lunes,Verano,235,29,12,48,"205,917",92,0,1,1,0,1,5,88,163,33,8,Enfermedad,Síntomas y Hallazgos Clínicos,Agosto,Bachillerato
+11,24,8,Martes,Verano,289,36,13,33,"205,917",92,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Donación de Sangre,Agosto,Bachillerato
+2,28,8,Viernes,Verano,235,29,12,48,"205,917",92,0,1,1,0,1,5,88,163,33,8,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+5,19,9,Martes,Verano,235,20,13,43,"241,476",92,0,1,1,1,0,0,106,167,38,8,Enfermedad,Lesiones y Envenenamientos,Septiembre,Bachillerato
+20,22,9,Viernes,Verano,260,50,11,36,"241,476",92,0,1,4,1,0,0,65,168,23,8,No Enfermedad,Seguimiento del Paciente,Septiembre,Bachillerato
+3,23,10,Miercoles,Primavera,179,51,18,38,"253,465",93,0,1,0,1,0,0,89,170,31,8,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+15,14,10,Martes,Primavera,291,31,12,40,"253,465",93,0,1,1,1,0,1,73,171,25,8,Enfermedad,Sistema Genitourinario,Octubre,Bachillerato
+11,26,10,Miercoles,Primavera,289,36,13,33,"253,465",93,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Falta injustificada,Octubre,Bachillerato
+3,13,11,Jueves,Primavera,179,51,18,38,"306,345",93,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Osteomuscular,Noviembre,Bachillerato
+17,21,11,Jueves,Primavera,179,22,17,40,"306,345",93,0,2,2,0,1,0,63,170,22,8,Enfermedad,Factores de Salud,Noviembre,Grado 
+6,22,11,Lunes,Primavera,189,29,13,33,"306,345",93,0,1,2,0,0,2,69,167,25,8,No Enfermedad,Seguimiento del Paciente,Noviembre,Bachillerato
+14,6,11,Viernes,Primavera,155,12,14,34,"306,345",93,0,1,2,1,0,0,95,196,25,8,Enfermedad,Sistema Nervioso,Noviembre,Bachillerato
+17,21,11,Miercoles,Primavera,179,22,17,40,"306,345",93,0,2,2,0,1,0,63,170,22,8,Enfermedad,Factores de Salud,Noviembre,Grado 
+1,26,12,Miercoles,Primavera,235,11,14,37,"261,306",97,0,3,1,0,0,1,88,172,29,8,No Enfermedad,Falta injustificada,Diciembre,Posgrado
+20,26,12,Viernes,Primavera,260,50,11,36,"261,306",97,0,1,4,1,0,0,65,168,23,8,No Enfermedad,Falta injustificada,Diciembre,Bachillerato
+10,22,12,Miercoles,Primavera,361,52,3,28,"261,306",97,0,1,1,1,0,4,80,172,27,8,No Enfermedad,Seguimiento del Paciente,Diciembre,Bachillerato
+24,19,12,Viernes,Otoño,246,25,16,41,"261,306",97,0,1,0,1,0,0,67,170,23,8,Enfermedad,Lesiones y Envenenamientos,Diciembre,Bachillerato
+14,18,1,Martes,Otoño,155,12,14,34,"308,593",95,0,1,2,1,0,0,95,196,25,8,Enfermedad,Síntomas y Hallazgos Clínicos,Enero,Bachillerato
+22,18,1,Martes,Otoño,179,26,9,30,"308,593",95,0,3,0,0,0,0,56,171,19,8,Enfermedad,Síntomas y Hallazgos Clínicos,Enero,Posgrado
+11,18,1,Martes,Otoño,289,36,13,33,"308,593",95,0,1,2,1,0,1,90,172,30,8,Enfermedad,Síntomas y Hallazgos Clínicos,Enero,Bachillerato
+24,1,2,Miercoles,Otoño,246,25,16,41,"302,585",99,0,1,0,1,0,0,67,170,23,8,Enfermedad,Infecciosas y Parasitarias,Febrero,Bachillerato
+3,11,2,Miercoles,Otoño,179,51,18,38,"302,585",99,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Digestivo,Febrero,Bachillerato
+6,23,2,Jueves,Otoño,189,29,13,33,"302,585",99,0,1,2,0,0,2,69,167,25,8,No Enfermedad,Consulta Médica,Febrero,Bachillerato
+11,22,2,Viernes,Otoño,289,36,13,33,"302,585",99,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Seguimiento del Paciente,Febrero,Bachillerato
+31,11,2,Lunes,Otoño,388,15,9,50,"302,585",99,0,1,0,0,0,0,76,178,24,8,Enfermedad,Sistema Digestivo,Febrero,Bachillerato
+31,1,2,Martes,Otoño,388,15,9,50,"302,585",99,0,1,0,0,0,0,76,178,24,8,Enfermedad,Infecciosas y Parasitarias,Febrero,Bachillerato
+27,23,2,Martes,Otoño,184,42,7,27,"302,585",99,0,1,0,0,0,0,58,167,21,8,No Enfermedad,Consulta Médica,Febrero,Bachillerato
+18,18,2,Lunes,Otoño,330,16,4,28,"302,585",99,0,2,0,0,0,0,84,182,25,8,Enfermedad,Síntomas y Hallazgos Clínicos,Febrero,Grado 
+6,19,2,Jueves,Otoño,189,29,13,33,"302,585",99,0,1,2,0,0,2,69,167,25,8,Enfermedad,Lesiones y Envenenamientos,Febrero,Bachillerato
+20,19,3,Martes,Otoño,260,50,11,36,"343,253",95,0,1,4,1,0,0,65,168,23,8,Enfermedad,Lesiones y Envenenamientos,Marzo,Bachillerato
+17,17,3,Martes,Otoño,179,22,17,40,"343,253",95,0,2,2,0,1,0,63,170,22,8,Enfermedad,Anomalias Congénitas,Marzo,Grado 
+15,22,3,Miercoles,Otoño,291,31,12,40,"343,253",95,0,1,1,1,0,1,73,171,25,8,No Enfermedad,Seguimiento del Paciente,Marzo,Bachillerato
+20,13,3,Miercoles,Otoño,260,50,11,36,"343,253",95,0,1,4,1,0,0,65,168,23,8,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+22,13,3,Jueves,Otoño,179,26,9,30,"343,253",95,0,3,0,0,0,0,56,171,19,8,Enfermedad,Sistema Osteomuscular,Marzo,Posgrado
+14,13,3,Martes,Otoño,155,12,14,34,"343,253",95,0,1,2,1,0,0,95,196,25,8,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+11,6,3,Jueves,Otoño,289,36,13,33,"343,253",95,0,1,2,1,0,1,90,172,30,8,Enfermedad,Sistema Nervioso,Marzo,Bachillerato
+17,8,3,Jueves,Otoño,179,22,17,40,"343,253",95,0,2,2,0,1,0,63,170,22,8,Enfermedad,Otología (Oído),Marzo,Grado 
+7,14,3,Lunes,Otoño,279,5,14,39,"343,253",95,0,1,2,1,1,0,68,168,24,8,Enfermedad,Sistema Genitourinario,Marzo,Bachillerato
+28,11,3,Lunes,Invierno,225,26,9,28,"343,253",95,0,1,1,0,0,2,69,169,24,8,Enfermedad,Sistema Digestivo,Marzo,Bachillerato
+28,11,3,Martes,Invierno,225,26,9,28,"343,253",95,0,1,1,0,0,2,69,169,24,8,Enfermedad,Sistema Digestivo,Marzo,Bachillerato
+24,14,4,Viernes,Invierno,246,25,16,41,"326,452",96,0,1,0,1,0,0,67,170,23,8,Enfermedad,Sistema Genitourinario,Abril,Bachillerato
+33,28,4,Viernes,Invierno,248,25,14,47,"326,452",96,0,1,2,0,0,1,86,165,32,8,No Enfermedad,Consulta Dental,Abril,Bachillerato
+11,19,4,Martes,Invierno,289,36,13,33,"326,452",96,0,1,2,1,0,1,90,172,30,8,Enfermedad,Lesiones y Envenenamientos,Abril,Bachillerato
+23,19,4,Miercoles,Invierno,378,49,11,36,"326,452",96,0,1,2,0,1,4,65,174,21,8,Enfermedad,Lesiones y Envenenamientos,Abril,Bachillerato
+11,13,5,Miercoles,Invierno,289,36,13,33,"378,884",92,0,1,2,1,0,1,90,172,30,8,Enfermedad,Sistema Osteomuscular,Mayo,Bachillerato
+3,18,5,Martes,Invierno,179,51,18,38,"378,884",92,0,1,0,1,0,0,89,170,31,8,Enfermedad,Síntomas y Hallazgos Clínicos,Mayo,Bachillerato
+28,19,5,Martes,Invierno,225,26,9,28,"378,884",92,0,1,1,0,0,2,69,169,24,8,Enfermedad,Lesiones y Envenenamientos,Mayo,Bachillerato
+10,22,5,Viernes,Invierno,361,52,3,28,"378,884",92,0,1,1,1,0,4,80,172,27,8,No Enfermedad,Seguimiento del Paciente,Mayo,Bachillerato
+24,19,6,Lunes,Invierno,246,25,16,41,"377,55",94,0,1,0,1,0,0,67,170,23,8,Enfermedad,Lesiones y Envenenamientos,Junio,Bachillerato
+10,22,6,Lunes,Invierno,361,52,3,28,"377,55",94,0,1,1,1,0,4,80,172,27,8,No Enfermedad,Seguimiento del Paciente,Junio,Bachillerato
+24,10,6,Viernes,Invierno,246,25,16,41,"377,55",94,0,1,0,1,0,0,67,170,23,8,Enfermedad,Sistema Respiratorio,Junio,Bachillerato
+3,11,6,Lunes,Invierno,179,51,18,38,"377,55",94,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Digestivo,Junio,Bachillerato
+24,10,6,Lunes,Invierno,246,25,16,41,"377,55",94,0,1,0,1,0,0,67,170,23,8,Enfermedad,Sistema Respiratorio,Junio,Bachillerato
+36,13,6,Miercoles,Invierno,118,13,18,50,"377,55",94,0,1,1,1,0,0,98,178,31,8,Enfermedad,Sistema Osteomuscular,Junio,Bachillerato
+23,22,6,Jueves,Invierno,378,49,11,36,"377,55",94,0,1,2,0,1,4,65,174,21,8,No Enfermedad,Seguimiento del Paciente,Junio,Bachillerato
+36,1,7,Miercoles,Verano,118,13,18,50,"275,312",98,0,1,1,1,0,0,98,178,31,8,Enfermedad,Infecciosas y Parasitarias,Julio,Bachillerato
+34,5,7,Viernes,Verano,118,10,10,37,"275,312",98,0,1,0,0,0,0,83,172,28,8,Enfermedad,Transtornos Mentales,Julio,Bachillerato
+18,26,7,Martes,Verano,330,16,4,28,"275,312",98,0,2,0,0,0,0,84,182,25,8,No Enfermedad,Falta injustificada,Julio,Grado 
+22,18,7,Jueves,Verano,179,26,9,30,"275,312",98,0,3,0,0,0,0,56,171,19,8,Enfermedad,Síntomas y Hallazgos Clínicos,Julio,Posgrado
+18,1,7,Lunes,Verano,330,16,4,28,"275,312",98,0,2,0,0,0,0,84,182,25,8,Enfermedad,Infecciosas y Parasitarias,Julio,Grado 
+18,1,7,Martes,Verano,330,16,4,28,"275,312",98,0,2,0,0,0,0,84,182,25,8,Enfermedad,Infecciosas y Parasitarias,Julio,Grado 
+10,22,7,Martes,Verano,361,52,3,28,"275,312",98,0,1,1,1,0,4,80,172,27,8,No Enfermedad,Seguimiento del Paciente,Julio,Bachillerato
+11,26,7,Miercoles,Verano,289,36,13,33,"275,312",98,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Falta injustificada,Julio,Bachillerato
+3,26,7,Jueves,Verano,179,51,18,38,"275,312",98,0,1,0,1,0,0,89,170,31,8,No Enfermedad,Falta injustificada,Julio,Bachillerato
+11,19,7,Jueves,Verano,289,36,13,33,"275,312",98,0,1,2,1,0,1,90,172,30,8,Enfermedad,Lesiones y Envenenamientos,Julio,Bachillerato
+11,19,8,Viernes,Verano,289,36,13,33,"265,615",94,0,1,2,1,0,1,90,172,30,8,Enfermedad,Lesiones y Envenenamientos,Agosto,Bachillerato
+9,18,8,Martes,Verano,228,14,16,58,"265,615",94,0,1,2,0,0,1,65,172,22,8,Enfermedad,Síntomas y Hallazgos Clínicos,Agosto,Bachillerato
+21,11,8,Jueves,Verano,268,11,8,33,"265,615",94,0,2,0,0,0,0,79,178,25,8,Enfermedad,Sistema Digestivo,Agosto,Grado 
+1,19,8,Jueves,Verano,235,11,14,37,"265,615",94,0,3,1,0,0,1,88,172,29,8,Enfermedad,Lesiones y Envenenamientos,Agosto,Posgrado
+10,8,8,Martes,Verano,361,52,3,28,"265,615",94,0,1,1,1,0,4,80,172,27,8,Enfermedad,Otología (Oído),Agosto,Bachillerato
+27,6,8,Miercoles,Verano,184,42,7,27,"265,615",94,0,1,0,0,0,0,58,167,21,8,Enfermedad,Sistema Nervioso,Agosto,Bachillerato
+3,11,9,Lunes,Verano,179,51,18,38,"294,217",81,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Digestivo,Septiembre,Bachillerato
+3,13,9,Miercoles,Verano,179,51,18,38,"294,217",81,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Osteomuscular,Septiembre,Bachillerato
+5,26,9,Miercoles,Primavera,235,20,13,43,"294,217",81,0,1,1,1,0,0,106,167,38,8,No Enfermedad,Falta injustificada,Septiembre,Bachillerato
+3,13,9,Lunes,Primavera,179,51,18,38,"294,217",81,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Osteomuscular,Septiembre,Bachillerato
+11,24,10,Lunes,Primavera,289,36,13,33,"265,017",88,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Donación de Sangre,Octubre,Bachillerato
+11,26,10,Lunes,Primavera,289,36,13,33,"265,017",88,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Falta injustificada,Octubre,Bachillerato
+11,22,10,Viernes,Primavera,289,36,13,33,"265,017",88,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Seguimiento del Paciente,Octubre,Bachillerato
+22,1,10,Lunes,Primavera,179,26,9,30,"265,017",88,0,3,0,0,0,0,56,171,19,8,Enfermedad,Infecciosas y Parasitarias,Octubre,Posgrado
+13,22,10,Lunes,Primavera,369,17,12,31,"265,017",88,0,1,3,1,0,0,70,169,25,8,No Enfermedad,Seguimiento del Paciente,Octubre,Bachillerato
+10,10,10,Lunes,Primavera,361,52,3,28,"265,017",88,0,1,1,1,0,4,80,172,27,8,Enfermedad,Sistema Respiratorio,Octubre,Bachillerato
+34,11,11,Lunes,Primavera,118,10,10,37,"284,031",97,0,1,0,0,0,0,83,172,28,8,Enfermedad,Sistema Digestivo,Noviembre,Bachillerato
+3,6,11,Martes,Primavera,179,51,18,38,"284,031",97,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Nervioso,Noviembre,Bachillerato
+23,1,11,Lunes,Primavera,378,49,11,36,"284,031",97,0,1,2,0,1,4,65,174,21,8,Enfermedad,Infecciosas y Parasitarias,Noviembre,Bachillerato
+5,26,11,Lunes,Primavera,235,20,13,43,"284,031",97,0,1,1,1,0,0,106,167,38,8,No Enfermedad,Falta injustificada,Noviembre,Bachillerato
+24,13,11,Viernes,Primavera,246,25,16,41,"284,031",97,0,1,0,1,0,0,67,170,23,8,Enfermedad,Sistema Osteomuscular,Noviembre,Bachillerato
+24,13,11,Lunes,Primavera,246,25,16,41,"284,031",97,0,1,0,1,0,0,67,170,23,8,Enfermedad,Sistema Osteomuscular,Noviembre,Bachillerato
+20,10,11,Miercoles,Primavera,260,50,11,36,"284,031",97,0,1,4,1,0,0,65,168,23,8,Enfermedad,Sistema Respiratorio,Noviembre,Bachillerato
+20,15,11,Viernes,Primavera,260,50,11,36,"284,031",97,0,1,4,1,0,0,65,168,23,8,Enfermedad,"Embarazo, Parto y Puerperio",Noviembre,Bachillerato
+24,4,12,Jueves,Primavera,246,25,16,41,"236,629",93,0,1,0,1,0,0,67,170,23,8,Enfermedad,Endocrinas y Metabólicas,Diciembre,Bachillerato
+34,25,12,Martes,Primavera,118,10,10,37,"236,629",93,0,1,0,0,0,0,83,172,28,8,No Enfermedad,Examen de Laboratorio,Diciembre,Bachillerato
+5,13,12,Martes,Otoño,235,20,13,43,"236,629",93,0,1,1,1,0,0,106,167,38,8,Enfermedad,Sistema Osteomuscular,Diciembre,Bachillerato
+20,26,12,Miercoles,Otoño,260,50,11,36,"236,629",93,0,1,4,1,0,0,65,168,23,8,No Enfermedad,Falta injustificada,Diciembre,Bachillerato
+11,19,12,Lunes,Otoño,289,36,13,33,"236,629",93,0,1,2,1,0,1,90,172,30,8,Enfermedad,Lesiones y Envenenamientos,Diciembre,Bachillerato
+11,26,1,Lunes,Otoño,289,36,13,33,"330,061",100,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Falta injustificada,Enero,Bachillerato
+15,3,1,Miercoles,Otoño,291,31,12,40,"330,061",100,0,1,1,1,0,1,73,171,25,8,Enfermedad,Sangre e Inmunidad,Enero,Bachillerato
+5,26,1,Lunes,Otoño,235,20,13,43,"330,061",100,0,1,1,1,0,0,106,167,38,8,No Enfermedad,Falta injustificada,Enero,Bachillerato
+3,10,2,Jueves,Otoño,179,51,18,38,"251,818",96,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Respiratorio,Febrero,Bachillerato
+24,26,2,Jueves,Otoño,246,25,16,41,"251,818",96,0,1,0,1,0,0,67,170,23,8,No Enfermedad,Falta injustificada,Febrero,Bachillerato
+6,22,2,Lunes,Otoño,189,29,13,33,"251,818",96,0,1,2,0,0,2,69,167,25,8,No Enfermedad,Seguimiento del Paciente,Febrero,Bachillerato
+34,18,3,Martes,Otoño,118,10,10,37,"244,387",98,0,1,0,0,0,0,83,172,28,8,Enfermedad,Síntomas y Hallazgos Clínicos,Marzo,Bachillerato
+1,22,3,Lunes,Otoño,235,11,14,37,"244,387",98,0,3,1,0,0,1,88,172,29,8,No Enfermedad,Seguimiento del Paciente,Marzo,Posgrado
+17,22,3,Martes,Otoño,179,22,17,40,"244,387",98,0,2,2,0,1,0,63,170,22,8,No Enfermedad,Seguimiento del Paciente,Marzo,Grado 
+23,22,3,Martes,Otoño,378,49,11,36,"244,387",98,0,1,2,0,1,4,65,174,21,8,No Enfermedad,Seguimiento del Paciente,Marzo,Bachillerato
+10,22,3,Miercoles,Otoño,361,52,3,28,"244,387",98,0,1,1,1,0,4,80,172,27,8,No Enfermedad,Seguimiento del Paciente,Marzo,Bachillerato
+1,21,3,Jueves,Otoño,235,11,14,37,"244,387",98,0,3,1,0,0,1,88,172,29,8,Enfermedad,Factores de Salud,Marzo,Posgrado
+36,13,3,Miercoles,Invierno,118,13,18,50,"244,387",98,0,1,1,1,0,0,98,178,31,8,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+3,28,3,Viernes,Invierno,179,51,18,38,"244,387",98,0,1,0,1,0,0,89,170,31,8,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+11,22,3,Viernes,Invierno,289,36,13,33,"244,387",98,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Seguimiento del Paciente,Marzo,Bachillerato
+20,19,3,Lunes,Invierno,260,50,11,36,"244,387",98,0,1,4,1,0,0,65,168,23,8,Enfermedad,Lesiones y Envenenamientos,Marzo,Bachillerato
+18,23,4,Miercoles,Invierno,330,16,4,28,"239,409",98,0,2,0,0,0,0,84,182,25,8,No Enfermedad,Consulta Médica,Abril,Grado 
+3,28,4,Miercoles,Invierno,179,51,18,38,"239,409",98,0,1,0,1,0,0,89,170,31,8,No Enfermedad,Consulta Dental,Abril,Bachillerato
+26,28,4,Viernes,Invierno,300,26,13,43,"239,409",98,0,1,2,1,1,1,77,175,25,8,No Enfermedad,Consulta Dental,Abril,Bachillerato
+13,10,5,Lunes,Invierno,369,17,12,31,"246,074",99,0,1,3,1,0,0,70,169,25,8,Enfermedad,Sistema Respiratorio,Mayo,Bachillerato
+9,18,5,Miercoles,Invierno,228,14,16,58,"246,074",99,0,1,2,0,0,1,65,172,22,8,Enfermedad,Síntomas y Hallazgos Clínicos,Mayo,Bachillerato
+18,13,5,Viernes,Invierno,330,16,4,28,"246,074",99,0,2,0,0,0,0,84,182,25,8,Enfermedad,Sistema Osteomuscular,Mayo,Grado 
+1,1,5,Lunes,Invierno,235,11,14,37,"246,074",99,0,3,1,0,0,1,88,172,29,8,Enfermedad,Infecciosas y Parasitarias,Mayo,Posgrado
+5,26,6,Martes,Invierno,235,20,13,43,"253,957",95,0,1,1,1,0,0,106,167,38,8,No Enfermedad,Falta injustificada,Junio,Bachillerato
+3,5,6,Miercoles,Verano,179,51,18,38,"253,957",95,0,1,0,1,0,0,89,170,31,8,Enfermedad,Transtornos Mentales,Junio,Bachillerato
+1,13,6,Martes,Verano,235,11,14,37,"253,957",95,0,3,1,0,0,1,88,172,29,8,Enfermedad,Sistema Osteomuscular,Junio,Posgrado
+20,13,7,Viernes,Verano,260,50,11,36,"230,29",92,0,1,4,1,0,0,65,168,23,8,Enfermedad,Sistema Osteomuscular,Julio,Bachillerato
+21,7,7,Lunes,Verano,268,11,8,33,"230,29",92,0,2,0,0,0,0,79,178,25,8,Enfermedad,Oftalmología (Ojo),Julio,Grado 
+18,25,7,Viernes,Verano,330,16,4,28,"230,29",92,0,2,0,0,0,0,84,182,25,8,No Enfermedad,Examen de Laboratorio,Julio,Grado 
+34,26,7,Viernes,Verano,118,10,10,37,"230,29",92,0,1,0,0,0,0,83,172,28,8,No Enfermedad,Falta injustificada,Julio,Bachillerato
+34,28,7,Martes,Verano,118,10,10,37,"230,29",92,0,1,0,0,0,0,83,172,28,8,No Enfermedad,Consulta Dental,Julio,Bachillerato
+26,15,7,Lunes,Verano,300,26,13,43,"230,29",92,0,1,2,1,1,1,77,175,25,8,Enfermedad,"Embarazo, Parto y Puerperio",Julio,Bachillerato
+10,22,7,Viernes,Verano,361,52,3,28,"230,29",92,0,1,1,1,0,4,80,172,27,8,No Enfermedad,Seguimiento del Paciente,Julio,Bachillerato
+11,22,7,Lunes,Verano,289,36,13,33,"230,29",92,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Seguimiento del Paciente,Julio,Bachillerato
+5,26,7,Lunes,Verano,235,20,13,43,"230,29",92,0,1,1,1,0,0,106,167,38,8,No Enfermedad,Falta injustificada,Julio,Bachillerato
+11,26,8,Martes,Verano,289,36,13,33,"249,797",93,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Falta injustificada,Agosto,Bachillerato
+5,26,8,Martes,Verano,235,20,13,43,"249,797",93,0,1,1,1,0,0,106,167,38,8,No Enfermedad,Falta injustificada,Agosto,Bachillerato
+17,25,8,Martes,Verano,179,22,17,40,"249,797",93,0,2,2,0,1,0,63,170,22,8,No Enfermedad,Examen de Laboratorio,Agosto,Grado 
+22,23,9,Viernes,Verano,179,26,9,30,"261,756",87,0,3,0,0,0,0,56,171,19,8,No Enfermedad,Consulta Médica,Septiembre,Posgrado
+13,23,9,Martes,Primavera,369,17,12,31,"261,756",87,0,1,3,1,0,0,70,169,25,8,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+10,22,9,Martes,Primavera,361,52,3,28,"261,756",87,0,1,1,1,0,4,80,172,27,8,No Enfermedad,Seguimiento del Paciente,Septiembre,Bachillerato
+24,26,10,Viernes,Primavera,246,25,16,41,"284,853",91,0,1,0,1,0,0,67,170,23,8,No Enfermedad,Falta injustificada,Octubre,Bachillerato
+13,23,10,Martes,Primavera,369,17,12,31,"284,853",91,0,1,3,1,0,0,70,169,25,8,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+13,26,10,Martes,Primavera,369,17,12,31,"284,853",91,0,1,3,1,0,0,70,169,25,8,No Enfermedad,Falta injustificada,Octubre,Bachillerato
+13,10,10,Jueves,Primavera,369,17,12,31,"284,853",91,0,1,3,1,0,0,70,169,25,8,Enfermedad,Sistema Respiratorio,Octubre,Bachillerato
+13,10,10,Viernes,Primavera,369,17,12,31,"284,853",91,0,1,3,1,0,0,70,169,25,8,Enfermedad,Sistema Respiratorio,Octubre,Bachillerato
+6,23,10,Lunes,Primavera,189,29,13,33,"284,853",91,0,1,2,0,0,2,69,167,25,8,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+25,6,10,Lunes,Primavera,235,16,8,32,"284,853",91,0,3,0,0,0,0,75,178,25,8,Enfermedad,Sistema Nervioso,Octubre,Posgrado
+33,10,10,Lunes,Primavera,248,25,14,47,"284,853",91,0,1,2,0,0,1,86,165,32,8,Enfermedad,Sistema Respiratorio,Octubre,Bachillerato
+34,9,11,Martes,Primavera,118,10,10,37,"268,519",93,0,1,0,0,0,0,83,172,28,8,Enfermedad,Sistema Circulatorio,Noviembre,Bachillerato
+11,24,11,Miercoles,Primavera,289,36,13,33,"268,519",93,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Donación de Sangre,Noviembre,Bachillerato
+25,1,11,Viernes,Primavera,235,16,8,32,"268,519",93,0,3,0,0,0,0,75,178,25,8,Enfermedad,Infecciosas y Parasitarias,Noviembre,Posgrado
+10,22,11,Martes,Primavera,361,52,3,28,"268,519",93,0,1,1,1,0,4,80,172,27,8,No Enfermedad,Seguimiento del Paciente,Noviembre,Bachillerato
+34,23,11,Lunes,Primavera,118,10,10,37,"268,519",93,0,1,0,0,0,0,83,172,28,8,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+34,8,11,Martes,Primavera,118,10,10,37,"268,519",93,0,1,0,0,0,0,83,172,28,8,Enfermedad,Otología (Oído),Noviembre,Bachillerato
+13,26,11,Viernes,Primavera,369,17,12,31,"268,519",93,0,1,3,1,0,0,70,169,25,8,No Enfermedad,Falta injustificada,Noviembre,Bachillerato
+5,26,12,Viernes,Primavera,235,20,13,43,"280,549",98,0,1,1,1,0,0,106,167,38,8,No Enfermedad,Falta injustificada,Diciembre,Bachillerato
+12,18,12,Lunes,Primavera,233,51,1,31,"280,549",98,0,2,1,1,0,8,68,178,21,8,Enfermedad,Síntomas y Hallazgos Clínicos,Diciembre,Grado 
+32,10,1,Jueves,Otoño,289,48,29,49,"313,532",96,0,1,0,0,0,2,108,172,36,8,Enfermedad,Sistema Respiratorio,Enero,Bachillerato
+14,18,1,Martes,Otoño,155,12,14,34,"313,532",96,0,1,2,1,0,0,95,196,25,8,Enfermedad,Síntomas y Hallazgos Clínicos,Enero,Bachillerato
+11,13,1,Miercoles,Otoño,289,36,13,33,"313,532",96,0,1,2,1,0,1,90,172,30,8,Enfermedad,Sistema Osteomuscular,Enero,Bachillerato
+3,13,2,Martes,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Osteomuscular,Febrero,Bachillerato
+33,1,2,Miercoles,Otoño,248,25,14,47,"264,249",97,0,1,2,0,0,1,86,165,32,8,Enfermedad,Infecciosas y Parasitarias,Febrero,Bachillerato
+28,7,2,Martes,Otoño,225,26,9,28,"264,249",97,0,1,1,0,0,2,69,169,24,8,Enfermedad,Oftalmología (Ojo),Febrero,Bachillerato
+3,13,2,Jueves,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Osteomuscular,Febrero,Bachillerato
+10,19,3,Lunes,Otoño,361,52,3,28,"222,196",99,0,1,1,1,0,4,80,172,27,8,Enfermedad,Lesiones y Envenenamientos,Marzo,Bachillerato
+3,13,3,Martes,Otoño,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+28,7,3,Lunes,Otoño,225,26,9,28,"222,196",99,0,1,1,0,0,2,69,169,24,8,Enfermedad,Oftalmología (Ojo),Marzo,Bachillerato
+11,23,3,Miercoles,Otoño,289,36,13,33,"222,196",99,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Consulta Médica,Marzo,Bachillerato
+16,23,3,Miercoles,Invierno,118,15,24,46,"222,196",99,0,1,2,1,1,0,75,175,25,8,No Enfermedad,Consulta Médica,Marzo,Bachillerato
+13,22,3,Miercoles,Invierno,369,17,12,31,"222,196",99,0,1,3,1,0,0,70,169,25,8,No Enfermedad,Seguimiento del Paciente,Marzo,Bachillerato
+28,13,4,Lunes,Invierno,225,26,9,28,"246,288",91,0,1,1,0,0,2,69,169,24,8,Enfermedad,Sistema Osteomuscular,Abril,Bachillerato
+34,10,4,Lunes,Invierno,118,10,10,37,"246,288",91,0,1,0,0,0,0,83,172,28,8,Enfermedad,Sistema Respiratorio,Abril,Bachillerato
+10,19,4,Martes,Invierno,361,52,3,28,"246,288",91,0,1,1,1,0,4,80,172,27,8,Enfermedad,Lesiones y Envenenamientos,Abril,Bachillerato
+33,19,4,Miercoles,Invierno,248,25,14,47,"246,288",91,0,1,2,0,0,1,86,165,32,8,Enfermedad,Lesiones y Envenenamientos,Abril,Bachillerato
+6,13,4,Jueves,Invierno,189,29,13,33,"246,288",91,0,1,2,0,0,2,69,167,25,8,Enfermedad,Sistema Osteomuscular,Abril,Bachillerato
+1,22,4,Viernes,Invierno,235,11,14,37,"246,288",91,0,3,1,0,0,1,88,172,29,8,No Enfermedad,Seguimiento del Paciente,Abril,Posgrado
+28,19,4,Lunes,Invierno,225,26,9,28,"246,288",91,0,1,1,0,0,2,69,169,24,8,Enfermedad,Lesiones y Envenenamientos,Abril,Bachillerato
+28,19,4,Jueves,Invierno,225,26,9,28,"246,288",91,0,1,1,0,0,2,69,169,24,8,Enfermedad,Lesiones y Envenenamientos,Abril,Bachillerato
+1,22,5,Lunes,Invierno,235,11,14,37,"237,656",99,0,3,1,0,0,1,88,172,29,8,No Enfermedad,Seguimiento del Paciente,Mayo,Posgrado
+5,26,5,Miercoles,Invierno,235,20,13,43,"237,656",99,0,1,1,1,0,0,106,167,38,8,No Enfermedad,Falta injustificada,Mayo,Bachillerato
+29,14,5,Jueves,Invierno,225,15,15,41,"237,656",99,0,4,2,1,0,2,94,182,28,8,Enfermedad,Sistema Genitourinario,Mayo,Máster
+29,22,5,Viernes,Invierno,225,15,15,41,"237,656",99,0,4,2,1,0,2,94,182,28,8,No Enfermedad,Seguimiento del Paciente,Mayo,Máster
+25,10,5,Lunes,Invierno,235,16,8,32,"237,656",99,0,3,0,0,0,0,75,178,25,8,Enfermedad,Sistema Respiratorio,Mayo,Posgrado
+15,22,5,Miercoles,Invierno,291,31,12,40,"237,656",99,0,1,1,1,0,1,73,171,25,8,No Enfermedad,Seguimiento del Paciente,Mayo,Bachillerato
+17,10,5,Miercoles,Invierno,179,22,17,40,"237,656",99,0,2,2,0,1,0,63,170,22,8,Enfermedad,Sistema Respiratorio,Mayo,Grado 
+18,10,5,Jueves,Invierno,330,16,4,28,"237,656",99,0,2,0,0,0,0,84,182,25,8,Enfermedad,Sistema Respiratorio,Mayo,Grado 
+10,7,5,Lunes,Invierno,361,52,3,28,"237,656",99,0,1,1,1,0,4,80,172,27,8,Enfermedad,Oftalmología (Ojo),Mayo,Bachillerato
+17,25,5,Viernes,Invierno,179,22,17,40,"237,656",99,0,2,2,0,1,0,63,170,22,8,No Enfermedad,Examen de Laboratorio,Mayo,Grado 
+14,10,5,Viernes,Invierno,155,12,14,34,"237,656",99,0,1,2,1,0,0,95,196,25,8,Enfermedad,Sistema Respiratorio,Mayo,Bachillerato
+16,7,6,Miercoles,Invierno,118,15,24,46,"275,089",96,0,1,2,1,1,0,75,175,25,8,Enfermedad,Oftalmología (Ojo),Junio,Bachillerato
+34,26,6,Viernes,Invierno,118,10,10,37,"275,089",96,0,1,0,0,0,0,83,172,28,8,No Enfermedad,Falta injustificada,Junio,Bachillerato
+34,10,6,Miercoles,Invierno,118,10,10,37,"275,089",96,0,1,0,0,0,0,83,172,28,8,Enfermedad,Sistema Respiratorio,Junio,Bachillerato
+23,22,6,Jueves,Invierno,378,49,11,36,"275,089",96,0,1,2,0,1,4,65,174,21,8,No Enfermedad,Seguimiento del Paciente,Junio,Bachillerato
+12,19,6,Viernes,Invierno,233,51,1,31,"275,089",96,0,2,1,1,0,8,68,178,21,8,Enfermedad,Lesiones y Envenenamientos,Junio,Grado 
+12,22,6,Jueves,Verano,233,51,1,31,"275,089",96,0,2,1,1,0,8,68,178,21,8,No Enfermedad,Seguimiento del Paciente,Junio,Grado 
+9,6,7,Lunes,Verano,228,14,16,58,"264,604",93,0,1,2,0,0,1,65,172,22,8,Enfermedad,Sistema Nervioso,Julio,Bachillerato
+10,22,7,Miercoles,Verano,361,52,3,28,"264,604",93,0,1,1,1,0,4,80,172,27,8,No Enfermedad,Seguimiento del Paciente,Julio,Bachillerato
+28,22,7,Miercoles,Verano,225,26,9,28,"264,604",93,0,1,1,0,0,2,69,169,24,8,No Enfermedad,Seguimiento del Paciente,Julio,Bachillerato
+11,14,7,Martes,Verano,289,36,13,33,"264,604",93,0,1,2,1,0,1,90,172,30,8,Enfermedad,Sistema Genitourinario,Julio,Bachillerato
+10,25,8,Lunes,Verano,361,52,3,28,"205,917",92,0,1,1,1,0,4,80,172,27,7,No Enfermedad,Examen de Laboratorio,Agosto,Bachillerato
+15,23,10,Jueves,Primavera,291,31,12,40,"253,465",93,0,1,1,1,0,1,73,171,25,5,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+15,23,11,Jueves,Primavera,291,31,12,40,"306,345",93,0,1,1,1,0,1,73,171,25,5,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+22,1,10,Miercoles,Primavera,179,26,9,30,"265,017",88,0,3,0,0,0,0,56,171,19,5,Enfermedad,Infecciosas y Parasitarias,Octubre,Posgrado
+22,7,10,Miercoles,Primavera,179,26,9,30,"265,017",88,0,3,0,0,0,0,56,171,19,5,Enfermedad,Oftalmología (Ojo),Octubre,Posgrado
+28,23,1,Miercoles,Otoño,225,26,9,28,"330,061",100,0,1,1,0,0,2,69,169,24,5,No Enfermedad,Consulta Médica,Enero,Bachillerato
+34,28,8,Martes,Verano,118,10,10,37,"249,797",93,0,1,0,0,0,0,83,172,28,5,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+14,25,2,Lunes,Otoño,155,12,14,34,"264,249",97,0,1,2,1,0,0,95,196,25,5,No Enfermedad,Examen de Laboratorio,Febrero,Bachillerato
+11,26,7,Martes,Verano,289,36,13,33,"239,554",97,0,1,2,1,0,1,90,172,30,4,No Enfermedad,Falta injustificada,Julio,Bachillerato
+7,7,7,Jueves,Verano,279,5,14,39,"239,554",97,0,1,2,1,1,0,68,168,24,4,Enfermedad,Oftalmología (Ojo),Julio,Bachillerato
+20,23,7,Viernes,Verano,260,50,11,36,"239,554",97,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Médica,Julio,Bachillerato
+3,23,7,Miercoles,Verano,179,51,18,38,"239,554",97,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Consulta Médica,Julio,Bachillerato
+20,28,8,Viernes,Verano,260,50,11,36,"205,917",92,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+30,28,8,Miercoles,Verano,157,27,6,29,"205,917",92,0,1,0,1,1,0,75,185,22,4,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+1,23,8,Jueves,Verano,235,11,14,37,"205,917",92,0,3,1,0,0,1,88,172,29,4,No Enfermedad,Consulta Médica,Agosto,Posgrado
+19,11,8,Jueves,Verano,291,50,12,32,"205,917",92,0,1,0,1,0,0,65,169,23,4,Enfermedad,Sistema Digestivo,Agosto,Bachillerato
+20,23,8,Viernes,Verano,260,50,11,36,"205,917",92,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+34,23,9,Lunes,Verano,118,10,10,37,"241,476",92,0,1,0,0,0,0,83,172,28,4,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+3,23,9,Martes,Verano,179,51,18,38,"241,476",92,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+15,23,9,Jueves,Verano,291,31,12,40,"241,476",92,0,1,1,1,0,1,73,171,25,4,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+20,23,9,Viernes,Primavera,260,50,11,36,"241,476",92,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+20,28,11,Viernes,Primavera,260,50,11,36,"306,345",93,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+20,28,3,Viernes,Otoño,260,50,11,36,"343,253",95,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+20,28,4,Viernes,Invierno,260,50,11,36,"326,452",96,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Abril,Bachillerato
+27,7,5,Miercoles,Invierno,184,42,7,27,"378,884",92,0,1,0,0,0,0,58,167,21,4,Enfermedad,Oftalmología (Ojo),Mayo,Bachillerato
+15,23,6,Jueves,Invierno,291,31,12,40,"377,55",94,0,1,1,1,0,1,73,171,25,4,No Enfermedad,Consulta Médica,Junio,Bachillerato
+14,23,6,Lunes,Invierno,155,12,14,34,"377,55",94,0,1,2,1,0,0,95,196,25,4,No Enfermedad,Consulta Médica,Junio,Bachillerato
+34,26,7,Viernes,Verano,118,10,10,37,"275,312",98,0,1,0,0,0,0,83,172,28,4,No Enfermedad,Falta injustificada,Julio,Bachillerato
+20,28,8,Viernes,Verano,260,50,11,36,"265,615",94,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+11,23,8,Martes,Verano,289,36,13,33,"265,615",94,0,1,2,1,0,1,90,172,30,4,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+15,28,9,Viernes,Verano,291,31,12,40,"294,217",81,0,1,1,1,0,1,73,171,25,4,No Enfermedad,Consulta Dental,Septiembre,Bachillerato
+20,28,9,Viernes,Verano,260,50,11,36,"294,217",81,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Septiembre,Bachillerato
+1,26,10,Lunes,Primavera,235,11,14,37,"265,017",88,0,3,1,0,0,1,88,172,29,4,No Enfermedad,Falta injustificada,Octubre,Posgrado
+15,28,10,Martes,Primavera,291,31,12,40,"265,017",88,0,1,1,1,0,1,73,171,25,4,No Enfermedad,Consulta Dental,Octubre,Bachillerato
+15,12,11,Viernes,Primavera,291,31,12,40,"284,031",97,0,1,1,1,0,1,73,171,25,4,Enfermedad,Piel y Tejido Subcutáneo,Noviembre,Bachillerato
+20,28,12,Viernes,Primavera,260,50,11,36,"236,629",93,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+1,14,12,Martes,Otoño,235,11,14,37,"236,629",93,0,3,1,0,0,1,88,172,29,4,Enfermedad,Sistema Genitourinario,Diciembre,Posgrado
+14,23,1,Martes,Otoño,155,12,14,34,"330,061",100,0,1,2,1,0,0,95,196,25,4,No Enfermedad,Consulta Médica,Enero,Bachillerato
+36,26,1,Lunes,Otoño,118,13,18,50,"330,061",100,0,1,1,1,0,0,98,178,31,4,No Enfermedad,Falta injustificada,Enero,Bachillerato
+20,28,3,Viernes,Otoño,260,50,11,36,"244,387",98,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+3,28,4,Miercoles,Invierno,179,51,18,38,"239,409",98,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Consulta Dental,Abril,Bachillerato
+18,26,4,Viernes,Invierno,330,16,4,28,"239,409",98,0,2,0,0,0,0,84,182,25,4,No Enfermedad,Falta injustificada,Abril,Grado 
+13,22,4,Lunes,Invierno,369,17,12,31,"239,409",98,0,1,3,1,0,0,70,169,25,4,No Enfermedad,Seguimiento del Paciente,Abril,Bachillerato
+33,26,4,Lunes,Invierno,248,25,14,47,"239,409",98,0,1,2,0,0,1,86,165,32,4,No Enfermedad,Falta injustificada,Abril,Bachillerato
+20,28,4,Viernes,Invierno,260,50,11,36,"239,409",98,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Abril,Bachillerato
+3,28,4,Lunes,Invierno,179,51,18,38,"239,409",98,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Consulta Dental,Abril,Bachillerato
+3,28,5,Miercoles,Invierno,179,51,18,38,"246,074",99,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Consulta Dental,Mayo,Bachillerato
+28,23,6,Jueves,Invierno,225,26,9,28,"253,957",95,0,1,1,0,0,2,69,169,24,4,No Enfermedad,Consulta Médica,Junio,Bachillerato
+20,28,6,Viernes,Invierno,260,50,11,36,"253,957",95,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Junio,Bachillerato
+3,28,6,Lunes,Invierno,179,51,18,38,"253,957",95,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Consulta Dental,Junio,Bachillerato
+28,25,7,Jueves,Verano,225,26,9,28,"230,29",92,0,1,1,0,0,2,69,169,24,4,No Enfermedad,Examen de Laboratorio,Julio,Bachillerato
+20,26,7,Lunes,Verano,260,50,11,36,"230,29",92,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Falta injustificada,Julio,Bachillerato
+3,25,8,Jueves,Verano,179,51,18,38,"249,797",93,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Examen de Laboratorio,Agosto,Bachillerato
+24,28,8,Martes,Verano,246,25,16,41,"249,797",93,0,1,0,1,0,0,67,170,23,4,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+34,28,8,Martes,Verano,118,10,10,37,"249,797",93,0,1,0,0,0,0,83,172,28,4,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+15,28,8,Jueves,Verano,291,31,12,40,"249,797",93,0,1,1,1,0,1,73,171,25,4,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+3,25,8,Lunes,Verano,179,51,18,38,"249,797",93,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Examen de Laboratorio,Agosto,Bachillerato
+1,23,8,Martes,Verano,235,11,14,37,"249,797",93,0,3,1,0,0,1,88,172,29,4,No Enfermedad,Consulta Médica,Agosto,Posgrado
+3,23,9,Lunes,Verano,179,51,18,38,"261,756",87,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+28,23,10,Martes,Primavera,225,26,9,28,"284,853",91,0,1,1,0,0,2,69,169,24,4,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+28,23,11,Viernes,Primavera,225,26,9,28,"268,519",93,0,1,1,0,0,2,69,169,24,4,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+33,14,11,Jueves,Primavera,248,25,14,47,"268,519",93,0,1,2,0,0,1,86,165,32,4,Enfermedad,Sistema Genitourinario,Noviembre,Bachillerato
+10,14,12,Jueves,Primavera,361,52,3,28,"280,549",98,0,1,1,1,0,4,80,172,27,4,Enfermedad,Sistema Genitourinario,Diciembre,Bachillerato
+3,10,3,Lunes,Otoño,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,4,Enfermedad,Sistema Respiratorio,Marzo,Bachillerato
+14,28,4,Martes,Invierno,155,12,14,34,"246,288",91,0,1,2,1,0,0,95,196,25,4,No Enfermedad,Consulta Dental,Abril,Bachillerato
+5,26,7,Miercoles,Verano,235,20,13,43,"264,604",93,0,1,1,1,0,0,106,167,38,4,No Enfermedad,Falta injustificada,Julio,Bachillerato
+34,28,7,Lunes,Verano,118,10,10,37,"264,604",93,0,1,0,0,0,0,83,172,28,4,No Enfermedad,Consulta Dental,Julio,Bachillerato
+1,11,7,Martes,Verano,235,11,14,37,"264,604",93,0,3,1,0,0,1,88,172,29,4,Enfermedad,Sistema Digestivo,Julio,Posgrado
+34,23,9,Lunes,Verano,118,10,10,37,"241,476",92,0,1,0,0,0,0,83,172,28,3,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+3,23,9,Martes,Verano,179,51,18,38,"241,476",92,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+28,18,9,Miercoles,Primavera,225,26,9,28,"241,476",92,0,1,1,0,0,2,69,169,24,3,Enfermedad,Síntomas y Hallazgos Clínicos,Septiembre,Bachillerato
+3,23,9,Miercoles,Primavera,179,51,18,38,"241,476",92,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+3,23,9,Viernes,Primavera,179,51,18,38,"241,476",92,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+3,23,10,Martes,Primavera,179,51,18,38,"253,465",93,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+34,23,10,Martes,Primavera,118,10,10,37,"253,465",93,0,1,0,0,0,0,83,172,28,3,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+3,23,10,Viernes,Primavera,179,51,18,38,"253,465",93,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+28,23,10,Viernes,Primavera,225,26,9,28,"253,465",93,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+28,23,10,Miercoles,Primavera,225,26,9,28,"253,465",93,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+20,28,10,Viernes,Primavera,260,50,11,36,"253,465",93,0,1,4,1,0,0,65,168,23,3,No Enfermedad,Consulta Dental,Octubre,Bachillerato
+28,23,11,Miercoles,Primavera,225,26,9,28,"306,345",93,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+28,13,11,Viernes,Primavera,225,26,9,28,"306,345",93,0,1,1,0,0,2,69,169,24,3,Enfermedad,Sistema Osteomuscular,Noviembre,Bachillerato
+28,28,11,Martes,Primavera,225,26,9,28,"306,345",93,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+15,23,11,Jueves,Primavera,291,31,12,40,"306,345",93,0,1,1,1,0,1,73,171,25,3,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+28,28,12,Jueves,Primavera,225,26,9,28,"261,306",97,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+20,28,12,Viernes,Primavera,260,50,11,36,"261,306",97,0,1,4,1,0,0,65,168,23,3,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+11,22,1,Jueves,Otoño,289,36,13,33,"308,593",95,0,1,2,1,0,1,90,172,30,3,No Enfermedad,Seguimiento del Paciente,Enero,Bachillerato
+28,25,2,Jueves,Otoño,225,26,9,28,"302,585",99,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Examen de Laboratorio,Febrero,Bachillerato
+30,19,3,Martes,Otoño,157,27,6,29,"343,253",95,0,1,0,1,1,0,75,185,22,3,Enfermedad,Lesiones y Envenenamientos,Marzo,Bachillerato
+33,14,3,Viernes,Otoño,248,25,14,47,"343,253",95,0,1,2,0,0,1,86,165,32,3,Enfermedad,Sistema Genitourinario,Marzo,Bachillerato
+3,13,3,Miercoles,Invierno,179,51,18,38,"343,253",95,0,1,0,1,0,0,89,170,31,3,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+33,14,3,Viernes,Invierno,248,25,14,47,"343,253",95,0,1,2,0,0,1,86,165,32,3,Enfermedad,Sistema Genitourinario,Marzo,Bachillerato
+15,23,4,Viernes,Invierno,291,31,12,40,"326,452",96,0,1,1,1,0,1,73,171,25,3,No Enfermedad,Consulta Médica,Abril,Bachillerato
+1,7,4,Viernes,Invierno,235,11,14,37,"326,452",96,0,3,1,0,0,1,88,172,29,3,Enfermedad,Oftalmología (Ojo),Abril,Posgrado
+30,25,7,Lunes,Verano,157,27,6,29,"275,312",98,0,1,0,1,1,0,75,185,22,3,No Enfermedad,Examen de Laboratorio,Julio,Bachillerato
+30,19,8,Viernes,Verano,157,27,6,29,"265,615",94,0,1,0,1,1,0,75,185,22,3,Enfermedad,Lesiones y Envenenamientos,Agosto,Bachillerato
+36,13,8,Jueves,Verano,118,13,18,50,"265,615",94,0,1,1,1,0,0,98,178,31,3,Enfermedad,Sistema Osteomuscular,Agosto,Bachillerato
+3,23,9,Viernes,Verano,179,51,18,38,"294,217",81,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+15,28,9,Martes,Verano,291,31,12,40,"294,217",81,0,1,1,1,0,1,73,171,25,3,No Enfermedad,Consulta Dental,Septiembre,Bachillerato
+15,28,9,Viernes,Primavera,291,31,12,40,"294,217",81,0,1,1,1,0,1,73,171,25,3,No Enfermedad,Consulta Dental,Septiembre,Bachillerato
+34,7,10,Lunes,Primavera,118,10,10,37,"265,017",88,0,1,0,0,0,0,83,172,28,3,Enfermedad,Oftalmología (Ojo),Octubre,Bachillerato
+20,28,10,Viernes,Primavera,260,50,11,36,"265,017",88,0,1,4,1,0,0,65,168,23,3,No Enfermedad,Consulta Dental,Octubre,Bachillerato
+20,28,11,Viernes,Primavera,260,50,11,36,"284,031",97,0,1,4,1,0,0,65,168,23,3,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+34,11,11,Miercoles,Primavera,118,10,10,37,"284,031",97,0,1,0,0,0,0,83,172,28,3,Enfermedad,Sistema Digestivo,Noviembre,Bachillerato
+3,28,11,Jueves,Primavera,179,51,18,38,"284,031",97,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+28,12,12,Lunes,Primavera,225,26,9,28,"236,629",93,0,1,1,0,0,2,69,169,24,3,Enfermedad,Piel y Tejido Subcutáneo,Diciembre,Bachillerato
+1,23,12,Lunes,Primavera,235,11,14,37,"236,629",93,0,3,1,0,0,1,88,172,29,3,No Enfermedad,Consulta Médica,Diciembre,Posgrado
+3,28,12,Lunes,Otoño,179,51,18,38,"236,629",93,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+3,27,2,Miercoles,Otoño,179,51,18,38,"251,818",96,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+11,22,2,Viernes,Otoño,289,36,13,33,"251,818",96,0,1,2,1,0,1,90,172,30,3,No Enfermedad,Seguimiento del Paciente,Febrero,Bachillerato
+20,28,2,Viernes,Otoño,260,50,11,36,"251,818",96,0,1,4,1,0,0,65,168,23,3,No Enfermedad,Consulta Dental,Febrero,Bachillerato
+3,23,2,Viernes,Otoño,179,51,18,38,"251,818",96,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Médica,Febrero,Bachillerato
+3,27,2,Viernes,Otoño,179,51,18,38,"251,818",96,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+3,27,2,Lunes,Otoño,179,51,18,38,"251,818",96,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+36,14,3,Martes,Invierno,118,13,18,50,"244,387",98,0,1,1,1,0,0,98,178,31,3,Enfermedad,Sistema Genitourinario,Marzo,Bachillerato
+20,28,4,Viernes,Invierno,260,50,11,36,"239,409",98,0,1,4,1,0,0,65,168,23,3,No Enfermedad,Consulta Dental,Abril,Bachillerato
+22,23,5,Miercoles,Invierno,179,26,9,30,"246,074",99,0,3,0,0,0,0,56,171,19,3,No Enfermedad,Consulta Médica,Mayo,Posgrado
+20,28,5,Viernes,Invierno,260,50,11,36,"246,074",99,0,1,4,1,0,0,65,168,23,3,No Enfermedad,Consulta Dental,Mayo,Bachillerato
+17,8,5,Lunes,Invierno,179,22,17,40,"246,074",99,0,2,2,0,1,0,63,170,22,3,Enfermedad,Otología (Oído),Mayo,Grado 
+28,25,5,Miercoles,Invierno,225,26,9,28,"246,074",99,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Examen de Laboratorio,Mayo,Bachillerato
+34,23,6,Lunes,Invierno,118,10,10,37,"253,957",95,0,1,0,0,0,0,83,172,28,3,No Enfermedad,Consulta Médica,Junio,Bachillerato
+3,28,6,Lunes,Invierno,179,51,18,38,"253,957",95,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Dental,Junio,Bachillerato
+24,28,6,Martes,Invierno,246,25,16,41,"253,957",95,0,1,0,1,0,0,67,170,23,3,No Enfermedad,Consulta Dental,Junio,Bachillerato
+20,28,8,Lunes,Verano,260,50,11,36,"249,797",93,0,1,4,1,0,0,65,168,23,3,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+34,28,9,Martes,Verano,118,10,10,37,"261,756",87,0,1,0,0,0,0,83,172,28,3,No Enfermedad,Consulta Dental,Septiembre,Bachillerato
+25,11,10,Jueves,Primavera,235,16,8,32,"284,853",91,0,3,0,0,0,0,75,178,25,3,Enfermedad,Sistema Digestivo,Octubre,Posgrado
+32,14,10,Miercoles,Primavera,289,48,29,49,"284,853",91,0,1,0,0,0,2,108,172,36,3,Enfermedad,Sistema Genitourinario,Octubre,Bachillerato
+13,23,10,Martes,Primavera,369,17,12,31,"284,853",91,0,1,3,1,0,0,70,169,25,3,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+3,28,10,Miercoles,Primavera,179,51,18,38,"284,853",91,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Dental,Octubre,Bachillerato
+28,10,10,Viernes,Primavera,225,26,9,28,"284,853",91,0,1,1,0,0,2,69,169,24,3,Enfermedad,Sistema Respiratorio,Octubre,Bachillerato
+28,13,10,Martes,Primavera,225,26,9,28,"284,853",91,0,1,1,0,0,2,69,169,24,3,Enfermedad,Sistema Osteomuscular,Octubre,Bachillerato
+34,28,11,Miercoles,Primavera,118,10,10,37,"268,519",93,0,1,0,0,0,0,83,172,28,3,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+28,14,11,Jueves,Primavera,225,26,9,28,"268,519",93,0,1,1,0,0,2,69,169,24,3,Enfermedad,Sistema Genitourinario,Noviembre,Bachillerato
+28,23,12,Miercoles,Primavera,225,26,9,28,"280,549",98,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Médica,Diciembre,Bachillerato
+28,23,12,Viernes,Primavera,225,26,9,28,"280,549",98,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Médica,Diciembre,Bachillerato
+28,23,12,Jueves,Primavera,225,26,9,28,"280,549",98,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Médica,Diciembre,Bachillerato
+22,13,1,Lunes,Otoño,179,26,9,30,"313,532",96,0,3,0,0,0,0,56,171,19,3,Enfermedad,Sistema Osteomuscular,Enero,Posgrado
+17,18,1,Viernes,Otoño,179,22,17,40,"313,532",96,0,2,2,0,1,0,63,170,22,3,Enfermedad,Síntomas y Hallazgos Clínicos,Enero,Grado 
+3,27,1,Miercoles,Otoño,179,51,18,38,"313,532",96,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Enero,Bachillerato
+3,27,1,Jueves,Otoño,179,51,18,38,"313,532",96,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Enero,Bachillerato
+28,23,2,Martes,Otoño,225,26,9,28,"264,249",97,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Médica,Febrero,Bachillerato
+28,28,2,Jueves,Otoño,225,26,9,28,"264,249",97,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Dental,Febrero,Bachillerato
+3,27,2,Miercoles,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+3,27,2,Jueves,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+28,25,2,Jueves,Otoño,225,26,9,28,"264,249",97,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Examen de Laboratorio,Febrero,Bachillerato
+3,27,2,Viernes,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+12,12,2,Miercoles,Otoño,233,51,1,31,"264,249",97,0,2,1,1,0,8,68,178,21,3,Enfermedad,Piel y Tejido Subcutáneo,Febrero,Grado 
+25,25,2,Lunes,Otoño,235,16,8,32,"264,249",97,0,3,0,0,0,0,75,178,25,3,No Enfermedad,Examen de Laboratorio,Febrero,Posgrado
+9,25,3,Martes,Otoño,228,14,16,58,"222,196",99,0,1,2,0,0,1,65,172,22,3,No Enfermedad,Examen de Laboratorio,Marzo,Bachillerato
+33,25,3,Martes,Otoño,248,25,14,47,"222,196",99,0,1,2,0,0,1,86,165,32,3,No Enfermedad,Examen de Laboratorio,Marzo,Bachillerato
+3,27,3,Jueves,Otoño,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+22,27,3,Viernes,Otoño,179,26,9,30,"222,196",99,0,3,0,0,0,0,56,171,19,3,No Enfermedad,Fisioterapia,Marzo,Posgrado
+25,25,3,Lunes,Otoño,235,16,8,32,"222,196",99,0,3,0,0,0,0,75,178,25,3,No Enfermedad,Examen de Laboratorio,Marzo,Posgrado
+3,27,3,Lunes,Otoño,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+33,23,3,Jueves,Otoño,248,25,14,47,"222,196",99,0,1,2,0,0,1,86,165,32,3,No Enfermedad,Consulta Médica,Marzo,Bachillerato
+3,27,3,Viernes,Otoño,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+3,27,3,Martes,Invierno,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+3,27,3,Miercoles,Invierno,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+3,27,3,Jueves,Invierno,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+36,23,4,Martes,Invierno,118,13,18,50,"246,288",91,0,1,1,1,0,0,98,178,31,3,No Enfermedad,Consulta Médica,Abril,Bachillerato
+25,16,4,Martes,Invierno,235,16,8,32,"246,288",91,0,3,0,0,0,0,75,178,25,3,Enfermedad,Periodo Perinatal,Abril,Posgrado
+29,19,5,Miercoles,Invierno,225,15,15,41,"237,656",99,0,4,2,1,0,2,94,182,28,3,Enfermedad,Lesiones y Envenenamientos,Mayo,Máster
+34,8,5,Miercoles,Invierno,118,10,10,37,"237,656",99,0,1,0,0,0,0,83,172,28,3,Enfermedad,Otología (Oído),Mayo,Bachillerato
+36,5,5,Martes,Invierno,118,13,18,50,"237,656",99,0,1,1,1,0,0,98,178,31,3,Enfermedad,Transtornos Mentales,Mayo,Bachillerato
+28,6,5,Miercoles,Invierno,225,26,9,28,"237,656",99,0,1,1,0,0,2,69,169,24,3,Enfermedad,Sistema Nervioso,Mayo,Bachillerato
+22,27,6,Miercoles,Invierno,179,26,9,30,"275,089",96,0,3,0,0,0,0,56,171,19,3,No Enfermedad,Fisioterapia,Junio,Posgrado
+36,19,6,Jueves,Invierno,118,13,18,50,"275,089",96,0,1,1,1,0,0,98,178,31,3,Enfermedad,Lesiones y Envenenamientos,Junio,Bachillerato
+22,13,6,Lunes,Verano,179,26,9,30,"275,089",96,0,3,0,0,0,0,56,171,19,3,Enfermedad,Sistema Osteomuscular,Junio,Posgrado
+34,25,6,Lunes,Verano,118,10,10,37,"275,089",96,0,1,0,0,0,0,83,172,28,3,No Enfermedad,Examen de Laboratorio,Junio,Bachillerato
+34,10,6,Miercoles,Verano,118,10,10,37,"275,089",96,0,1,0,0,0,0,83,172,28,3,Enfermedad,Sistema Respiratorio,Junio,Bachillerato
+12,22,6,Miercoles,Verano,233,51,1,31,"275,089",96,0,2,1,1,0,8,68,178,21,3,No Enfermedad,Seguimiento del Paciente,Junio,Grado 
+3,23,7,Miercoles,Verano,179,51,18,38,"239,554",97,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Consulta Médica,Julio,Bachillerato
+11,23,7,Jueves,Verano,289,36,13,33,"239,554",97,0,1,2,1,0,1,90,172,30,2,No Enfermedad,Consulta Médica,Julio,Bachillerato
+3,23,7,Viernes,Verano,179,51,18,38,"239,554",97,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Consulta Médica,Julio,Bachillerato
+33,23,8,Miercoles,Verano,248,25,14,47,"205,917",92,0,1,2,0,0,1,86,165,32,2,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+3,23,8,Viernes,Verano,179,51,18,38,"205,917",92,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+3,23,8,Lunes,Verano,179,51,18,38,"205,917",92,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+27,23,9,Martes,Verano,184,42,7,27,"241,476",92,0,1,0,0,0,0,58,167,21,2,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+14,23,9,Miercoles,Verano,155,12,14,34,"241,476",92,0,1,2,1,0,0,95,196,25,2,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+28,23,9,Martes,Primavera,225,26,9,28,"241,476",92,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+34,23,9,Martes,Primavera,118,10,10,37,"241,476",92,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+28,23,10,Miercoles,Primavera,225,26,9,28,"253,465",93,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+33,23,10,Miercoles,Primavera,248,25,14,47,"253,465",93,0,1,2,0,0,1,86,165,32,2,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+28,28,10,Martes,Primavera,225,26,9,28,"253,465",93,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Dental,Octubre,Bachillerato
+36,23,12,Miercoles,Primavera,118,13,18,50,"261,306",97,0,1,1,1,0,0,98,178,31,2,No Enfermedad,Consulta Médica,Diciembre,Bachillerato
+28,23,12,Jueves,Primavera,225,26,9,28,"261,306",97,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Diciembre,Bachillerato
+28,23,12,Martes,Primavera,225,26,9,28,"261,306",97,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Diciembre,Bachillerato
+34,27,12,Viernes,Primavera,118,10,10,37,"261,306",97,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Fisioterapia,Diciembre,Bachillerato
+28,23,12,Viernes,Otoño,225,26,9,28,"261,306",97,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Diciembre,Bachillerato
+28,27,1,Miercoles,Otoño,225,26,9,28,"308,593",95,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Fisioterapia,Enero,Bachillerato
+27,23,1,Jueves,Otoño,184,42,7,27,"308,593",95,0,1,0,0,0,0,58,167,21,2,No Enfermedad,Consulta Médica,Enero,Bachillerato
+28,28,1,Jueves,Otoño,225,26,9,28,"308,593",95,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Dental,Enero,Bachillerato
+34,27,1,Lunes,Otoño,118,10,10,37,"308,593",95,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Fisioterapia,Enero,Bachillerato
+28,27,1,Martes,Otoño,225,26,9,28,"308,593",95,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Fisioterapia,Enero,Bachillerato
+34,27,1,Martes,Otoño,118,10,10,37,"308,593",95,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Fisioterapia,Enero,Bachillerato
+34,27,1,Miercoles,Otoño,118,10,10,37,"308,593",95,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Fisioterapia,Enero,Bachillerato
+34,27,1,Jueves,Otoño,118,10,10,37,"308,593",95,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Fisioterapia,Enero,Bachillerato
+34,27,1,Viernes,Otoño,118,10,10,37,"308,593",95,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Fisioterapia,Enero,Bachillerato
+14,28,2,Jueves,Otoño,155,12,14,34,"302,585",99,0,1,2,1,0,0,95,196,25,2,No Enfermedad,Consulta Dental,Febrero,Bachillerato
+20,28,2,Viernes,Otoño,260,50,11,36,"302,585",99,0,1,4,1,0,0,65,168,23,2,No Enfermedad,Consulta Dental,Febrero,Bachillerato
+28,28,2,Lunes,Otoño,225,26,9,28,"302,585",99,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Dental,Febrero,Bachillerato
+28,23,2,Martes,Otoño,225,26,9,28,"302,585",99,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Febrero,Bachillerato
+19,28,3,Martes,Otoño,291,50,12,32,"343,253",95,0,1,0,1,0,0,65,169,23,2,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+28,23,3,Miercoles,Otoño,225,26,9,28,"343,253",95,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Marzo,Bachillerato
+28,28,3,Viernes,Invierno,225,26,9,28,"343,253",95,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+28,28,4,Viernes,Invierno,225,26,9,28,"326,452",96,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Dental,Abril,Bachillerato
+14,28,5,Jueves,Invierno,155,12,14,34,"378,884",92,0,1,2,1,0,0,95,196,25,2,No Enfermedad,Consulta Dental,Mayo,Bachillerato
+14,28,5,Lunes,Invierno,155,12,14,34,"378,884",92,0,1,2,1,0,0,95,196,25,2,No Enfermedad,Consulta Dental,Mayo,Bachillerato
+3,11,6,Viernes,Invierno,179,51,18,38,"377,55",94,0,1,0,1,0,0,89,170,31,2,Enfermedad,Sistema Digestivo,Junio,Bachillerato
+32,28,6,Lunes,Verano,289,48,29,49,"377,55",94,0,1,0,0,0,2,108,172,36,2,No Enfermedad,Consulta Dental,Junio,Bachillerato
+28,28,6,Jueves,Verano,225,26,9,28,"377,55",94,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Dental,Junio,Bachillerato
+14,25,7,Viernes,Verano,155,12,14,34,"275,312",98,0,1,2,1,0,0,95,196,25,2,No Enfermedad,Examen de Laboratorio,Julio,Bachillerato
+26,14,8,Jueves,Verano,300,26,13,43,"265,615",94,0,1,2,1,1,1,77,175,25,2,Enfermedad,Sistema Genitourinario,Agosto,Bachillerato
+33,25,8,Lunes,Verano,248,25,14,47,"265,615",94,0,1,2,0,0,1,86,165,32,2,No Enfermedad,Examen de Laboratorio,Agosto,Bachillerato
+5,23,10,Lunes,Primavera,235,20,13,43,"265,017",88,0,1,1,1,0,0,106,167,38,2,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+33,23,11,Lunes,Primavera,248,25,14,47,"284,031",97,0,1,2,0,0,1,86,165,32,2,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+1,25,11,Jueves,Primavera,235,11,14,37,"284,031",97,0,3,1,0,0,1,88,172,29,2,No Enfermedad,Examen de Laboratorio,Noviembre,Posgrado
+3,28,12,Lunes,Primavera,179,51,18,38,"236,629",93,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+1,25,12,Jueves,Primavera,235,11,14,37,"236,629",93,0,3,1,0,0,1,88,172,29,2,No Enfermedad,Examen de Laboratorio,Diciembre,Posgrado
+30,28,12,Lunes,Otoño,157,27,6,29,"236,629",93,0,1,0,1,1,0,75,185,22,2,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+14,23,1,Lunes,Otoño,155,12,14,34,"330,061",100,0,1,2,1,0,0,95,196,25,2,No Enfermedad,Consulta Médica,Enero,Bachillerato
+34,28,2,Martes,Otoño,118,10,10,37,"251,818",96,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Consulta Dental,Febrero,Bachillerato
+3,27,2,Lunes,Otoño,179,51,18,38,"251,818",96,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+24,23,2,Martes,Otoño,246,25,16,41,"251,818",96,0,1,0,1,0,0,67,170,23,2,No Enfermedad,Consulta Médica,Febrero,Bachillerato
+15,23,2,Martes,Otoño,291,31,12,40,"251,818",96,0,1,1,1,0,1,73,171,25,2,No Enfermedad,Consulta Médica,Febrero,Bachillerato
+24,28,3,Viernes,Otoño,246,25,16,41,"244,387",98,0,1,0,1,0,0,67,170,23,2,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+3,28,3,Lunes,Otoño,179,51,18,38,"244,387",98,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+36,23,3,Viernes,Invierno,118,13,18,50,"244,387",98,0,1,1,1,0,0,98,178,31,2,No Enfermedad,Consulta Médica,Marzo,Bachillerato
+24,28,3,Martes,Invierno,246,25,16,41,"244,387",98,0,1,0,1,0,0,67,170,23,2,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+34,11,4,Miercoles,Invierno,118,10,10,37,"239,409",98,0,1,0,0,0,0,83,172,28,2,Enfermedad,Sistema Digestivo,Abril,Bachillerato
+33,23,5,Miercoles,Invierno,248,25,14,47,"246,074",99,0,1,2,0,0,1,86,165,32,2,No Enfermedad,Consulta Médica,Mayo,Bachillerato
+17,11,5,Lunes,Invierno,179,22,17,40,"246,074",99,0,2,2,0,1,0,63,170,22,2,Enfermedad,Sistema Digestivo,Mayo,Grado 
+22,25,5,Lunes,Invierno,179,26,9,30,"246,074",99,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Examen de Laboratorio,Mayo,Posgrado
+34,28,6,Martes,Invierno,118,10,10,37,"253,957",95,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Consulta Dental,Junio,Bachillerato
+3,28,6,Lunes,Verano,179,51,18,38,"253,957",95,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Consulta Dental,Junio,Bachillerato
+28,23,6,Miercoles,Verano,225,26,9,28,"253,957",95,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Junio,Bachillerato
+36,23,6,Miercoles,Verano,118,13,18,50,"253,957",95,0,1,1,1,0,0,98,178,31,2,No Enfermedad,Consulta Médica,Junio,Bachillerato
+22,21,6,Miercoles,Verano,179,26,9,30,"253,957",95,0,3,0,0,0,0,56,171,19,2,Enfermedad,Factores de Salud,Junio,Posgrado
+24,28,6,Viernes,Verano,246,25,16,41,"253,957",95,0,1,0,1,0,0,67,170,23,2,No Enfermedad,Consulta Dental,Junio,Bachillerato
+22,23,7,Jueves,Verano,179,26,9,30,"230,29",92,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Consulta Médica,Julio,Posgrado
+24,28,7,Martes,Verano,246,25,16,41,"230,29",92,0,1,0,1,0,0,67,170,23,2,No Enfermedad,Consulta Dental,Julio,Bachillerato
+7,23,7,Jueves,Verano,279,5,14,39,"230,29",92,0,1,2,1,1,0,68,168,24,2,No Enfermedad,Consulta Médica,Julio,Bachillerato
+15,28,8,Jueves,Verano,291,31,12,40,"249,797",93,0,1,1,1,0,1,73,171,25,2,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+14,23,9,Martes,Verano,155,12,14,34,"261,756",87,0,1,2,1,0,0,95,196,25,2,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+15,28,9,Jueves,Verano,291,31,12,40,"261,756",87,0,1,1,1,0,1,73,171,25,2,No Enfermedad,Consulta Dental,Septiembre,Bachillerato
+22,23,9,Lunes,Verano,179,26,9,30,"261,756",87,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Consulta Médica,Septiembre,Posgrado
+15,28,10,Miercoles,Primavera,291,31,12,40,"284,853",91,0,1,1,1,0,1,73,171,25,2,No Enfermedad,Consulta Dental,Octubre,Bachillerato
+34,23,10,Martes,Primavera,118,10,10,37,"284,853",91,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+32,23,10,Jueves,Primavera,289,48,29,49,"284,853",91,0,1,0,0,0,2,108,172,36,2,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+28,23,10,Martes,Primavera,225,26,9,28,"284,853",91,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+15,28,11,Miercoles,Primavera,291,31,12,40,"268,519",93,0,1,1,1,0,1,73,171,25,2,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+34,13,11,Jueves,Primavera,118,10,10,37,"268,519",93,0,1,0,0,0,0,83,172,28,2,Enfermedad,Sistema Osteomuscular,Noviembre,Bachillerato
+28,23,11,Martes,Primavera,225,26,9,28,"268,519",93,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+28,23,11,Viernes,Primavera,225,26,9,28,"268,519",93,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+10,28,11,Lunes,Primavera,361,52,3,28,"268,519",93,0,1,1,1,0,4,80,172,27,2,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+17,18,12,Viernes,Primavera,179,22,17,40,"280,549",98,0,2,2,0,1,0,63,170,22,2,Enfermedad,Síntomas y Hallazgos Clínicos,Diciembre,Grado 
+28,23,12,Martes,Primavera,225,26,9,28,"280,549",98,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Diciembre,Bachillerato
+28,23,12,Lunes,Primavera,225,26,9,28,"280,549",98,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Diciembre,Bachillerato
+17,25,1,Jueves,Otoño,179,22,17,40,"313,532",96,0,2,2,0,1,0,63,170,22,2,No Enfermedad,Examen de Laboratorio,Enero,Grado 
+17,25,1,Viernes,Otoño,179,22,17,40,"313,532",96,0,2,2,0,1,0,63,170,22,2,No Enfermedad,Examen de Laboratorio,Enero,Grado 
+17,25,1,Miercoles,Otoño,179,22,17,40,"313,532",96,0,2,2,0,1,0,63,170,22,2,No Enfermedad,Examen de Laboratorio,Enero,Grado 
+22,27,1,Lunes,Otoño,179,26,9,30,"313,532",96,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Enero,Posgrado
+22,27,1,Miercoles,Otoño,179,26,9,30,"313,532",96,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Enero,Posgrado
+3,27,1,Viernes,Otoño,179,51,18,38,"313,532",96,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Enero,Bachillerato
+3,27,2,Miercoles,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+3,27,2,Jueves,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+22,27,2,Jueves,Otoño,179,26,9,30,"264,249",97,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Febrero,Posgrado
+29,28,2,Viernes,Otoño,225,15,15,41,"264,249",97,0,4,2,1,0,2,94,182,28,2,No Enfermedad,Consulta Dental,Febrero,Máster
+3,27,2,Viernes,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+12,19,2,Lunes,Otoño,233,51,1,31,"264,249",97,0,2,1,1,0,8,68,178,21,2,Enfermedad,Lesiones y Envenenamientos,Febrero,Grado 
+3,27,2,Lunes,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+22,13,2,Jueves,Otoño,179,26,9,30,"264,249",97,0,3,0,0,0,0,56,171,19,2,Enfermedad,Sistema Osteomuscular,Febrero,Posgrado
+17,23,2,Viernes,Otoño,179,22,17,40,"264,249",97,0,2,2,0,1,0,63,170,22,2,No Enfermedad,Consulta Médica,Febrero,Grado 
+22,27,2,Miercoles,Otoño,179,26,9,30,"264,249",97,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Febrero,Posgrado
+28,7,2,Lunes,Otoño,225,26,9,28,"264,249",97,0,1,1,0,0,2,69,169,24,2,Enfermedad,Oftalmología (Ojo),Febrero,Bachillerato
+3,27,2,Martes,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+33,23,2,Martes,Otoño,248,25,14,47,"264,249",97,0,1,2,0,0,1,86,165,32,2,No Enfermedad,Consulta Médica,Febrero,Bachillerato
+28,25,2,Martes,Otoño,225,26,9,28,"264,249",97,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Examen de Laboratorio,Febrero,Bachillerato
+25,25,2,Viernes,Otoño,235,16,8,32,"264,249",97,0,3,0,0,0,0,75,178,25,2,No Enfermedad,Examen de Laboratorio,Febrero,Posgrado
+3,27,3,Lunes,Otoño,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+33,23,3,Lunes,Otoño,248,25,14,47,"222,196",99,0,1,2,0,0,1,86,165,32,2,No Enfermedad,Consulta Médica,Marzo,Bachillerato
+3,27,3,Miercoles,Otoño,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+28,27,3,Jueves,Otoño,225,26,9,28,"222,196",99,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+28,25,3,Jueves,Otoño,225,26,9,28,"222,196",99,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Examen de Laboratorio,Marzo,Bachillerato
+22,27,3,Viernes,Otoño,179,26,9,30,"222,196",99,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Marzo,Posgrado
+33,13,3,Lunes,Otoño,248,25,14,47,"222,196",99,0,1,2,0,0,1,86,165,32,2,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+3,27,3,Martes,Otoño,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+9,25,3,Miercoles,Otoño,228,14,16,58,"222,196",99,0,1,2,0,0,1,65,172,22,2,No Enfermedad,Examen de Laboratorio,Marzo,Bachillerato
+22,23,3,Viernes,Otoño,179,26,9,30,"222,196",99,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Consulta Médica,Marzo,Posgrado
+22,13,3,Lunes,Invierno,179,26,9,30,"222,196",99,0,3,0,0,0,0,56,171,19,2,Enfermedad,Sistema Osteomuscular,Marzo,Posgrado
+22,27,4,Viernes,Invierno,179,26,9,30,"246,288",91,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Abril,Posgrado
+17,16,4,Martes,Invierno,179,22,17,40,"246,288",91,0,2,2,0,1,0,63,170,22,2,Enfermedad,Periodo Perinatal,Abril,Grado 
+10,23,4,Martes,Invierno,361,52,3,28,"246,288",91,0,1,1,1,0,4,80,172,27,2,No Enfermedad,Consulta Médica,Abril,Bachillerato
+34,10,4,Miercoles,Invierno,118,10,10,37,"246,288",91,0,1,0,0,0,0,83,172,28,2,Enfermedad,Sistema Respiratorio,Abril,Bachillerato
+36,14,4,Jueves,Invierno,118,13,18,50,"246,288",91,0,1,1,1,0,0,98,178,31,2,Enfermedad,Sistema Genitourinario,Abril,Bachillerato
+25,28,5,Miercoles,Invierno,235,16,8,32,"237,656",99,0,3,0,0,0,0,75,178,25,2,No Enfermedad,Consulta Dental,Mayo,Posgrado
+15,28,5,Jueves,Invierno,291,31,12,40,"237,656",99,0,1,1,1,0,1,73,171,25,2,No Enfermedad,Consulta Dental,Mayo,Bachillerato
+22,27,5,Viernes,Invierno,179,26,9,30,"237,656",99,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Mayo,Posgrado
+36,23,5,Lunes,Invierno,118,13,18,50,"237,656",99,0,1,1,1,0,0,98,178,31,2,No Enfermedad,Consulta Médica,Mayo,Bachillerato
+22,27,5,Miercoles,Invierno,179,26,9,30,"237,656",99,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Mayo,Posgrado
+25,23,5,Jueves,Invierno,235,16,8,32,"237,656",99,0,3,0,0,0,0,75,178,25,2,No Enfermedad,Consulta Médica,Mayo,Posgrado
+14,23,5,Miercoles,Invierno,155,12,14,34,"237,656",99,0,1,2,1,0,0,95,196,25,2,No Enfermedad,Consulta Médica,Mayo,Bachillerato
+22,27,6,Viernes,Invierno,179,26,9,30,"275,089",96,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Junio,Posgrado
+22,13,6,Jueves,Invierno,179,26,9,30,"275,089",96,0,3,0,0,0,0,56,171,19,2,Enfermedad,Sistema Osteomuscular,Junio,Posgrado
+15,28,6,Jueves,Invierno,291,31,12,40,"275,089",96,0,1,1,1,0,1,73,171,25,2,No Enfermedad,Consulta Dental,Junio,Bachillerato
+34,8,6,Viernes,Verano,118,10,10,37,"275,089",96,0,1,0,0,0,0,83,172,28,2,Enfermedad,Otología (Oído),Junio,Bachillerato
+12,19,7,Viernes,Verano,233,51,1,31,"264,604",93,0,2,1,1,0,8,68,178,21,2,Enfermedad,Lesiones y Envenenamientos,Julio,Grado 
+34,23,7,Miercoles,Verano,118,10,10,37,"264,604",93,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Consulta Médica,Julio,Bachillerato
+3,11,7,Miercoles,Verano,179,51,18,38,"239,554",97,0,1,0,1,0,0,89,170,31,1,Enfermedad,Sistema Digestivo,Julio,Bachillerato
+3,11,8,Lunes,Verano,179,51,18,38,"205,917",92,0,1,0,1,0,0,89,170,31,1,Enfermedad,Sistema Digestivo,Agosto,Bachillerato
+11,23,8,Martes,Verano,289,36,13,33,"205,917",92,0,1,2,1,0,1,90,172,30,1,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+10,23,8,Lunes,Verano,361,52,3,28,"205,917",92,0,1,1,1,0,4,80,172,27,1,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+33,23,9,Viernes,Primavera,248,25,14,47,"241,476",92,0,1,2,0,0,1,86,165,32,1,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+22,23,10,Jueves,Primavera,179,26,9,30,"253,465",93,0,3,0,0,0,0,56,171,19,1,No Enfermedad,Consulta Médica,Octubre,Posgrado
+10,23,10,Viernes,Primavera,361,52,3,28,"253,465",93,0,1,1,1,0,4,80,172,27,1,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+3,23,11,Jueves,Primavera,179,51,18,38,"306,345",93,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+28,23,11,Miercoles,Primavera,225,26,9,28,"306,345",93,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+33,28,11,Lunes,Primavera,248,25,14,47,"306,345",93,0,1,2,0,0,1,86,165,32,1,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+33,23,12,Martes,Primavera,248,25,14,47,"261,306",97,0,1,2,0,0,1,86,165,32,1,No Enfermedad,Consulta Médica,Diciembre,Bachillerato
+28,23,1,Miercoles,Otoño,225,26,9,28,"308,593",95,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Consulta Médica,Enero,Bachillerato
+34,19,1,Lunes,Otoño,118,10,10,37,"308,593",95,0,1,0,0,0,0,83,172,28,1,Enfermedad,Lesiones y Envenenamientos,Enero,Bachillerato
+34,27,1,Martes,Otoño,118,10,10,37,"308,593",95,0,1,0,0,0,0,83,172,28,1,No Enfermedad,Fisioterapia,Enero,Bachillerato
+28,27,1,Viernes,Otoño,225,26,9,28,"308,593",95,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Fisioterapia,Enero,Bachillerato
+28,23,1,Martes,Otoño,225,26,9,28,"308,593",95,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Consulta Médica,Enero,Bachillerato
+27,23,2,Viernes,Otoño,184,42,7,27,"302,585",99,0,1,0,0,0,0,58,167,21,1,No Enfermedad,Consulta Médica,Febrero,Bachillerato
+22,23,2,Martes,Otoño,179,26,9,30,"302,585",99,0,3,0,0,0,0,56,171,19,1,No Enfermedad,Consulta Médica,Febrero,Posgrado
+18,23,2,Martes,Otoño,330,16,4,28,"302,585",99,0,2,0,0,0,0,84,182,25,1,No Enfermedad,Consulta Médica,Febrero,Grado 
+28,23,2,Miercoles,Otoño,225,26,9,28,"302,585",99,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Consulta Médica,Febrero,Bachillerato
+28,23,3,Viernes,Otoño,225,26,9,28,"343,253",95,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Consulta Médica,Marzo,Bachillerato
+22,13,3,Lunes,Invierno,179,26,9,30,"343,253",95,0,3,0,0,0,0,56,171,19,1,Enfermedad,Sistema Osteomuscular,Marzo,Posgrado
+28,28,3,Lunes,Invierno,225,26,9,28,"343,253",95,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+15,28,4,Miercoles,Invierno,291,31,12,40,"326,452",96,0,1,1,1,0,1,73,171,25,1,No Enfermedad,Consulta Dental,Abril,Bachillerato
+28,23,4,Miercoles,Invierno,225,26,9,28,"326,452",96,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Consulta Médica,Abril,Bachillerato
+14,28,4,Martes,Invierno,155,12,14,34,"326,452",96,0,1,2,1,0,0,95,196,25,1,No Enfermedad,Consulta Dental,Abril,Bachillerato
+14,23,4,Jueves,Invierno,155,12,14,34,"326,452",96,0,1,2,1,0,0,95,196,25,1,No Enfermedad,Consulta Médica,Abril,Bachillerato
+36,23,4,Jueves,Invierno,118,13,18,50,"326,452",96,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Médica,Abril,Bachillerato
+15,28,4,Viernes,Invierno,291,31,12,40,"326,452",96,0,1,1,1,0,1,73,171,25,1,No Enfermedad,Consulta Dental,Abril,Bachillerato
+14,28,5,Lunes,Invierno,155,12,14,34,"378,884",92,0,1,2,1,0,0,95,196,25,1,No Enfermedad,Consulta Dental,Mayo,Bachillerato
+3,12,5,Martes,Invierno,179,51,18,38,"378,884",92,0,1,0,1,0,0,89,170,31,1,Enfermedad,Piel y Tejido Subcutáneo,Mayo,Bachillerato
+3,11,5,Martes,Invierno,179,51,18,38,"378,884",92,0,1,0,1,0,0,89,170,31,1,Enfermedad,Sistema Digestivo,Mayo,Bachillerato
+36,23,6,Martes,Invierno,118,13,18,50,"377,55",94,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Médica,Junio,Bachillerato
+11,23,8,Lunes,Verano,289,36,13,33,"265,615",94,0,1,2,1,0,1,90,172,30,1,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+26,13,8,Jueves,Verano,300,26,13,43,"265,615",94,0,1,2,1,1,1,77,175,25,1,Enfermedad,Sistema Osteomuscular,Agosto,Bachillerato
+33,23,8,Miercoles,Verano,248,25,14,47,"265,615",94,0,1,2,0,0,1,86,165,32,1,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+22,23,8,Jueves,Verano,179,26,9,30,"265,615",94,0,3,0,0,0,0,56,171,19,1,No Enfermedad,Consulta Médica,Agosto,Posgrado
+1,23,8,Martes,Verano,235,11,14,37,"265,615",94,0,3,1,0,0,1,88,172,29,1,No Enfermedad,Consulta Médica,Agosto,Posgrado
+36,23,8,Jueves,Verano,118,13,18,50,"265,615",94,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+3,23,9,Jueves,Verano,179,51,18,38,"294,217",81,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+36,28,9,Jueves,Primavera,118,13,18,50,"294,217",81,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Dental,Septiembre,Bachillerato
+3,28,10,Miercoles,Primavera,179,51,18,38,"265,017",88,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Octubre,Bachillerato
+36,28,10,Martes,Primavera,118,13,18,50,"265,017",88,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Dental,Octubre,Bachillerato
+36,28,10,Jueves,Primavera,118,13,18,50,"265,017",88,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Dental,Octubre,Bachillerato
+36,23,10,Jueves,Primavera,118,13,18,50,"265,017",88,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+15,23,11,Lunes,Primavera,291,31,12,40,"284,031",97,0,1,1,1,0,1,73,171,25,1,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+1,18,11,Miercoles,Primavera,235,11,14,37,"284,031",97,0,3,1,0,0,1,88,172,29,1,Enfermedad,Síntomas y Hallazgos Clínicos,Noviembre,Posgrado
+3,28,11,Martes,Primavera,179,51,18,38,"284,031",97,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+3,23,11,Jueves,Primavera,179,51,18,38,"284,031",97,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+3,28,12,Lunes,Primavera,179,51,18,38,"236,629",93,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+36,28,12,Martes,Primavera,118,13,18,50,"236,629",93,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+3,28,12,Jueves,Primavera,179,51,18,38,"236,629",93,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+3,28,12,Viernes,Primavera,179,51,18,38,"236,629",93,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+22,23,12,Martes,Primavera,179,26,9,30,"236,629",93,0,3,0,0,0,0,56,171,19,1,No Enfermedad,Consulta Médica,Diciembre,Posgrado
+1,13,1,Martes,Otoño,235,11,14,37,"330,061",100,0,3,1,0,0,1,88,172,29,1,Enfermedad,Sistema Osteomuscular,Enero,Posgrado
+3,28,1,Miercoles,Otoño,179,51,18,38,"330,061",100,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Enero,Bachillerato
+3,28,1,Viernes,Otoño,179,51,18,38,"330,061",100,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Enero,Bachillerato
+28,7,2,Miercoles,Otoño,225,26,9,28,"251,818",96,0,1,1,0,0,2,69,169,24,1,Enfermedad,Oftalmología (Ojo),Febrero,Bachillerato
+36,23,4,Lunes,Invierno,118,13,18,50,"239,409",98,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Médica,Abril,Bachillerato
+10,23,5,Jueves,Invierno,361,52,3,28,"246,074",99,0,1,1,1,0,4,80,172,27,1,No Enfermedad,Consulta Médica,Mayo,Bachillerato
+34,28,5,Lunes,Invierno,118,10,10,37,"246,074",99,0,1,0,0,0,0,83,172,28,1,No Enfermedad,Consulta Dental,Mayo,Bachillerato
+18,11,6,Martes,Verano,330,16,4,28,"253,957",95,0,2,0,0,0,0,84,182,25,1,Enfermedad,Sistema Digestivo,Junio,Grado 
+2,23,7,Lunes,Verano,235,29,12,48,"230,29",92,0,1,1,0,1,5,88,163,33,1,No Enfermedad,Consulta Médica,Julio,Bachillerato
+3,28,7,Martes,Verano,179,51,18,38,"230,29",92,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Julio,Bachillerato
+36,23,7,Viernes,Verano,118,13,18,50,"230,29",92,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Médica,Julio,Bachillerato
+15,28,7,Jueves,Verano,291,31,12,40,"230,29",92,0,1,1,1,0,1,73,171,25,1,No Enfermedad,Consulta Dental,Julio,Bachillerato
+17,25,8,Lunes,Verano,179,22,17,40,"249,797",93,0,2,2,0,1,0,63,170,22,1,No Enfermedad,Examen de Laboratorio,Agosto,Grado 
+24,28,8,Martes,Verano,246,25,16,41,"249,797",93,0,1,0,1,0,0,67,170,23,1,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+24,28,9,Martes,Verano,246,25,16,41,"261,756",87,0,1,0,1,0,0,67,170,23,1,No Enfermedad,Consulta Dental,Septiembre,Bachillerato
+33,23,9,Viernes,Verano,248,25,14,47,"261,756",87,0,1,2,0,0,1,86,165,32,1,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+28,23,9,Miercoles,Verano,225,26,9,28,"261,756",87,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+32,4,10,Jueves,Primavera,289,48,29,49,"284,853",91,0,1,0,0,0,2,108,172,36,1,Enfermedad,Endocrinas y Metabólicas,Octubre,Bachillerato
+15,23,10,Viernes,Primavera,291,31,12,40,"284,853",91,0,1,1,1,0,1,73,171,25,1,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+9,1,10,Miercoles,Primavera,228,14,16,58,"284,853",91,0,1,2,0,0,1,65,172,22,1,Enfermedad,Infecciosas y Parasitarias,Octubre,Bachillerato
+15,23,10,Miercoles,Primavera,291,31,12,40,"284,853",91,0,1,1,1,0,1,73,171,25,1,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+28,13,10,Jueves,Primavera,225,26,9,28,"284,853",91,0,1,1,0,0,2,69,169,24,1,Enfermedad,Sistema Osteomuscular,Octubre,Bachillerato
+3,21,11,Martes,Primavera,179,51,18,38,"268,519",93,0,1,0,1,0,0,89,170,31,1,Enfermedad,Factores de Salud,Noviembre,Bachillerato
+3,28,11,Viernes,Primavera,179,51,18,38,"268,519",93,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+3,28,11,Lunes,Primavera,179,51,18,38,"268,519",93,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+15,28,12,Miercoles,Primavera,291,31,12,40,"280,549",98,0,1,1,1,0,1,73,171,25,1,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+22,13,12,Viernes,Primavera,179,26,9,30,"280,549",98,0,3,0,0,0,0,56,171,19,1,Enfermedad,Sistema Osteomuscular,Diciembre,Posgrado
+22,13,5,Jueves,Invierno,179,26,9,30,"237,656",99,0,3,0,0,0,0,56,171,19,1,Enfermedad,Sistema Osteomuscular,Mayo,Posgrado
+34,28,5,Martes,Invierno,118,10,10,37,"237,656",99,0,1,0,0,0,0,83,172,28,1,No Enfermedad,Consulta Dental,Mayo,Bachillerato
+17,16,5,Viernes,Invierno,179,22,17,40,"237,656",99,0,2,2,0,1,0,63,170,22,1,Enfermedad,Periodo Perinatal,Mayo,Grado 
+28,11,5,Lunes,Invierno,225,26,9,28,"237,656",99,0,1,1,0,0,2,69,169,24,1,Enfermedad,Sistema Digestivo,Mayo,Bachillerato
+36,0,7,Martes,Verano,118,13,18,50,"239,554",97,1,1,1,1,0,0,98,178,31,0,,,Julio,Bachillerato
+20,0,9,Lunes,Primavera,260,50,11,36,"241,476",92,1,1,4,1,0,0,65,168,23,0,,,Septiembre,Bachillerato
+29,0,9,Lunes,Primavera,225,26,9,28,"241,476",92,1,1,1,0,0,2,69,169,24,0,,,Septiembre,Bachillerato
+11,0,9,Martes,Primavera,289,36,13,33,"241,476",92,1,1,2,1,0,1,90,172,30,0,,,Septiembre,Bachillerato
+36,0,9,Martes,Primavera,118,13,18,50,"241,476",92,1,1,1,1,0,0,98,178,31,0,,,Septiembre,Bachillerato
+13,0,9,Miercoles,Primavera,369,17,12,31,"241,476",92,1,1,3,1,0,0,70,169,25,0,,,Septiembre,Bachillerato
+36,0,10,Miercoles,Primavera,118,13,18,50,"253,465",93,1,1,1,1,0,0,98,178,31,0,,,Octubre,Bachillerato
+34,27,1,Lunes,Otoño,118,10,10,37,"308,593",95,0,1,0,0,0,0,83,172,28,0,No Enfermedad,Fisioterapia,Enero,Bachillerato
+2,0,4,Lunes,Invierno,235,29,12,48,"326,452",96,1,1,1,0,1,5,88,163,33,0,,,Abril,Bachillerato
+7,0,5,Miercoles,Invierno,279,5,14,39,"378,884",92,1,1,2,1,1,0,68,168,24,0,,,Mayo,Bachillerato
+18,0,5,Miercoles,Invierno,330,16,4,28,"378,884",92,1,2,0,0,0,0,84,182,25,0,,,Mayo,Grado 
+23,0,5,Miercoles,Invierno,378,49,11,36,"378,884",92,1,1,2,0,1,4,65,174,21,0,,,Mayo,Bachillerato
+31,0,5,Miercoles,Invierno,388,15,9,50,"378,884",92,1,1,0,0,0,0,76,178,24,0,,,Mayo,Bachillerato
+20,0,7,Jueves,Verano,260,50,11,36,"275,312",98,1,1,4,1,0,0,65,168,23,0,,,Julio,Bachillerato
+5,0,9,Jueves,Verano,235,20,13,43,"294,217",81,1,1,1,1,0,0,106,167,38,0,,,Septiembre,Bachillerato
+8,0,9,Martes,Verano,231,35,14,39,"294,217",81,1,1,2,1,0,2,100,170,35,0,,,Septiembre,Bachillerato
+19,0,9,Martes,Verano,291,50,12,32,"294,217",81,1,1,0,1,0,0,65,169,23,0,,,Septiembre,Bachillerato
+5,0,9,Jueves,Primavera,235,20,13,43,"294,217",81,1,1,1,1,0,0,106,167,38,0,,,Septiembre,Bachillerato
+36,0,10,Viernes,Primavera,118,13,18,50,"265,017",88,1,1,1,1,0,0,98,178,31,0,,,Octubre,Bachillerato
+33,0,10,Viernes,Primavera,248,25,14,47,"265,017",88,1,1,2,0,0,1,86,165,32,0,,,Octubre,Bachillerato
+5,0,10,Miercoles,Primavera,235,20,13,43,"265,017",88,1,1,1,1,0,0,106,167,38,0,,,Octubre,Bachillerato
+5,0,10,Viernes,Primavera,235,20,13,43,"265,017",88,1,1,1,1,0,0,106,167,38,0,,,Octubre,Bachillerato
+20,0,10,Martes,Primavera,260,50,11,36,"265,017",88,1,1,4,1,0,0,65,168,23,0,,,Octubre,Bachillerato
+15,0,10,Martes,Primavera,291,31,12,40,"265,017",88,1,1,1,1,0,1,73,171,25,0,,,Octubre,Bachillerato
+30,0,10,Martes,Primavera,157,27,6,29,"265,017",88,1,1,0,1,1,0,75,185,22,0,,,Octubre,Bachillerato
+18,0,11,Martes,Primavera,330,16,4,28,"284,031",97,1,2,0,0,0,0,84,182,25,0,,,Noviembre,Grado 
+23,0,11,Viernes,Primavera,378,49,11,36,"284,031",97,1,1,2,0,1,4,65,174,21,0,,,Noviembre,Bachillerato
+7,0,11,Martes,Primavera,279,5,14,39,"284,031",97,1,1,2,1,1,0,68,168,24,0,,,Noviembre,Bachillerato
+13,0,3,Miercoles,Otoño,369,17,12,31,"244,387",98,1,1,3,1,0,0,70,169,25,0,,,Marzo,Bachillerato
+1,0,3,Jueves,Invierno,235,11,14,37,"244,387",98,1,3,1,0,0,1,88,172,29,0,,,Marzo,Posgrado
+24,0,3,Jueves,Invierno,246,25,16,41,"244,387",98,1,1,0,1,0,0,67,170,23,0,,,Marzo,Bachillerato
+36,0,3,Jueves,Invierno,118,13,18,50,"244,387",98,1,1,1,1,0,0,98,178,31,0,,,Marzo,Bachillerato
+3,0,6,Viernes,Invierno,179,51,18,38,"253,957",95,1,1,0,1,0,0,89,170,31,0,,,Junio,Bachillerato
+28,0,10,Lunes,Primavera,225,26,9,28,"284,853",91,1,1,1,0,0,2,69,169,24,0,,,Octubre,Bachillerato
+15,0,11,Martes,Primavera,291,31,12,40,"268,519",93,1,1,1,1,0,1,73,171,25,0,,,Noviembre,Bachillerato
+11,0,11,Miercoles,Primavera,289,36,13,33,"268,519",93,1,1,2,1,0,1,90,172,30,0,,,Noviembre,Bachillerato
+5,0,11,Jueves,Primavera,235,20,13,43,"268,519",93,1,1,1,1,0,0,106,167,38,0,,,Noviembre,Bachillerato
+36,0,5,Martes,Invierno,118,13,18,50,"237,656",99,1,1,1,1,0,0,98,178,31,0,,,Mayo,Bachillerato
+23,0,5,Miercoles,Invierno,378,49,11,36,"237,656",99,1,1,2,0,1,4,65,174,21,0,,,Mayo,Bachillerato
+2,0,6,Lunes,Invierno,235,29,12,48,"275,089",96,1,1,1,0,1,5,88,163,33,0,,,Junio,Bachillerato
+21,0,6,Lunes,Invierno,268,11,8,33,"275,089",96,1,2,0,0,0,0,79,178,25,0,,,Junio,Grado 
+4,0,,Martes,Verano,118,14,13,40,"271,219",95,0,1,1,1,0,8,98,170,34,0,,,,Bachillerato
+8,0,,Miercoles,Otoño,231,35,14,39,"271,219",95,0,1,2,1,0,2,100,170,35,0,,,,Bachillerato
+35,0,,Viernes,Invierno,179,45,14,53,"271,219",95,0,1,1,0,0,1,77,175,25,0,,,,Bachillerato
+37,22,4,Lunes,Invierno,369,17,12,31,"239,409",98,0,1,3,1,0,0,70,169,25,4,No Enfermedad,Seguimiento del Paciente,Abril,Bachillerato
+38,11,3,Lunes,Otoño,179,22,17,40,"343,253",95,0,2,2,0,1,0,63,170,22,40,Enfermedad,Sistema Digestivo,Marzo,Grado 
+39,0,9,Martes,Primavera,289,36,13,33,"241,476",92,1,1,2,1,0,1,90,172,30,0,,,Septiembre,Bachillerato
+40,27,2,Viernes,Otoño,179,51,18,38,"251,818",96,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+41,26,7,Martes,Verano,330,16,4,28,"275,312",98,0,2,0,0,0,0,84,182,25,8,No Enfermedad,Falta injustificada,Julio,Grado 
+42,27,3,Miercoles,Otoño,179,51,18,38,"222,196",99,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+43,7,7,Lunes,Verano,268,11,8,33,"230,29",92,0,2,0,0,0,0,79,178,25,8,Enfermedad,Oftalmología (Ojo),Julio,Grado 
+44,13,3,Viernes,Otoño,260,50,11,36,"343,253",95,0,1,4,1,0,0,65,168,23,40,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+45,22,10,Lunes,Primavera,369,17,12,31,"265,017",88,0,1,3,1,0,0,70,169,25,8,No Enfermedad,Seguimiento del Paciente,Octubre,Bachillerato
+46,19,7,Lunes,Verano,289,36,13,33,"275,312",98,0,1,2,1,0,1,90,172,30,32,Enfermedad,Lesiones y Envenenamientos,Julio,Bachillerato
+47,23,10,Martes,Primavera,118,10,10,37,"253,465",93,0,1,0,0,0,0,83,172,28,3,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+48,23,10,Viernes,Primavera,291,31,12,40,"284,853",91,0,1,1,1,0,1,73,171,25,1,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+49,27,4,Viernes,Invierno,179,26,9,30,"246,288",91,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Abril,Posgrado
+50,13,4,Miercoles,Invierno,118,13,18,50,"239,409",98,0,1,1,1,0,0,98,178,31,120,Enfermedad,Sistema Osteomuscular,Abril,Bachillerato
+51,23,3,Viernes,Otoño,225,26,9,28,"343,253",95,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Consulta Médica,Marzo,Bachillerato
+52,23,6,Miercoles,Verano,225,26,9,28,"253,957",95,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Consulta Médica,Junio,Bachillerato
+53,13,4,Miercoles,Invierno,246,25,16,41,"326,452",96,0,1,0,1,0,0,67,170,23,24,Enfermedad,Sistema Osteomuscular,Abril,Bachillerato
+54,14,12,Jueves,Primavera,361,52,3,28,"280,549",98,0,1,1,1,0,4,80,172,27,4,Enfermedad,Sistema Genitourinario,Diciembre,Bachillerato
+55,28,4,Miercoles,Invierno,179,51,18,38,"239,409",98,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Consulta Dental,Abril,Bachillerato
+56,23,7,Viernes,Verano,179,51,18,38,"239,554",97,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Consulta Médica,Julio,Bachillerato
+57,6,7,Lunes,Verano,228,14,16,58,"264,604",93,0,1,2,0,0,1,65,172,22,8,Enfermedad,Sistema Nervioso,Julio,Bachillerato
+58,7,10,Miercoles,Primavera,179,26,9,30,"265,017",88,0,3,0,0,0,0,56,171,19,5,Enfermedad,Oftalmología (Ojo),Octubre,Posgrado
+59,26,10,Lunes,Primavera,289,36,13,33,"265,017",88,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Falta injustificada,Octubre,Bachillerato
+60,26,7,Lunes,Verano,260,50,11,36,"230,29",92,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Falta injustificada,Julio,Bachillerato
+61,23,9,Viernes,Verano,248,25,14,47,"261,756",87,0,1,2,0,0,1,86,165,32,1,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+62,1,2,Martes,Otoño,388,15,9,50,"302,585",99,0,1,0,0,0,0,76,178,24,8,Enfermedad,Infecciosas y Parasitarias,Febrero,Bachillerato
+63,27,2,Jueves,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+64,22,3,Miercoles,Invierno,369,17,12,31,"222,196",99,0,1,3,1,0,0,70,169,25,8,No Enfermedad,Seguimiento del Paciente,Marzo,Bachillerato
+65,1,3,Lunes,Otoño,155,12,14,34,"343,253",95,0,1,2,1,0,0,95,196,25,16,Enfermedad,Infecciosas y Parasitarias,Marzo,Bachillerato
+66,28,12,Martes,Primavera,118,13,18,50,"236,629",93,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+67,13,3,Jueves,Otoño,179,26,9,30,"343,253",95,0,3,0,0,0,0,56,171,19,8,Enfermedad,Sistema Osteomuscular,Marzo,Posgrado
+68,10,5,Jueves,Invierno,330,16,4,28,"237,656",99,0,2,0,0,0,0,84,182,25,8,Enfermedad,Sistema Respiratorio,Mayo,Grado 
+69,23,11,Viernes,Primavera,225,26,9,28,"268,519",93,0,1,1,0,0,2,69,169,24,4,No Enfermedad,Consulta Médica,Noviembre,Bachillerato
+70,25,2,Viernes,Otoño,235,16,8,32,"264,249",97,0,3,0,0,0,0,75,178,25,2,No Enfermedad,Examen de Laboratorio,Febrero,Posgrado
+71,23,9,Jueves,Verano,291,31,12,40,"241,476",92,0,1,1,1,0,1,73,171,25,4,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+72,19,1,Lunes,Otoño,118,10,10,37,"330,061",100,0,1,0,0,0,0,83,172,28,32,Enfermedad,Lesiones y Envenenamientos,Enero,Bachillerato
+73,13,11,Jueves,Primavera,179,51,18,38,"306,345",93,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Osteomuscular,Noviembre,Bachillerato
+74,0,,Martes,Verano,118,14,13,40,"271,219",95,0,1,1,1,0,8,98,170,34,0,,,,Bachillerato
+75,27,5,Viernes,Invierno,179,26,9,30,"237,656",99,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Fisioterapia,Mayo,Posgrado
+76,13,3,Lunes,Otoño,248,25,14,47,"222,196",99,0,1,2,0,0,1,86,165,32,2,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+77,11,2,Miercoles,Otoño,157,27,6,29,"251,818",96,0,1,0,1,1,0,75,185,22,16,Enfermedad,Sistema Digestivo,Febrero,Bachillerato
+78,28,11,Viernes,Primavera,179,51,18,38,"268,519",93,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+79,13,6,Lunes,Verano,179,26,9,30,"275,089",96,0,3,0,0,0,0,56,171,19,3,Enfermedad,Sistema Osteomuscular,Junio,Posgrado
+80,23,4,Jueves,Invierno,118,13,18,50,"326,452",96,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Médica,Abril,Bachillerato
+81,23,9,Martes,Primavera,369,17,12,31,"261,756",87,0,1,3,1,0,0,70,169,25,8,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+82,13,4,Jueves,Invierno,189,29,13,33,"246,288",91,0,1,2,0,0,2,69,167,25,8,Enfermedad,Sistema Osteomuscular,Abril,Bachillerato
+83,0,3,Jueves,Invierno,118,13,18,50,"244,387",98,1,1,1,1,0,0,98,178,31,0,,,Marzo,Bachillerato
+84,22,7,Lunes,Verano,289,36,13,33,"230,29",92,0,1,2,1,0,1,90,172,30,8,No Enfermedad,Seguimiento del Paciente,Julio,Bachillerato
+85,19,6,Jueves,Invierno,118,13,18,50,"275,089",96,0,1,1,1,0,0,98,178,31,3,Enfermedad,Lesiones y Envenenamientos,Junio,Bachillerato
+86,3,1,Miercoles,Otoño,291,31,12,40,"330,061",100,0,1,1,1,0,1,73,171,25,8,Enfermedad,Sangre e Inmunidad,Enero,Bachillerato
+87,13,6,Miercoles,Invierno,118,13,18,50,"377,55",94,0,1,1,1,0,0,98,178,31,80,Enfermedad,Sistema Osteomuscular,Junio,Bachillerato
+88,1,10,Miercoles,Primavera,228,14,16,58,"284,853",91,0,1,2,0,0,1,65,172,22,1,Enfermedad,Infecciosas y Parasitarias,Octubre,Bachillerato
+89,13,12,Martes,Otoño,235,20,13,43,"236,629",93,0,1,1,1,0,0,106,167,38,8,Enfermedad,Sistema Osteomuscular,Diciembre,Bachillerato
+90,28,11,Viernes,Primavera,260,50,11,36,"284,031",97,0,1,4,1,0,0,65,168,23,3,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+91,28,12,Jueves,Primavera,225,26,9,28,"261,306",97,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Consulta Dental,Diciembre,Bachillerato
+92,23,10,Martes,Primavera,118,10,10,37,"284,853",91,0,1,0,0,0,0,83,172,28,2,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+93,28,1,Miercoles,Otoño,179,51,18,38,"330,061",100,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Enero,Bachillerato
+94,28,9,Martes,Verano,246,25,16,41,"261,756",87,0,1,0,1,0,0,67,170,23,1,No Enfermedad,Consulta Dental,Septiembre,Bachillerato
+95,25,2,Jueves,Otoño,225,26,9,28,"264,249",97,0,1,1,0,0,2,69,169,24,3,No Enfermedad,Examen de Laboratorio,Febrero,Bachillerato
+96,28,3,Lunes,Invierno,225,26,9,28,"343,253",95,0,1,1,0,0,2,69,169,24,1,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+97,23,9,Lunes,Verano,179,51,18,38,"261,756",87,0,1,0,1,0,0,89,170,31,4,No Enfermedad,Consulta Médica,Septiembre,Bachillerato
+98,11,11,Lunes,Primavera,155,12,14,34,"284,031",97,0,1,2,1,0,0,95,196,25,120,Enfermedad,Sistema Digestivo,Noviembre,Bachillerato
+99,10,6,Viernes,Invierno,246,25,16,41,"377,55",94,0,1,0,1,0,0,67,170,23,8,Enfermedad,Sistema Respiratorio,Junio,Bachillerato
+100,12,12,Lunes,Primavera,225,26,9,28,"236,629",93,0,1,1,0,0,2,69,169,24,3,Enfermedad,Piel y Tejido Subcutáneo,Diciembre,Bachillerato
+101,27,6,Miercoles,Invierno,179,26,9,30,"275,089",96,0,3,0,0,0,0,56,171,19,3,No Enfermedad,Fisioterapia,Junio,Posgrado
+102,19,5,Miercoles,Invierno,225,15,15,41,"237,656",99,0,4,2,1,0,2,94,182,28,3,Enfermedad,Lesiones y Envenenamientos,Mayo,Máster
+103,1,7,Martes,Verano,330,16,4,28,"275,312",98,0,2,0,0,0,0,84,182,25,8,Enfermedad,Infecciosas y Parasitarias,Julio,Grado 
+104,10,10,Lunes,Primavera,248,25,14,47,"284,853",91,0,1,2,0,0,1,86,165,32,8,Enfermedad,Sistema Respiratorio,Octubre,Bachillerato
+105,25,6,Lunes,Verano,118,10,10,37,"275,089",96,0,1,0,0,0,0,83,172,28,3,No Enfermedad,Examen de Laboratorio,Junio,Bachillerato
+106,28,8,Lunes,Verano,260,50,11,36,"249,797",93,0,1,4,1,0,0,65,168,23,3,No Enfermedad,Consulta Dental,Agosto,Bachillerato
+107,27,2,Miercoles,Otoño,179,51,18,38,"251,818",96,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+108,13,3,Miercoles,Invierno,118,13,18,50,"244,387",98,0,1,1,1,0,0,98,178,31,8,Enfermedad,Sistema Osteomuscular,Marzo,Bachillerato
+109,23,7,Viernes,Verano,118,13,18,50,"230,29",92,0,1,1,1,0,0,98,178,31,1,No Enfermedad,Consulta Médica,Julio,Bachillerato
+110,27,2,Miercoles,Otoño,179,51,18,38,"264,249",97,0,1,0,1,0,0,89,170,31,2,No Enfermedad,Fisioterapia,Febrero,Bachillerato
+111,23,10,Lunes,Primavera,235,20,13,43,"265,017",88,0,1,1,1,0,0,106,167,38,2,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+112,28,4,Viernes,Invierno,260,50,11,36,"326,452",96,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Abril,Bachillerato
+113,21,3,Jueves,Otoño,235,11,14,37,"244,387",98,0,3,1,0,0,1,88,172,29,8,Enfermedad,Factores de Salud,Marzo,Posgrado
+114,11,3,Miercoles,Invierno,225,26,9,28,"343,253",95,0,1,1,0,0,2,69,169,24,16,Enfermedad,Sistema Digestivo,Marzo,Bachillerato
+115,25,2,Martes,Otoño,225,26,9,28,"264,249",97,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Examen de Laboratorio,Febrero,Bachillerato
+116,28,3,Lunes,Otoño,179,51,18,38,"244,387",98,0,1,0,1,0,0,89,170,31,16,No Enfermedad,Consulta Dental,Marzo,Bachillerato
+117,28,2,Viernes,Otoño,225,15,15,41,"264,249",97,0,4,2,1,0,2,94,182,28,2,No Enfermedad,Consulta Dental,Febrero,Máster
+118,23,7,Jueves,Verano,179,26,9,30,"230,29",92,0,3,0,0,0,0,56,171,19,2,No Enfermedad,Consulta Médica,Julio,Posgrado
+119,23,8,Miercoles,Verano,248,25,14,47,"265,615",94,0,1,2,0,0,1,86,165,32,1,No Enfermedad,Consulta Médica,Agosto,Bachillerato
+120,18,12,Martes,Otoño,155,12,14,34,"280,549",98,0,1,2,1,0,0,95,196,25,80,Enfermedad,Síntomas y Hallazgos Clínicos,Diciembre,Bachillerato
+121,23,10,Viernes,Primavera,179,51,18,38,"253,465",93,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Médica,Octubre,Bachillerato
+122,28,11,Martes,Primavera,179,51,18,38,"284,031",97,0,1,0,1,0,0,89,170,31,1,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+123,27,3,Jueves,Otoño,225,26,9,28,"222,196",99,0,1,1,0,0,2,69,169,24,2,No Enfermedad,Fisioterapia,Marzo,Bachillerato
+124,18,11,Miercoles,Primavera,235,11,14,37,"284,031",97,0,3,1,0,0,1,88,172,29,1,Enfermedad,Síntomas y Hallazgos Clínicos,Noviembre,Posgrado
+125,23,1,Miercoles,Otoño,225,26,9,28,"330,061",100,0,1,1,0,0,2,69,169,24,5,No Enfermedad,Consulta Médica,Enero,Bachillerato
+126,28,9,Martes,Verano,246,25,16,41,"261,756",87,0,1,0,1,0,0,67,170,23,1,No Enfermedad,Consulta Dental,Septiembre,Bachillerato
+127,18,2,Lunes,Otoño,330,16,4,28,"302,585",99,0,2,0,0,0,0,84,182,25,8,Enfermedad,Síntomas y Hallazgos Clínicos,Febrero,Grado 
+128,13,8,Lunes,Verano,361,52,3,28,"205,917",92,0,1,1,1,0,4,80,172,27,40,Enfermedad,Sistema Osteomuscular,Agosto,Bachillerato
+129,28,11,Viernes,Primavera,260,50,11,36,"306,345",93,0,1,4,1,0,0,65,168,23,4,No Enfermedad,Consulta Dental,Noviembre,Bachillerato
+130,0,10,Martes,Primavera,157,27,6,29,"265,017",88,1,1,0,1,1,0,75,185,22,0,,,Octubre,Bachillerato
+131,6,11,Martes,Primavera,179,51,18,38,"284,031",97,0,1,0,1,0,0,89,170,31,8,Enfermedad,Sistema Nervioso,Noviembre,Bachillerato
+132,28,6,Lunes,Invierno,179,51,18,38,"253,957",95,0,1,0,1,0,0,89,170,31,3,No Enfermedad,Consulta Dental,Junio,Bachillerato
+133,23,5,Jueves,Invierno,235,16,8,32,"237,656",99,0,3,0,0,0,0,75,178,25,2,No Enfermedad,Consulta Médica,Mayo,Posgrado
+134,19,4,Miercoles,Invierno,248,25,14,47,"246,288",91,0,1,2,0,0,1,86,165,32,8,Enfermedad,Lesiones y Envenenamientos,Abril,Bachillerato
+135,0,7,Jueves,Verano,260,50,11,36,"275,312",98,1,1,4,1,0,0,65,168,23,0,,,Julio,Bachillerato
+136,22,5,Miercoles,Invierno,291,31,12,40,"237,656",99,0,1,1,1,0,1,73,171,25,8,No Enfermedad,Seguimiento del Paciente,Mayo,Bachillerato

@@ -1,11 +1,11 @@
 -- Nº de registros totales: 
 
 SELECT COUNT(*) AS registros_totales
-FROM RRHH_27042026;
+FROM RRHH_04052026;
 
 -- ID únicos: 
 SELECT COUNT(DISTINCT ID) AS id_unicos
-FROM RRHH_27042026;
+FROM RRHH_04052026;
 
 -- ID extras:
 
@@ -13,7 +13,7 @@ SELECT
     COUNT(*) AS registros_totales, 
     COUNT(DISTINCT ID) AS ids_unicos,
     (COUNT(*) - COUNT(DISTINCT ID)) AS id_extras
-FROM RRHH_27042026;
+FROM RRHH_04052026;
 
 -- ID duplicados exactos: 
 

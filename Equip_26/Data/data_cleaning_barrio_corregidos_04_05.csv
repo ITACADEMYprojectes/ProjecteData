@@ -1,0 +1,120 @@
+city,neighbourhood_name_clean,n_rows,neighbourhood_name_correct
+barcelona,can bar�,7,can baró
+barcelona,diagonal mar i el front mar�tim del poblenou,26,diagonal mar i el front marítim del poblenou
+barcelona,el baix guinard�,13,el baix guinardó
+barcelona,el barri g�tic,171,el barri gòtic
+barcelona,el bes�s i el maresme,31,el besòs i el maresme
+barcelona,el camp d'en grassot i gr�cia nova,43,el camp d'en grassot i gràcia nova
+barcelona,el congr�s i els indians,11,el congrés i els indians
+barcelona,el guinard�,18,el guinardó
+barcelona,el putxet i el farr�,35,el putxet i el farró
+barcelona,el tur� de la peira,7,el turó de la peira
+barcelona,la sagrada fam�lia,133,la sagrada família
+barcelona,la vila de gr�cia,143,la vila de gràcia
+barcelona,la vila ol�mpica del poblenou,22,la vila olímpica del poblenou
+barcelona,proven�als del poblenou,14,provençals del poblenou
+barcelona,sant gen�s dels agudells,4,sant genís dels agudells
+barcelona,sant mart� de proven�als,15,sant martí de provençals
+barcelona,sarri�,6,sarrià
+barcelona,torre bar�,2,torre baró
+girona,arb�cies,2,arbúcies
+girona,bellcaire d'empord�,2,bellcaire d'empordà
+girona,besal�,2,besalú
+girona,bescan�,2,bescanó
+girona,b�scara,1,bàscara
+girona,cadaqu�s,34,cadaqués
+girona,campdev�nol,1,campdevànol
+girona,castell� d'emp�ries,87,castelló d'empúries
+girona,celr�,1,celrà
+girona,cornell� del terri,4,cornellà del terri
+girona,"cru�lles, monells i sant sadurn� de l'heura",3,"cruïlles, monells i sant sadurní de l'heura"
+girona,foix�,2,foixà
+girona,is�vol,1,isòvol
+girona,la tallada d'empord�,2,la tallada d'empordà
+girona,llad�,1,lladó
+girona,llan��,34,llançà
+girona,ll�via,1,llívia
+girona,mai� de montcal,1,maià de montcal
+girona,ma�anet de la selva,4,maçanet de la selva
+girona,palam�s,32,palamós
+girona,palau de santa eul�lia,1,palau de santa eulàlia
+girona,parlav�,1,parlavà
+girona,pont�s,2,pontós
+girona,puigcerd�,12,puigcerdà
+girona,rab�s,1,rabós
+girona,regenc�s,2,regencós
+girona,rupi�,1,rupià
+girona,sant feliu de gu�xols,43,sant feliu de guíxols
+girona,sant juli� de ramis,1,sant julià de ramis
+girona,sant lloren� de la muga,1,sant llorenç de la muga
+girona,sant mart� de ll�mena,2,sant martí de llémena
+girona,sant mart� vell,1,sant martí vell
+girona,sant miquel de fluvi�,1,sant miquel de fluvià
+girona,sant pau de seg�ries,1,sant pau de segúries
+girona,seriny�,2,serinyà
+girona,torroella de fluvi�,6,torroella de fluvià
+girona,torroella de montgr�,68,torroella de montgrí
+girona,tortell�,2,tortellà
+girona,ull�,3,ullà
+girona,ur�s,2,urús
+girona,vallfogona de ripoll�s,1,vallfogona de ripollès
+girona,ventall�,2,ventalló
+girona,vidr�,2,vidrà
+girona,vilaju�ga,1,vilajuïga
+girona,vila�r,3,vilaür
+madrid,arg�elles,41,argüelles
+madrid,casco hist�rico de barajas,3,casco histórico de barajas
+madrid,casco hist�rico de vallecas,7,casco histórico de vallecas
+madrid,casco hist�rico de vic�lvaro,3,casco histórico de vicálvaro
+madrid,ciudad jard�n,9,ciudad jardín
+madrid,concepci�n,10,concepción
+madrid,c�rmenes,8,cármenes
+madrid,el plant�o,1,el plantío
+madrid,entrev�as,7,entrevías
+madrid,fontarr�n,6,fontarrón
+madrid,hell�n,5,hellín
+madrid,hispanoam�rica,13,hispanoamérica
+madrid,jer�nimos,8,jerónimos
+madrid,moscard�,6,moscardó
+madrid,ni�o jes�s,4,niño jesús
+madrid,nueva espa�a,8,nueva españa
+madrid,opa�el,6,opañel
+madrid,pac�fico,28,pacífico
+madrid,pe�agrande,11,peñagrande
+madrid,san andr�s,7,san andrés
+madrid,san ferm�n,2,san fermín
+madrid,tim�n,2,timón
+madrid,zof�o,7,zofío
+mallorca,alar�,13,alaró
+mallorca,alc�dia,173,alcúdia
+mallorca,art�,33,artà
+mallorca,b�ger,16,búger
+mallorca,calvi�,54,calvià
+mallorca,dey�,5,deià
+mallorca,llub�,15,llubí
+mallorca,marratx�,8,marratxí
+mallorca,montu�ri,10,montuïri
+mallorca,pollen�a,192,pollença
+mallorca,sant lloren� des cardassar,25,sant llorenç des cardassar
+mallorca,santa eug�nia,6,santa eugènia
+mallorca,santa mar�a del cam�,2,santa maría del camí
+mallorca,santany�,59,santanyí
+mallorca,s�ller,46,sóller
+menorca,mah�n,19,mahón
+menorca,sant llu�s,36,sant lluís
+sevilla,barrio le�n,2,barrio león
+sevilla,"carretera de carmona, mar�a auxiliadora, fontanal",4,"carretera de carmona, maría auxiliadora, fontanal"
+sevilla,ciudad jard�n,2,ciudad jardín
+sevilla,"doctor barraquer, g. renfe, policl�nico",3,"doctor barraquer, g. renfe, policlínico"
+sevilla,el roc�o,2,el rocío
+sevilla,"el tard�n, el carmen",2,"el tardón, el carmen"
+sevilla,"encarnaci�n, regina",36,"encarnación, regina"
+sevilla,heli�polis,1,heliópolis
+sevilla,"la palmilla, doctor mara��n",1,"la palmilla, doctor marañón"
+sevilla,"le�n xiii, los naranjos",5,"león xiii, los naranjos"
+sevilla,nervi�n,4,nervión
+sevilla,"prado, parque mar�a luisa",1,"prado, parque maría luisa"
+sevilla,san bartolom�,34,san bartolomé
+sevilla,san jos� obrero,1,san josé obrero
+sevilla,san juli�n,15,san julián
+sevilla,"tiro de l�nea, santa genoveva",3,"tiro de línea, santa genoveva"

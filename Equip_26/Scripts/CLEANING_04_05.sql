@@ -267,8 +267,7 @@ GROUP BY city, neighbourhood_name_clean
 ORDER BY city, neighbourhood_name_clean;
 
 -- Check: hay que decidir si quiero hacer una corrección manual de los caracteres corruptos (�)
--- Por el momento: Decido de dajarlos asì porqué no sabria como cambiarlos y porqué no afectan la analisi,
--- ya que no sono variantes incorrectas del mismo neighbourhood_name de la misma ciudad.
+-- Corrigo estos valores al final del script sql
 
 -- Busco posibles variantes del mismo neighbourhood_name dentro de la misma ciudad causadas por diferencias de acentos.
 SELECT
@@ -608,4 +607,255 @@ SELECT
     ) AS pct_null_reviews_per_month
 FROM copy_ta04052026;
 
+SELECT *
+FROM copy_ta04052026;
 
+
+-- correcion caracteres �
+
+/*
+Creo una tabla auxiliar con las correcciones manuales de los barrios.
+Debo usar city + neighbourhood_name_clean para evitar corregir barrios de ciudades diferentes.
+*/
+
+CREATE TABLE neighbourhood_corrections (
+    city VARCHAR(255),
+    neighbourhood_name_clean VARCHAR(255),
+    neighbourhood_name_corrected VARCHAR(255)
+);
+
+/*
+Creo una tabla auxiliar con las correcciones manuales de los barrios.
+Uso city + neighbourhood_name_clean para evitar corregir barrios de ciudades diferentes.
+*/
+
+CREATE TABLE neighbourhood_corrections (
+    city VARCHAR(255),
+    neighbourhood_name_clean VARCHAR(255),
+    neighbourhood_name_corrected VARCHAR(255)
+);
+
+/*
+Inserto el mapping manual de barrios con errores de encoding.
+Debo comprobar después que todas las ciudades y nombres corregidos estén bien escritos.
+*/
+
+INSERT INTO neighbourhood_corrections
+(city, neighbourhood_name_clean, neighbourhood_name_corrected)
+VALUES
+('barcelona', 'can bar�', 'can baró'),
+('barcelona', 'diagonal mar i el front mar�tim del poblenou', 'diagonal mar i el front marítim del poblenou'),
+('barcelona', 'el baix guinard�', 'el baix guinardó'),
+('barcelona', 'el barri g�tic', 'el barri gòtic'),
+('barcelona', 'el bes�s i el maresme', 'el besòs i el maresme'),
+('barcelona', 'el camp d''en grassot i gr�cia nova', 'el camp d''en grassot i gràcia nova'),
+('barcelona', 'el congr�s i els indians', 'el congrés i els indians'),
+('barcelona', 'el guinard�', 'el guinardó'),
+('barcelona', 'el putxet i el farr�', 'el putxet i el farró'),
+('barcelona', 'el tur� de la peira', 'el turó de la peira'),
+('barcelona', 'la sagrada fam�lia', 'la sagrada família'),
+('barcelona', 'la vila de gr�cia', 'la vila de gràcia'),
+('barcelona', 'la vila ol�mpica del poblenou', 'la vila olímpica del poblenou'),
+('barcelona', 'proven�als del poblenou', 'provençals del poblenou'),
+('barcelona', 'sant gen�s dels agudells', 'sant genís dels agudells'),
+('barcelona', 'sant mart� de proven�als', 'sant martí de provençals'),
+('barcelona', 'sarri�', 'sarrià'),
+('barcelona', 'torre bar�', 'torre baró'),
+('girona', 'arb�cies', 'arbúcies'),
+('girona', 'bellcaire d''empord�', 'bellcaire d''empordà'),
+('girona', 'besal�', 'besalú'),
+('girona', 'bescan�', 'bescanó'),
+('girona', 'b�scara', 'bàscara'),
+('girona', 'cadaqu�s', 'cadaqués'),
+('girona', 'campdev�nol', 'campdevànol'),
+('girona', 'castell� d''emp�ries', 'castelló d''empúries'),
+('girona', 'celr�', 'celrà'),
+('girona', 'cornell� del terri', 'cornellà del terri'),
+('girona', 'cru�lles, monells i sant sadurn� de l''heura', 'cruïlles, monells i sant sadurní de l''heura'),
+('girona', 'foix�', 'foixà'),
+('girona', 'is�vol', 'isòvol'),
+('girona', 'la tallada d''empord�', 'la tallada d''empordà'),
+('girona', 'llad�', 'lladó'),
+('girona', 'llan��', 'llançà'),
+('girona', 'll�via', 'llívia'),
+('girona', 'mai� de montcal', 'maià de montcal'),
+('girona', 'ma�anet de la selva', 'maçanet de la selva'),
+('girona', 'palam�s', 'palamós'),
+('girona', 'palau de santa eul�lia', 'palau de santa eulàlia'),
+('girona', 'parlav�', 'parlavà'),
+('girona', 'pont�s', 'pontós'),
+('girona', 'puigcerd�', 'puigcerdà'),
+('girona', 'rab�s', 'rabós'),
+('girona', 'regenc�s', 'regencós'),
+('girona', 'rupi�', 'rupià'),
+('girona', 'sant feliu de gu�xols', 'sant feliu de guíxols'),
+('girona', 'sant juli� de ramis', 'sant julià de ramis'),
+('girona', 'sant lloren� de la muga', 'sant llorenç de la muga'),
+('girona', 'sant mart� de ll�mena', 'sant martí de llémena'),
+('girona', 'sant mart� vell', 'sant martí vell'),
+('girona', 'sant miquel de fluvi�', 'sant miquel de fluvià'),
+('girona', 'sant pau de seg�ries', 'sant pau de segúries'),
+('girona', 'seriny�', 'serinyà'),
+('girona', 'torroella de fluvi�', 'torroella de fluvià'),
+('girona', 'torroella de montgr�', 'torroella de montgrí'),
+('girona', 'tortell�', 'tortellà'),
+('girona', 'ull�', 'ullà'),
+('girona', 'ur�s', 'urús'),
+('girona', 'vallfogona de ripoll�s', 'vallfogona de ripollès'),
+('girona', 'ventall�', 'ventalló'),
+('girona', 'vidr�', 'vidrà'),
+('girona', 'vilaju�ga', 'vilajuïga'),
+('girona', 'vila�r', 'vilaür'),
+('madrid', 'arg�elles', 'argüelles'),
+('madrid', 'casco hist�rico de barajas', 'casco histórico de barajas'),
+('madrid', 'casco hist�rico de vallecas', 'casco histórico de vallecas'),
+('madrid', 'casco hist�rico de vic�lvaro', 'casco histórico de vicálvaro'),
+('madrid', 'ciudad jard�n', 'ciudad jardín'),
+('madrid', 'concepci�n', 'concepción'),
+('madrid', 'c�rmenes', 'cármenes'),
+('madrid', 'el plant�o', 'el plantío'),
+('madrid', 'entrev�as', 'entrevías'),
+('madrid', 'fontarr�n', 'fontarrón'),
+('madrid', 'hell�n', 'hellín'),
+('madrid', 'hispanoam�rica', 'hispanoamérica'),
+('madrid', 'jer�nimos', 'jerónimos'),
+('madrid', 'moscard�', 'moscardó'),
+('madrid', 'ni�o jes�s', 'niño jesús'),
+('madrid', 'nueva espa�a', 'nueva españa'),
+('madrid', 'opa�el', 'opañel'),
+('madrid', 'pac�fico', 'pacífico'),
+('madrid', 'pe�agrande', 'peñagrande'),
+('madrid', 'san andr�s', 'san andrés'),
+('madrid', 'san ferm�n', 'san fermín'),
+('madrid', 'tim�n', 'timón'),
+('madrid', 'zof�o', 'zofío'),
+('mallorca', 'alar�', 'alaró'),
+('mallorca', 'alc�dia', 'alcúdia'),
+('mallorca', 'art�', 'artà'),
+('mallorca', 'b�ger', 'búger'),
+('mallorca', 'calvi�', 'calvià'),
+('mallorca', 'dey�', 'deià'),
+('mallorca', 'llub�', 'llubí'),
+('mallorca', 'marratx�', 'marratxí'),
+('mallorca', 'montu�ri', 'montuïri'),
+('mallorca', 'pollen�a', 'pollença'),
+('mallorca', 'sant lloren� des cardassar', 'sant llorenç des cardassar'),
+('mallorca', 'santa eug�nia', 'santa eugènia'),
+('mallorca', 'santa mar�a del cam�', 'santa maría del camí'),
+('mallorca', 'santany�', 'santanyí'),
+('mallorca', 's�ller', 'sóller'),
+('menorca', 'mah�n', 'mahón'),
+('menorca', 'sant llu�s', 'sant lluís'),
+('sevilla', 'barrio le�n', 'barrio león'),
+('sevilla', 'carretera de carmona, mar�a auxiliadora, fontanal', 'carretera de carmona, maría auxiliadora, fontanal'),
+('sevilla', 'ciudad jard�n', 'ciudad jardín'),
+('sevilla', 'doctor barraquer, g. renfe, policl�nico', 'doctor barraquer, g. renfe, policlínico'),
+('sevilla', 'el roc�o', 'el rocío'),
+('sevilla', 'el tard�n, el carmen', 'el tardón, el carmen'),
+('sevilla', 'encarnaci�n, regina', 'encarnación, regina'),
+('sevilla', 'heli�polis', 'heliópolis'),
+('sevilla', 'la palmilla, doctor mara��n', 'la palmilla, doctor marañón'),
+('sevilla', 'le�n xiii, los naranjos', 'león xiii, los naranjos'),
+('sevilla', 'nervi�n', 'nervión'),
+('sevilla', 'prado, parque mar�a luisa', 'prado, parque maría luisa'),
+('sevilla', 'san bartolom�', 'san bartolomé'),
+('sevilla', 'san jos� obrero', 'san josé obrero'),
+('sevilla', 'san juli�n', 'san julián'),
+('sevilla', 'tiro de l�nea, santa genoveva', 'tiro de línea, santa genoveva');
+
+/*
+Compruebo que el mapping se ha insertado correctamente.
+Debo verificar que el número de filas coincide con las correcciones esperadas.
+*/
+
+SELECT *
+FROM neighbourhood_corrections
+ORDER BY city, neighbourhood_name_clean;
+
+/*
+Creo una nueva columna final para guardar el nombre corregido del barrio.
+Debo mantener neighbourhood_name_clean como referencia original del cleaning.
+*/
+
+ALTER TABLE copy_ta04052026
+ADD neighbourhood_name_final VARCHAR(255);
+
+/*
+Copio inicialmente neighbourhood_name_clean en neighbourhood_name_final.
+Así los barrios sin errores mantienen el mismo valor.
+*/
+
+SET SQL_SAFE_UPDATES = 0;
+
+UPDATE copy_ta04052026
+SET neighbourhood_name_final = neighbourhood_name_clean;
+
+SET SQL_SAFE_UPDATES = 1;
+
+/*
+Actualizo neighbourhood_name_final usando la tabla de correcciones.
+Debo corregir únicamente los barrios que coinciden por ciudad y nombre corrupto.
+*/
+SET SQL_SAFE_UPDATES = 0;
+
+UPDATE copy_ta04052026 AS main
+JOIN neighbourhood_corrections AS corr
+  ON main.city = corr.city
+ AND main.neighbourhood_name_clean = corr.neighbourhood_name_clean
+SET main.neighbourhood_name_final = corr.neighbourhood_name_corrected;
+
+/*
+Compruebo si todavía quedan caracteres corruptos en la columna final.
+Debo verificar que neighbourhood_name_final ya no contiene el carácter �.
+*/
+
+SELECT
+    city,
+    neighbourhood_name_final,
+    COUNT(*) AS n_rows
+FROM copy_ta04052026
+WHERE neighbourhood_name_final LIKE '%�%'
+GROUP BY city, neighbourhood_name_final
+ORDER BY city, neighbourhood_name_final;
+
+-- no hay caracteres corruptos
+
+SET SQL_SAFE_UPDATES = 1;
+
+SELECT *
+FROM copy_ta04052026
+LIMIT 10;
+-- todo ok. puedo eliminar la "vieja" columna y sostituirlacon la nueva.
+
+/*
+Elimino la antigua columna neighbourhood_name_clean.
+Debo mantener únicamente la versión final corregida.
+*/
+
+ALTER TABLE copy_ta04052026
+DROP COLUMN neighbourhood_name_clean;
+
+/*
+Renombro neighbourhood_name_final como neighbourhood_name_clean.
+Debo dejar una única columna limpia y definitiva para el análisis.
+*/
+
+ALTER TABLE copy_ta04052026
+CHANGE neighbourhood_name_final neighbourhood_name_clean VARCHAR(255);
+
+/*
+Compruebo el resultado final de la limpieza.
+Debo verificar que ya no existan caracteres corruptos en neighbourhood_name_clean.
+*/
+
+SELECT
+    city,
+    neighbourhood_name_clean,
+    COUNT(*) AS n_rows
+FROM copy_ta04052026
+WHERE neighbourhood_name_clean LIKE '%�%'
+GROUP BY city, neighbourhood_name_clean
+ORDER BY city, neighbourhood_name_clean;
+
+SELECT *
+FROM copy_ta04052026;

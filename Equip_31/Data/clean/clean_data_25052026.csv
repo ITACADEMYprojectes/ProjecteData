@@ -1,0 +1,741 @@
+ID,Reason_absence,Reason_absence_name,Month_absence,Month_absence_name,Day_week,Day_week_name,Seasons,Seasons_name,Transportation_expense,Distance_Residence_Work,Service_time,Age,Work_load_Average_day,Hit_target,Disciplinary_failure,Education,Education_name,Son,Social_drinker,Social_smoker,Pet,Weight,Height,Body_mass_index,BMI_calculated,Absenteeism_hours
+14,11.0,Sistema digestivo,11.0,Noviembre,2,Lunes,2,Otoño,155,12,14,34,284.031,97,0,1,Secundaria,2,1,0,0,95,196,25,24.7,120
+36,13.0,Sistema musculoesquelético,4.0,Abril,4,Miércoles,4,Primavera,118,13,18,50,239.409,98,0,1,Secundaria,1,1,0,0,98,178,31,30.9,120
+9,6.0,Sistema nervioso,7.0,Julio,3,Martes,1,Verano,228,14,16,58,264.604,93,0,1,Secundaria,2,0,0,1,65,172,22,22.0,120
+28,9.0,Sistema circulatorio,7.0,Julio,3,Martes,1,Verano,225,26,9,28,230.29,92,0,1,Secundaria,1,0,0,2,69,169,24,24.2,112
+9,12.0,Piel y tejido subcutáneo,3.0,Marzo,3,Martes,3,Invierno,228,14,16,58,222.196,99,0,1,Secundaria,2,0,0,1,65,172,22,22.0,112
+11,19.0,"Lesiones, intoxicaciones y consecuencias externas",3.0,Marzo,2,Lunes,4,Primavera,289,36,13,33,222.196,99,0,1,Secundaria,2,1,0,1,90,172,30,30.4,104
+36,13.0,Sistema musculoesquelético,6.0,Junio,4,Miércoles,4,Primavera,118,13,18,50,377.55,94,0,1,Secundaria,1,1,0,0,98,178,31,30.9,80
+14,18.0,Síntomas y hallazgos no clasificados,12.0,Diciembre,3,Martes,3,Invierno,155,12,14,34,280.549,98,0,1,Secundaria,2,1,0,0,95,196,25,24.7,80
+13,13.0,Sistema musculoesquelético,7.0,Julio,2,Lunes,1,Verano,369,17,12,31,264.604,93,0,1,Secundaria,3,1,0,0,70,169,25,24.5,80
+34,19.0,"Lesiones, intoxicaciones y consecuencias externas",12.0,Diciembre,3,Martes,2,Otoño,118,10,10,37,261.306,97,0,1,Secundaria,0,0,0,0,83,172,28,28.1,64
+22,1.0,Enfermedades infecciosas y parasitarias,10.0,Octubre,4,Miércoles,2,Otoño,179,26,9,30,265.017,88,0,3,Posgrado,0,0,0,0,56,171,19,19.2,64
+26,19.0,"Lesiones, intoxicaciones y consecuencias externas",5.0,Mayo,6,Viernes,4,Primavera,300,26,13,43,237.656,99,0,1,Secundaria,2,1,1,1,77,175,25,25.1,64
+34,19.0,"Lesiones, intoxicaciones y consecuencias externas",12.0,Diciembre,3,Martes,2,Otoño,118,10,10,37,261.306,97,0,1,Secundaria,0,0,0,0,83,172,28,28.1,56
+20,19.0,"Lesiones, intoxicaciones y consecuencias externas",4.0,Abril,6,Viernes,4,Primavera,260,50,11,36,326.452,96,0,1,Secundaria,4,1,0,0,65,168,23,23.0,56
+14,10.0,Sistema respiratorio,5.0,Mayo,2,Lunes,4,Primavera,155,12,14,34,237.656,99,0,1,Secundaria,2,1,0,0,95,196,25,24.7,48
+14,19.0,"Lesiones, intoxicaciones y consecuencias externas",7.0,Julio,2,Lunes,1,Verano,155,12,14,34,239.554,97,0,1,Secundaria,2,1,0,0,95,196,25,24.7,40
+10,13.0,Sistema musculoesquelético,8.0,Agosto,2,Lunes,1,Verano,361,52,3,28,205.917,92,0,1,Secundaria,1,1,0,4,80,172,27,27.0,40
+15,14.0,Sistema genitourinario,11.0,Noviembre,2,Lunes,2,Otoño,291,31,12,40,306.345,93,0,1,Secundaria,1,1,0,1,73,171,25,25.0,40
+20,13.0,Sistema musculoesquelético,3.0,Marzo,6,Viernes,3,Invierno,260,50,11,36,343.253,95,0,1,Secundaria,4,1,0,0,65,168,23,23.0,40
+17,11.0,Sistema digestivo,3.0,Marzo,2,Lunes,3,Invierno,179,22,17,40,343.253,95,0,2,Grado,2,0,1,0,63,170,22,21.8,40
+15,7.0,Ojo y anexos,9.0,Septiembre,2,Lunes,2,Otoño,291,31,12,40,294.217,81,0,1,Secundaria,1,1,0,1,73,171,25,25.0,40
+15,13.0,Sistema musculoesquelético,6.0,Junio,2,Lunes,4,Primavera,291,31,12,40,253.957,95,0,1,Secundaria,1,1,0,1,73,171,25,25.0,40
+15,14.0,Sistema genitourinario,9.0,Septiembre,2,Lunes,2,Otoño,291,31,12,40,241.476,92,0,1,Secundaria,1,1,0,1,73,171,25,25.0,32
+14,10.0,Sistema respiratorio,11.0,Noviembre,2,Lunes,2,Otoño,155,12,14,34,306.345,93,0,1,Secundaria,2,1,0,0,95,196,25,24.7,32
+11,19.0,"Lesiones, intoxicaciones y consecuencias externas",7.0,Julio,2,Lunes,1,Verano,289,36,13,33,275.312,98,0,1,Secundaria,2,1,0,1,90,172,30,30.4,32
+24,9.0,Sistema circulatorio,9.0,Septiembre,4,Miércoles,1,Verano,246,25,16,41,294.217,81,0,1,Secundaria,0,1,0,0,67,170,23,23.2,32
+34,19.0,"Lesiones, intoxicaciones y consecuencias externas",1.0,Enero,2,Lunes,3,Invierno,118,10,10,37,330.061,100,0,1,Secundaria,0,0,0,0,83,172,28,28.1,32
+3,13.0,Sistema musculoesquelético,12.0,Diciembre,3,Martes,2,Otoño,179,51,18,38,280.549,98,0,1,Secundaria,0,1,0,0,89,170,31,30.8,32
+11,7.0,Ojo y anexos,11.0,Noviembre,4,Miércoles,2,Otoño,289,36,13,33,306.345,93,0,1,Secundaria,2,1,0,1,90,172,30,30.4,24
+3,13.0,Sistema musculoesquelético,3.0,Marzo,3,Martes,3,Invierno,179,51,18,38,343.253,95,0,1,Secundaria,0,1,0,0,89,170,31,30.8,24
+24,13.0,Sistema musculoesquelético,4.0,Abril,4,Miércoles,4,Primavera,246,25,16,41,326.452,96,0,1,Secundaria,0,1,0,0,67,170,23,23.2,24
+3,13.0,Sistema musculoesquelético,4.0,Abril,4,Miércoles,4,Primavera,179,51,18,38,326.452,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,24
+14,12.0,Piel y tejido subcutáneo,4.0,Abril,4,Miércoles,4,Primavera,155,12,14,34,326.452,96,0,1,Secundaria,2,1,0,0,95,196,25,24.7,24
+11,13.0,Sistema musculoesquelético,5.0,Mayo,4,Miércoles,4,Primavera,289,36,13,33,378.884,92,0,1,Secundaria,2,1,0,1,90,172,30,30.4,24
+36,13.0,Sistema musculoesquelético,5.0,Mayo,4,Miércoles,4,Primavera,118,13,18,50,378.884,92,0,1,Secundaria,1,1,0,0,98,178,31,30.9,24
+24,10.0,Sistema respiratorio,6.0,Junio,3,Martes,4,Primavera,246,25,16,41,377.55,94,0,1,Secundaria,0,1,0,0,67,170,23,23.2,24
+11,19.0,"Lesiones, intoxicaciones y consecuencias externas",9.0,Septiembre,4,Miércoles,1,Verano,289,36,13,33,294.217,81,0,1,Secundaria,2,1,0,1,90,172,30,30.4,24
+24,10.0,Sistema respiratorio,2.0,Febrero,6,Viernes,3,Invierno,246,25,16,41,251.818,96,0,1,Secundaria,0,1,0,0,67,170,23,23.2,24
+3,28.0,Consulta dental,6.0,Junio,2,Lunes,4,Primavera,179,51,18,38,253.957,95,0,1,Secundaria,0,1,0,0,89,170,31,30.8,24
+18,2.0,Neoplasias,11.0,Noviembre,4,Miércoles,2,Otoño,330,16,4,28,268.519,93,0,2,Grado,0,0,0,0,84,182,25,25.4,24
+22,12.0,Piel y tejido subcutáneo,1.0,Enero,2,Lunes,3,Invierno,179,26,9,30,313.532,96,0,3,Posgrado,0,0,0,0,56,171,19,19.2,24
+14,13.0,Sistema musculoesquelético,3.0,Marzo,4,Miércoles,4,Primavera,155,12,14,34,222.196,99,0,1,Secundaria,2,1,0,0,95,196,25,24.7,24
+13,7.0,Ojo y anexos,4.0,Abril,2,Lunes,4,Primavera,369,17,12,31,246.288,91,0,1,Secundaria,3,1,0,0,70,169,25,24.5,24
+36,19.0,"Lesiones, intoxicaciones y consecuencias externas",6.0,Junio,5,Jueves,4,Primavera,118,13,18,50,275.089,96,0,1,Secundaria,1,1,0,0,98,178,31,30.9,24
+20,19.0,"Lesiones, intoxicaciones y consecuencias externas",10.0,Octubre,5,Jueves,2,Otoño,260,50,11,36,253.465,93,0,1,Secundaria,4,1,0,0,65,168,23,23.0,16
+14,1.0,Enfermedades infecciosas y parasitarias,3.0,Marzo,2,Lunes,3,Invierno,155,12,14,34,343.253,95,0,1,Secundaria,2,1,0,0,95,196,25,24.7,16
+20,26.0,Ausencia injustificada,3.0,Marzo,2,Lunes,3,Invierno,260,50,11,36,343.253,95,0,1,Secundaria,4,1,0,0,65,168,23,23.0,16
+28,11.0,Sistema digestivo,3.0,Marzo,4,Miércoles,4,Primavera,225,26,9,28,343.253,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,16
+7,14.0,Sistema genitourinario,3.0,Marzo,5,Jueves,4,Primavera,279,5,14,39,343.253,95,0,1,Secundaria,2,1,1,0,68,168,24,24.1,16
+11,13.0,Sistema musculoesquelético,4.0,Abril,5,Jueves,4,Primavera,289,36,13,33,326.452,96,0,1,Secundaria,2,1,0,1,90,172,30,30.4,16
+1,13.0,Sistema musculoesquelético,6.0,Junio,6,Viernes,4,Primavera,235,11,14,37,377.55,94,0,3,Posgrado,1,0,0,1,88,172,29,29.7,16
+14,19.0,"Lesiones, intoxicaciones y consecuencias externas",7.0,Julio,3,Martes,1,Verano,155,12,14,34,275.312,98,0,1,Secundaria,2,1,0,0,95,196,25,24.7,16
+24,9.0,Sistema circulatorio,9.0,Septiembre,2,Lunes,1,Verano,246,25,16,41,294.217,81,0,1,Secundaria,0,1,0,0,67,170,23,23.2,16
+11,19.0,"Lesiones, intoxicaciones y consecuencias externas",10.0,Octubre,5,Jueves,2,Otoño,289,36,13,33,265.017,88,0,1,Secundaria,2,1,0,1,90,172,30,30.4,16
+22,23.0,Consulta médica,10.0,Octubre,5,Jueves,2,Otoño,179,26,9,30,265.017,88,0,3,Posgrado,0,0,0,0,56,171,19,19.2,16
+30,11.0,Sistema digestivo,2.0,Febrero,4,Miércoles,3,Invierno,157,27,6,29,251.818,96,0,1,Secundaria,0,1,1,0,75,185,22,21.9,16
+24,19.0,"Lesiones, intoxicaciones y consecuencias externas",3.0,Marzo,4,Miércoles,3,Invierno,246,25,16,41,244.387,98,0,1,Secundaria,0,1,0,0,67,170,23,23.2,16
+3,28.0,Consulta dental,3.0,Marzo,2,Lunes,3,Invierno,179,51,18,38,244.387,98,0,1,Secundaria,0,1,0,0,89,170,31,30.8,16
+5,13.0,Sistema musculoesquelético,5.0,Mayo,2,Lunes,4,Primavera,235,20,13,43,246.074,99,0,1,Secundaria,1,1,0,0,106,167,38,38.0,16
+18,23.0,Consulta médica,8.0,Agosto,5,Jueves,1,Verano,330,16,4,28,249.797,93,0,2,Grado,0,0,0,0,84,182,25,25.4,16
+22,13.0,Sistema musculoesquelético,12.0,Diciembre,3,Martes,2,Otoño,179,26,9,30,280.549,98,0,3,Posgrado,0,0,0,0,56,171,19,19.2,16
+22,12.0,Piel y tejido subcutáneo,1.0,Enero,5,Jueves,3,Invierno,179,26,9,30,313.532,96,0,3,Posgrado,0,0,0,0,56,171,19,19.2,16
+6,22.0,Seguimiento de paciente,7.0,Julio,3,Martes,1,Verano,189,29,13,33,264.604,93,0,1,Secundaria,2,0,0,2,69,167,25,24.7,16
+10,22.0,Seguimiento de paciente,7.0,Julio,6,Viernes,1,Verano,361,52,3,28,239.554,97,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+1,22.0,Seguimiento de paciente,7.0,Julio,2,Lunes,1,Verano,235,11,14,37,239.554,97,0,3,Posgrado,1,0,0,1,88,172,29,29.7,8
+20,1.0,Enfermedades infecciosas y parasitarias,7.0,Julio,2,Lunes,1,Verano,260,50,11,36,239.554,97,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+20,1.0,Enfermedades infecciosas y parasitarias,7.0,Julio,3,Martes,1,Verano,260,50,11,36,239.554,97,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+20,11.0,Sistema digestivo,7.0,Julio,4,Miércoles,1,Verano,260,50,11,36,239.554,97,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+24,14.0,Sistema genitourinario,7.0,Julio,6,Viernes,1,Verano,246,25,16,41,239.554,97,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+3,21.0,Factores de salud y contacto sanitario,7.0,Julio,2,Lunes,1,Verano,179,51,18,38,239.554,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+6,11.0,Sistema digestivo,7.0,Julio,5,Jueves,1,Verano,189,29,13,33,239.554,97,0,1,Secundaria,2,0,0,2,69,167,25,24.7,8
+18,10.0,Sistema respiratorio,8.0,Agosto,4,Miércoles,1,Verano,330,16,4,28,205.917,92,0,2,Grado,0,0,0,0,84,182,25,25.4,8
+11,18.0,Síntomas y hallazgos no clasificados,8.0,Agosto,2,Lunes,1,Verano,289,36,13,33,205.917,92,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+11,18.0,Síntomas y hallazgos no clasificados,8.0,Agosto,4,Miércoles,1,Verano,289,36,13,33,205.917,92,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+3,18.0,Síntomas y hallazgos no clasificados,8.0,Agosto,2,Lunes,1,Verano,179,51,18,38,205.917,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+2,18.0,Síntomas y hallazgos no clasificados,8.0,Agosto,5,Jueves,1,Verano,235,29,12,48,205.917,92,0,1,Secundaria,1,0,1,5,88,163,33,33.1,8
+2,18.0,Síntomas y hallazgos no clasificados,8.0,Agosto,2,Lunes,1,Verano,235,29,12,48,205.917,92,0,1,Secundaria,1,0,1,5,88,163,33,33.1,8
+11,24.0,Donación de sangre,8.0,Agosto,3,Martes,1,Verano,289,36,13,33,205.917,92,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+2,28.0,Consulta dental,8.0,Agosto,6,Viernes,1,Verano,235,29,12,48,205.917,92,0,1,Secundaria,1,0,1,5,88,163,33,33.1,8
+5,19.0,"Lesiones, intoxicaciones y consecuencias externas",9.0,Septiembre,3,Martes,1,Verano,235,20,13,43,241.476,92,0,1,Secundaria,1,1,0,0,106,167,38,38.0,8
+20,22.0,Seguimiento de paciente,9.0,Septiembre,6,Viernes,1,Verano,260,50,11,36,241.476,92,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+3,23.0,Consulta médica,10.0,Octubre,4,Miércoles,2,Otoño,179,51,18,38,253.465,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+15,14.0,Sistema genitourinario,10.0,Octubre,3,Martes,2,Otoño,291,31,12,40,253.465,93,0,1,Secundaria,1,1,0,1,73,171,25,25.0,8
+11,26.0,Ausencia injustificada,10.0,Octubre,4,Miércoles,2,Otoño,289,36,13,33,253.465,93,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+3,13.0,Sistema musculoesquelético,11.0,Noviembre,5,Jueves,2,Otoño,179,51,18,38,306.345,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+17,21.0,Factores de salud y contacto sanitario,11.0,Noviembre,5,Jueves,2,Otoño,179,22,17,40,306.345,93,0,2,Grado,2,0,1,0,63,170,22,21.8,8
+6,22.0,Seguimiento de paciente,11.0,Noviembre,2,Lunes,2,Otoño,189,29,13,33,306.345,93,0,1,Secundaria,2,0,0,2,69,167,25,24.7,8
+14,6.0,Sistema nervioso,11.0,Noviembre,6,Viernes,2,Otoño,155,12,14,34,306.345,93,0,1,Secundaria,2,1,0,0,95,196,25,24.7,8
+17,21.0,Factores de salud y contacto sanitario,11.0,Noviembre,4,Miércoles,2,Otoño,179,22,17,40,306.345,93,0,2,Grado,2,0,1,0,63,170,22,21.8,8
+1,26.0,Ausencia injustificada,12.0,Diciembre,4,Miércoles,2,Otoño,235,11,14,37,261.306,97,0,3,Posgrado,1,0,0,1,88,172,29,29.7,8
+20,26.0,Ausencia injustificada,12.0,Diciembre,6,Viernes,2,Otoño,260,50,11,36,261.306,97,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+10,22.0,Seguimiento de paciente,12.0,Diciembre,4,Miércoles,2,Otoño,361,52,3,28,261.306,97,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+10,22.0,Seguimiento de paciente,12.0,Diciembre,4,Miércoles,2,Otoño,361,52,3,28,261.306,97,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+24,19.0,"Lesiones, intoxicaciones y consecuencias externas",12.0,Diciembre,6,Viernes,3,Invierno,246,25,16,41,261.306,97,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+14,18.0,Síntomas y hallazgos no clasificados,1.0,Enero,3,Martes,3,Invierno,155,12,14,34,308.593,95,0,1,Secundaria,2,1,0,0,95,196,25,24.7,8
+22,18.0,Síntomas y hallazgos no clasificados,1.0,Enero,3,Martes,3,Invierno,179,26,9,30,308.593,95,0,3,Posgrado,0,0,0,0,56,171,19,19.2,8
+11,18.0,Síntomas y hallazgos no clasificados,1.0,Enero,3,Martes,3,Invierno,289,36,13,33,308.593,95,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+24,1.0,Enfermedades infecciosas y parasitarias,2.0,Febrero,4,Miércoles,3,Invierno,246,25,16,41,302.585,99,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+3,11.0,Sistema digestivo,2.0,Febrero,4,Miércoles,3,Invierno,179,51,18,38,302.585,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+6,23.0,Consulta médica,2.0,Febrero,5,Jueves,3,Invierno,189,29,13,33,302.585,99,0,1,Secundaria,2,0,0,2,69,167,25,24.7,8
+11,22.0,Seguimiento de paciente,2.0,Febrero,6,Viernes,3,Invierno,289,36,13,33,302.585,99,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+31,11.0,Sistema digestivo,2.0,Febrero,2,Lunes,3,Invierno,388,15,9,50,302.585,99,0,1,Secundaria,0,0,0,0,76,178,24,24.0,8
+31,1.0,Enfermedades infecciosas y parasitarias,2.0,Febrero,3,Martes,3,Invierno,388,15,9,50,302.585,99,0,1,Secundaria,0,0,0,0,76,178,24,24.0,8
+27,23.0,Consulta médica,2.0,Febrero,3,Martes,3,Invierno,184,42,7,27,302.585,99,0,1,Secundaria,0,0,0,0,58,167,21,20.8,8
+18,18.0,Síntomas y hallazgos no clasificados,2.0,Febrero,2,Lunes,3,Invierno,330,16,4,28,302.585,99,0,2,Grado,0,0,0,0,84,182,25,25.4,8
+6,19.0,"Lesiones, intoxicaciones y consecuencias externas",2.0,Febrero,5,Jueves,3,Invierno,189,29,13,33,302.585,99,0,1,Secundaria,2,0,0,2,69,167,25,24.7,8
+20,19.0,"Lesiones, intoxicaciones y consecuencias externas",3.0,Marzo,3,Martes,3,Invierno,260,50,11,36,343.253,95,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+17,17.0,Malformaciones congénitas,3.0,Marzo,3,Martes,3,Invierno,179,22,17,40,343.253,95,0,2,Grado,2,0,1,0,63,170,22,21.8,8
+15,22.0,Seguimiento de paciente,3.0,Marzo,4,Miércoles,3,Invierno,291,31,12,40,343.253,95,0,1,Secundaria,1,1,0,1,73,171,25,25.0,8
+20,13.0,Sistema musculoesquelético,3.0,Marzo,4,Miércoles,3,Invierno,260,50,11,36,343.253,95,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+22,13.0,Sistema musculoesquelético,3.0,Marzo,5,Jueves,3,Invierno,179,26,9,30,343.253,95,0,3,Posgrado,0,0,0,0,56,171,19,19.2,8
+14,13.0,Sistema musculoesquelético,3.0,Marzo,3,Martes,3,Invierno,155,12,14,34,343.253,95,0,1,Secundaria,2,1,0,0,95,196,25,24.7,8
+11,6.0,Sistema nervioso,3.0,Marzo,5,Jueves,3,Invierno,289,36,13,33,343.253,95,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+17,8.0,Oído y apófisis mastoides,3.0,Marzo,5,Jueves,3,Invierno,179,22,17,40,343.253,95,0,2,Grado,2,0,1,0,63,170,22,21.8,8
+7,14.0,Sistema genitourinario,3.0,Marzo,2,Lunes,3,Invierno,279,5,14,39,343.253,95,0,1,Secundaria,2,1,1,0,68,168,24,24.1,8
+28,11.0,Sistema digestivo,3.0,Marzo,2,Lunes,4,Primavera,225,26,9,28,343.253,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,8
+28,11.0,Sistema digestivo,3.0,Marzo,3,Martes,4,Primavera,225,26,9,28,343.253,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,8
+24,14.0,Sistema genitourinario,4.0,Abril,6,Viernes,4,Primavera,246,25,16,41,326.452,96,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+33,28.0,Consulta dental,4.0,Abril,6,Viernes,4,Primavera,248,25,14,47,326.452,96,0,1,Secundaria,2,0,0,1,86,165,32,31.6,8
+11,19.0,"Lesiones, intoxicaciones y consecuencias externas",4.0,Abril,3,Martes,4,Primavera,289,36,13,33,326.452,96,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+23,19.0,"Lesiones, intoxicaciones y consecuencias externas",4.0,Abril,4,Miércoles,4,Primavera,378,49,11,36,326.452,96,0,1,Secundaria,2,0,1,4,65,174,21,21.5,8
+11,13.0,Sistema musculoesquelético,5.0,Mayo,4,Miércoles,4,Primavera,289,36,13,33,378.884,92,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+3,18.0,Síntomas y hallazgos no clasificados,5.0,Mayo,3,Martes,4,Primavera,179,51,18,38,378.884,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+28,19.0,"Lesiones, intoxicaciones y consecuencias externas",5.0,Mayo,3,Martes,4,Primavera,225,26,9,28,378.884,92,0,1,Secundaria,1,0,0,2,69,169,24,24.2,8
+10,22.0,Seguimiento de paciente,5.0,Mayo,6,Viernes,4,Primavera,361,52,3,28,378.884,92,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+24,19.0,"Lesiones, intoxicaciones y consecuencias externas",6.0,Junio,2,Lunes,4,Primavera,246,25,16,41,377.55,94,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+10,22.0,Seguimiento de paciente,6.0,Junio,2,Lunes,4,Primavera,361,52,3,28,377.55,94,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+24,10.0,Sistema respiratorio,6.0,Junio,6,Viernes,4,Primavera,246,25,16,41,377.55,94,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+3,11.0,Sistema digestivo,6.0,Junio,2,Lunes,4,Primavera,179,51,18,38,377.55,94,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+24,10.0,Sistema respiratorio,6.0,Junio,2,Lunes,4,Primavera,246,25,16,41,377.55,94,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+36,13.0,Sistema musculoesquelético,6.0,Junio,4,Miércoles,4,Primavera,118,13,18,50,377.55,94,0,1,Secundaria,1,1,0,0,98,178,31,30.9,8
+23,22.0,Seguimiento de paciente,6.0,Junio,5,Jueves,4,Primavera,378,49,11,36,377.55,94,0,1,Secundaria,2,0,1,4,65,174,21,21.5,8
+36,1.0,Enfermedades infecciosas y parasitarias,7.0,Julio,4,Miércoles,1,Verano,118,13,18,50,275.312,98,0,1,Secundaria,1,1,0,0,98,178,31,30.9,8
+34,5.0,Trastornos mentales y del comportamiento,7.0,Julio,6,Viernes,1,Verano,118,10,10,37,275.312,98,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+18,26.0,Ausencia injustificada,7.0,Julio,3,Martes,1,Verano,330,16,4,28,275.312,98,0,2,Grado,0,0,0,0,84,182,25,25.4,8
+22,18.0,Síntomas y hallazgos no clasificados,7.0,Julio,5,Jueves,1,Verano,179,26,9,30,275.312,98,0,3,Posgrado,0,0,0,0,56,171,19,19.2,8
+18,1.0,Enfermedades infecciosas y parasitarias,7.0,Julio,2,Lunes,1,Verano,330,16,4,28,275.312,98,0,2,Grado,0,0,0,0,84,182,25,25.4,8
+18,1.0,Enfermedades infecciosas y parasitarias,7.0,Julio,3,Martes,1,Verano,330,16,4,28,275.312,98,0,2,Grado,0,0,0,0,84,182,25,25.4,8
+10,22.0,Seguimiento de paciente,7.0,Julio,3,Martes,1,Verano,361,52,3,28,275.312,98,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+11,26.0,Ausencia injustificada,7.0,Julio,4,Miércoles,1,Verano,289,36,13,33,275.312,98,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+3,26.0,Ausencia injustificada,7.0,Julio,5,Jueves,1,Verano,179,51,18,38,275.312,98,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+11,19.0,"Lesiones, intoxicaciones y consecuencias externas",7.0,Julio,5,Jueves,1,Verano,289,36,13,33,275.312,98,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+11,19.0,"Lesiones, intoxicaciones y consecuencias externas",8.0,Agosto,6,Viernes,1,Verano,289,36,13,33,265.615,94,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+9,18.0,Síntomas y hallazgos no clasificados,8.0,Agosto,3,Martes,1,Verano,228,14,16,58,265.615,94,0,1,Secundaria,2,0,0,1,65,172,22,22.0,8
+21,11.0,Sistema digestivo,8.0,Agosto,5,Jueves,1,Verano,268,11,8,33,265.615,94,0,2,Grado,0,0,0,0,79,178,25,24.9,8
+1,19.0,"Lesiones, intoxicaciones y consecuencias externas",8.0,Agosto,5,Jueves,1,Verano,235,11,14,37,265.615,94,0,3,Posgrado,1,0,0,1,88,172,29,29.7,8
+10,8.0,Oído y apófisis mastoides,8.0,Agosto,3,Martes,1,Verano,361,52,3,28,265.615,94,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+27,6.0,Sistema nervioso,8.0,Agosto,4,Miércoles,1,Verano,184,42,7,27,265.615,94,0,1,Secundaria,0,0,0,0,58,167,21,20.8,8
+3,11.0,Sistema digestivo,9.0,Septiembre,2,Lunes,1,Verano,179,51,18,38,294.217,81,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+3,13.0,Sistema musculoesquelético,9.0,Septiembre,4,Miércoles,1,Verano,179,51,18,38,294.217,81,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+5,26.0,Ausencia injustificada,9.0,Septiembre,4,Miércoles,2,Otoño,235,20,13,43,294.217,81,0,1,Secundaria,1,1,0,0,106,167,38,38.0,8
+3,13.0,Sistema musculoesquelético,9.0,Septiembre,2,Lunes,2,Otoño,179,51,18,38,294.217,81,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+11,24.0,Donación de sangre,10.0,Octubre,2,Lunes,2,Otoño,289,36,13,33,265.017,88,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+11,26.0,Ausencia injustificada,10.0,Octubre,2,Lunes,2,Otoño,289,36,13,33,265.017,88,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+11,22.0,Seguimiento de paciente,10.0,Octubre,6,Viernes,2,Otoño,289,36,13,33,265.017,88,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+22,1.0,Enfermedades infecciosas y parasitarias,10.0,Octubre,2,Lunes,2,Otoño,179,26,9,30,265.017,88,0,3,Posgrado,0,0,0,0,56,171,19,19.2,8
+13,22.0,Seguimiento de paciente,10.0,Octubre,2,Lunes,2,Otoño,369,17,12,31,265.017,88,0,1,Secundaria,3,1,0,0,70,169,25,24.5,8
+10,10.0,Sistema respiratorio,10.0,Octubre,2,Lunes,2,Otoño,361,52,3,28,265.017,88,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+34,11.0,Sistema digestivo,11.0,Noviembre,2,Lunes,2,Otoño,118,10,10,37,284.031,97,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+3,6.0,Sistema nervioso,11.0,Noviembre,3,Martes,2,Otoño,179,51,18,38,284.031,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+23,1.0,Enfermedades infecciosas y parasitarias,11.0,Noviembre,2,Lunes,2,Otoño,378,49,11,36,284.031,97,0,1,Secundaria,2,0,1,4,65,174,21,21.5,8
+5,26.0,Ausencia injustificada,11.0,Noviembre,2,Lunes,2,Otoño,235,20,13,43,284.031,97,0,1,Secundaria,1,1,0,0,106,167,38,38.0,8
+24,13.0,Sistema musculoesquelético,11.0,Noviembre,6,Viernes,2,Otoño,246,25,16,41,284.031,97,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+24,13.0,Sistema musculoesquelético,11.0,Noviembre,2,Lunes,2,Otoño,246,25,16,41,284.031,97,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+20,10.0,Sistema respiratorio,11.0,Noviembre,4,Miércoles,2,Otoño,260,50,11,36,284.031,97,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+20,15.0,"Embarazo, parto y puerperio",11.0,Noviembre,6,Viernes,2,Otoño,260,50,11,36,284.031,97,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+24,4.0,"Endocrinas, nutricionales y metabólicas",12.0,Diciembre,5,Jueves,2,Otoño,246,25,16,41,236.629,93,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+34,25.0,Examen de laboratorio,12.0,Diciembre,3,Martes,2,Otoño,118,10,10,37,236.629,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+5,13.0,Sistema musculoesquelético,12.0,Diciembre,3,Martes,3,Invierno,235,20,13,43,236.629,93,0,1,Secundaria,1,1,0,0,106,167,38,38.0,8
+20,26.0,Ausencia injustificada,12.0,Diciembre,4,Miércoles,3,Invierno,260,50,11,36,236.629,93,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+11,19.0,"Lesiones, intoxicaciones y consecuencias externas",12.0,Diciembre,2,Lunes,3,Invierno,289,36,13,33,236.629,93,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+11,26.0,Ausencia injustificada,1.0,Enero,2,Lunes,3,Invierno,289,36,13,33,330.061,100,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+15,3.0,Sangre e inmunidad,1.0,Enero,4,Miércoles,3,Invierno,291,31,12,40,330.061,100,0,1,Secundaria,1,1,0,1,73,171,25,25.0,8
+5,26.0,Ausencia injustificada,1.0,Enero,2,Lunes,3,Invierno,235,20,13,43,330.061,100,0,1,Secundaria,1,1,0,0,106,167,38,38.0,8
+3,10.0,Sistema respiratorio,2.0,Febrero,5,Jueves,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+24,26.0,Ausencia injustificada,2.0,Febrero,5,Jueves,3,Invierno,246,25,16,41,251.818,96,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+6,22.0,Seguimiento de paciente,2.0,Febrero,2,Lunes,3,Invierno,189,29,13,33,251.818,96,0,1,Secundaria,2,0,0,2,69,167,25,24.7,8
+34,18.0,Síntomas y hallazgos no clasificados,3.0,Marzo,3,Martes,3,Invierno,118,10,10,37,244.387,98,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+1,22.0,Seguimiento de paciente,3.0,Marzo,2,Lunes,3,Invierno,235,11,14,37,244.387,98,0,3,Posgrado,1,0,0,1,88,172,29,29.7,8
+17,22.0,Seguimiento de paciente,3.0,Marzo,3,Martes,3,Invierno,179,22,17,40,244.387,98,0,2,Grado,2,0,1,0,63,170,22,21.8,8
+23,22.0,Seguimiento de paciente,3.0,Marzo,3,Martes,3,Invierno,378,49,11,36,244.387,98,0,1,Secundaria,2,0,1,4,65,174,21,21.5,8
+10,22.0,Seguimiento de paciente,3.0,Marzo,4,Miércoles,3,Invierno,361,52,3,28,244.387,98,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+1,21.0,Factores de salud y contacto sanitario,3.0,Marzo,5,Jueves,3,Invierno,235,11,14,37,244.387,98,0,3,Posgrado,1,0,0,1,88,172,29,29.7,8
+36,13.0,Sistema musculoesquelético,3.0,Marzo,4,Miércoles,4,Primavera,118,13,18,50,244.387,98,0,1,Secundaria,1,1,0,0,98,178,31,30.9,8
+3,28.0,Consulta dental,3.0,Marzo,6,Viernes,4,Primavera,179,51,18,38,244.387,98,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+11,22.0,Seguimiento de paciente,3.0,Marzo,6,Viernes,4,Primavera,289,36,13,33,244.387,98,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+20,19.0,"Lesiones, intoxicaciones y consecuencias externas",3.0,Marzo,2,Lunes,4,Primavera,260,50,11,36,244.387,98,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+18,23.0,Consulta médica,4.0,Abril,4,Miércoles,4,Primavera,330,16,4,28,239.409,98,0,2,Grado,0,0,0,0,84,182,25,25.4,8
+3,28.0,Consulta dental,4.0,Abril,4,Miércoles,4,Primavera,179,51,18,38,239.409,98,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+26,28.0,Consulta dental,4.0,Abril,6,Viernes,4,Primavera,300,26,13,43,239.409,98,0,1,Secundaria,2,1,1,1,77,175,25,25.1,8
+13,10.0,Sistema respiratorio,5.0,Mayo,2,Lunes,4,Primavera,369,17,12,31,246.074,99,0,1,Secundaria,3,1,0,0,70,169,25,24.5,8
+9,18.0,Síntomas y hallazgos no clasificados,5.0,Mayo,4,Miércoles,4,Primavera,228,14,16,58,246.074,99,0,1,Secundaria,2,0,0,1,65,172,22,22.0,8
+18,13.0,Sistema musculoesquelético,5.0,Mayo,6,Viernes,4,Primavera,330,16,4,28,246.074,99,0,2,Grado,0,0,0,0,84,182,25,25.4,8
+1,1.0,Enfermedades infecciosas y parasitarias,5.0,Mayo,2,Lunes,4,Primavera,235,11,14,37,246.074,99,0,3,Posgrado,1,0,0,1,88,172,29,29.7,8
+5,26.0,Ausencia injustificada,6.0,Junio,3,Martes,4,Primavera,235,20,13,43,253.957,95,0,1,Secundaria,1,1,0,0,106,167,38,38.0,8
+3,5.0,Trastornos mentales y del comportamiento,6.0,Junio,4,Miércoles,1,Verano,179,51,18,38,253.957,95,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+1,13.0,Sistema musculoesquelético,6.0,Junio,3,Martes,1,Verano,235,11,14,37,253.957,95,0,3,Posgrado,1,0,0,1,88,172,29,29.7,8
+20,13.0,Sistema musculoesquelético,7.0,Julio,6,Viernes,1,Verano,260,50,11,36,230.29,92,0,1,Secundaria,4,1,0,0,65,168,23,23.0,8
+21,7.0,Ojo y anexos,7.0,Julio,2,Lunes,1,Verano,268,11,8,33,230.29,92,0,2,Grado,0,0,0,0,79,178,25,24.9,8
+18,25.0,Examen de laboratorio,7.0,Julio,6,Viernes,1,Verano,330,16,4,28,230.29,92,0,2,Grado,0,0,0,0,84,182,25,25.4,8
+34,26.0,Ausencia injustificada,7.0,Julio,6,Viernes,1,Verano,118,10,10,37,230.29,92,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+34,28.0,Consulta dental,7.0,Julio,3,Martes,1,Verano,118,10,10,37,230.29,92,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+26,15.0,"Embarazo, parto y puerperio",7.0,Julio,2,Lunes,1,Verano,300,26,13,43,230.29,92,0,1,Secundaria,2,1,1,1,77,175,25,25.1,8
+10,22.0,Seguimiento de paciente,7.0,Julio,6,Viernes,1,Verano,361,52,3,28,230.29,92,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+11,22.0,Seguimiento de paciente,7.0,Julio,2,Lunes,1,Verano,289,36,13,33,230.29,92,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+5,26.0,Ausencia injustificada,7.0,Julio,2,Lunes,1,Verano,235,20,13,43,230.29,92,0,1,Secundaria,1,1,0,0,106,167,38,38.0,8
+11,26.0,Ausencia injustificada,8.0,Agosto,3,Martes,1,Verano,289,36,13,33,249.797,93,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+5,26.0,Ausencia injustificada,8.0,Agosto,3,Martes,1,Verano,235,20,13,43,249.797,93,0,1,Secundaria,1,1,0,0,106,167,38,38.0,8
+17,25.0,Examen de laboratorio,8.0,Agosto,3,Martes,1,Verano,179,22,17,40,249.797,93,0,2,Grado,2,0,1,0,63,170,22,21.8,8
+22,23.0,Consulta médica,9.0,Septiembre,6,Viernes,1,Verano,179,26,9,30,261.756,87,0,3,Posgrado,0,0,0,0,56,171,19,19.2,8
+13,23.0,Consulta médica,9.0,Septiembre,3,Martes,2,Otoño,369,17,12,31,261.756,87,0,1,Secundaria,3,1,0,0,70,169,25,24.5,8
+10,22.0,Seguimiento de paciente,9.0,Septiembre,3,Martes,2,Otoño,361,52,3,28,261.756,87,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+24,26.0,Ausencia injustificada,10.0,Octubre,6,Viernes,2,Otoño,246,25,16,41,284.853,91,0,1,Secundaria,0,1,0,0,67,170,23,23.2,8
+13,23.0,Consulta médica,10.0,Octubre,3,Martes,2,Otoño,369,17,12,31,284.853,91,0,1,Secundaria,3,1,0,0,70,169,25,24.5,8
+13,26.0,Ausencia injustificada,10.0,Octubre,3,Martes,2,Otoño,369,17,12,31,284.853,91,0,1,Secundaria,3,1,0,0,70,169,25,24.5,8
+13,10.0,Sistema respiratorio,10.0,Octubre,5,Jueves,2,Otoño,369,17,12,31,284.853,91,0,1,Secundaria,3,1,0,0,70,169,25,24.5,8
+13,10.0,Sistema respiratorio,10.0,Octubre,6,Viernes,2,Otoño,369,17,12,31,284.853,91,0,1,Secundaria,3,1,0,0,70,169,25,24.5,8
+6,23.0,Consulta médica,10.0,Octubre,2,Lunes,2,Otoño,189,29,13,33,284.853,91,0,1,Secundaria,2,0,0,2,69,167,25,24.7,8
+25,6.0,Sistema nervioso,10.0,Octubre,2,Lunes,2,Otoño,235,16,8,32,284.853,91,0,3,Posgrado,0,0,0,0,75,178,25,23.7,8
+33,10.0,Sistema respiratorio,10.0,Octubre,2,Lunes,2,Otoño,248,25,14,47,284.853,91,0,1,Secundaria,2,0,0,1,86,165,32,31.6,8
+34,9.0,Sistema circulatorio,11.0,Noviembre,3,Martes,2,Otoño,118,10,10,37,268.519,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+11,24.0,Donación de sangre,11.0,Noviembre,4,Miércoles,2,Otoño,289,36,13,33,268.519,93,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+25,1.0,Enfermedades infecciosas y parasitarias,11.0,Noviembre,6,Viernes,2,Otoño,235,16,8,32,268.519,93,0,3,Posgrado,0,0,0,0,75,178,25,23.7,8
+10,22.0,Seguimiento de paciente,11.0,Noviembre,3,Martes,2,Otoño,361,52,3,28,268.519,93,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+34,23.0,Consulta médica,11.0,Noviembre,2,Lunes,2,Otoño,118,10,10,37,268.519,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+34,8.0,Oído y apófisis mastoides,11.0,Noviembre,3,Martes,2,Otoño,118,10,10,37,268.519,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+13,26.0,Ausencia injustificada,11.0,Noviembre,6,Viernes,2,Otoño,369,17,12,31,268.519,93,0,1,Secundaria,3,1,0,0,70,169,25,24.5,8
+5,26.0,Ausencia injustificada,12.0,Diciembre,6,Viernes,2,Otoño,235,20,13,43,280.549,98,0,1,Secundaria,1,1,0,0,106,167,38,38.0,8
+12,18.0,Síntomas y hallazgos no clasificados,12.0,Diciembre,2,Lunes,2,Otoño,233,51,1,31,280.549,98,0,2,Grado,1,1,0,8,68,178,21,21.5,8
+32,10.0,Sistema respiratorio,1.0,Enero,5,Jueves,3,Invierno,289,48,29,49,313.532,96,0,1,Secundaria,0,0,0,2,108,172,36,36.5,8
+14,18.0,Síntomas y hallazgos no clasificados,1.0,Enero,3,Martes,3,Invierno,155,12,14,34,313.532,96,0,1,Secundaria,2,1,0,0,95,196,25,24.7,8
+11,13.0,Sistema musculoesquelético,1.0,Enero,4,Miércoles,3,Invierno,289,36,13,33,313.532,96,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+3,13.0,Sistema musculoesquelético,2.0,Febrero,3,Martes,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+33,1.0,Enfermedades infecciosas y parasitarias,2.0,Febrero,4,Miércoles,3,Invierno,248,25,14,47,264.249,97,0,1,Secundaria,2,0,0,1,86,165,32,31.6,8
+28,7.0,Ojo y anexos,2.0,Febrero,3,Martes,3,Invierno,225,26,9,28,264.249,97,0,1,Secundaria,1,0,0,2,69,169,24,24.2,8
+3,13.0,Sistema musculoesquelético,2.0,Febrero,5,Jueves,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+10,19.0,"Lesiones, intoxicaciones y consecuencias externas",3.0,Marzo,2,Lunes,3,Invierno,361,52,3,28,222.196,99,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+3,13.0,Sistema musculoesquelético,3.0,Marzo,3,Martes,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,8
+28,7.0,Ojo y anexos,3.0,Marzo,2,Lunes,3,Invierno,225,26,9,28,222.196,99,0,1,Secundaria,1,0,0,2,69,169,24,24.2,8
+11,23.0,Consulta médica,3.0,Marzo,4,Miércoles,3,Invierno,289,36,13,33,222.196,99,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+16,23.0,Consulta médica,3.0,Marzo,4,Miércoles,4,Primavera,118,15,24,46,222.196,99,0,1,Secundaria,2,1,1,0,75,175,25,24.5,8
+13,22.0,Seguimiento de paciente,3.0,Marzo,4,Miércoles,4,Primavera,369,17,12,31,222.196,99,0,1,Secundaria,3,1,0,0,70,169,25,24.5,8
+28,13.0,Sistema musculoesquelético,4.0,Abril,2,Lunes,4,Primavera,225,26,9,28,246.288,91,0,1,Secundaria,1,0,0,2,69,169,24,24.2,8
+34,10.0,Sistema respiratorio,4.0,Abril,2,Lunes,4,Primavera,118,10,10,37,246.288,91,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+10,19.0,"Lesiones, intoxicaciones y consecuencias externas",4.0,Abril,3,Martes,4,Primavera,361,52,3,28,246.288,91,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+33,19.0,"Lesiones, intoxicaciones y consecuencias externas",4.0,Abril,4,Miércoles,4,Primavera,248,25,14,47,246.288,91,0,1,Secundaria,2,0,0,1,86,165,32,31.6,8
+6,13.0,Sistema musculoesquelético,4.0,Abril,5,Jueves,4,Primavera,189,29,13,33,246.288,91,0,1,Secundaria,2,0,0,2,69,167,25,24.7,8
+1,22.0,Seguimiento de paciente,4.0,Abril,6,Viernes,4,Primavera,235,11,14,37,246.288,91,0,3,Posgrado,1,0,0,1,88,172,29,29.7,8
+28,19.0,"Lesiones, intoxicaciones y consecuencias externas",4.0,Abril,2,Lunes,4,Primavera,225,26,9,28,246.288,91,0,1,Secundaria,1,0,0,2,69,169,24,24.2,8
+28,19.0,"Lesiones, intoxicaciones y consecuencias externas",4.0,Abril,5,Jueves,4,Primavera,225,26,9,28,246.288,91,0,1,Secundaria,1,0,0,2,69,169,24,24.2,8
+1,22.0,Seguimiento de paciente,5.0,Mayo,2,Lunes,4,Primavera,235,11,14,37,237.656,99,0,3,Posgrado,1,0,0,1,88,172,29,29.7,8
+5,26.0,Ausencia injustificada,5.0,Mayo,4,Miércoles,4,Primavera,235,20,13,43,237.656,99,0,1,Secundaria,1,1,0,0,106,167,38,38.0,8
+29,14.0,Sistema genitourinario,5.0,Mayo,5,Jueves,4,Primavera,225,15,15,41,237.656,99,0,4,Máster/Doctorado,2,1,0,2,94,182,28,28.4,8
+29,22.0,Seguimiento de paciente,5.0,Mayo,6,Viernes,4,Primavera,225,15,15,41,237.656,99,0,4,Máster/Doctorado,2,1,0,2,94,182,28,28.4,8
+25,10.0,Sistema respiratorio,5.0,Mayo,2,Lunes,4,Primavera,235,16,8,32,237.656,99,0,3,Posgrado,0,0,0,0,75,178,25,23.7,8
+15,22.0,Seguimiento de paciente,5.0,Mayo,4,Miércoles,4,Primavera,291,31,12,40,237.656,99,0,1,Secundaria,1,1,0,1,73,171,25,25.0,8
+17,10.0,Sistema respiratorio,5.0,Mayo,4,Miércoles,4,Primavera,179,22,17,40,237.656,99,0,2,Grado,2,0,1,0,63,170,22,21.8,8
+18,10.0,Sistema respiratorio,5.0,Mayo,5,Jueves,4,Primavera,330,16,4,28,237.656,99,0,2,Grado,0,0,0,0,84,182,25,25.4,8
+10,7.0,Ojo y anexos,5.0,Mayo,2,Lunes,4,Primavera,361,52,3,28,237.656,99,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+17,25.0,Examen de laboratorio,5.0,Mayo,6,Viernes,4,Primavera,179,22,17,40,237.656,99,0,2,Grado,2,0,1,0,63,170,22,21.8,8
+14,10.0,Sistema respiratorio,5.0,Mayo,6,Viernes,4,Primavera,155,12,14,34,237.656,99,0,1,Secundaria,2,1,0,0,95,196,25,24.7,8
+16,7.0,Ojo y anexos,6.0,Junio,4,Miércoles,4,Primavera,118,15,24,46,275.089,96,0,1,Secundaria,2,1,1,0,75,175,25,24.5,8
+34,26.0,Ausencia injustificada,6.0,Junio,6,Viernes,4,Primavera,118,10,10,37,275.089,96,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+34,10.0,Sistema respiratorio,6.0,Junio,4,Miércoles,4,Primavera,118,10,10,37,275.089,96,0,1,Secundaria,0,0,0,0,83,172,28,28.1,8
+23,22.0,Seguimiento de paciente,6.0,Junio,5,Jueves,4,Primavera,378,49,11,36,275.089,96,0,1,Secundaria,2,0,1,4,65,174,21,21.5,8
+12,19.0,"Lesiones, intoxicaciones y consecuencias externas",6.0,Junio,6,Viernes,4,Primavera,233,51,1,31,275.089,96,0,2,Grado,1,1,0,8,68,178,21,21.5,8
+12,22.0,Seguimiento de paciente,6.0,Junio,5,Jueves,1,Verano,233,51,1,31,275.089,96,0,2,Grado,1,1,0,8,68,178,21,21.5,8
+9,6.0,Sistema nervioso,7.0,Julio,2,Lunes,1,Verano,228,14,16,58,264.604,93,0,1,Secundaria,2,0,0,1,65,172,22,22.0,8
+10,22.0,Seguimiento de paciente,7.0,Julio,4,Miércoles,1,Verano,361,52,3,28,264.604,93,0,1,Secundaria,1,1,0,4,80,172,27,27.0,8
+28,22.0,Seguimiento de paciente,7.0,Julio,4,Miércoles,1,Verano,225,26,9,28,264.604,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,8
+11,14.0,Sistema genitourinario,7.0,Julio,3,Martes,1,Verano,289,36,13,33,264.604,93,0,1,Secundaria,2,1,0,1,90,172,30,30.4,8
+10,25.0,Examen de laboratorio,8.0,Agosto,2,Lunes,1,Verano,361,52,3,28,205.917,92,0,1,Secundaria,1,1,0,4,80,172,27,27.0,7
+15,23.0,Consulta médica,10.0,Octubre,5,Jueves,2,Otoño,291,31,12,40,253.465,93,0,1,Secundaria,1,1,0,1,73,171,25,25.0,5
+15,23.0,Consulta médica,11.0,Noviembre,5,Jueves,2,Otoño,291,31,12,40,306.345,93,0,1,Secundaria,1,1,0,1,73,171,25,25.0,5
+22,1.0,Enfermedades infecciosas y parasitarias,10.0,Octubre,4,Miércoles,2,Otoño,179,26,9,30,265.017,88,0,3,Posgrado,0,0,0,0,56,171,19,19.2,5
+22,7.0,Ojo y anexos,10.0,Octubre,4,Miércoles,2,Otoño,179,26,9,30,265.017,88,0,3,Posgrado,0,0,0,0,56,171,19,19.2,5
+28,23.0,Consulta médica,1.0,Enero,4,Miércoles,3,Invierno,225,26,9,28,330.061,100,0,1,Secundaria,1,0,0,2,69,169,24,24.2,5
+34,28.0,Consulta dental,8.0,Agosto,3,Martes,1,Verano,118,10,10,37,249.797,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,5
+14,25.0,Examen de laboratorio,2.0,Febrero,2,Lunes,3,Invierno,155,12,14,34,264.249,97,0,1,Secundaria,2,1,0,0,95,196,25,24.7,5
+11,26.0,Ausencia injustificada,7.0,Julio,3,Martes,1,Verano,289,36,13,33,239.554,97,0,1,Secundaria,2,1,0,1,90,172,30,30.4,4
+7,7.0,Ojo y anexos,7.0,Julio,5,Jueves,1,Verano,279,5,14,39,239.554,97,0,1,Secundaria,2,1,1,0,68,168,24,24.1,4
+20,23.0,Consulta médica,7.0,Julio,6,Viernes,1,Verano,260,50,11,36,239.554,97,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+3,23.0,Consulta médica,7.0,Julio,4,Miércoles,1,Verano,179,51,18,38,239.554,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,4
+20,28.0,Consulta dental,8.0,Agosto,6,Viernes,1,Verano,260,50,11,36,205.917,92,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+30,28.0,Consulta dental,8.0,Agosto,4,Miércoles,1,Verano,157,27,6,29,205.917,92,0,1,Secundaria,0,1,1,0,75,185,22,21.9,4
+1,23.0,Consulta médica,8.0,Agosto,5,Jueves,1,Verano,235,11,14,37,205.917,92,0,3,Posgrado,1,0,0,1,88,172,29,29.7,4
+19,11.0,Sistema digestivo,8.0,Agosto,5,Jueves,1,Verano,291,50,12,32,205.917,92,0,1,Secundaria,0,1,0,0,65,169,23,22.8,4
+20,23.0,Consulta médica,8.0,Agosto,6,Viernes,1,Verano,260,50,11,36,205.917,92,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+34,23.0,Consulta médica,9.0,Septiembre,2,Lunes,1,Verano,118,10,10,37,241.476,92,0,1,Secundaria,0,0,0,0,83,172,28,28.1,4
+3,23.0,Consulta médica,9.0,Septiembre,3,Martes,1,Verano,179,51,18,38,241.476,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,4
+15,23.0,Consulta médica,9.0,Septiembre,5,Jueves,1,Verano,291,31,12,40,241.476,92,0,1,Secundaria,1,1,0,1,73,171,25,25.0,4
+20,23.0,Consulta médica,9.0,Septiembre,6,Viernes,2,Otoño,260,50,11,36,241.476,92,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+20,28.0,Consulta dental,11.0,Noviembre,6,Viernes,2,Otoño,260,50,11,36,306.345,93,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+20,28.0,Consulta dental,3.0,Marzo,6,Viernes,3,Invierno,260,50,11,36,343.253,95,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+20,28.0,Consulta dental,4.0,Abril,6,Viernes,4,Primavera,260,50,11,36,326.452,96,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+27,7.0,Ojo y anexos,5.0,Mayo,4,Miércoles,4,Primavera,184,42,7,27,378.884,92,0,1,Secundaria,0,0,0,0,58,167,21,20.8,4
+15,23.0,Consulta médica,6.0,Junio,5,Jueves,4,Primavera,291,31,12,40,377.55,94,0,1,Secundaria,1,1,0,1,73,171,25,25.0,4
+14,23.0,Consulta médica,6.0,Junio,2,Lunes,4,Primavera,155,12,14,34,377.55,94,0,1,Secundaria,2,1,0,0,95,196,25,24.7,4
+34,26.0,Ausencia injustificada,7.0,Julio,6,Viernes,1,Verano,118,10,10,37,275.312,98,0,1,Secundaria,0,0,0,0,83,172,28,28.1,4
+20,28.0,Consulta dental,8.0,Agosto,6,Viernes,1,Verano,260,50,11,36,265.615,94,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+11,23.0,Consulta médica,8.0,Agosto,3,Martes,1,Verano,289,36,13,33,265.615,94,0,1,Secundaria,2,1,0,1,90,172,30,30.4,4
+15,28.0,Consulta dental,9.0,Septiembre,6,Viernes,1,Verano,291,31,12,40,294.217,81,0,1,Secundaria,1,1,0,1,73,171,25,25.0,4
+20,28.0,Consulta dental,9.0,Septiembre,6,Viernes,1,Verano,260,50,11,36,294.217,81,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+1,26.0,Ausencia injustificada,10.0,Octubre,2,Lunes,2,Otoño,235,11,14,37,265.017,88,0,3,Posgrado,1,0,0,1,88,172,29,29.7,4
+15,28.0,Consulta dental,10.0,Octubre,3,Martes,2,Otoño,291,31,12,40,265.017,88,0,1,Secundaria,1,1,0,1,73,171,25,25.0,4
+15,12.0,Piel y tejido subcutáneo,11.0,Noviembre,6,Viernes,2,Otoño,291,31,12,40,284.031,97,0,1,Secundaria,1,1,0,1,73,171,25,25.0,4
+20,28.0,Consulta dental,12.0,Diciembre,6,Viernes,2,Otoño,260,50,11,36,236.629,93,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+1,14.0,Sistema genitourinario,12.0,Diciembre,3,Martes,3,Invierno,235,11,14,37,236.629,93,0,3,Posgrado,1,0,0,1,88,172,29,29.7,4
+14,23.0,Consulta médica,1.0,Enero,3,Martes,3,Invierno,155,12,14,34,330.061,100,0,1,Secundaria,2,1,0,0,95,196,25,24.7,4
+36,26.0,Ausencia injustificada,1.0,Enero,2,Lunes,3,Invierno,118,13,18,50,330.061,100,0,1,Secundaria,1,1,0,0,98,178,31,30.9,4
+20,28.0,Consulta dental,3.0,Marzo,6,Viernes,3,Invierno,260,50,11,36,244.387,98,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+3,28.0,Consulta dental,4.0,Abril,4,Miércoles,4,Primavera,179,51,18,38,239.409,98,0,1,Secundaria,0,1,0,0,89,170,31,30.8,4
+18,26.0,Ausencia injustificada,4.0,Abril,6,Viernes,4,Primavera,330,16,4,28,239.409,98,0,2,Grado,0,0,0,0,84,182,25,25.4,4
+13,22.0,Seguimiento de paciente,4.0,Abril,2,Lunes,4,Primavera,369,17,12,31,239.409,98,0,1,Secundaria,3,1,0,0,70,169,25,24.5,4
+33,26.0,Ausencia injustificada,4.0,Abril,2,Lunes,4,Primavera,248,25,14,47,239.409,98,0,1,Secundaria,2,0,0,1,86,165,32,31.6,4
+20,28.0,Consulta dental,4.0,Abril,6,Viernes,4,Primavera,260,50,11,36,239.409,98,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+3,28.0,Consulta dental,4.0,Abril,2,Lunes,4,Primavera,179,51,18,38,239.409,98,0,1,Secundaria,0,1,0,0,89,170,31,30.8,4
+3,28.0,Consulta dental,5.0,Mayo,4,Miércoles,4,Primavera,179,51,18,38,246.074,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,4
+28,23.0,Consulta médica,6.0,Junio,5,Jueves,4,Primavera,225,26,9,28,253.957,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,4
+20,28.0,Consulta dental,6.0,Junio,6,Viernes,4,Primavera,260,50,11,36,253.957,95,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+3,28.0,Consulta dental,6.0,Junio,2,Lunes,4,Primavera,179,51,18,38,253.957,95,0,1,Secundaria,0,1,0,0,89,170,31,30.8,4
+28,25.0,Examen de laboratorio,7.0,Julio,5,Jueves,1,Verano,225,26,9,28,230.29,92,0,1,Secundaria,1,0,0,2,69,169,24,24.2,4
+20,26.0,Ausencia injustificada,7.0,Julio,2,Lunes,1,Verano,260,50,11,36,230.29,92,0,1,Secundaria,4,1,0,0,65,168,23,23.0,4
+3,25.0,Examen de laboratorio,8.0,Agosto,5,Jueves,1,Verano,179,51,18,38,249.797,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,4
+24,28.0,Consulta dental,8.0,Agosto,3,Martes,1,Verano,246,25,16,41,249.797,93,0,1,Secundaria,0,1,0,0,67,170,23,23.2,4
+34,28.0,Consulta dental,8.0,Agosto,3,Martes,1,Verano,118,10,10,37,249.797,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,4
+15,28.0,Consulta dental,8.0,Agosto,5,Jueves,1,Verano,291,31,12,40,249.797,93,0,1,Secundaria,1,1,0,1,73,171,25,25.0,4
+3,25.0,Examen de laboratorio,8.0,Agosto,2,Lunes,1,Verano,179,51,18,38,249.797,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,4
+1,23.0,Consulta médica,8.0,Agosto,3,Martes,1,Verano,235,11,14,37,249.797,93,0,3,Posgrado,1,0,0,1,88,172,29,29.7,4
+3,23.0,Consulta médica,9.0,Septiembre,2,Lunes,1,Verano,179,51,18,38,261.756,87,0,1,Secundaria,0,1,0,0,89,170,31,30.8,4
+28,23.0,Consulta médica,10.0,Octubre,3,Martes,2,Otoño,225,26,9,28,284.853,91,0,1,Secundaria,1,0,0,2,69,169,24,24.2,4
+28,23.0,Consulta médica,11.0,Noviembre,6,Viernes,2,Otoño,225,26,9,28,268.519,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,4
+33,14.0,Sistema genitourinario,11.0,Noviembre,5,Jueves,2,Otoño,248,25,14,47,268.519,93,0,1,Secundaria,2,0,0,1,86,165,32,31.6,4
+10,14.0,Sistema genitourinario,12.0,Diciembre,5,Jueves,2,Otoño,361,52,3,28,280.549,98,0,1,Secundaria,1,1,0,4,80,172,27,27.0,4
+3,10.0,Sistema respiratorio,3.0,Marzo,2,Lunes,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,4
+14,28.0,Consulta dental,4.0,Abril,3,Martes,4,Primavera,155,12,14,34,246.288,91,0,1,Secundaria,2,1,0,0,95,196,25,24.7,4
+5,26.0,Ausencia injustificada,7.0,Julio,4,Miércoles,1,Verano,235,20,13,43,264.604,93,0,1,Secundaria,1,1,0,0,106,167,38,38.0,4
+34,28.0,Consulta dental,7.0,Julio,2,Lunes,1,Verano,118,10,10,37,264.604,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,4
+1,11.0,Sistema digestivo,7.0,Julio,3,Martes,1,Verano,235,11,14,37,264.604,93,0,3,Posgrado,1,0,0,1,88,172,29,29.7,4
+34,23.0,Consulta médica,9.0,Septiembre,2,Lunes,1,Verano,118,10,10,37,241.476,92,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+3,23.0,Consulta médica,9.0,Septiembre,3,Martes,1,Verano,179,51,18,38,241.476,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+28,18.0,Síntomas y hallazgos no clasificados,9.0,Septiembre,4,Miércoles,2,Otoño,225,26,9,28,241.476,92,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+3,23.0,Consulta médica,9.0,Septiembre,4,Miércoles,2,Otoño,179,51,18,38,241.476,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,23.0,Consulta médica,9.0,Septiembre,6,Viernes,2,Otoño,179,51,18,38,241.476,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,23.0,Consulta médica,10.0,Octubre,3,Martes,2,Otoño,179,51,18,38,253.465,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+34,23.0,Consulta médica,10.0,Octubre,3,Martes,2,Otoño,118,10,10,37,253.465,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+3,23.0,Consulta médica,10.0,Octubre,6,Viernes,2,Otoño,179,51,18,38,253.465,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+28,23.0,Consulta médica,10.0,Octubre,6,Viernes,2,Otoño,225,26,9,28,253.465,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+34,23.0,Consulta médica,10.0,Octubre,3,Martes,2,Otoño,118,10,10,37,253.465,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+28,23.0,Consulta médica,10.0,Octubre,4,Miércoles,2,Otoño,225,26,9,28,253.465,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+20,28.0,Consulta dental,10.0,Octubre,6,Viernes,2,Otoño,260,50,11,36,253.465,93,0,1,Secundaria,4,1,0,0,65,168,23,23.0,3
+28,23.0,Consulta médica,11.0,Noviembre,4,Miércoles,2,Otoño,225,26,9,28,306.345,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+28,13.0,Sistema musculoesquelético,11.0,Noviembre,6,Viernes,2,Otoño,225,26,9,28,306.345,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+28,28.0,Consulta dental,11.0,Noviembre,3,Martes,2,Otoño,225,26,9,28,306.345,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+15,23.0,Consulta médica,11.0,Noviembre,5,Jueves,2,Otoño,291,31,12,40,306.345,93,0,1,Secundaria,1,1,0,1,73,171,25,25.0,3
+28,28.0,Consulta dental,12.0,Diciembre,5,Jueves,2,Otoño,225,26,9,28,261.306,97,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+20,28.0,Consulta dental,12.0,Diciembre,6,Viernes,2,Otoño,260,50,11,36,261.306,97,0,1,Secundaria,4,1,0,0,65,168,23,23.0,3
+11,22.0,Seguimiento de paciente,1.0,Enero,5,Jueves,3,Invierno,289,36,13,33,308.593,95,0,1,Secundaria,2,1,0,1,90,172,30,30.4,3
+28,25.0,Examen de laboratorio,2.0,Febrero,5,Jueves,3,Invierno,225,26,9,28,302.585,99,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+30,19.0,"Lesiones, intoxicaciones y consecuencias externas",3.0,Marzo,3,Martes,3,Invierno,157,27,6,29,343.253,95,0,1,Secundaria,0,1,1,0,75,185,22,21.9,3
+33,14.0,Sistema genitourinario,3.0,Marzo,6,Viernes,3,Invierno,248,25,14,47,343.253,95,0,1,Secundaria,2,0,0,1,86,165,32,31.6,3
+3,13.0,Sistema musculoesquelético,3.0,Marzo,4,Miércoles,4,Primavera,179,51,18,38,343.253,95,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+33,14.0,Sistema genitourinario,3.0,Marzo,6,Viernes,4,Primavera,248,25,14,47,343.253,95,0,1,Secundaria,2,0,0,1,86,165,32,31.6,3
+15,23.0,Consulta médica,4.0,Abril,6,Viernes,4,Primavera,291,31,12,40,326.452,96,0,1,Secundaria,1,1,0,1,73,171,25,25.0,3
+1,7.0,Ojo y anexos,4.0,Abril,6,Viernes,4,Primavera,235,11,14,37,326.452,96,0,3,Posgrado,1,0,0,1,88,172,29,29.7,3
+30,25.0,Examen de laboratorio,7.0,Julio,2,Lunes,1,Verano,157,27,6,29,275.312,98,0,1,Secundaria,0,1,1,0,75,185,22,21.9,3
+30,19.0,"Lesiones, intoxicaciones y consecuencias externas",8.0,Agosto,6,Viernes,1,Verano,157,27,6,29,265.615,94,0,1,Secundaria,0,1,1,0,75,185,22,21.9,3
+36,13.0,Sistema musculoesquelético,8.0,Agosto,5,Jueves,1,Verano,118,13,18,50,265.615,94,0,1,Secundaria,1,1,0,0,98,178,31,30.9,3
+3,23.0,Consulta médica,9.0,Septiembre,6,Viernes,1,Verano,179,51,18,38,294.217,81,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+15,28.0,Consulta dental,9.0,Septiembre,3,Martes,1,Verano,291,31,12,40,294.217,81,0,1,Secundaria,1,1,0,1,73,171,25,25.0,3
+15,28.0,Consulta dental,9.0,Septiembre,6,Viernes,2,Otoño,291,31,12,40,294.217,81,0,1,Secundaria,1,1,0,1,73,171,25,25.0,3
+34,7.0,Ojo y anexos,10.0,Octubre,2,Lunes,2,Otoño,118,10,10,37,265.017,88,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+20,28.0,Consulta dental,10.0,Octubre,6,Viernes,2,Otoño,260,50,11,36,265.017,88,0,1,Secundaria,4,1,0,0,65,168,23,23.0,3
+20,28.0,Consulta dental,11.0,Noviembre,6,Viernes,2,Otoño,260,50,11,36,284.031,97,0,1,Secundaria,4,1,0,0,65,168,23,23.0,3
+34,11.0,Sistema digestivo,11.0,Noviembre,4,Miércoles,2,Otoño,118,10,10,37,284.031,97,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+3,28.0,Consulta dental,11.0,Noviembre,5,Jueves,2,Otoño,179,51,18,38,284.031,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+28,12.0,Piel y tejido subcutáneo,12.0,Diciembre,2,Lunes,2,Otoño,225,26,9,28,236.629,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+1,23.0,Consulta médica,12.0,Diciembre,2,Lunes,2,Otoño,235,11,14,37,236.629,93,0,3,Posgrado,1,0,0,1,88,172,29,29.7,3
+3,28.0,Consulta dental,12.0,Diciembre,2,Lunes,3,Invierno,179,51,18,38,236.629,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,2.0,Febrero,4,Miércoles,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+11,22.0,Seguimiento de paciente,2.0,Febrero,6,Viernes,3,Invierno,289,36,13,33,251.818,96,0,1,Secundaria,2,1,0,1,90,172,30,30.4,3
+20,28.0,Consulta dental,2.0,Febrero,6,Viernes,3,Invierno,260,50,11,36,251.818,96,0,1,Secundaria,4,1,0,0,65,168,23,23.0,3
+3,23.0,Consulta médica,2.0,Febrero,6,Viernes,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,2.0,Febrero,4,Miércoles,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,2.0,Febrero,6,Viernes,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,2.0,Febrero,2,Lunes,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,2.0,Febrero,4,Miércoles,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,2.0,Febrero,6,Viernes,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,2.0,Febrero,4,Miércoles,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,2.0,Febrero,6,Viernes,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+36,14.0,Sistema genitourinario,3.0,Marzo,3,Martes,4,Primavera,118,13,18,50,244.387,98,0,1,Secundaria,1,1,0,0,98,178,31,30.9,3
+20,28.0,Consulta dental,4.0,Abril,6,Viernes,4,Primavera,260,50,11,36,239.409,98,0,1,Secundaria,4,1,0,0,65,168,23,23.0,3
+22,23.0,Consulta médica,5.0,Mayo,4,Miércoles,4,Primavera,179,26,9,30,246.074,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,3
+20,28.0,Consulta dental,5.0,Mayo,6,Viernes,4,Primavera,260,50,11,36,246.074,99,0,1,Secundaria,4,1,0,0,65,168,23,23.0,3
+17,8.0,Oído y apófisis mastoides,5.0,Mayo,2,Lunes,4,Primavera,179,22,17,40,246.074,99,0,2,Grado,2,0,1,0,63,170,22,21.8,3
+28,25.0,Examen de laboratorio,5.0,Mayo,4,Miércoles,4,Primavera,225,26,9,28,246.074,99,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+22,23.0,Consulta médica,5.0,Mayo,4,Miércoles,4,Primavera,179,26,9,30,246.074,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,3
+34,23.0,Consulta médica,6.0,Junio,2,Lunes,4,Primavera,118,10,10,37,253.957,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+3,28.0,Consulta dental,6.0,Junio,2,Lunes,4,Primavera,179,51,18,38,253.957,95,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+24,28.0,Consulta dental,6.0,Junio,3,Martes,4,Primavera,246,25,16,41,253.957,95,0,1,Secundaria,0,1,0,0,67,170,23,23.2,3
+20,28.0,Consulta dental,8.0,Agosto,2,Lunes,1,Verano,260,50,11,36,249.797,93,0,1,Secundaria,4,1,0,0,65,168,23,23.0,3
+34,28.0,Consulta dental,9.0,Septiembre,3,Martes,1,Verano,118,10,10,37,261.756,87,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+25,11.0,Sistema digestivo,10.0,Octubre,5,Jueves,2,Otoño,235,16,8,32,284.853,91,0,3,Posgrado,0,0,0,0,75,178,25,23.7,3
+32,14.0,Sistema genitourinario,10.0,Octubre,4,Miércoles,2,Otoño,289,48,29,49,284.853,91,0,1,Secundaria,0,0,0,2,108,172,36,36.5,3
+13,23.0,Consulta médica,10.0,Octubre,3,Martes,2,Otoño,369,17,12,31,284.853,91,0,1,Secundaria,3,1,0,0,70,169,25,24.5,3
+3,28.0,Consulta dental,10.0,Octubre,4,Miércoles,2,Otoño,179,51,18,38,284.853,91,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+28,10.0,Sistema respiratorio,10.0,Octubre,6,Viernes,2,Otoño,225,26,9,28,284.853,91,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+28,13.0,Sistema musculoesquelético,10.0,Octubre,3,Martes,2,Otoño,225,26,9,28,284.853,91,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+34,28.0,Consulta dental,11.0,Noviembre,4,Miércoles,2,Otoño,118,10,10,37,268.519,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+28,14.0,Sistema genitourinario,11.0,Noviembre,5,Jueves,2,Otoño,225,26,9,28,268.519,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+28,23.0,Consulta médica,12.0,Diciembre,4,Miércoles,2,Otoño,225,26,9,28,280.549,98,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+28,23.0,Consulta médica,12.0,Diciembre,6,Viernes,2,Otoño,225,26,9,28,280.549,98,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+28,23.0,Consulta médica,12.0,Diciembre,4,Miércoles,2,Otoño,225,26,9,28,280.549,98,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+28,23.0,Consulta médica,12.0,Diciembre,5,Jueves,2,Otoño,225,26,9,28,280.549,98,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+22,13.0,Sistema musculoesquelético,1.0,Enero,2,Lunes,3,Invierno,179,26,9,30,313.532,96,0,3,Posgrado,0,0,0,0,56,171,19,19.2,3
+17,18.0,Síntomas y hallazgos no clasificados,1.0,Enero,6,Viernes,3,Invierno,179,22,17,40,313.532,96,0,2,Grado,2,0,1,0,63,170,22,21.8,3
+3,27.0,Fisioterapia,1.0,Enero,4,Miércoles,3,Invierno,179,51,18,38,313.532,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,1.0,Enero,5,Jueves,3,Invierno,179,51,18,38,313.532,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+28,23.0,Consulta médica,2.0,Febrero,3,Martes,3,Invierno,225,26,9,28,264.249,97,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+28,28.0,Consulta dental,2.0,Febrero,5,Jueves,3,Invierno,225,26,9,28,264.249,97,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+3,27.0,Fisioterapia,2.0,Febrero,4,Miércoles,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,2.0,Febrero,5,Jueves,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+28,25.0,Examen de laboratorio,2.0,Febrero,5,Jueves,3,Invierno,225,26,9,28,264.249,97,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+3,27.0,Fisioterapia,2.0,Febrero,6,Viernes,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+12,12.0,Piel y tejido subcutáneo,2.0,Febrero,4,Miércoles,3,Invierno,233,51,1,31,264.249,97,0,2,Grado,1,1,0,8,68,178,21,21.5,3
+25,25.0,Examen de laboratorio,2.0,Febrero,2,Lunes,3,Invierno,235,16,8,32,264.249,97,0,3,Posgrado,0,0,0,0,75,178,25,23.7,3
+9,25.0,Examen de laboratorio,3.0,Marzo,3,Martes,3,Invierno,228,14,16,58,222.196,99,0,1,Secundaria,2,0,0,1,65,172,22,22.0,3
+33,25.0,Examen de laboratorio,3.0,Marzo,3,Martes,3,Invierno,248,25,14,47,222.196,99,0,1,Secundaria,2,0,0,1,86,165,32,31.6,3
+3,27.0,Fisioterapia,3.0,Marzo,5,Jueves,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+22,27.0,Fisioterapia,3.0,Marzo,6,Viernes,3,Invierno,179,26,9,30,222.196,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,3
+25,25.0,Examen de laboratorio,3.0,Marzo,2,Lunes,3,Invierno,235,16,8,32,222.196,99,0,3,Posgrado,0,0,0,0,75,178,25,23.7,3
+3,27.0,Fisioterapia,3.0,Marzo,5,Jueves,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,3.0,Marzo,2,Lunes,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+33,23.0,Consulta médica,3.0,Marzo,5,Jueves,3,Invierno,248,25,14,47,222.196,99,0,1,Secundaria,2,0,0,1,86,165,32,31.6,3
+3,27.0,Fisioterapia,3.0,Marzo,5,Jueves,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,3.0,Marzo,6,Viernes,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,3.0,Marzo,3,Martes,4,Primavera,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,3.0,Marzo,4,Miércoles,4,Primavera,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+3,27.0,Fisioterapia,3.0,Marzo,5,Jueves,4,Primavera,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,3
+36,23.0,Consulta médica,4.0,Abril,3,Martes,4,Primavera,118,13,18,50,246.288,91,0,1,Secundaria,1,1,0,0,98,178,31,30.9,3
+25,16.0,Afecciones perinatales,4.0,Abril,3,Martes,4,Primavera,235,16,8,32,246.288,91,0,3,Posgrado,0,0,0,0,75,178,25,23.7,3
+29,19.0,"Lesiones, intoxicaciones y consecuencias externas",5.0,Mayo,4,Miércoles,4,Primavera,225,15,15,41,237.656,99,0,4,Máster/Doctorado,2,1,0,2,94,182,28,28.4,3
+34,8.0,Oído y apófisis mastoides,5.0,Mayo,4,Miércoles,4,Primavera,118,10,10,37,237.656,99,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+36,5.0,Trastornos mentales y del comportamiento,5.0,Mayo,3,Martes,4,Primavera,118,13,18,50,237.656,99,0,1,Secundaria,1,1,0,0,98,178,31,30.9,3
+28,6.0,Sistema nervioso,5.0,Mayo,4,Miércoles,4,Primavera,225,26,9,28,237.656,99,0,1,Secundaria,1,0,0,2,69,169,24,24.2,3
+22,27.0,Fisioterapia,6.0,Junio,4,Miércoles,4,Primavera,179,26,9,30,275.089,96,0,3,Posgrado,0,0,0,0,56,171,19,19.2,3
+36,19.0,"Lesiones, intoxicaciones y consecuencias externas",6.0,Junio,5,Jueves,4,Primavera,118,13,18,50,275.089,96,0,1,Secundaria,1,1,0,0,98,178,31,30.9,3
+22,13.0,Sistema musculoesquelético,6.0,Junio,2,Lunes,1,Verano,179,26,9,30,275.089,96,0,3,Posgrado,0,0,0,0,56,171,19,19.2,3
+34,25.0,Examen de laboratorio,6.0,Junio,2,Lunes,1,Verano,118,10,10,37,275.089,96,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+34,10.0,Sistema respiratorio,6.0,Junio,4,Miércoles,1,Verano,118,10,10,37,275.089,96,0,1,Secundaria,0,0,0,0,83,172,28,28.1,3
+12,22.0,Seguimiento de paciente,6.0,Junio,4,Miércoles,1,Verano,233,51,1,31,275.089,96,0,2,Grado,1,1,0,8,68,178,21,21.5,3
+3,23.0,Consulta médica,7.0,Julio,4,Miércoles,1,Verano,179,51,18,38,239.554,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+11,23.0,Consulta médica,7.0,Julio,5,Jueves,1,Verano,289,36,13,33,239.554,97,0,1,Secundaria,2,1,0,1,90,172,30,30.4,2
+3,23.0,Consulta médica,7.0,Julio,6,Viernes,1,Verano,179,51,18,38,239.554,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+3,23.0,Consulta médica,7.0,Julio,6,Viernes,1,Verano,179,51,18,38,239.554,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+33,23.0,Consulta médica,8.0,Agosto,4,Miércoles,1,Verano,248,25,14,47,205.917,92,0,1,Secundaria,2,0,0,1,86,165,32,31.6,2
+3,23.0,Consulta médica,8.0,Agosto,6,Viernes,1,Verano,179,51,18,38,205.917,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+3,23.0,Consulta médica,8.0,Agosto,2,Lunes,1,Verano,179,51,18,38,205.917,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+27,23.0,Consulta médica,9.0,Septiembre,3,Martes,1,Verano,184,42,7,27,241.476,92,0,1,Secundaria,0,0,0,0,58,167,21,20.8,2
+14,23.0,Consulta médica,9.0,Septiembre,4,Miércoles,1,Verano,155,12,14,34,241.476,92,0,1,Secundaria,2,1,0,0,95,196,25,24.7,2
+28,23.0,Consulta médica,9.0,Septiembre,3,Martes,2,Otoño,225,26,9,28,241.476,92,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+34,23.0,Consulta médica,9.0,Septiembre,3,Martes,2,Otoño,118,10,10,37,241.476,92,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+28,23.0,Consulta médica,10.0,Octubre,4,Miércoles,2,Otoño,225,26,9,28,253.465,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+33,23.0,Consulta médica,10.0,Octubre,4,Miércoles,2,Otoño,248,25,14,47,253.465,93,0,1,Secundaria,2,0,0,1,86,165,32,31.6,2
+28,28.0,Consulta dental,10.0,Octubre,3,Martes,2,Otoño,225,26,9,28,253.465,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+36,23.0,Consulta médica,12.0,Diciembre,4,Miércoles,2,Otoño,118,13,18,50,261.306,97,0,1,Secundaria,1,1,0,0,98,178,31,30.9,2
+28,23.0,Consulta médica,12.0,Diciembre,5,Jueves,2,Otoño,225,26,9,28,261.306,97,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+28,23.0,Consulta médica,12.0,Diciembre,3,Martes,2,Otoño,225,26,9,28,261.306,97,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+34,27.0,Fisioterapia,12.0,Diciembre,6,Viernes,2,Otoño,118,10,10,37,261.306,97,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+28,23.0,Consulta médica,12.0,Diciembre,6,Viernes,3,Invierno,225,26,9,28,261.306,97,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+28,27.0,Fisioterapia,1.0,Enero,4,Miércoles,3,Invierno,225,26,9,28,308.593,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+27,23.0,Consulta médica,1.0,Enero,5,Jueves,3,Invierno,184,42,7,27,308.593,95,0,1,Secundaria,0,0,0,0,58,167,21,20.8,2
+28,28.0,Consulta dental,1.0,Enero,5,Jueves,3,Invierno,225,26,9,28,308.593,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+34,27.0,Fisioterapia,1.0,Enero,2,Lunes,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+28,27.0,Fisioterapia,1.0,Enero,3,Martes,3,Invierno,225,26,9,28,308.593,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+34,27.0,Fisioterapia,1.0,Enero,3,Martes,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+34,27.0,Fisioterapia,1.0,Enero,4,Miércoles,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+34,27.0,Fisioterapia,1.0,Enero,5,Jueves,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+34,27.0,Fisioterapia,1.0,Enero,6,Viernes,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+34,27.0,Fisioterapia,1.0,Enero,2,Lunes,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+34,27.0,Fisioterapia,1.0,Enero,3,Martes,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+34,27.0,Fisioterapia,1.0,Enero,4,Miércoles,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+27,23.0,Consulta médica,1.0,Enero,5,Jueves,3,Invierno,184,42,7,27,308.593,95,0,1,Secundaria,0,0,0,0,58,167,21,20.8,2
+34,27.0,Fisioterapia,1.0,Enero,5,Jueves,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+14,28.0,Consulta dental,2.0,Febrero,5,Jueves,3,Invierno,155,12,14,34,302.585,99,0,1,Secundaria,2,1,0,0,95,196,25,24.7,2
+20,28.0,Consulta dental,2.0,Febrero,6,Viernes,3,Invierno,260,50,11,36,302.585,99,0,1,Secundaria,4,1,0,0,65,168,23,23.0,2
+28,28.0,Consulta dental,2.0,Febrero,2,Lunes,3,Invierno,225,26,9,28,302.585,99,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+28,23.0,Consulta médica,2.0,Febrero,3,Martes,3,Invierno,225,26,9,28,302.585,99,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+19,28.0,Consulta dental,3.0,Marzo,3,Martes,3,Invierno,291,50,12,32,343.253,95,0,1,Secundaria,0,1,0,0,65,169,23,22.8,2
+28,23.0,Consulta médica,3.0,Marzo,4,Miércoles,3,Invierno,225,26,9,28,343.253,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+28,28.0,Consulta dental,3.0,Marzo,6,Viernes,4,Primavera,225,26,9,28,343.253,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+28,28.0,Consulta dental,4.0,Abril,6,Viernes,4,Primavera,225,26,9,28,326.452,96,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+14,28.0,Consulta dental,5.0,Mayo,5,Jueves,4,Primavera,155,12,14,34,378.884,92,0,1,Secundaria,2,1,0,0,95,196,25,24.7,2
+14,28.0,Consulta dental,5.0,Mayo,2,Lunes,4,Primavera,155,12,14,34,378.884,92,0,1,Secundaria,2,1,0,0,95,196,25,24.7,2
+3,11.0,Sistema digestivo,6.0,Junio,6,Viernes,4,Primavera,179,51,18,38,377.55,94,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+32,28.0,Consulta dental,6.0,Junio,2,Lunes,1,Verano,289,48,29,49,377.55,94,0,1,Secundaria,0,0,0,2,108,172,36,36.5,2
+28,28.0,Consulta dental,6.0,Junio,5,Jueves,1,Verano,225,26,9,28,377.55,94,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+14,25.0,Examen de laboratorio,7.0,Julio,6,Viernes,1,Verano,155,12,14,34,275.312,98,0,1,Secundaria,2,1,0,0,95,196,25,24.7,2
+26,14.0,Sistema genitourinario,8.0,Agosto,5,Jueves,1,Verano,300,26,13,43,265.615,94,0,1,Secundaria,2,1,1,1,77,175,25,25.1,2
+33,25.0,Examen de laboratorio,8.0,Agosto,2,Lunes,1,Verano,248,25,14,47,265.615,94,0,1,Secundaria,2,0,0,1,86,165,32,31.6,2
+5,23.0,Consulta médica,10.0,Octubre,2,Lunes,2,Otoño,235,20,13,43,265.017,88,0,1,Secundaria,1,1,0,0,106,167,38,38.0,2
+5,23.0,Consulta médica,10.0,Octubre,2,Lunes,2,Otoño,235,20,13,43,265.017,88,0,1,Secundaria,1,1,0,0,106,167,38,38.0,2
+33,23.0,Consulta médica,11.0,Noviembre,2,Lunes,2,Otoño,248,25,14,47,284.031,97,0,1,Secundaria,2,0,0,1,86,165,32,31.6,2
+1,25.0,Examen de laboratorio,11.0,Noviembre,5,Jueves,2,Otoño,235,11,14,37,284.031,97,0,3,Posgrado,1,0,0,1,88,172,29,29.7,2
+3,28.0,Consulta dental,12.0,Diciembre,2,Lunes,2,Otoño,179,51,18,38,236.629,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+1,25.0,Examen de laboratorio,12.0,Diciembre,5,Jueves,2,Otoño,235,11,14,37,236.629,93,0,3,Posgrado,1,0,0,1,88,172,29,29.7,2
+30,28.0,Consulta dental,12.0,Diciembre,2,Lunes,3,Invierno,157,27,6,29,236.629,93,0,1,Secundaria,0,1,1,0,75,185,22,21.9,2
+14,23.0,Consulta médica,1.0,Enero,2,Lunes,3,Invierno,155,12,14,34,330.061,100,0,1,Secundaria,2,1,0,0,95,196,25,24.7,2
+34,28.0,Consulta dental,2.0,Febrero,3,Martes,3,Invierno,118,10,10,37,251.818,96,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+3,27.0,Fisioterapia,2.0,Febrero,2,Lunes,3,Invierno,179,51,18,38,251.818,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+24,23.0,Consulta médica,2.0,Febrero,3,Martes,3,Invierno,246,25,16,41,251.818,96,0,1,Secundaria,0,1,0,0,67,170,23,23.2,2
+15,23.0,Consulta médica,2.0,Febrero,3,Martes,3,Invierno,291,31,12,40,251.818,96,0,1,Secundaria,1,1,0,1,73,171,25,25.0,2
+24,28.0,Consulta dental,3.0,Marzo,6,Viernes,3,Invierno,246,25,16,41,244.387,98,0,1,Secundaria,0,1,0,0,67,170,23,23.2,2
+3,28.0,Consulta dental,3.0,Marzo,2,Lunes,3,Invierno,179,51,18,38,244.387,98,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+36,23.0,Consulta médica,3.0,Marzo,6,Viernes,4,Primavera,118,13,18,50,244.387,98,0,1,Secundaria,1,1,0,0,98,178,31,30.9,2
+24,28.0,Consulta dental,3.0,Marzo,3,Martes,4,Primavera,246,25,16,41,244.387,98,0,1,Secundaria,0,1,0,0,67,170,23,23.2,2
+34,11.0,Sistema digestivo,4.0,Abril,4,Miércoles,4,Primavera,118,10,10,37,239.409,98,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+33,23.0,Consulta médica,5.0,Mayo,4,Miércoles,4,Primavera,248,25,14,47,246.074,99,0,1,Secundaria,2,0,0,1,86,165,32,31.6,2
+17,11.0,Sistema digestivo,5.0,Mayo,2,Lunes,4,Primavera,179,22,17,40,246.074,99,0,2,Grado,2,0,1,0,63,170,22,21.8,2
+22,25.0,Examen de laboratorio,5.0,Mayo,2,Lunes,4,Primavera,179,26,9,30,246.074,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+34,28.0,Consulta dental,6.0,Junio,3,Martes,4,Primavera,118,10,10,37,253.957,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+3,28.0,Consulta dental,6.0,Junio,2,Lunes,1,Verano,179,51,18,38,253.957,95,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+28,23.0,Consulta médica,6.0,Junio,4,Miércoles,1,Verano,225,26,9,28,253.957,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+36,23.0,Consulta médica,6.0,Junio,4,Miércoles,1,Verano,118,13,18,50,253.957,95,0,1,Secundaria,1,1,0,0,98,178,31,30.9,2
+22,21.0,Factores de salud y contacto sanitario,6.0,Junio,4,Miércoles,1,Verano,179,26,9,30,253.957,95,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+24,28.0,Consulta dental,6.0,Junio,6,Viernes,1,Verano,246,25,16,41,253.957,95,0,1,Secundaria,0,1,0,0,67,170,23,23.2,2
+22,23.0,Consulta médica,7.0,Julio,5,Jueves,1,Verano,179,26,9,30,230.29,92,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+24,28.0,Consulta dental,7.0,Julio,3,Martes,1,Verano,246,25,16,41,230.29,92,0,1,Secundaria,0,1,0,0,67,170,23,23.2,2
+24,28.0,Consulta dental,7.0,Julio,3,Martes,1,Verano,246,25,16,41,230.29,92,0,1,Secundaria,0,1,0,0,67,170,23,23.2,2
+7,23.0,Consulta médica,7.0,Julio,5,Jueves,1,Verano,279,5,14,39,230.29,92,0,1,Secundaria,2,1,1,0,68,168,24,24.1,2
+15,28.0,Consulta dental,8.0,Agosto,5,Jueves,1,Verano,291,31,12,40,249.797,93,0,1,Secundaria,1,1,0,1,73,171,25,25.0,2
+14,23.0,Consulta médica,9.0,Septiembre,3,Martes,1,Verano,155,12,14,34,261.756,87,0,1,Secundaria,2,1,0,0,95,196,25,24.7,2
+15,28.0,Consulta dental,9.0,Septiembre,5,Jueves,1,Verano,291,31,12,40,261.756,87,0,1,Secundaria,1,1,0,1,73,171,25,25.0,2
+22,23.0,Consulta médica,9.0,Septiembre,2,Lunes,1,Verano,179,26,9,30,261.756,87,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+15,28.0,Consulta dental,10.0,Octubre,4,Miércoles,2,Otoño,291,31,12,40,284.853,91,0,1,Secundaria,1,1,0,1,73,171,25,25.0,2
+34,23.0,Consulta médica,10.0,Octubre,3,Martes,2,Otoño,118,10,10,37,284.853,91,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+32,23.0,Consulta médica,10.0,Octubre,5,Jueves,2,Otoño,289,48,29,49,284.853,91,0,1,Secundaria,0,0,0,2,108,172,36,36.5,2
+28,23.0,Consulta médica,10.0,Octubre,3,Martes,2,Otoño,225,26,9,28,284.853,91,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+15,28.0,Consulta dental,11.0,Noviembre,4,Miércoles,2,Otoño,291,31,12,40,268.519,93,0,1,Secundaria,1,1,0,1,73,171,25,25.0,2
+34,13.0,Sistema musculoesquelético,11.0,Noviembre,5,Jueves,2,Otoño,118,10,10,37,268.519,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+28,23.0,Consulta médica,11.0,Noviembre,3,Martes,2,Otoño,225,26,9,28,268.519,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+28,23.0,Consulta médica,11.0,Noviembre,6,Viernes,2,Otoño,225,26,9,28,268.519,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+10,28.0,Consulta dental,11.0,Noviembre,2,Lunes,2,Otoño,361,52,3,28,268.519,93,0,1,Secundaria,1,1,0,4,80,172,27,27.0,2
+17,18.0,Síntomas y hallazgos no clasificados,12.0,Diciembre,6,Viernes,2,Otoño,179,22,17,40,280.549,98,0,2,Grado,2,0,1,0,63,170,22,21.8,2
+28,23.0,Consulta médica,12.0,Diciembre,3,Martes,2,Otoño,225,26,9,28,280.549,98,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+28,23.0,Consulta médica,12.0,Diciembre,2,Lunes,2,Otoño,225,26,9,28,280.549,98,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+17,25.0,Examen de laboratorio,1.0,Enero,5,Jueves,3,Invierno,179,22,17,40,313.532,96,0,2,Grado,2,0,1,0,63,170,22,21.8,2
+17,25.0,Examen de laboratorio,1.0,Enero,6,Viernes,3,Invierno,179,22,17,40,313.532,96,0,2,Grado,2,0,1,0,63,170,22,21.8,2
+17,25.0,Examen de laboratorio,1.0,Enero,4,Miércoles,3,Invierno,179,22,17,40,313.532,96,0,2,Grado,2,0,1,0,63,170,22,21.8,2
+22,27.0,Fisioterapia,1.0,Enero,2,Lunes,3,Invierno,179,26,9,30,313.532,96,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+22,27.0,Fisioterapia,1.0,Enero,4,Miércoles,3,Invierno,179,26,9,30,313.532,96,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+3,27.0,Fisioterapia,1.0,Enero,6,Viernes,3,Invierno,179,51,18,38,313.532,96,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+3,27.0,Fisioterapia,2.0,Febrero,4,Miércoles,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+3,27.0,Fisioterapia,2.0,Febrero,5,Jueves,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+22,27.0,Fisioterapia,2.0,Febrero,5,Jueves,3,Invierno,179,26,9,30,264.249,97,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+29,28.0,Consulta dental,2.0,Febrero,6,Viernes,3,Invierno,225,15,15,41,264.249,97,0,4,Máster/Doctorado,2,1,0,2,94,182,28,28.4,2
+3,27.0,Fisioterapia,2.0,Febrero,6,Viernes,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+12,19.0,"Lesiones, intoxicaciones y consecuencias externas",2.0,Febrero,2,Lunes,3,Invierno,233,51,1,31,264.249,97,0,2,Grado,1,1,0,8,68,178,21,21.5,2
+3,27.0,Fisioterapia,2.0,Febrero,2,Lunes,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+22,13.0,Sistema musculoesquelético,2.0,Febrero,5,Jueves,3,Invierno,179,26,9,30,264.249,97,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+17,23.0,Consulta médica,2.0,Febrero,6,Viernes,3,Invierno,179,22,17,40,264.249,97,0,2,Grado,2,0,1,0,63,170,22,21.8,2
+22,27.0,Fisioterapia,2.0,Febrero,4,Miércoles,3,Invierno,179,26,9,30,264.249,97,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+3,27.0,Fisioterapia,2.0,Febrero,4,Miércoles,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+3,27.0,Fisioterapia,2.0,Febrero,6,Viernes,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+3,27.0,Fisioterapia,2.0,Febrero,2,Lunes,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+28,7.0,Ojo y anexos,2.0,Febrero,2,Lunes,3,Invierno,225,26,9,28,264.249,97,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+3,27.0,Fisioterapia,2.0,Febrero,3,Martes,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+33,23.0,Consulta médica,2.0,Febrero,3,Martes,3,Invierno,248,25,14,47,264.249,97,0,1,Secundaria,2,0,0,1,86,165,32,31.6,2
+28,25.0,Examen de laboratorio,2.0,Febrero,3,Martes,3,Invierno,225,26,9,28,264.249,97,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+3,27.0,Fisioterapia,2.0,Febrero,4,Miércoles,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+3,27.0,Fisioterapia,2.0,Febrero,5,Jueves,3,Invierno,179,51,18,38,264.249,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+25,25.0,Examen de laboratorio,2.0,Febrero,6,Viernes,3,Invierno,235,16,8,32,264.249,97,0,3,Posgrado,0,0,0,0,75,178,25,23.7,2
+3,27.0,Fisioterapia,3.0,Marzo,2,Lunes,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+33,23.0,Consulta médica,3.0,Marzo,2,Lunes,3,Invierno,248,25,14,47,222.196,99,0,1,Secundaria,2,0,0,1,86,165,32,31.6,2
+3,27.0,Fisioterapia,3.0,Marzo,4,Miércoles,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+28,27.0,Fisioterapia,3.0,Marzo,5,Jueves,3,Invierno,225,26,9,28,222.196,99,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+28,25.0,Examen de laboratorio,3.0,Marzo,5,Jueves,3,Invierno,225,26,9,28,222.196,99,0,1,Secundaria,1,0,0,2,69,169,24,24.2,2
+3,27.0,Fisioterapia,3.0,Marzo,4,Miércoles,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+22,27.0,Fisioterapia,3.0,Marzo,6,Viernes,3,Invierno,179,26,9,30,222.196,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+33,13.0,Sistema musculoesquelético,3.0,Marzo,2,Lunes,3,Invierno,248,25,14,47,222.196,99,0,1,Secundaria,2,0,0,1,86,165,32,31.6,2
+3,27.0,Fisioterapia,3.0,Marzo,3,Martes,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+9,25.0,Examen de laboratorio,3.0,Marzo,4,Miércoles,3,Invierno,228,14,16,58,222.196,99,0,1,Secundaria,2,0,0,1,65,172,22,22.0,2
+3,27.0,Fisioterapia,3.0,Marzo,4,Miércoles,3,Invierno,179,51,18,38,222.196,99,0,1,Secundaria,0,1,0,0,89,170,31,30.8,2
+22,23.0,Consulta médica,3.0,Marzo,6,Viernes,3,Invierno,179,26,9,30,222.196,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+22,13.0,Sistema musculoesquelético,3.0,Marzo,2,Lunes,4,Primavera,179,26,9,30,222.196,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+22,27.0,Fisioterapia,4.0,Abril,6,Viernes,4,Primavera,179,26,9,30,246.288,91,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+17,16.0,Afecciones perinatales,4.0,Abril,3,Martes,4,Primavera,179,22,17,40,246.288,91,0,2,Grado,2,0,1,0,63,170,22,21.8,2
+10,23.0,Consulta médica,4.0,Abril,3,Martes,4,Primavera,361,52,3,28,246.288,91,0,1,Secundaria,1,1,0,4,80,172,27,27.0,2
+34,10.0,Sistema respiratorio,4.0,Abril,4,Miércoles,4,Primavera,118,10,10,37,246.288,91,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+22,27.0,Fisioterapia,4.0,Abril,6,Viernes,4,Primavera,179,26,9,30,246.288,91,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+22,27.0,Fisioterapia,4.0,Abril,6,Viernes,4,Primavera,179,26,9,30,246.288,91,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+36,14.0,Sistema genitourinario,4.0,Abril,5,Jueves,4,Primavera,118,13,18,50,246.288,91,0,1,Secundaria,1,1,0,0,98,178,31,30.9,2
+22,27.0,Fisioterapia,4.0,Abril,6,Viernes,4,Primavera,179,26,9,30,246.288,91,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+25,28.0,Consulta dental,5.0,Mayo,4,Miércoles,4,Primavera,235,16,8,32,237.656,99,0,3,Posgrado,0,0,0,0,75,178,25,23.7,2
+15,28.0,Consulta dental,5.0,Mayo,5,Jueves,4,Primavera,291,31,12,40,237.656,99,0,1,Secundaria,1,1,0,1,73,171,25,25.0,2
+22,27.0,Fisioterapia,5.0,Mayo,6,Viernes,4,Primavera,179,26,9,30,237.656,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+36,23.0,Consulta médica,5.0,Mayo,2,Lunes,4,Primavera,118,13,18,50,237.656,99,0,1,Secundaria,1,1,0,0,98,178,31,30.9,2
+22,27.0,Fisioterapia,5.0,Mayo,4,Miércoles,4,Primavera,179,26,9,30,237.656,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+25,23.0,Consulta médica,5.0,Mayo,5,Jueves,4,Primavera,235,16,8,32,237.656,99,0,3,Posgrado,0,0,0,0,75,178,25,23.7,2
+15,28.0,Consulta dental,5.0,Mayo,5,Jueves,4,Primavera,291,31,12,40,237.656,99,0,1,Secundaria,1,1,0,1,73,171,25,25.0,2
+22,27.0,Fisioterapia,5.0,Mayo,6,Viernes,4,Primavera,179,26,9,30,237.656,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+14,23.0,Consulta médica,5.0,Mayo,4,Miércoles,4,Primavera,155,12,14,34,237.656,99,0,1,Secundaria,2,1,0,0,95,196,25,24.7,2
+22,27.0,Fisioterapia,6.0,Junio,6,Viernes,4,Primavera,179,26,9,30,275.089,96,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+22,13.0,Sistema musculoesquelético,6.0,Junio,5,Jueves,4,Primavera,179,26,9,30,275.089,96,0,3,Posgrado,0,0,0,0,56,171,19,19.2,2
+15,28.0,Consulta dental,6.0,Junio,5,Jueves,4,Primavera,291,31,12,40,275.089,96,0,1,Secundaria,1,1,0,1,73,171,25,25.0,2
+34,8.0,Oído y apófisis mastoides,6.0,Junio,6,Viernes,1,Verano,118,10,10,37,275.089,96,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+12,19.0,"Lesiones, intoxicaciones y consecuencias externas",7.0,Julio,6,Viernes,1,Verano,233,51,1,31,264.604,93,0,2,Grado,1,1,0,8,68,178,21,21.5,2
+34,23.0,Consulta médica,7.0,Julio,4,Miércoles,1,Verano,118,10,10,37,264.604,93,0,1,Secundaria,0,0,0,0,83,172,28,28.1,2
+3,11.0,Sistema digestivo,7.0,Julio,4,Miércoles,1,Verano,179,51,18,38,239.554,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+3,11.0,Sistema digestivo,8.0,Agosto,2,Lunes,1,Verano,179,51,18,38,205.917,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+11,23.0,Consulta médica,8.0,Agosto,3,Martes,1,Verano,289,36,13,33,205.917,92,0,1,Secundaria,2,1,0,1,90,172,30,30.4,1
+10,23.0,Consulta médica,8.0,Agosto,2,Lunes,1,Verano,361,52,3,28,205.917,92,0,1,Secundaria,1,1,0,4,80,172,27,27.0,1
+33,23.0,Consulta médica,9.0,Septiembre,6,Viernes,2,Otoño,248,25,14,47,241.476,92,0,1,Secundaria,2,0,0,1,86,165,32,31.6,1
+22,23.0,Consulta médica,10.0,Octubre,5,Jueves,2,Otoño,179,26,9,30,253.465,93,0,3,Posgrado,0,0,0,0,56,171,19,19.2,1
+10,23.0,Consulta médica,10.0,Octubre,6,Viernes,2,Otoño,361,52,3,28,253.465,93,0,1,Secundaria,1,1,0,4,80,172,27,27.0,1
+3,23.0,Consulta médica,11.0,Noviembre,5,Jueves,2,Otoño,179,51,18,38,306.345,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+28,23.0,Consulta médica,11.0,Noviembre,4,Miércoles,2,Otoño,225,26,9,28,306.345,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+28,23.0,Consulta médica,11.0,Noviembre,4,Miércoles,2,Otoño,225,26,9,28,306.345,93,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+33,28.0,Consulta dental,11.0,Noviembre,2,Lunes,2,Otoño,248,25,14,47,306.345,93,0,1,Secundaria,2,0,0,1,86,165,32,31.6,1
+33,23.0,Consulta médica,12.0,Diciembre,3,Martes,2,Otoño,248,25,14,47,261.306,97,0,1,Secundaria,2,0,0,1,86,165,32,31.6,1
+28,23.0,Consulta médica,1.0,Enero,4,Miércoles,3,Invierno,225,26,9,28,308.593,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+34,19.0,"Lesiones, intoxicaciones y consecuencias externas",1.0,Enero,2,Lunes,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,1
+34,27.0,Fisioterapia,1.0,Enero,3,Martes,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,1
+28,27.0,Fisioterapia,1.0,Enero,6,Viernes,3,Invierno,225,26,9,28,308.593,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+28,23.0,Consulta médica,1.0,Enero,3,Martes,3,Invierno,225,26,9,28,308.593,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+27,23.0,Consulta médica,2.0,Febrero,6,Viernes,3,Invierno,184,42,7,27,302.585,99,0,1,Secundaria,0,0,0,0,58,167,21,20.8,1
+22,23.0,Consulta médica,2.0,Febrero,3,Martes,3,Invierno,179,26,9,30,302.585,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,1
+18,23.0,Consulta médica,2.0,Febrero,3,Martes,3,Invierno,330,16,4,28,302.585,99,0,2,Grado,0,0,0,0,84,182,25,25.4,1
+28,23.0,Consulta médica,2.0,Febrero,4,Miércoles,3,Invierno,225,26,9,28,302.585,99,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+28,23.0,Consulta médica,3.0,Marzo,6,Viernes,3,Invierno,225,26,9,28,343.253,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+22,13.0,Sistema musculoesquelético,3.0,Marzo,2,Lunes,4,Primavera,179,26,9,30,343.253,95,0,3,Posgrado,0,0,0,0,56,171,19,19.2,1
+28,28.0,Consulta dental,3.0,Marzo,2,Lunes,4,Primavera,225,26,9,28,343.253,95,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+15,28.0,Consulta dental,4.0,Abril,4,Miércoles,4,Primavera,291,31,12,40,326.452,96,0,1,Secundaria,1,1,0,1,73,171,25,25.0,1
+28,23.0,Consulta médica,4.0,Abril,4,Miércoles,4,Primavera,225,26,9,28,326.452,96,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+14,28.0,Consulta dental,4.0,Abril,3,Martes,4,Primavera,155,12,14,34,326.452,96,0,1,Secundaria,2,1,0,0,95,196,25,24.7,1
+14,23.0,Consulta médica,4.0,Abril,5,Jueves,4,Primavera,155,12,14,34,326.452,96,0,1,Secundaria,2,1,0,0,95,196,25,24.7,1
+36,23.0,Consulta médica,4.0,Abril,5,Jueves,4,Primavera,118,13,18,50,326.452,96,0,1,Secundaria,1,1,0,0,98,178,31,30.9,1
+15,28.0,Consulta dental,4.0,Abril,6,Viernes,4,Primavera,291,31,12,40,326.452,96,0,1,Secundaria,1,1,0,1,73,171,25,25.0,1
+14,28.0,Consulta dental,5.0,Mayo,2,Lunes,4,Primavera,155,12,14,34,378.884,92,0,1,Secundaria,2,1,0,0,95,196,25,24.7,1
+3,12.0,Piel y tejido subcutáneo,5.0,Mayo,3,Martes,4,Primavera,179,51,18,38,378.884,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+3,11.0,Sistema digestivo,5.0,Mayo,3,Martes,4,Primavera,179,51,18,38,378.884,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+36,23.0,Consulta médica,6.0,Junio,3,Martes,4,Primavera,118,13,18,50,377.55,94,0,1,Secundaria,1,1,0,0,98,178,31,30.9,1
+11,23.0,Consulta médica,8.0,Agosto,2,Lunes,1,Verano,289,36,13,33,265.615,94,0,1,Secundaria,2,1,0,1,90,172,30,30.4,1
+26,13.0,Sistema musculoesquelético,8.0,Agosto,5,Jueves,1,Verano,300,26,13,43,265.615,94,0,1,Secundaria,2,1,1,1,77,175,25,25.1,1
+33,23.0,Consulta médica,8.0,Agosto,4,Miércoles,1,Verano,248,25,14,47,265.615,94,0,1,Secundaria,2,0,0,1,86,165,32,31.6,1
+22,23.0,Consulta médica,8.0,Agosto,5,Jueves,1,Verano,179,26,9,30,265.615,94,0,3,Posgrado,0,0,0,0,56,171,19,19.2,1
+1,23.0,Consulta médica,8.0,Agosto,3,Martes,1,Verano,235,11,14,37,265.615,94,0,3,Posgrado,1,0,0,1,88,172,29,29.7,1
+36,23.0,Consulta médica,8.0,Agosto,5,Jueves,1,Verano,118,13,18,50,265.615,94,0,1,Secundaria,1,1,0,0,98,178,31,30.9,1
+3,23.0,Consulta médica,9.0,Septiembre,5,Jueves,1,Verano,179,51,18,38,294.217,81,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+36,28.0,Consulta dental,9.0,Septiembre,5,Jueves,2,Otoño,118,13,18,50,294.217,81,0,1,Secundaria,1,1,0,0,98,178,31,30.9,1
+3,28.0,Consulta dental,10.0,Octubre,4,Miércoles,2,Otoño,179,51,18,38,265.017,88,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+36,28.0,Consulta dental,10.0,Octubre,3,Martes,2,Otoño,118,13,18,50,265.017,88,0,1,Secundaria,1,1,0,0,98,178,31,30.9,1
+36,28.0,Consulta dental,10.0,Octubre,5,Jueves,2,Otoño,118,13,18,50,265.017,88,0,1,Secundaria,1,1,0,0,98,178,31,30.9,1
+36,23.0,Consulta médica,10.0,Octubre,5,Jueves,2,Otoño,118,13,18,50,265.017,88,0,1,Secundaria,1,1,0,0,98,178,31,30.9,1
+15,23.0,Consulta médica,11.0,Noviembre,2,Lunes,2,Otoño,291,31,12,40,284.031,97,0,1,Secundaria,1,1,0,1,73,171,25,25.0,1
+1,18.0,Síntomas y hallazgos no clasificados,11.0,Noviembre,4,Miércoles,2,Otoño,235,11,14,37,284.031,97,0,3,Posgrado,1,0,0,1,88,172,29,29.7,1
+3,28.0,Consulta dental,11.0,Noviembre,3,Martes,2,Otoño,179,51,18,38,284.031,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+3,23.0,Consulta médica,11.0,Noviembre,5,Jueves,2,Otoño,179,51,18,38,284.031,97,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+3,28.0,Consulta dental,12.0,Diciembre,2,Lunes,2,Otoño,179,51,18,38,236.629,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+36,28.0,Consulta dental,12.0,Diciembre,3,Martes,2,Otoño,118,13,18,50,236.629,93,0,1,Secundaria,1,1,0,0,98,178,31,30.9,1
+3,28.0,Consulta dental,12.0,Diciembre,5,Jueves,2,Otoño,179,51,18,38,236.629,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+3,28.0,Consulta dental,12.0,Diciembre,6,Viernes,2,Otoño,179,51,18,38,236.629,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+22,23.0,Consulta médica,12.0,Diciembre,3,Martes,2,Otoño,179,26,9,30,236.629,93,0,3,Posgrado,0,0,0,0,56,171,19,19.2,1
+3,28.0,Consulta dental,12.0,Diciembre,6,Viernes,2,Otoño,179,51,18,38,236.629,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+1,13.0,Sistema musculoesquelético,1.0,Enero,3,Martes,3,Invierno,235,11,14,37,330.061,100,0,3,Posgrado,1,0,0,1,88,172,29,29.7,1
+3,28.0,Consulta dental,1.0,Enero,4,Miércoles,3,Invierno,179,51,18,38,330.061,100,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+3,28.0,Consulta dental,1.0,Enero,6,Viernes,3,Invierno,179,51,18,38,330.061,100,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+28,7.0,Ojo y anexos,2.0,Febrero,4,Miércoles,3,Invierno,225,26,9,28,251.818,96,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+36,23.0,Consulta médica,4.0,Abril,2,Lunes,4,Primavera,118,13,18,50,239.409,98,0,1,Secundaria,1,1,0,0,98,178,31,30.9,1
+10,23.0,Consulta médica,5.0,Mayo,5,Jueves,4,Primavera,361,52,3,28,246.074,99,0,1,Secundaria,1,1,0,4,80,172,27,27.0,1
+34,28.0,Consulta dental,5.0,Mayo,2,Lunes,4,Primavera,118,10,10,37,246.074,99,0,1,Secundaria,0,0,0,0,83,172,28,28.1,1
+18,11.0,Sistema digestivo,6.0,Junio,3,Martes,1,Verano,330,16,4,28,253.957,95,0,2,Grado,0,0,0,0,84,182,25,25.4,1
+2,23.0,Consulta médica,7.0,Julio,2,Lunes,1,Verano,235,29,12,48,230.29,92,0,1,Secundaria,1,0,1,5,88,163,33,33.1,1
+3,28.0,Consulta dental,7.0,Julio,3,Martes,1,Verano,179,51,18,38,230.29,92,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+36,23.0,Consulta médica,7.0,Julio,6,Viernes,1,Verano,118,13,18,50,230.29,92,0,1,Secundaria,1,1,0,0,98,178,31,30.9,1
+15,28.0,Consulta dental,7.0,Julio,5,Jueves,1,Verano,291,31,12,40,230.29,92,0,1,Secundaria,1,1,0,1,73,171,25,25.0,1
+17,25.0,Examen de laboratorio,8.0,Agosto,2,Lunes,1,Verano,179,22,17,40,249.797,93,0,2,Grado,2,0,1,0,63,170,22,21.8,1
+24,28.0,Consulta dental,8.0,Agosto,3,Martes,1,Verano,246,25,16,41,249.797,93,0,1,Secundaria,0,1,0,0,67,170,23,23.2,1
+24,28.0,Consulta dental,9.0,Septiembre,3,Martes,1,Verano,246,25,16,41,261.756,87,0,1,Secundaria,0,1,0,0,67,170,23,23.2,1
+24,28.0,Consulta dental,9.0,Septiembre,3,Martes,1,Verano,246,25,16,41,261.756,87,0,1,Secundaria,0,1,0,0,67,170,23,23.2,1
+33,23.0,Consulta médica,9.0,Septiembre,6,Viernes,1,Verano,248,25,14,47,261.756,87,0,1,Secundaria,2,0,0,1,86,165,32,31.6,1
+28,23.0,Consulta médica,9.0,Septiembre,4,Miércoles,1,Verano,225,26,9,28,261.756,87,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+32,4.0,"Endocrinas, nutricionales y metabólicas",10.0,Octubre,5,Jueves,2,Otoño,289,48,29,49,284.853,91,0,1,Secundaria,0,0,0,2,108,172,36,36.5,1
+15,23.0,Consulta médica,10.0,Octubre,6,Viernes,2,Otoño,291,31,12,40,284.853,91,0,1,Secundaria,1,1,0,1,73,171,25,25.0,1
+9,1.0,Enfermedades infecciosas y parasitarias,10.0,Octubre,4,Miércoles,2,Otoño,228,14,16,58,284.853,91,0,1,Secundaria,2,0,0,1,65,172,22,22.0,1
+15,23.0,Consulta médica,10.0,Octubre,4,Miércoles,2,Otoño,291,31,12,40,284.853,91,0,1,Secundaria,1,1,0,1,73,171,25,25.0,1
+28,13.0,Sistema musculoesquelético,10.0,Octubre,5,Jueves,2,Otoño,225,26,9,28,284.853,91,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+3,21.0,Factores de salud y contacto sanitario,11.0,Noviembre,3,Martes,2,Otoño,179,51,18,38,268.519,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+3,28.0,Consulta dental,11.0,Noviembre,6,Viernes,2,Otoño,179,51,18,38,268.519,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+3,28.0,Consulta dental,11.0,Noviembre,2,Lunes,2,Otoño,179,51,18,38,268.519,93,0,1,Secundaria,0,1,0,0,89,170,31,30.8,1
+15,28.0,Consulta dental,12.0,Diciembre,4,Miércoles,2,Otoño,291,31,12,40,280.549,98,0,1,Secundaria,1,1,0,1,73,171,25,25.0,1
+22,13.0,Sistema musculoesquelético,12.0,Diciembre,6,Viernes,2,Otoño,179,26,9,30,280.549,98,0,3,Posgrado,0,0,0,0,56,171,19,19.2,1
+22,13.0,Sistema musculoesquelético,5.0,Mayo,5,Jueves,4,Primavera,179,26,9,30,237.656,99,0,3,Posgrado,0,0,0,0,56,171,19,19.2,1
+34,28.0,Consulta dental,5.0,Mayo,3,Martes,4,Primavera,118,10,10,37,237.656,99,0,1,Secundaria,0,0,0,0,83,172,28,28.1,1
+17,16.0,Afecciones perinatales,5.0,Mayo,6,Viernes,4,Primavera,179,22,17,40,237.656,99,0,2,Grado,2,0,1,0,63,170,22,21.8,1
+28,11.0,Sistema digestivo,5.0,Mayo,2,Lunes,4,Primavera,225,26,9,28,237.656,99,0,1,Secundaria,1,0,0,2,69,169,24,24.2,1
+36,,,7.0,Julio,3,Martes,1,Verano,118,13,18,50,239.554,97,1,1,Secundaria,1,1,0,0,98,178,31,30.9,0
+20,,,9.0,Septiembre,2,Lunes,2,Otoño,260,50,11,36,241.476,92,1,1,Secundaria,4,1,0,0,65,168,23,23.0,0
+28,,,9.0,Septiembre,2,Lunes,2,Otoño,225,26,9,28,241.476,92,1,1,Secundaria,1,0,0,2,69,169,24,24.2,0
+11,,,9.0,Septiembre,3,Martes,2,Otoño,289,36,13,33,241.476,92,1,1,Secundaria,2,1,0,1,90,172,30,30.4,0
+36,,,9.0,Septiembre,3,Martes,2,Otoño,118,13,18,50,241.476,92,1,1,Secundaria,1,1,0,0,98,178,31,30.9,0
+13,,,9.0,Septiembre,4,Miércoles,2,Otoño,369,17,12,31,241.476,92,1,1,Secundaria,3,1,0,0,70,169,25,24.5,0
+36,,,10.0,Octubre,4,Miércoles,2,Otoño,118,13,18,50,253.465,93,1,1,Secundaria,1,1,0,0,98,178,31,30.9,0
+34,27.0,Fisioterapia,1.0,Enero,2,Lunes,3,Invierno,118,10,10,37,308.593,95,0,1,Secundaria,0,0,0,0,83,172,28,28.1,0
+2,,,4.0,Abril,2,Lunes,4,Primavera,235,29,12,48,326.452,96,1,1,Secundaria,1,0,1,5,88,163,33,33.1,0
+7,,,5.0,Mayo,4,Miércoles,4,Primavera,279,5,14,39,378.884,92,1,1,Secundaria,2,1,1,0,68,168,24,24.1,0
+18,,,5.0,Mayo,4,Miércoles,4,Primavera,330,16,4,28,378.884,92,1,2,Grado,0,0,0,0,84,182,25,25.4,0
+23,,,5.0,Mayo,4,Miércoles,4,Primavera,378,49,11,36,378.884,92,1,1,Secundaria,2,0,1,4,65,174,21,21.5,0
+31,,,5.0,Mayo,4,Miércoles,4,Primavera,388,15,9,50,378.884,92,1,1,Secundaria,0,0,0,0,76,178,24,24.0,0
+20,,,7.0,Julio,5,Jueves,1,Verano,260,50,11,36,275.312,98,1,1,Secundaria,4,1,0,0,65,168,23,23.0,0
+5,,,9.0,Septiembre,5,Jueves,1,Verano,235,20,13,43,294.217,81,1,1,Secundaria,1,1,0,0,106,167,38,38.0,0
+8,,,9.0,Septiembre,3,Martes,1,Verano,231,35,14,39,294.217,81,1,1,Secundaria,2,1,0,2,100,170,35,34.6,0
+19,,,9.0,Septiembre,3,Martes,1,Verano,291,50,12,32,294.217,81,1,1,Secundaria,0,1,0,0,65,169,23,22.8,0
+5,,,9.0,Septiembre,5,Jueves,2,Otoño,235,20,13,43,294.217,81,1,1,Secundaria,1,1,0,0,106,167,38,38.0,0
+36,,,10.0,Octubre,6,Viernes,2,Otoño,118,13,18,50,265.017,88,1,1,Secundaria,1,1,0,0,98,178,31,30.9,0
+33,,,10.0,Octubre,6,Viernes,2,Otoño,248,25,14,47,265.017,88,1,1,Secundaria,2,0,0,1,86,165,32,31.6,0
+5,,,10.0,Octubre,4,Miércoles,2,Otoño,235,20,13,43,265.017,88,1,1,Secundaria,1,1,0,0,106,167,38,38.0,0
+5,,,10.0,Octubre,6,Viernes,2,Otoño,235,20,13,43,265.017,88,1,1,Secundaria,1,1,0,0,106,167,38,38.0,0
+20,,,10.0,Octubre,3,Martes,2,Otoño,260,50,11,36,265.017,88,1,1,Secundaria,4,1,0,0,65,168,23,23.0,0
+15,,,10.0,Octubre,3,Martes,2,Otoño,291,31,12,40,265.017,88,1,1,Secundaria,1,1,0,1,73,171,25,25.0,0
+30,,,10.0,Octubre,3,Martes,2,Otoño,157,27,6,29,265.017,88,1,1,Secundaria,0,1,1,0,75,185,22,21.9,0
+18,,,11.0,Noviembre,3,Martes,2,Otoño,330,16,4,28,284.031,97,1,2,Grado,0,0,0,0,84,182,25,25.4,0
+23,,,11.0,Noviembre,6,Viernes,2,Otoño,378,49,11,36,284.031,97,1,1,Secundaria,2,0,1,4,65,174,21,21.5,0
+7,,,11.0,Noviembre,3,Martes,2,Otoño,279,5,14,39,284.031,97,1,1,Secundaria,2,1,1,0,68,168,24,24.1,0
+13,,,3.0,Marzo,4,Miércoles,3,Invierno,369,17,12,31,244.387,98,1,1,Secundaria,3,1,0,0,70,169,25,24.5,0
+1,,,3.0,Marzo,5,Jueves,4,Primavera,235,11,14,37,244.387,98,1,3,Posgrado,1,0,0,1,88,172,29,29.7,0
+24,,,3.0,Marzo,5,Jueves,4,Primavera,246,25,16,41,244.387,98,1,1,Secundaria,0,1,0,0,67,170,23,23.2,0
+36,,,3.0,Marzo,5,Jueves,4,Primavera,118,13,18,50,244.387,98,1,1,Secundaria,1,1,0,0,98,178,31,30.9,0
+3,,,6.0,Junio,6,Viernes,4,Primavera,179,51,18,38,253.957,95,1,1,Secundaria,0,1,0,0,89,170,31,30.8,0
+28,,,10.0,Octubre,2,Lunes,2,Otoño,225,26,9,28,284.853,91,1,1,Secundaria,1,0,0,2,69,169,24,24.2,0
+15,,,11.0,Noviembre,3,Martes,2,Otoño,291,31,12,40,268.519,93,1,1,Secundaria,1,1,0,1,73,171,25,25.0,0
+11,,,11.0,Noviembre,4,Miércoles,2,Otoño,289,36,13,33,268.519,93,1,1,Secundaria,2,1,0,1,90,172,30,30.4,0
+5,,,11.0,Noviembre,5,Jueves,2,Otoño,235,20,13,43,268.519,93,1,1,Secundaria,1,1,0,0,106,167,38,38.0,0
+36,,,5.0,Mayo,3,Martes,4,Primavera,118,13,18,50,237.656,99,1,1,Secundaria,1,1,0,0,98,178,31,30.9,0
+23,,,5.0,Mayo,4,Miércoles,4,Primavera,378,49,11,36,237.656,99,1,1,Secundaria,2,0,1,4,65,174,21,21.5,0
+2,,,6.0,Junio,2,Lunes,4,Primavera,235,29,12,48,275.089,96,1,1,Secundaria,1,0,1,5,88,163,33,33.1,0
+21,,,6.0,Junio,2,Lunes,4,Primavera,268,11,8,33,275.089,96,1,2,Grado,0,0,0,0,79,178,25,24.9,0
+4,,,,,3,Martes,1,Verano,118,14,13,40,271.219,95,0,1,Secundaria,1,1,0,8,98,170,34,33.9,0
+8,,,,,4,Miércoles,3,Invierno,231,35,14,39,271.219,95,0,1,Secundaria,2,1,0,2,100,170,35,34.6,0
+35,,,,,6,Viernes,4,Primavera,179,45,14,53,271.219,95,0,1,Secundaria,1,0,0,1,77,175,25,25.1,0

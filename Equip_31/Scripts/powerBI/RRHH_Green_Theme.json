@@ -1,0 +1,13 @@
+{
+  "name": "RRHH Green",
+  "dataColors": [
+    "#7FB8A4",
+    "#A8D5C2",
+    "#5E9C87",
+    "#CFE8DE",
+    "#D9D9D9"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2B2B2B",
+  "tableAccent": "#2E8B57"
+}

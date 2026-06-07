@@ -1,0 +1,20 @@
+,Odds Ratio (OR),P-valor
+Intercept,0.4081,0.0
+"C(contact, Treatment(reference='telephone'))[T.cellular]",1.4679,0.0163
+"C(contact, Treatment(reference='telephone'))[T.unknown]",0.703,0.0414
+"C(age_tier, Treatment(reference='Adult (36-55)'))[T.Senior (>55)]",2.1037,0.0001
+"C(age_tier, Treatment(reference='Adult (36-55)'))[T.Young (<=35)]",1.1204,0.5866
+"C(debt_profile, Treatment(reference='With Debt'))[T.No Debt]",2.2446,0.0
+"C(balance_tier, Treatment(reference='Negative or Zero'))[T.High Balance]",1.791,0.0
+"C(balance_tier, Treatment(reference='Negative or Zero'))[T.Low Balance]",1.1472,0.0462
+"C(balance_tier, Treatment(reference='Negative or Zero'))[T.Medium Balance]",1.4869,0.0
+C(poutcome)[T.no_pcampaign],0.8611,0.0237
+C(poutcome)[T.other],1.271,0.0278
+C(poutcome)[T.success],8.1767,0.0
+"C(contact, Treatment(reference='telephone'))[T.cellular]:C(age_tier, Treatment(reference='Adult (36-55)'))[T.Senior (>55)]",0.7275,0.1239
+"C(contact, Treatment(reference='telephone'))[T.unknown]:C(age_tier, Treatment(reference='Adult (36-55)'))[T.Senior (>55)]",0.4691,0.0048
+"C(contact, Treatment(reference='telephone'))[T.cellular]:C(age_tier, Treatment(reference='Adult (36-55)'))[T.Young (<=35)]",1.237,0.3233
+"C(contact, Treatment(reference='telephone'))[T.unknown]:C(age_tier, Treatment(reference='Adult (36-55)'))[T.Young (<=35)]",1.2317,0.3761
+"C(contact, Treatment(reference='telephone'))[T.cellular]:C(debt_profile, Treatment(reference='With Debt'))[T.No Debt]",0.9224,0.6541
+"C(contact, Treatment(reference='telephone'))[T.unknown]:C(debt_profile, Treatment(reference='With Debt'))[T.No Debt]",0.508,0.0013
+campaign,0.9107,0.0

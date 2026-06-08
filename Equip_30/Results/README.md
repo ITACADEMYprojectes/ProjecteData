@@ -3,16 +3,15 @@
 ## Estructura
 results/ 
     ├── 05-25-2026/ # La presentación de la semana del 25/05/2026
+    ├── 06-01-2026/ # La presentación de la semana del 01/06/2026
 
 
 ## Descripción
-1. **El reporte.pdf**
-- *Función:* La presentación del reporte.
+1. **05-25-2026_Business-Report.pdf**
+- *Función:* La presentación del reporte de la semana del 25/05/2026.
 
 
-2. **Bank_Marketing_kpi's__dashboard-25_May.pbix**
-- *Función:* La calculación de los indicadores claves de rendimiento (KPI) usando Power BI.
+2. **06-01-2026_Business-Report.pdf**
+- *Función:* La presentación del reporte de la semana del 01/06/2026.
 
 
-3. **Bank_Marketing_Report_M&C-25_May.pdf**
-- *Función:* El reporte del analisis de Marketing.

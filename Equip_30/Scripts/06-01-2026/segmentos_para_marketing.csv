@@ -1,0 +1,5 @@
+Segmento,Tasa Conversión Depósito,Prioridad,Edad Media,Balance Medio,Ocupación,Estado Civil,Educación,Acción Recomendada
+Seniors Jubilados,0.578,1,61.44,2218.31,retired,married,secondary,Fidelización: acceso a eventos exclusivos y asesor personal | Venta cruzada: ofrecer primer préstamo personal pre-aprobado | Plan de ahorro sistemático o seguro de vida-ahorro | Asesoramiento en herencias y productos de renta vitalicia
+Activos Operarios,0.504,2,30.19,1151.77,blue-collar,single,secondary,Fidelización: acceso a eventos exclusivos y asesor personal | Oferta de tarjeta de crédito con beneficios o mejora de préstamo | Seguros de hogar o salud familiar
+Activos Directivos,0.494,3,36.08,1646.65,management,married,tertiary,Oferta estándar: depósito a plazo con tasa competitiva | Oferta de tarjeta de crédito con beneficios o mejora de préstamo | Plan de ahorro sistemático o seguro de vida-ahorro | Seguros de hogar o salud familiar
+Consolidados Técnicos,0.393,4,45.63,1448.41,technician,married,secondary,Oferta estándar: depósito a plazo con tasa competitiva | Oferta de tarjeta de crédito con beneficios o mejora de préstamo | Seguros de hogar o salud familiar

@@ -6,7 +6,7 @@ El proyecto se divide en módulos que siguen la lógica de CRISP-DM:
 Data/ 
     ├── 05-25-2026/ # Los datos de la semana del 25/05/2026
     ├── 06-01-2026/ # Los datos de la semana del 01/06/2026
-    ├── 06-08-2026/ # Los datos de la semana del 01/06/2026
+    ├── 06-08-2026/ # Los datos de la semana del 08/06/2026
     README.md
 
 

@@ -6,6 +6,7 @@ El proyecto se divide en módulos que siguen la lógica de CRISP-DM:
 Scripts/ 
     ├── 05-25-2026/ # Scripts de la semana del 25/05/2026
     ├── 06-01-2026/ # Scripts de la semana del 01/06/2026
+    ├── 06-08-2026/ # Scripts de la semana del 08/06/2026
     README.md
 
 ## Ejecutación
@@ -82,4 +83,41 @@ Scripts/
 
 
     6. **06-01-2026_kpi's.pbix**
+    - *Función:* Calculos KPI's por Power BI.
+
+
+
+├── 06-08-2026/ 
+
+    Los scripts se ejecutan uno por uno:
+    1. 06-08-2026_Analysis-EDA.ipynb
+    2. 06-08-2026_Clean-Data.ipynb
+    3. 06-08-2026_Analysis-Marketing.ipynb
+    4. 06-08-2026_Analysis-Client-Profile.ipynb
+    5. 06-08-2026_Analysis-Finance.ipynb
+    6. 06-08-2026_kpi's.pbix
+
+
+    ### Descripción
+    1. **06-08-2026_Analysis-EDA.ipynb**
+    - *Función:* Exploración Inicial de los Datos (Exploratory Data Analysis - EDA).
+
+
+    2. **06-08-2026_Clean-Data.ipynb**
+    - *Función:* Procesa los datos faltantes, los valores atípicos y las categorías de códigos. Guarda los datos limpios en `Data/06-08-2026`.
+
+
+    3. **06-08-2026_Analysis-Marketing.ipynb**
+    - *Función:* El análisis de Marketing y Comunicación. 
+
+
+    4. **06-08-2026_Analysis-Client-Profile.ipynb**
+    - *Función:* El análisis del Perfil del Cliente.
+
+
+    5. **06-08-2026_Analysis-Finance.ipynb**
+    - *Función:* El análisis de Finanzas y Riesgo Crediticio.
+
+
+    6. **06-08-2026_kpi's.pbix**
     - *Función:* Calculos KPI's por Power BI.

@@ -14,4 +14,7 @@ results/
 2. **06-01-2026_Business-Report.pdf**
 - *Función:* La presentación del reporte de la semana del 01/06/2026.
 
+3. **06-08-2026_Business-Report.pdf**
+- *Función:* La presentación del reporte de la semana del 08/06/2026.
+
 

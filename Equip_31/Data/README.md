@@ -1,4 +1,4 @@
-# Data Carpeta para almacenar datos del proyecto.
+# Data Carpeta para almacenar datos del proyecto
 
 # Estructura de la carpeta Data
 
@@ -18,14 +18,14 @@ Donde:
 Para los datos de la **[EAL](https://www.mites.gob.es/es/estadisticas/mercado_trabajo/EAL/welcome.htm)**, el flujo de trabajo es más detallado porque los archivos Excel originales contienen múltiples tablas con estructuras diferentes. Por este motivo, el proceso de extracción de la EAL incluye fases intermedias y procesadas:
 
 ```text
-raw/EAL_15062026 → interim/EAL_15062026 → processed/EAL_15062026 → clean/EAL_15062026
+raw/EAL_15062026 → pre_processed_2020_2024/EAL_15062026 → Processed_2020_2024/EAL_15062026 → clean/EAL_15062026
 ```
 
 ## raw/
 
 Contiene los archivos originales o fuente, sin modificaciones manuales.
 
-## interim/
+## pre_processed/
 
 Contiene archivos intermedios generados durante el proceso de extracción o transformación.
 

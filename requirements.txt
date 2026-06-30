@@ -1,0 +1,50 @@
+
+# =====================================================
+# Simulador Empresarial - IT Academy
+# Requirements
+# =====================================================
+
+# Data Analysis
+pandas
+numpy
+
+# Visualización
+matplotlib
+plotly
+
+# Jupyter
+jupyter
+ipykernel
+notebook
+
+# Archivos Excel
+openpyxl
+
+# HTTP APIs
+requests
+
+# Variables de entorno
+python-dotenv
+
+# Calidad del código
+black
+flake8
+isort
+
+# Testing
+pytest
+
+# Barra de progreso
+tqdm
+
+# Fechas
+python-dateutil
+
+# GitHub / JSON
+PyYAML
+
+# Utilidades
+tabulate
+
+# Machine Learning LM 
+scikit-learn

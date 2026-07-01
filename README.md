@@ -42,4 +42,29 @@ Rols possibles:
 ### ¡TREBALLA EN EQUIP!
 -  Tota la planificació del treball la trobaràs en el tauler Kanban corresponent al projecte del **teu equip**. Per exemple: @ITACADEMYprojectes's Equip B
 
+---
+
+## Estat actual — Equip 33
+
+> Secció de documentació interna de l'equip. Actualitzada el 2026-07-01.
+
+Contingut actual de la carpeta `Equip_33/`:
+
+### `Data/`
+- `DatasetOriginal_2026-06-29.csv` — dataset original sense processar.
+- `DatasetClean_2026-06-29.csv` — dataset net i preparat per a l'anàlisi.
+- `Informe_Data_Understanding_2026-06-29.pdf` — informe de comprensió de les dades.
+
+### `Scripts/`
+- `EDA_2026-06-29.ipynb` — notebook d'anàlisi exploratòria de dades (EDA).
+
+### `Results/`
+- (encara sense resultats; s'hi desaran gràfics i informes finals.)
+
+### Nomenclatura i bones pràctiques
+- Fitxers amb data en format `NomDescriptiu_AAAA-MM-DD` per mantenir l'historial ordenat.
+- Un script = una responsabilitat; codi documentat amb comentaris i docstrings.
+- Commits freqüents i descriptius. Tot l'equip treballa sobre la branca `Equip_33`:
+  fer sempre `git pull` abans de `git push`.
+
   

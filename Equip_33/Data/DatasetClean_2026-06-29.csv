@@ -701,3 +701,6 @@ ID_Absence,ID_Employee,Reason_Absence,Reason_Absence_Desc,Month_Absence,Day_Week
 700,23,0,"Sin ausencia registrada",5,4,Miércoles,3,Invierno,378,49,11,36,237.656,99,1,1,"Educación secundaria",2,0,1,4,65,174,21,0
 701,2,0,"Sin ausencia registrada",6,2,Lunes,3,Invierno,235,29,12,48,275.089,96,1,1,"Educación secundaria",1,0,1,5,88,163,33,0
 702,21,0,"Sin ausencia registrada",6,2,Lunes,3,Invierno,268,11,8,33,275.089,96,1,2,Graduado,0,0,0,0,79,178,25,0
+703,4,0,"Sin ausencia registrada",0,3,Martes,1,Verano,118,14,13,40,271.219,95,0,1,"Educación secundaria",1,1,0,8,98,170,34,0
+704,8,0,"Sin ausencia registrada",0,4,Miércoles,2,Otoño,231,35,14,39,271.219,95,0,1,"Educación secundaria",2,1,0,2,100,170,35,0
+705,35,0,"Sin ausencia registrada",0,6,Viernes,3,Invierno,179,45,14,53,271.219,95,0,1,"Educación secundaria",1,0,0,1,77,175,25,0

@@ -1,9 +1,0 @@
-﻿city,estadistico_f,p_valor,diferencia_significativa
-barcelona,28.9088,0.001996,True
-girona,3.9788,0.003992,True
-madrid,20.3513,0.001996,True
-malaga,12.5147,0.001996,True
-mallorca,25.8937,0.001996,True
-menorca,0.3412,0.794411,False
-sevilla,4.8441,0.003992,True
-valencia,2.1986,0.085828,False

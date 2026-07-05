@@ -1,4 +1,4 @@
-# Results Carpeta para almacenar resultados y salidas del proyecto.
+# Results Carpeta para almacenar resultados y salidas del proyecto.# Carpeta Results
 
 Esta carpeta contiene los entregables finales del Sprint 1 del proyecto **StaySpain**.
 

@@ -1,6 +1,6 @@
 # Data Carpeta para almacenar datos del proyecto.
 
-Esta carpeta contiene los principales archivos de datos utilizados en el proyecto **StaySpain — Sprint 1**.
+Esta carpeta contiene los principales archivos de datos utilizados en el proyecto **StaySpain — 29/06/2026**.
 
 El flujo de preparación de los datos ha seguido cuatro etapas:
 

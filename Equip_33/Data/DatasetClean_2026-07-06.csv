@@ -1,0 +1,806 @@
+ID_Absence,ID_Employee,Reason_Absence,Reason_Absence_Desc,Month_Absence,Day_Week,Day_Week_Desc,Seasons,Season_Desc,Transportation_Expense,Distance_Residence_Work,Service_Time,Age,Work_load_Average_Day,Hit_Target,Disciplinary_Failure,Education,Education_Desc,Son,Social_Drinker,Social_Smoker,Pet,Weight,Height,Body_Mass_Index,Absenteeism_Hours
+0,14,11,"Enfermedades del sistema digestivo",11,2,Lunes,4,Otoño,155,12,14,34,284.031,97,0,1,"Educación secundaria",2,1,0,0,95,196,25,120
+1,36,13,"Enfermedades del sistema musculoesquelético",4,4,Miércoles,2,Primavera,118,13,18,50,239.409,98,0,1,"Educación secundaria",1,1,0,0,98,178,31,120
+2,9,6,"Enfermedades del sistema nervioso",7,3,Martes,3,Verano,228,14,16,58,264.604,93,0,1,"Educación secundaria",2,0,0,1,65,172,22,120
+3,28,9,"Enfermedades del sistema circulatorio",7,3,Martes,3,Verano,225,26,9,28,230.29,92,0,1,"Educación secundaria",1,0,0,2,69,169,24,112
+4,9,12,"Enfermedades de la piel",3,3,Martes,2,Primavera,228,14,16,58,222.196,99,0,1,"Educación secundaria",2,0,0,1,65,172,22,112
+5,11,19,"Lesiones y envenenamientos",3,2,Lunes,2,Primavera,289,36,13,33,222.196,99,0,1,"Educación secundaria",2,1,0,1,90,172,30,104
+6,36,13,"Enfermedades del sistema musculoesquelético",6,4,Miércoles,3,Verano,118,13,18,50,377.55,94,0,1,"Educación secundaria",1,1,0,0,98,178,31,80
+7,14,18,"Síntomas y hallazgos clínicos no clasificados",12,3,Martes,1,Invierno,155,12,14,34,280.549,98,0,1,"Educación secundaria",2,1,0,0,95,196,25,80
+8,13,13,"Enfermedades del sistema musculoesquelético",7,2,Lunes,3,Verano,369,17,12,31,264.604,93,0,1,"Educación secundaria",3,1,0,0,70,169,25,80
+9,34,19,"Lesiones y envenenamientos",12,3,Martes,1,Invierno,118,10,10,37,261.306,97,0,1,"Educación secundaria",0,0,0,0,83,172,28,64
+10,22,1,"Enfermedades infecciosas y parasitarias",10,4,Miércoles,4,Otoño,179,26,9,30,265.017,88,0,3,Postgrado,0,0,0,0,56,171,19,64
+11,26,19,"Lesiones y envenenamientos",5,6,Viernes,2,Primavera,300,26,13,43,237.656,99,0,1,"Educación secundaria",2,1,1,1,77,175,25,64
+12,34,19,"Lesiones y envenenamientos",12,3,Martes,1,Invierno,118,10,10,37,261.306,97,0,1,"Educación secundaria",0,0,0,0,83,172,28,56
+13,20,19,"Lesiones y envenenamientos",4,6,Viernes,2,Primavera,260,50,11,36,326.452,96,0,1,"Educación secundaria",4,1,0,0,65,168,23,56
+14,14,10,"Enfermedades del sistema respiratorio",5,2,Lunes,2,Primavera,155,12,14,34,237.656,99,0,1,"Educación secundaria",2,1,0,0,95,196,25,48
+15,14,19,"Lesiones y envenenamientos",7,2,Lunes,3,Verano,155,12,14,34,239.554,97,0,1,"Educación secundaria",2,1,0,0,95,196,25,40
+16,10,13,"Enfermedades del sistema musculoesquelético",8,2,Lunes,3,Verano,361,52,3,28,205.917,92,0,1,"Educación secundaria",1,1,0,4,80,172,27,40
+17,15,14,"Enfermedades del sistema genito-urinario",11,2,Lunes,4,Otoño,291,31,12,40,306.345,93,0,1,"Educación secundaria",1,1,0,1,73,171,25,40
+18,20,13,"Enfermedades del sistema musculoesquelético",3,6,Viernes,2,Primavera,260,50,11,36,343.253,95,0,1,"Educación secundaria",4,1,0,0,65,168,23,40
+19,17,11,"Enfermedades del sistema digestivo",3,2,Lunes,2,Primavera,179,22,17,40,343.253,95,0,2,Graduado,2,0,1,0,63,170,22,40
+20,15,7,"Enfermedades del ojo",9,2,Lunes,4,Otoño,291,31,12,40,294.217,81,0,1,"Educación secundaria",1,1,0,1,73,171,25,40
+21,15,13,"Enfermedades del sistema musculoesquelético",6,2,Lunes,3,Verano,291,31,12,40,253.957,95,0,1,"Educación secundaria",1,1,0,1,73,171,25,40
+22,15,14,"Enfermedades del sistema genito-urinario",9,2,Lunes,4,Otoño,291,31,12,40,241.476,92,0,1,"Educación secundaria",1,1,0,1,73,171,25,32
+23,14,10,"Enfermedades del sistema respiratorio",11,2,Lunes,4,Otoño,155,12,14,34,306.345,93,0,1,"Educación secundaria",2,1,0,0,95,196,25,32
+24,11,19,"Lesiones y envenenamientos",7,2,Lunes,3,Verano,289,36,13,33,275.312,98,0,1,"Educación secundaria",2,1,0,1,90,172,30,32
+25,24,9,"Enfermedades del sistema circulatorio",9,4,Miércoles,4,Otoño,246,25,16,41,294.217,81,0,1,"Educación secundaria",0,1,0,0,67,170,23,32
+26,34,19,"Lesiones y envenenamientos",1,2,Lunes,1,Invierno,118,10,10,37,330.061,100,0,1,"Educación secundaria",0,0,0,0,83,172,28,32
+27,3,13,"Enfermedades del sistema musculoesquelético",12,3,Martes,1,Invierno,179,51,18,38,280.549,98,0,1,"Educación secundaria",0,1,0,0,89,170,31,32
+28,11,7,"Enfermedades del ojo",11,4,Miércoles,4,Otoño,289,36,13,33,306.345,93,0,1,"Educación secundaria",2,1,0,1,90,172,30,24
+29,3,13,"Enfermedades del sistema musculoesquelético",3,3,Martes,2,Primavera,179,51,18,38,343.253,95,0,1,"Educación secundaria",0,1,0,0,89,170,31,24
+30,24,13,"Enfermedades del sistema musculoesquelético",4,4,Miércoles,2,Primavera,246,25,16,41,326.452,96,0,1,"Educación secundaria",0,1,0,0,67,170,23,24
+31,3,13,"Enfermedades del sistema musculoesquelético",4,4,Miércoles,2,Primavera,179,51,18,38,326.452,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,24
+32,14,12,"Enfermedades de la piel",4,4,Miércoles,2,Primavera,155,12,14,34,326.452,96,0,1,"Educación secundaria",2,1,0,0,95,196,25,24
+33,11,13,"Enfermedades del sistema musculoesquelético",5,4,Miércoles,2,Primavera,289,36,13,33,378.884,92,0,1,"Educación secundaria",2,1,0,1,90,172,30,24
+34,36,13,"Enfermedades del sistema musculoesquelético",5,4,Miércoles,2,Primavera,118,13,18,50,378.884,92,0,1,"Educación secundaria",1,1,0,0,98,178,31,24
+35,24,10,"Enfermedades del sistema respiratorio",6,3,Martes,3,Verano,246,25,16,41,377.55,94,0,1,"Educación secundaria",0,1,0,0,67,170,23,24
+36,11,19,"Lesiones y envenenamientos",9,4,Miércoles,4,Otoño,289,36,13,33,294.217,81,0,1,"Educación secundaria",2,1,0,1,90,172,30,24
+37,24,10,"Enfermedades del sistema respiratorio",2,6,Viernes,1,Invierno,246,25,16,41,251.818,96,0,1,"Educación secundaria",0,1,0,0,67,170,23,24
+38,3,28,"Consulta dental",6,2,Lunes,3,Verano,179,51,18,38,253.957,95,0,1,"Educación secundaria",0,1,0,0,89,170,31,24
+39,18,2,"Neoplasias (tumores)",11,4,Miércoles,4,Otoño,330,16,4,28,268.519,93,0,2,Graduado,0,0,0,0,84,182,25,24
+40,22,12,"Enfermedades de la piel",1,2,Lunes,1,Invierno,179,26,9,30,313.532,96,0,3,Postgrado,0,0,0,0,56,171,19,24
+41,14,13,"Enfermedades del sistema musculoesquelético",3,4,Miércoles,2,Primavera,155,12,14,34,222.196,99,0,1,"Educación secundaria",2,1,0,0,95,196,25,24
+42,13,7,"Enfermedades del ojo",4,2,Lunes,2,Primavera,369,17,12,31,246.288,91,0,1,"Educación secundaria",3,1,0,0,70,169,25,24
+43,36,19,"Lesiones y envenenamientos",6,5,Jueves,3,Verano,118,13,18,50,275.089,96,0,1,"Educación secundaria",1,1,0,0,98,178,31,24
+44,20,19,"Lesiones y envenenamientos",10,5,Jueves,4,Otoño,260,50,11,36,253.465,93,0,1,"Educación secundaria",4,1,0,0,65,168,23,16
+45,14,1,"Enfermedades infecciosas y parasitarias",3,2,Lunes,2,Primavera,155,12,14,34,343.253,95,0,1,"Educación secundaria",2,1,0,0,95,196,25,16
+46,20,26,"Ausencia injustificada",3,2,Lunes,2,Primavera,260,50,11,36,343.253,95,0,1,"Educación secundaria",4,1,0,0,65,168,23,16
+47,28,11,"Enfermedades del sistema digestivo",3,4,Miércoles,2,Primavera,225,26,9,28,343.253,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,16
+48,7,14,"Enfermedades del sistema genito-urinario",3,5,Jueves,2,Primavera,279,5,14,39,343.253,95,0,1,"Educación secundaria",2,1,1,0,68,168,24,16
+49,11,13,"Enfermedades del sistema musculoesquelético",4,5,Jueves,2,Primavera,289,36,13,33,326.452,96,0,1,"Educación secundaria",2,1,0,1,90,172,30,16
+50,1,13,"Enfermedades del sistema musculoesquelético",6,6,Viernes,3,Verano,235,11,14,37,377.55,94,0,3,Postgrado,1,0,0,1,88,172,29,16
+51,14,19,"Lesiones y envenenamientos",7,3,Martes,3,Verano,155,12,14,34,275.312,98,0,1,"Educación secundaria",2,1,0,0,95,196,25,16
+52,24,9,"Enfermedades del sistema circulatorio",9,2,Lunes,4,Otoño,246,25,16,41,294.217,81,0,1,"Educación secundaria",0,1,0,0,67,170,23,16
+53,11,19,"Lesiones y envenenamientos",10,5,Jueves,4,Otoño,289,36,13,33,265.017,88,0,1,"Educación secundaria",2,1,0,1,90,172,30,16
+54,22,23,"Consulta médica",10,5,Jueves,4,Otoño,179,26,9,30,265.017,88,0,3,Postgrado,0,0,0,0,56,171,19,16
+55,30,11,"Enfermedades del sistema digestivo",2,4,Miércoles,1,Invierno,157,27,6,29,251.818,96,0,1,"Educación secundaria",0,1,1,0,75,185,22,16
+56,24,19,"Lesiones y envenenamientos",3,4,Miércoles,2,Primavera,246,25,16,41,244.387,98,0,1,"Educación secundaria",0,1,0,0,67,170,23,16
+57,3,28,"Consulta dental",3,2,Lunes,2,Primavera,179,51,18,38,244.387,98,0,1,"Educación secundaria",0,1,0,0,89,170,31,16
+58,5,13,"Enfermedades del sistema musculoesquelético",5,2,Lunes,2,Primavera,235,20,13,43,246.074,99,0,1,"Educación secundaria",1,1,0,0,106,167,38,16
+59,18,23,"Consulta médica",8,5,Jueves,3,Verano,330,16,4,28,249.797,93,0,2,Graduado,0,0,0,0,84,182,25,16
+60,22,13,"Enfermedades del sistema musculoesquelético",12,3,Martes,1,Invierno,179,26,9,30,280.549,98,0,3,Postgrado,0,0,0,0,56,171,19,16
+61,22,12,"Enfermedades de la piel",1,5,Jueves,1,Invierno,179,26,9,30,313.532,96,0,3,Postgrado,0,0,0,0,56,171,19,16
+62,6,22,"Seguimiento de paciente",7,3,Martes,3,Verano,189,29,13,33,264.604,93,0,1,"Educación secundaria",2,0,0,2,69,167,25,16
+63,10,22,"Seguimiento de paciente",7,6,Viernes,3,Verano,361,52,3,28,239.554,97,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+64,1,22,"Seguimiento de paciente",7,2,Lunes,3,Verano,235,11,14,37,239.554,97,0,3,Postgrado,1,0,0,1,88,172,29,8
+65,20,1,"Enfermedades infecciosas y parasitarias",7,2,Lunes,3,Verano,260,50,11,36,239.554,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+66,20,1,"Enfermedades infecciosas y parasitarias",7,3,Martes,3,Verano,260,50,11,36,239.554,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+67,20,11,"Enfermedades del sistema digestivo",7,4,Miércoles,3,Verano,260,50,11,36,239.554,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+68,24,14,"Enfermedades del sistema genito-urinario",7,6,Viernes,3,Verano,246,25,16,41,239.554,97,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+69,3,21,"Factores que influyen en el estado de salud",7,2,Lunes,3,Verano,179,51,18,38,239.554,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+70,6,11,"Enfermedades del sistema digestivo",7,5,Jueves,3,Verano,189,29,13,33,239.554,97,0,1,"Educación secundaria",2,0,0,2,69,167,25,8
+71,18,10,"Enfermedades del sistema respiratorio",8,4,Miércoles,3,Verano,330,16,4,28,205.917,92,0,2,Graduado,0,0,0,0,84,182,25,8
+72,11,18,"Síntomas y hallazgos clínicos no clasificados",8,2,Lunes,3,Verano,289,36,13,33,205.917,92,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+73,11,18,"Síntomas y hallazgos clínicos no clasificados",8,4,Miércoles,3,Verano,289,36,13,33,205.917,92,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+74,3,18,"Síntomas y hallazgos clínicos no clasificados",8,2,Lunes,3,Verano,179,51,18,38,205.917,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+75,2,18,"Síntomas y hallazgos clínicos no clasificados",8,5,Jueves,3,Verano,235,29,12,48,205.917,92,0,1,"Educación secundaria",1,0,1,5,88,163,33,8
+76,2,18,"Síntomas y hallazgos clínicos no clasificados",8,2,Lunes,3,Verano,235,29,12,48,205.917,92,0,1,"Educación secundaria",1,0,1,5,88,163,33,8
+77,11,24,"Donación de sangre",8,3,Martes,3,Verano,289,36,13,33,205.917,92,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+78,2,28,"Consulta dental",8,6,Viernes,3,Verano,235,29,12,48,205.917,92,0,1,"Educación secundaria",1,0,1,5,88,163,33,8
+79,5,19,"Lesiones y envenenamientos",9,3,Martes,4,Otoño,235,20,13,43,241.476,92,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+80,20,22,"Seguimiento de paciente",9,6,Viernes,4,Otoño,260,50,11,36,241.476,92,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+81,3,23,"Consulta médica",10,4,Miércoles,4,Otoño,179,51,18,38,253.465,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+82,15,14,"Enfermedades del sistema genito-urinario",10,3,Martes,4,Otoño,291,31,12,40,253.465,93,0,1,"Educación secundaria",1,1,0,1,73,171,25,8
+83,11,26,"Ausencia injustificada",10,4,Miércoles,4,Otoño,289,36,13,33,253.465,93,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+84,3,13,"Enfermedades del sistema musculoesquelético",11,5,Jueves,4,Otoño,179,51,18,38,306.345,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+85,17,21,"Factores que influyen en el estado de salud",11,5,Jueves,4,Otoño,179,22,17,40,306.345,93,0,2,Graduado,2,0,1,0,63,170,22,8
+86,6,22,"Seguimiento de paciente",11,2,Lunes,4,Otoño,189,29,13,33,306.345,93,0,1,"Educación secundaria",2,0,0,2,69,167,25,8
+87,14,6,"Enfermedades del sistema nervioso",11,6,Viernes,4,Otoño,155,12,14,34,306.345,93,0,1,"Educación secundaria",2,1,0,0,95,196,25,8
+88,17,21,"Factores que influyen en el estado de salud",11,4,Miércoles,4,Otoño,179,22,17,40,306.345,93,0,2,Graduado,2,0,1,0,63,170,22,8
+89,1,26,"Ausencia injustificada",12,4,Miércoles,1,Invierno,235,11,14,37,261.306,97,0,3,Postgrado,1,0,0,1,88,172,29,8
+90,20,26,"Ausencia injustificada",12,6,Viernes,1,Invierno,260,50,11,36,261.306,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+91,10,22,"Seguimiento de paciente",12,4,Miércoles,1,Invierno,361,52,3,28,261.306,97,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+92,24,19,"Lesiones y envenenamientos",12,6,Viernes,1,Invierno,246,25,16,41,261.306,97,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+93,14,18,"Síntomas y hallazgos clínicos no clasificados",1,3,Martes,1,Invierno,155,12,14,34,308.593,95,0,1,"Educación secundaria",2,1,0,0,95,196,25,8
+94,22,18,"Síntomas y hallazgos clínicos no clasificados",1,3,Martes,1,Invierno,179,26,9,30,308.593,95,0,3,Postgrado,0,0,0,0,56,171,19,8
+95,11,18,"Síntomas y hallazgos clínicos no clasificados",1,3,Martes,1,Invierno,289,36,13,33,308.593,95,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+96,24,1,"Enfermedades infecciosas y parasitarias",2,4,Miércoles,1,Invierno,246,25,16,41,302.585,99,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+97,3,11,"Enfermedades del sistema digestivo",2,4,Miércoles,1,Invierno,179,51,18,38,302.585,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+98,6,23,"Consulta médica",2,5,Jueves,1,Invierno,189,29,13,33,302.585,99,0,1,"Educación secundaria",2,0,0,2,69,167,25,8
+99,11,22,"Seguimiento de paciente",2,6,Viernes,1,Invierno,289,36,13,33,302.585,99,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+100,31,11,"Enfermedades del sistema digestivo",2,2,Lunes,1,Invierno,388,15,9,50,302.585,99,0,1,"Educación secundaria",0,0,0,0,76,178,24,8
+101,31,1,"Enfermedades infecciosas y parasitarias",2,3,Martes,1,Invierno,388,15,9,50,302.585,99,0,1,"Educación secundaria",0,0,0,0,76,178,24,8
+102,27,23,"Consulta médica",2,3,Martes,1,Invierno,184,42,7,27,302.585,99,0,1,"Educación secundaria",0,0,0,0,58,167,21,8
+103,18,18,"Síntomas y hallazgos clínicos no clasificados",2,2,Lunes,1,Invierno,330,16,4,28,302.585,99,0,2,Graduado,0,0,0,0,84,182,25,8
+104,6,19,"Lesiones y envenenamientos",2,5,Jueves,1,Invierno,189,29,13,33,302.585,99,0,1,"Educación secundaria",2,0,0,2,69,167,25,8
+105,20,19,"Lesiones y envenenamientos",3,3,Martes,2,Primavera,260,50,11,36,343.253,95,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+106,17,17,"Malformaciones congénitas",3,3,Martes,2,Primavera,179,22,17,40,343.253,95,0,2,Graduado,2,0,1,0,63,170,22,8
+107,15,22,"Seguimiento de paciente",3,4,Miércoles,2,Primavera,291,31,12,40,343.253,95,0,1,"Educación secundaria",1,1,0,1,73,171,25,8
+108,20,13,"Enfermedades del sistema musculoesquelético",3,4,Miércoles,2,Primavera,260,50,11,36,343.253,95,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+109,22,13,"Enfermedades del sistema musculoesquelético",3,5,Jueves,2,Primavera,179,26,9,30,343.253,95,0,3,Postgrado,0,0,0,0,56,171,19,8
+110,14,13,"Enfermedades del sistema musculoesquelético",3,3,Martes,2,Primavera,155,12,14,34,343.253,95,0,1,"Educación secundaria",2,1,0,0,95,196,25,8
+111,11,6,"Enfermedades del sistema nervioso",3,5,Jueves,2,Primavera,289,36,13,33,343.253,95,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+112,17,8,"Enfermedades del oído",3,5,Jueves,2,Primavera,179,22,17,40,343.253,95,0,2,Graduado,2,0,1,0,63,170,22,8
+113,7,14,"Enfermedades del sistema genito-urinario",3,2,Lunes,2,Primavera,279,5,14,39,343.253,95,0,1,"Educación secundaria",2,1,1,0,68,168,24,8
+114,28,11,"Enfermedades del sistema digestivo",3,2,Lunes,2,Primavera,225,26,9,28,343.253,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+115,28,11,"Enfermedades del sistema digestivo",3,3,Martes,2,Primavera,225,26,9,28,343.253,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+116,24,14,"Enfermedades del sistema genito-urinario",4,6,Viernes,2,Primavera,246,25,16,41,326.452,96,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+117,33,28,"Consulta dental",4,6,Viernes,2,Primavera,248,25,14,47,326.452,96,0,1,"Educación secundaria",2,0,0,1,86,165,32,8
+118,11,19,"Lesiones y envenenamientos",4,3,Martes,2,Primavera,289,36,13,33,326.452,96,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+119,23,19,"Lesiones y envenenamientos",4,4,Miércoles,2,Primavera,378,49,11,36,326.452,96,0,1,"Educación secundaria",2,0,1,4,65,174,21,8
+120,11,13,"Enfermedades del sistema musculoesquelético",5,4,Miércoles,2,Primavera,289,36,13,33,378.884,92,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+121,3,18,"Síntomas y hallazgos clínicos no clasificados",5,3,Martes,2,Primavera,179,51,18,38,378.884,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+122,28,19,"Lesiones y envenenamientos",5,3,Martes,2,Primavera,225,26,9,28,378.884,92,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+123,10,22,"Seguimiento de paciente",5,6,Viernes,2,Primavera,361,52,3,28,378.884,92,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+124,24,19,"Lesiones y envenenamientos",6,2,Lunes,3,Verano,246,25,16,41,377.55,94,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+125,10,22,"Seguimiento de paciente",6,2,Lunes,3,Verano,361,52,3,28,377.55,94,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+126,24,10,"Enfermedades del sistema respiratorio",6,6,Viernes,3,Verano,246,25,16,41,377.55,94,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+127,3,11,"Enfermedades del sistema digestivo",6,2,Lunes,3,Verano,179,51,18,38,377.55,94,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+128,24,10,"Enfermedades del sistema respiratorio",6,2,Lunes,3,Verano,246,25,16,41,377.55,94,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+129,36,13,"Enfermedades del sistema musculoesquelético",6,4,Miércoles,3,Verano,118,13,18,50,377.55,94,0,1,"Educación secundaria",1,1,0,0,98,178,31,8
+130,23,22,"Seguimiento de paciente",6,5,Jueves,3,Verano,378,49,11,36,377.55,94,0,1,"Educación secundaria",2,0,1,4,65,174,21,8
+131,36,1,"Enfermedades infecciosas y parasitarias",7,4,Miércoles,3,Verano,118,13,18,50,275.312,98,0,1,"Educación secundaria",1,1,0,0,98,178,31,8
+132,34,5,"Trastornos mentales y del comportamiento",7,6,Viernes,3,Verano,118,10,10,37,275.312,98,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+133,18,26,"Ausencia injustificada",7,3,Martes,3,Verano,330,16,4,28,275.312,98,0,2,Graduado,0,0,0,0,84,182,25,8
+134,22,18,"Síntomas y hallazgos clínicos no clasificados",7,5,Jueves,3,Verano,179,26,9,30,275.312,98,0,3,Postgrado,0,0,0,0,56,171,19,8
+135,18,1,"Enfermedades infecciosas y parasitarias",7,2,Lunes,3,Verano,330,16,4,28,275.312,98,0,2,Graduado,0,0,0,0,84,182,25,8
+136,18,1,"Enfermedades infecciosas y parasitarias",7,3,Martes,3,Verano,330,16,4,28,275.312,98,0,2,Graduado,0,0,0,0,84,182,25,8
+137,10,22,"Seguimiento de paciente",7,3,Martes,3,Verano,361,52,3,28,275.312,98,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+138,11,26,"Ausencia injustificada",7,4,Miércoles,3,Verano,289,36,13,33,275.312,98,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+139,3,26,"Ausencia injustificada",7,5,Jueves,3,Verano,179,51,18,38,275.312,98,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+140,11,19,"Lesiones y envenenamientos",7,5,Jueves,3,Verano,289,36,13,33,275.312,98,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+141,11,19,"Lesiones y envenenamientos",8,6,Viernes,3,Verano,289,36,13,33,265.615,94,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+142,9,18,"Síntomas y hallazgos clínicos no clasificados",8,3,Martes,3,Verano,228,14,16,58,265.615,94,0,1,"Educación secundaria",2,0,0,1,65,172,22,8
+143,21,11,"Enfermedades del sistema digestivo",8,5,Jueves,3,Verano,268,11,8,33,265.615,94,0,2,Graduado,0,0,0,0,79,178,25,8
+144,1,19,"Lesiones y envenenamientos",8,5,Jueves,3,Verano,235,11,14,37,265.615,94,0,3,Postgrado,1,0,0,1,88,172,29,8
+145,10,8,"Enfermedades del oído",8,3,Martes,3,Verano,361,52,3,28,265.615,94,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+146,27,6,"Enfermedades del sistema nervioso",8,4,Miércoles,3,Verano,184,42,7,27,265.615,94,0,1,"Educación secundaria",0,0,0,0,58,167,21,8
+147,3,11,"Enfermedades del sistema digestivo",9,2,Lunes,4,Otoño,179,51,18,38,294.217,81,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+148,3,13,"Enfermedades del sistema musculoesquelético",9,4,Miércoles,4,Otoño,179,51,18,38,294.217,81,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+149,5,26,"Ausencia injustificada",9,4,Miércoles,4,Otoño,235,20,13,43,294.217,81,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+150,3,13,"Enfermedades del sistema musculoesquelético",9,2,Lunes,4,Otoño,179,51,18,38,294.217,81,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+151,11,24,"Donación de sangre",10,2,Lunes,4,Otoño,289,36,13,33,265.017,88,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+152,11,26,"Ausencia injustificada",10,2,Lunes,4,Otoño,289,36,13,33,265.017,88,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+153,11,22,"Seguimiento de paciente",10,6,Viernes,4,Otoño,289,36,13,33,265.017,88,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+154,22,1,"Enfermedades infecciosas y parasitarias",10,2,Lunes,4,Otoño,179,26,9,30,265.017,88,0,3,Postgrado,0,0,0,0,56,171,19,8
+155,13,22,"Seguimiento de paciente",10,2,Lunes,4,Otoño,369,17,12,31,265.017,88,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+156,10,10,"Enfermedades del sistema respiratorio",10,2,Lunes,4,Otoño,361,52,3,28,265.017,88,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+157,34,11,"Enfermedades del sistema digestivo",11,2,Lunes,4,Otoño,118,10,10,37,284.031,97,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+158,3,6,"Enfermedades del sistema nervioso",11,3,Martes,4,Otoño,179,51,18,38,284.031,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+159,23,1,"Enfermedades infecciosas y parasitarias",11,2,Lunes,4,Otoño,378,49,11,36,284.031,97,0,1,"Educación secundaria",2,0,1,4,65,174,21,8
+160,5,26,"Ausencia injustificada",11,2,Lunes,4,Otoño,235,20,13,43,284.031,97,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+161,24,13,"Enfermedades del sistema musculoesquelético",11,6,Viernes,4,Otoño,246,25,16,41,284.031,97,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+162,24,13,"Enfermedades del sistema musculoesquelético",11,2,Lunes,4,Otoño,246,25,16,41,284.031,97,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+163,20,10,"Enfermedades del sistema respiratorio",11,4,Miércoles,4,Otoño,260,50,11,36,284.031,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+164,20,15,"Embarazo, parto y puerperio",11,6,Viernes,4,Otoño,260,50,11,36,284.031,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+165,24,4,"Enfermedades endocrinas, nutricionales y metabólicas",12,5,Jueves,1,Invierno,246,25,16,41,236.629,93,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+166,34,25,"Examen de laboratorio",12,3,Martes,1,Invierno,118,10,10,37,236.629,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+167,5,13,"Enfermedades del sistema musculoesquelético",12,3,Martes,1,Invierno,235,20,13,43,236.629,93,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+168,20,26,"Ausencia injustificada",12,4,Miércoles,1,Invierno,260,50,11,36,236.629,93,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+169,11,19,"Lesiones y envenenamientos",12,2,Lunes,1,Invierno,289,36,13,33,236.629,93,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+170,11,26,"Ausencia injustificada",1,2,Lunes,1,Invierno,289,36,13,33,330.061,100,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+171,15,3,"Enfermedades de la sangre y del sistema inmunitario",1,4,Miércoles,1,Invierno,291,31,12,40,330.061,100,0,1,"Educación secundaria",1,1,0,1,73,171,25,8
+172,5,26,"Ausencia injustificada",1,2,Lunes,1,Invierno,235,20,13,43,330.061,100,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+173,3,10,"Enfermedades del sistema respiratorio",2,5,Jueves,1,Invierno,179,51,18,38,251.818,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+174,24,26,"Ausencia injustificada",2,5,Jueves,1,Invierno,246,25,16,41,251.818,96,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+175,6,22,"Seguimiento de paciente",2,2,Lunes,1,Invierno,189,29,13,33,251.818,96,0,1,"Educación secundaria",2,0,0,2,69,167,25,8
+176,34,18,"Síntomas y hallazgos clínicos no clasificados",3,3,Martes,2,Primavera,118,10,10,37,244.387,98,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+177,1,22,"Seguimiento de paciente",3,2,Lunes,2,Primavera,235,11,14,37,244.387,98,0,3,Postgrado,1,0,0,1,88,172,29,8
+178,17,22,"Seguimiento de paciente",3,3,Martes,2,Primavera,179,22,17,40,244.387,98,0,2,Graduado,2,0,1,0,63,170,22,8
+179,23,22,"Seguimiento de paciente",3,3,Martes,2,Primavera,378,49,11,36,244.387,98,0,1,"Educación secundaria",2,0,1,4,65,174,21,8
+180,10,22,"Seguimiento de paciente",3,4,Miércoles,2,Primavera,361,52,3,28,244.387,98,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+181,1,21,"Factores que influyen en el estado de salud",3,5,Jueves,2,Primavera,235,11,14,37,244.387,98,0,3,Postgrado,1,0,0,1,88,172,29,8
+182,36,13,"Enfermedades del sistema musculoesquelético",3,4,Miércoles,2,Primavera,118,13,18,50,244.387,98,0,1,"Educación secundaria",1,1,0,0,98,178,31,8
+183,3,28,"Consulta dental",3,6,Viernes,2,Primavera,179,51,18,38,244.387,98,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+184,11,22,"Seguimiento de paciente",3,6,Viernes,2,Primavera,289,36,13,33,244.387,98,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+185,20,19,"Lesiones y envenenamientos",3,2,Lunes,2,Primavera,260,50,11,36,244.387,98,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+186,18,23,"Consulta médica",4,4,Miércoles,2,Primavera,330,16,4,28,239.409,98,0,2,Graduado,0,0,0,0,84,182,25,8
+187,3,28,"Consulta dental",4,4,Miércoles,2,Primavera,179,51,18,38,239.409,98,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+188,26,28,"Consulta dental",4,6,Viernes,2,Primavera,300,26,13,43,239.409,98,0,1,"Educación secundaria",2,1,1,1,77,175,25,8
+189,13,10,"Enfermedades del sistema respiratorio",5,2,Lunes,2,Primavera,369,17,12,31,246.074,99,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+190,9,18,"Síntomas y hallazgos clínicos no clasificados",5,4,Miércoles,2,Primavera,228,14,16,58,246.074,99,0,1,"Educación secundaria",2,0,0,1,65,172,22,8
+191,18,13,"Enfermedades del sistema musculoesquelético",5,6,Viernes,2,Primavera,330,16,4,28,246.074,99,0,2,Graduado,0,0,0,0,84,182,25,8
+192,1,1,"Enfermedades infecciosas y parasitarias",5,2,Lunes,2,Primavera,235,11,14,37,246.074,99,0,3,Postgrado,1,0,0,1,88,172,29,8
+193,5,26,"Ausencia injustificada",6,3,Martes,3,Verano,235,20,13,43,253.957,95,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+194,3,5,"Trastornos mentales y del comportamiento",6,4,Miércoles,3,Verano,179,51,18,38,253.957,95,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+195,1,13,"Enfermedades del sistema musculoesquelético",6,3,Martes,3,Verano,235,11,14,37,253.957,95,0,3,Postgrado,1,0,0,1,88,172,29,8
+196,20,13,"Enfermedades del sistema musculoesquelético",7,6,Viernes,3,Verano,260,50,11,36,230.29,92,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+197,21,7,"Enfermedades del ojo",7,2,Lunes,3,Verano,268,11,8,33,230.29,92,0,2,Graduado,0,0,0,0,79,178,25,8
+198,18,25,"Examen de laboratorio",7,6,Viernes,3,Verano,330,16,4,28,230.29,92,0,2,Graduado,0,0,0,0,84,182,25,8
+199,34,26,"Ausencia injustificada",7,6,Viernes,3,Verano,118,10,10,37,230.29,92,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+200,34,28,"Consulta dental",7,3,Martes,3,Verano,118,10,10,37,230.29,92,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+201,26,15,"Embarazo, parto y puerperio",7,2,Lunes,3,Verano,300,26,13,43,230.29,92,0,1,"Educación secundaria",2,1,1,1,77,175,25,8
+202,10,22,"Seguimiento de paciente",7,6,Viernes,3,Verano,361,52,3,28,230.29,92,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+203,11,22,"Seguimiento de paciente",7,2,Lunes,3,Verano,289,36,13,33,230.29,92,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+204,5,26,"Ausencia injustificada",7,2,Lunes,3,Verano,235,20,13,43,230.29,92,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+205,11,26,"Ausencia injustificada",8,3,Martes,3,Verano,289,36,13,33,249.797,93,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+206,5,26,"Ausencia injustificada",8,3,Martes,3,Verano,235,20,13,43,249.797,93,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+207,17,25,"Examen de laboratorio",8,3,Martes,3,Verano,179,22,17,40,249.797,93,0,2,Graduado,2,0,1,0,63,170,22,8
+208,22,23,"Consulta médica",9,6,Viernes,4,Otoño,179,26,9,30,261.756,87,0,3,Postgrado,0,0,0,0,56,171,19,8
+209,13,23,"Consulta médica",9,3,Martes,4,Otoño,369,17,12,31,261.756,87,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+210,10,22,"Seguimiento de paciente",9,3,Martes,4,Otoño,361,52,3,28,261.756,87,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+211,24,26,"Ausencia injustificada",10,6,Viernes,4,Otoño,246,25,16,41,284.853,91,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+212,13,23,"Consulta médica",10,3,Martes,4,Otoño,369,17,12,31,284.853,91,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+213,13,26,"Ausencia injustificada",10,3,Martes,4,Otoño,369,17,12,31,284.853,91,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+214,13,10,"Enfermedades del sistema respiratorio",10,5,Jueves,4,Otoño,369,17,12,31,284.853,91,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+215,13,10,"Enfermedades del sistema respiratorio",10,6,Viernes,4,Otoño,369,17,12,31,284.853,91,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+216,6,23,"Consulta médica",10,2,Lunes,4,Otoño,189,29,13,33,284.853,91,0,1,"Educación secundaria",2,0,0,2,69,167,25,8
+217,25,6,"Enfermedades del sistema nervioso",10,2,Lunes,4,Otoño,235,16,8,32,284.853,91,0,3,Postgrado,0,0,0,0,75,178,25,8
+218,33,10,"Enfermedades del sistema respiratorio",10,2,Lunes,4,Otoño,248,25,14,47,284.853,91,0,1,"Educación secundaria",2,0,0,1,86,165,32,8
+219,34,9,"Enfermedades del sistema circulatorio",11,3,Martes,4,Otoño,118,10,10,37,268.519,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+220,11,24,"Donación de sangre",11,4,Miércoles,4,Otoño,289,36,13,33,268.519,93,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+221,25,1,"Enfermedades infecciosas y parasitarias",11,6,Viernes,4,Otoño,235,16,8,32,268.519,93,0,3,Postgrado,0,0,0,0,75,178,25,8
+222,10,22,"Seguimiento de paciente",11,3,Martes,4,Otoño,361,52,3,28,268.519,93,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+223,34,23,"Consulta médica",11,2,Lunes,4,Otoño,118,10,10,37,268.519,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+224,34,8,"Enfermedades del oído",11,3,Martes,4,Otoño,118,10,10,37,268.519,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+225,13,26,"Ausencia injustificada",11,6,Viernes,4,Otoño,369,17,12,31,268.519,93,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+226,5,26,"Ausencia injustificada",12,6,Viernes,1,Invierno,235,20,13,43,280.549,98,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+227,12,18,"Síntomas y hallazgos clínicos no clasificados",12,2,Lunes,1,Invierno,233,51,1,31,280.549,98,0,2,Graduado,1,1,0,8,68,178,21,8
+228,32,10,"Enfermedades del sistema respiratorio",1,5,Jueves,1,Invierno,289,48,29,49,313.532,96,0,1,"Educación secundaria",0,0,0,2,108,172,36,8
+229,14,18,"Síntomas y hallazgos clínicos no clasificados",1,3,Martes,1,Invierno,155,12,14,34,313.532,96,0,1,"Educación secundaria",2,1,0,0,95,196,25,8
+230,11,13,"Enfermedades del sistema musculoesquelético",1,4,Miércoles,1,Invierno,289,36,13,33,313.532,96,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+231,3,13,"Enfermedades del sistema musculoesquelético",2,3,Martes,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+232,33,1,"Enfermedades infecciosas y parasitarias",2,4,Miércoles,1,Invierno,248,25,14,47,264.249,97,0,1,"Educación secundaria",2,0,0,1,86,165,32,8
+233,28,7,"Enfermedades del ojo",2,3,Martes,1,Invierno,225,26,9,28,264.249,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+234,3,13,"Enfermedades del sistema musculoesquelético",2,5,Jueves,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+235,10,19,"Lesiones y envenenamientos",3,2,Lunes,2,Primavera,361,52,3,28,222.196,99,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+236,3,13,"Enfermedades del sistema musculoesquelético",3,3,Martes,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+237,28,7,"Enfermedades del ojo",3,2,Lunes,2,Primavera,225,26,9,28,222.196,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+238,11,23,"Consulta médica",3,4,Miércoles,2,Primavera,289,36,13,33,222.196,99,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+239,16,23,"Consulta médica",3,4,Miércoles,2,Primavera,118,15,24,46,222.196,99,0,1,"Educación secundaria",2,1,1,0,75,175,25,8
+240,13,22,"Seguimiento de paciente",3,4,Miércoles,2,Primavera,369,17,12,31,222.196,99,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+241,28,13,"Enfermedades del sistema musculoesquelético",4,2,Lunes,2,Primavera,225,26,9,28,246.288,91,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+242,34,10,"Enfermedades del sistema respiratorio",4,2,Lunes,2,Primavera,118,10,10,37,246.288,91,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+243,10,19,"Lesiones y envenenamientos",4,3,Martes,2,Primavera,361,52,3,28,246.288,91,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+244,33,19,"Lesiones y envenenamientos",4,4,Miércoles,2,Primavera,248,25,14,47,246.288,91,0,1,"Educación secundaria",2,0,0,1,86,165,32,8
+245,6,13,"Enfermedades del sistema musculoesquelético",4,5,Jueves,2,Primavera,189,29,13,33,246.288,91,0,1,"Educación secundaria",2,0,0,2,69,167,25,8
+246,1,22,"Seguimiento de paciente",4,6,Viernes,2,Primavera,235,11,14,37,246.288,91,0,3,Postgrado,1,0,0,1,88,172,29,8
+247,28,19,"Lesiones y envenenamientos",4,2,Lunes,2,Primavera,225,26,9,28,246.288,91,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+248,28,19,"Lesiones y envenenamientos",4,5,Jueves,2,Primavera,225,26,9,28,246.288,91,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+249,1,22,"Seguimiento de paciente",5,2,Lunes,2,Primavera,235,11,14,37,237.656,99,0,3,Postgrado,1,0,0,1,88,172,29,8
+250,5,26,"Ausencia injustificada",5,4,Miércoles,2,Primavera,235,20,13,43,237.656,99,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+251,29,14,"Enfermedades del sistema genito-urinario",5,5,Jueves,2,Primavera,225,15,15,41,237.656,99,0,4,"Máster o doctorado",2,1,0,2,94,182,28,8
+252,29,22,"Seguimiento de paciente",5,6,Viernes,2,Primavera,225,15,15,41,237.656,99,0,4,"Máster o doctorado",2,1,0,2,94,182,28,8
+253,25,10,"Enfermedades del sistema respiratorio",5,2,Lunes,2,Primavera,235,16,8,32,237.656,99,0,3,Postgrado,0,0,0,0,75,178,25,8
+254,15,22,"Seguimiento de paciente",5,4,Miércoles,2,Primavera,291,31,12,40,237.656,99,0,1,"Educación secundaria",1,1,0,1,73,171,25,8
+255,17,10,"Enfermedades del sistema respiratorio",5,4,Miércoles,2,Primavera,179,22,17,40,237.656,99,0,2,Graduado,2,0,1,0,63,170,22,8
+256,18,10,"Enfermedades del sistema respiratorio",5,5,Jueves,2,Primavera,330,16,4,28,237.656,99,0,2,Graduado,0,0,0,0,84,182,25,8
+257,10,7,"Enfermedades del ojo",5,2,Lunes,2,Primavera,361,52,3,28,237.656,99,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+258,17,25,"Examen de laboratorio",5,6,Viernes,2,Primavera,179,22,17,40,237.656,99,0,2,Graduado,2,0,1,0,63,170,22,8
+259,14,10,"Enfermedades del sistema respiratorio",5,6,Viernes,2,Primavera,155,12,14,34,237.656,99,0,1,"Educación secundaria",2,1,0,0,95,196,25,8
+260,16,7,"Enfermedades del ojo",6,4,Miércoles,3,Verano,118,15,24,46,275.089,96,0,1,"Educación secundaria",2,1,1,0,75,175,25,8
+261,34,26,"Ausencia injustificada",6,6,Viernes,3,Verano,118,10,10,37,275.089,96,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+262,34,10,"Enfermedades del sistema respiratorio",6,4,Miércoles,3,Verano,118,10,10,37,275.089,96,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+263,23,22,"Seguimiento de paciente",6,5,Jueves,3,Verano,378,49,11,36,275.089,96,0,1,"Educación secundaria",2,0,1,4,65,174,21,8
+264,12,19,"Lesiones y envenenamientos",6,6,Viernes,3,Verano,233,51,1,31,275.089,96,0,2,Graduado,1,1,0,8,68,178,21,8
+265,12,22,"Seguimiento de paciente",6,5,Jueves,3,Verano,233,51,1,31,275.089,96,0,2,Graduado,1,1,0,8,68,178,21,8
+266,9,6,"Enfermedades del sistema nervioso",7,2,Lunes,3,Verano,228,14,16,58,264.604,93,0,1,"Educación secundaria",2,0,0,1,65,172,22,8
+267,10,22,"Seguimiento de paciente",7,4,Miércoles,3,Verano,361,52,3,28,264.604,93,0,1,"Educación secundaria",1,1,0,4,80,172,27,8
+268,28,22,"Seguimiento de paciente",7,4,Miércoles,3,Verano,225,26,9,28,264.604,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+269,11,14,"Enfermedades del sistema genito-urinario",7,3,Martes,3,Verano,289,36,13,33,264.604,93,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+270,10,25,"Examen de laboratorio",8,2,Lunes,3,Verano,361,52,3,28,205.917,92,0,1,"Educación secundaria",1,1,0,4,80,172,27,7
+271,15,23,"Consulta médica",10,5,Jueves,4,Otoño,291,31,12,40,253.465,93,0,1,"Educación secundaria",1,1,0,1,73,171,25,5
+272,15,23,"Consulta médica",11,5,Jueves,4,Otoño,291,31,12,40,306.345,93,0,1,"Educación secundaria",1,1,0,1,73,171,25,5
+273,22,1,"Enfermedades infecciosas y parasitarias",10,4,Miércoles,4,Otoño,179,26,9,30,265.017,88,0,3,Postgrado,0,0,0,0,56,171,19,5
+274,22,7,"Enfermedades del ojo",10,4,Miércoles,4,Otoño,179,26,9,30,265.017,88,0,3,Postgrado,0,0,0,0,56,171,19,5
+275,28,23,"Consulta médica",1,4,Miércoles,1,Invierno,225,26,9,28,330.061,100,0,1,"Educación secundaria",1,0,0,2,69,169,24,5
+276,34,28,"Consulta dental",8,3,Martes,3,Verano,118,10,10,37,249.797,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,5
+277,14,25,"Examen de laboratorio",2,2,Lunes,1,Invierno,155,12,14,34,264.249,97,0,1,"Educación secundaria",2,1,0,0,95,196,25,5
+278,11,26,"Ausencia injustificada",7,3,Martes,3,Verano,289,36,13,33,239.554,97,0,1,"Educación secundaria",2,1,0,1,90,172,30,4
+279,7,7,"Enfermedades del ojo",7,5,Jueves,3,Verano,279,5,14,39,239.554,97,0,1,"Educación secundaria",2,1,1,0,68,168,24,4
+280,20,23,"Consulta médica",7,6,Viernes,3,Verano,260,50,11,36,239.554,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+281,3,23,"Consulta médica",7,4,Miércoles,3,Verano,179,51,18,38,239.554,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+282,20,28,"Consulta dental",8,6,Viernes,3,Verano,260,50,11,36,205.917,92,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+283,30,28,"Consulta dental",8,4,Miércoles,3,Verano,157,27,6,29,205.917,92,0,1,"Educación secundaria",0,1,1,0,75,185,22,4
+284,1,23,"Consulta médica",8,5,Jueves,3,Verano,235,11,14,37,205.917,92,0,3,Postgrado,1,0,0,1,88,172,29,4
+285,19,11,"Enfermedades del sistema digestivo",8,5,Jueves,3,Verano,291,50,12,32,205.917,92,0,1,"Educación secundaria",0,1,0,0,65,169,23,4
+286,20,23,"Consulta médica",8,6,Viernes,3,Verano,260,50,11,36,205.917,92,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+287,34,23,"Consulta médica",9,2,Lunes,4,Otoño,118,10,10,37,241.476,92,0,1,"Educación secundaria",0,0,0,0,83,172,28,4
+288,3,23,"Consulta médica",9,3,Martes,4,Otoño,179,51,18,38,241.476,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+289,15,23,"Consulta médica",9,5,Jueves,4,Otoño,291,31,12,40,241.476,92,0,1,"Educación secundaria",1,1,0,1,73,171,25,4
+290,20,23,"Consulta médica",9,6,Viernes,4,Otoño,260,50,11,36,241.476,92,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+291,20,28,"Consulta dental",11,6,Viernes,4,Otoño,260,50,11,36,306.345,93,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+292,20,28,"Consulta dental",3,6,Viernes,2,Primavera,260,50,11,36,343.253,95,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+293,20,28,"Consulta dental",4,6,Viernes,2,Primavera,260,50,11,36,326.452,96,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+294,27,7,"Enfermedades del ojo",5,4,Miércoles,2,Primavera,184,42,7,27,378.884,92,0,1,"Educación secundaria",0,0,0,0,58,167,21,4
+295,15,23,"Consulta médica",6,5,Jueves,3,Verano,291,31,12,40,377.55,94,0,1,"Educación secundaria",1,1,0,1,73,171,25,4
+296,14,23,"Consulta médica",6,2,Lunes,3,Verano,155,12,14,34,377.55,94,0,1,"Educación secundaria",2,1,0,0,95,196,25,4
+297,34,26,"Ausencia injustificada",7,6,Viernes,3,Verano,118,10,10,37,275.312,98,0,1,"Educación secundaria",0,0,0,0,83,172,28,4
+298,20,28,"Consulta dental",8,6,Viernes,3,Verano,260,50,11,36,265.615,94,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+299,11,23,"Consulta médica",8,3,Martes,3,Verano,289,36,13,33,265.615,94,0,1,"Educación secundaria",2,1,0,1,90,172,30,4
+300,15,28,"Consulta dental",9,6,Viernes,4,Otoño,291,31,12,40,294.217,81,0,1,"Educación secundaria",1,1,0,1,73,171,25,4
+301,20,28,"Consulta dental",9,6,Viernes,4,Otoño,260,50,11,36,294.217,81,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+302,1,26,"Ausencia injustificada",10,2,Lunes,4,Otoño,235,11,14,37,265.017,88,0,3,Postgrado,1,0,0,1,88,172,29,4
+303,15,28,"Consulta dental",10,3,Martes,4,Otoño,291,31,12,40,265.017,88,0,1,"Educación secundaria",1,1,0,1,73,171,25,4
+304,15,12,"Enfermedades de la piel",11,6,Viernes,4,Otoño,291,31,12,40,284.031,97,0,1,"Educación secundaria",1,1,0,1,73,171,25,4
+305,20,28,"Consulta dental",12,6,Viernes,1,Invierno,260,50,11,36,236.629,93,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+306,1,14,"Enfermedades del sistema genito-urinario",12,3,Martes,1,Invierno,235,11,14,37,236.629,93,0,3,Postgrado,1,0,0,1,88,172,29,4
+307,14,23,"Consulta médica",1,3,Martes,1,Invierno,155,12,14,34,330.061,100,0,1,"Educación secundaria",2,1,0,0,95,196,25,4
+308,36,26,"Ausencia injustificada",1,2,Lunes,1,Invierno,118,13,18,50,330.061,100,0,1,"Educación secundaria",1,1,0,0,98,178,31,4
+309,20,28,"Consulta dental",3,6,Viernes,2,Primavera,260,50,11,36,244.387,98,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+310,3,28,"Consulta dental",4,4,Miércoles,2,Primavera,179,51,18,38,239.409,98,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+311,18,26,"Ausencia injustificada",4,6,Viernes,2,Primavera,330,16,4,28,239.409,98,0,2,Graduado,0,0,0,0,84,182,25,4
+312,13,22,"Seguimiento de paciente",4,2,Lunes,2,Primavera,369,17,12,31,239.409,98,0,1,"Educación secundaria",3,1,0,0,70,169,25,4
+313,33,26,"Ausencia injustificada",4,2,Lunes,2,Primavera,248,25,14,47,239.409,98,0,1,"Educación secundaria",2,0,0,1,86,165,32,4
+314,20,28,"Consulta dental",4,6,Viernes,2,Primavera,260,50,11,36,239.409,98,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+315,3,28,"Consulta dental",4,2,Lunes,2,Primavera,179,51,18,38,239.409,98,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+316,3,28,"Consulta dental",5,4,Miércoles,2,Primavera,179,51,18,38,246.074,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+317,28,23,"Consulta médica",6,5,Jueves,3,Verano,225,26,9,28,253.957,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,4
+318,20,28,"Consulta dental",6,6,Viernes,3,Verano,260,50,11,36,253.957,95,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+319,3,28,"Consulta dental",6,2,Lunes,3,Verano,179,51,18,38,253.957,95,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+320,28,25,"Examen de laboratorio",7,5,Jueves,3,Verano,225,26,9,28,230.29,92,0,1,"Educación secundaria",1,0,0,2,69,169,24,4
+321,20,26,"Ausencia injustificada",7,2,Lunes,3,Verano,260,50,11,36,230.29,92,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+322,3,25,"Examen de laboratorio",8,5,Jueves,3,Verano,179,51,18,38,249.797,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+323,24,28,"Consulta dental",8,3,Martes,3,Verano,246,25,16,41,249.797,93,0,1,"Educación secundaria",0,1,0,0,67,170,23,4
+324,34,28,"Consulta dental",8,3,Martes,3,Verano,118,10,10,37,249.797,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,4
+325,15,28,"Consulta dental",8,5,Jueves,3,Verano,291,31,12,40,249.797,93,0,1,"Educación secundaria",1,1,0,1,73,171,25,4
+326,3,25,"Examen de laboratorio",8,2,Lunes,3,Verano,179,51,18,38,249.797,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+327,1,23,"Consulta médica",8,3,Martes,3,Verano,235,11,14,37,249.797,93,0,3,Postgrado,1,0,0,1,88,172,29,4
+328,3,23,"Consulta médica",9,2,Lunes,4,Otoño,179,51,18,38,261.756,87,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+329,28,23,"Consulta médica",10,3,Martes,4,Otoño,225,26,9,28,284.853,91,0,1,"Educación secundaria",1,0,0,2,69,169,24,4
+330,28,23,"Consulta médica",11,6,Viernes,4,Otoño,225,26,9,28,268.519,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,4
+331,33,14,"Enfermedades del sistema genito-urinario",11,5,Jueves,4,Otoño,248,25,14,47,268.519,93,0,1,"Educación secundaria",2,0,0,1,86,165,32,4
+332,10,14,"Enfermedades del sistema genito-urinario",12,5,Jueves,1,Invierno,361,52,3,28,280.549,98,0,1,"Educación secundaria",1,1,0,4,80,172,27,4
+333,3,10,"Enfermedades del sistema respiratorio",3,2,Lunes,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+334,14,28,"Consulta dental",4,3,Martes,2,Primavera,155,12,14,34,246.288,91,0,1,"Educación secundaria",2,1,0,0,95,196,25,4
+335,5,26,"Ausencia injustificada",7,4,Miércoles,3,Verano,235,20,13,43,264.604,93,0,1,"Educación secundaria",1,1,0,0,106,167,38,4
+336,34,28,"Consulta dental",7,2,Lunes,3,Verano,118,10,10,37,264.604,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,4
+337,1,11,"Enfermedades del sistema digestivo",7,3,Martes,3,Verano,235,11,14,37,264.604,93,0,3,Postgrado,1,0,0,1,88,172,29,4
+338,34,23,"Consulta médica",9,2,Lunes,4,Otoño,118,10,10,37,241.476,92,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+339,3,23,"Consulta médica",9,3,Martes,4,Otoño,179,51,18,38,241.476,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+340,28,18,"Síntomas y hallazgos clínicos no clasificados",9,4,Miércoles,4,Otoño,225,26,9,28,241.476,92,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+341,3,23,"Consulta médica",9,4,Miércoles,4,Otoño,179,51,18,38,241.476,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+342,3,23,"Consulta médica",9,6,Viernes,4,Otoño,179,51,18,38,241.476,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+343,3,23,"Consulta médica",10,3,Martes,4,Otoño,179,51,18,38,253.465,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+344,34,23,"Consulta médica",10,3,Martes,4,Otoño,118,10,10,37,253.465,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+345,3,23,"Consulta médica",10,6,Viernes,4,Otoño,179,51,18,38,253.465,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+346,28,23,"Consulta médica",10,6,Viernes,4,Otoño,225,26,9,28,253.465,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+347,28,23,"Consulta médica",10,4,Miércoles,4,Otoño,225,26,9,28,253.465,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+348,20,28,"Consulta dental",10,6,Viernes,4,Otoño,260,50,11,36,253.465,93,0,1,"Educación secundaria",4,1,0,0,65,168,23,3
+349,28,23,"Consulta médica",11,4,Miércoles,4,Otoño,225,26,9,28,306.345,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+350,28,13,"Enfermedades del sistema musculoesquelético",11,6,Viernes,4,Otoño,225,26,9,28,306.345,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+351,28,28,"Consulta dental",11,3,Martes,4,Otoño,225,26,9,28,306.345,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+352,15,23,"Consulta médica",11,5,Jueves,4,Otoño,291,31,12,40,306.345,93,0,1,"Educación secundaria",1,1,0,1,73,171,25,3
+353,28,28,"Consulta dental",12,5,Jueves,1,Invierno,225,26,9,28,261.306,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+354,20,28,"Consulta dental",12,6,Viernes,1,Invierno,260,50,11,36,261.306,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,3
+355,11,22,"Seguimiento de paciente",1,5,Jueves,1,Invierno,289,36,13,33,308.593,95,0,1,"Educación secundaria",2,1,0,1,90,172,30,3
+356,28,25,"Examen de laboratorio",2,5,Jueves,1,Invierno,225,26,9,28,302.585,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+357,30,19,"Lesiones y envenenamientos",3,3,Martes,2,Primavera,157,27,6,29,343.253,95,0,1,"Educación secundaria",0,1,1,0,75,185,22,3
+358,33,14,"Enfermedades del sistema genito-urinario",3,6,Viernes,2,Primavera,248,25,14,47,343.253,95,0,1,"Educación secundaria",2,0,0,1,86,165,32,3
+359,3,13,"Enfermedades del sistema musculoesquelético",3,4,Miércoles,2,Primavera,179,51,18,38,343.253,95,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+360,33,14,"Enfermedades del sistema genito-urinario",3,6,Viernes,2,Primavera,248,25,14,47,343.253,95,0,1,"Educación secundaria",2,0,0,1,86,165,32,3
+361,15,23,"Consulta médica",4,6,Viernes,2,Primavera,291,31,12,40,326.452,96,0,1,"Educación secundaria",1,1,0,1,73,171,25,3
+362,1,7,"Enfermedades del ojo",4,6,Viernes,2,Primavera,235,11,14,37,326.452,96,0,3,Postgrado,1,0,0,1,88,172,29,3
+363,30,25,"Examen de laboratorio",7,2,Lunes,3,Verano,157,27,6,29,275.312,98,0,1,"Educación secundaria",0,1,1,0,75,185,22,3
+364,30,19,"Lesiones y envenenamientos",8,6,Viernes,3,Verano,157,27,6,29,265.615,94,0,1,"Educación secundaria",0,1,1,0,75,185,22,3
+365,36,13,"Enfermedades del sistema musculoesquelético",8,5,Jueves,3,Verano,118,13,18,50,265.615,94,0,1,"Educación secundaria",1,1,0,0,98,178,31,3
+366,3,23,"Consulta médica",9,6,Viernes,4,Otoño,179,51,18,38,294.217,81,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+367,15,28,"Consulta dental",9,3,Martes,4,Otoño,291,31,12,40,294.217,81,0,1,"Educación secundaria",1,1,0,1,73,171,25,3
+368,15,28,"Consulta dental",9,6,Viernes,4,Otoño,291,31,12,40,294.217,81,0,1,"Educación secundaria",1,1,0,1,73,171,25,3
+369,34,7,"Enfermedades del ojo",10,2,Lunes,4,Otoño,118,10,10,37,265.017,88,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+370,20,28,"Consulta dental",10,6,Viernes,4,Otoño,260,50,11,36,265.017,88,0,1,"Educación secundaria",4,1,0,0,65,168,23,3
+371,20,28,"Consulta dental",11,6,Viernes,4,Otoño,260,50,11,36,284.031,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,3
+372,34,11,"Enfermedades del sistema digestivo",11,4,Miércoles,4,Otoño,118,10,10,37,284.031,97,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+373,3,28,"Consulta dental",11,5,Jueves,4,Otoño,179,51,18,38,284.031,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+374,28,12,"Enfermedades de la piel",12,2,Lunes,1,Invierno,225,26,9,28,236.629,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+375,1,23,"Consulta médica",12,2,Lunes,1,Invierno,235,11,14,37,236.629,93,0,3,Postgrado,1,0,0,1,88,172,29,3
+376,3,28,"Consulta dental",12,2,Lunes,1,Invierno,179,51,18,38,236.629,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+377,3,27,Fisioterapia,2,4,Miércoles,1,Invierno,179,51,18,38,251.818,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+378,11,22,"Seguimiento de paciente",2,6,Viernes,1,Invierno,289,36,13,33,251.818,96,0,1,"Educación secundaria",2,1,0,1,90,172,30,3
+379,20,28,"Consulta dental",2,6,Viernes,1,Invierno,260,50,11,36,251.818,96,0,1,"Educación secundaria",4,1,0,0,65,168,23,3
+380,3,23,"Consulta médica",2,6,Viernes,1,Invierno,179,51,18,38,251.818,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+381,3,27,Fisioterapia,2,6,Viernes,1,Invierno,179,51,18,38,251.818,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+382,3,27,Fisioterapia,2,2,Lunes,1,Invierno,179,51,18,38,251.818,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+383,36,14,"Enfermedades del sistema genito-urinario",3,3,Martes,2,Primavera,118,13,18,50,244.387,98,0,1,"Educación secundaria",1,1,0,0,98,178,31,3
+384,20,28,"Consulta dental",4,6,Viernes,2,Primavera,260,50,11,36,239.409,98,0,1,"Educación secundaria",4,1,0,0,65,168,23,3
+385,22,23,"Consulta médica",5,4,Miércoles,2,Primavera,179,26,9,30,246.074,99,0,3,Postgrado,0,0,0,0,56,171,19,3
+386,20,28,"Consulta dental",5,6,Viernes,2,Primavera,260,50,11,36,246.074,99,0,1,"Educación secundaria",4,1,0,0,65,168,23,3
+387,17,8,"Enfermedades del oído",5,2,Lunes,2,Primavera,179,22,17,40,246.074,99,0,2,Graduado,2,0,1,0,63,170,22,3
+388,28,25,"Examen de laboratorio",5,4,Miércoles,2,Primavera,225,26,9,28,246.074,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+389,34,23,"Consulta médica",6,2,Lunes,3,Verano,118,10,10,37,253.957,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+390,3,28,"Consulta dental",6,2,Lunes,3,Verano,179,51,18,38,253.957,95,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+391,24,28,"Consulta dental",6,3,Martes,3,Verano,246,25,16,41,253.957,95,0,1,"Educación secundaria",0,1,0,0,67,170,23,3
+392,20,28,"Consulta dental",8,2,Lunes,3,Verano,260,50,11,36,249.797,93,0,1,"Educación secundaria",4,1,0,0,65,168,23,3
+393,34,28,"Consulta dental",9,3,Martes,4,Otoño,118,10,10,37,261.756,87,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+394,25,11,"Enfermedades del sistema digestivo",10,5,Jueves,4,Otoño,235,16,8,32,284.853,91,0,3,Postgrado,0,0,0,0,75,178,25,3
+395,32,14,"Enfermedades del sistema genito-urinario",10,4,Miércoles,4,Otoño,289,48,29,49,284.853,91,0,1,"Educación secundaria",0,0,0,2,108,172,36,3
+396,13,23,"Consulta médica",10,3,Martes,4,Otoño,369,17,12,31,284.853,91,0,1,"Educación secundaria",3,1,0,0,70,169,25,3
+397,3,28,"Consulta dental",10,4,Miércoles,4,Otoño,179,51,18,38,284.853,91,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+398,28,10,"Enfermedades del sistema respiratorio",10,6,Viernes,4,Otoño,225,26,9,28,284.853,91,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+399,28,13,"Enfermedades del sistema musculoesquelético",10,3,Martes,4,Otoño,225,26,9,28,284.853,91,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+400,34,28,"Consulta dental",11,4,Miércoles,4,Otoño,118,10,10,37,268.519,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+401,28,14,"Enfermedades del sistema genito-urinario",11,5,Jueves,4,Otoño,225,26,9,28,268.519,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+402,28,23,"Consulta médica",12,4,Miércoles,1,Invierno,225,26,9,28,280.549,98,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+403,28,23,"Consulta médica",12,6,Viernes,1,Invierno,225,26,9,28,280.549,98,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+404,28,23,"Consulta médica",12,5,Jueves,1,Invierno,225,26,9,28,280.549,98,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+405,22,13,"Enfermedades del sistema musculoesquelético",1,2,Lunes,1,Invierno,179,26,9,30,313.532,96,0,3,Postgrado,0,0,0,0,56,171,19,3
+406,17,18,"Síntomas y hallazgos clínicos no clasificados",1,6,Viernes,1,Invierno,179,22,17,40,313.532,96,0,2,Graduado,2,0,1,0,63,170,22,3
+407,3,27,Fisioterapia,1,4,Miércoles,1,Invierno,179,51,18,38,313.532,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+408,3,27,Fisioterapia,1,5,Jueves,1,Invierno,179,51,18,38,313.532,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+409,28,23,"Consulta médica",2,3,Martes,1,Invierno,225,26,9,28,264.249,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+410,28,28,"Consulta dental",2,5,Jueves,1,Invierno,225,26,9,28,264.249,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+411,3,27,Fisioterapia,2,4,Miércoles,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+412,3,27,Fisioterapia,2,5,Jueves,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+413,28,25,"Examen de laboratorio",2,5,Jueves,1,Invierno,225,26,9,28,264.249,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+414,3,27,Fisioterapia,2,6,Viernes,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+415,12,12,"Enfermedades de la piel",2,4,Miércoles,1,Invierno,233,51,1,31,264.249,97,0,2,Graduado,1,1,0,8,68,178,21,3
+416,25,25,"Examen de laboratorio",2,2,Lunes,1,Invierno,235,16,8,32,264.249,97,0,3,Postgrado,0,0,0,0,75,178,25,3
+417,9,25,"Examen de laboratorio",3,3,Martes,2,Primavera,228,14,16,58,222.196,99,0,1,"Educación secundaria",2,0,0,1,65,172,22,3
+418,33,25,"Examen de laboratorio",3,3,Martes,2,Primavera,248,25,14,47,222.196,99,0,1,"Educación secundaria",2,0,0,1,86,165,32,3
+419,3,27,Fisioterapia,3,5,Jueves,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+420,22,27,Fisioterapia,3,6,Viernes,2,Primavera,179,26,9,30,222.196,99,0,3,Postgrado,0,0,0,0,56,171,19,3
+421,25,25,"Examen de laboratorio",3,2,Lunes,2,Primavera,235,16,8,32,222.196,99,0,3,Postgrado,0,0,0,0,75,178,25,3
+422,3,27,Fisioterapia,3,2,Lunes,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+423,33,23,"Consulta médica",3,5,Jueves,2,Primavera,248,25,14,47,222.196,99,0,1,"Educación secundaria",2,0,0,1,86,165,32,3
+424,3,27,Fisioterapia,3,6,Viernes,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+425,3,27,Fisioterapia,3,3,Martes,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+426,3,27,Fisioterapia,3,4,Miércoles,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+427,3,27,Fisioterapia,3,5,Jueves,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+428,36,23,"Consulta médica",4,3,Martes,2,Primavera,118,13,18,50,246.288,91,0,1,"Educación secundaria",1,1,0,0,98,178,31,3
+429,25,16,"Afecciones del periodo perinatal",4,3,Martes,2,Primavera,235,16,8,32,246.288,91,0,3,Postgrado,0,0,0,0,75,178,25,3
+430,29,19,"Lesiones y envenenamientos",5,4,Miércoles,2,Primavera,225,15,15,41,237.656,99,0,4,"Máster o doctorado",2,1,0,2,94,182,28,3
+431,34,8,"Enfermedades del oído",5,4,Miércoles,2,Primavera,118,10,10,37,237.656,99,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+432,36,5,"Trastornos mentales y del comportamiento",5,3,Martes,2,Primavera,118,13,18,50,237.656,99,0,1,"Educación secundaria",1,1,0,0,98,178,31,3
+433,28,6,"Enfermedades del sistema nervioso",5,4,Miércoles,2,Primavera,225,26,9,28,237.656,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+434,22,27,Fisioterapia,6,4,Miércoles,3,Verano,179,26,9,30,275.089,96,0,3,Postgrado,0,0,0,0,56,171,19,3
+435,36,19,"Lesiones y envenenamientos",6,5,Jueves,3,Verano,118,13,18,50,275.089,96,0,1,"Educación secundaria",1,1,0,0,98,178,31,3
+436,22,13,"Enfermedades del sistema musculoesquelético",6,2,Lunes,3,Verano,179,26,9,30,275.089,96,0,3,Postgrado,0,0,0,0,56,171,19,3
+437,34,25,"Examen de laboratorio",6,2,Lunes,3,Verano,118,10,10,37,275.089,96,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+438,34,10,"Enfermedades del sistema respiratorio",6,4,Miércoles,3,Verano,118,10,10,37,275.089,96,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+439,12,22,"Seguimiento de paciente",6,4,Miércoles,3,Verano,233,51,1,31,275.089,96,0,2,Graduado,1,1,0,8,68,178,21,3
+440,3,23,"Consulta médica",7,4,Miércoles,3,Verano,179,51,18,38,239.554,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+441,11,23,"Consulta médica",7,5,Jueves,3,Verano,289,36,13,33,239.554,97,0,1,"Educación secundaria",2,1,0,1,90,172,30,2
+442,3,23,"Consulta médica",7,6,Viernes,3,Verano,179,51,18,38,239.554,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+443,33,23,"Consulta médica",8,4,Miércoles,3,Verano,248,25,14,47,205.917,92,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+444,3,23,"Consulta médica",8,6,Viernes,3,Verano,179,51,18,38,205.917,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+445,3,23,"Consulta médica",8,2,Lunes,3,Verano,179,51,18,38,205.917,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+446,27,23,"Consulta médica",9,3,Martes,4,Otoño,184,42,7,27,241.476,92,0,1,"Educación secundaria",0,0,0,0,58,167,21,2
+447,14,23,"Consulta médica",9,4,Miércoles,4,Otoño,155,12,14,34,241.476,92,0,1,"Educación secundaria",2,1,0,0,95,196,25,2
+448,28,23,"Consulta médica",9,3,Martes,4,Otoño,225,26,9,28,241.476,92,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+449,34,23,"Consulta médica",9,3,Martes,4,Otoño,118,10,10,37,241.476,92,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+450,28,23,"Consulta médica",10,4,Miércoles,4,Otoño,225,26,9,28,253.465,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+451,33,23,"Consulta médica",10,4,Miércoles,4,Otoño,248,25,14,47,253.465,93,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+452,28,28,"Consulta dental",10,3,Martes,4,Otoño,225,26,9,28,253.465,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+453,36,23,"Consulta médica",12,4,Miércoles,1,Invierno,118,13,18,50,261.306,97,0,1,"Educación secundaria",1,1,0,0,98,178,31,2
+454,28,23,"Consulta médica",12,5,Jueves,1,Invierno,225,26,9,28,261.306,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+455,28,23,"Consulta médica",12,3,Martes,1,Invierno,225,26,9,28,261.306,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+456,34,27,Fisioterapia,12,6,Viernes,1,Invierno,118,10,10,37,261.306,97,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+457,28,23,"Consulta médica",12,6,Viernes,1,Invierno,225,26,9,28,261.306,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+458,28,27,Fisioterapia,1,4,Miércoles,1,Invierno,225,26,9,28,308.593,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+459,27,23,"Consulta médica",1,5,Jueves,1,Invierno,184,42,7,27,308.593,95,0,1,"Educación secundaria",0,0,0,0,58,167,21,2
+460,28,28,"Consulta dental",1,5,Jueves,1,Invierno,225,26,9,28,308.593,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+461,34,27,Fisioterapia,1,2,Lunes,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+462,28,27,Fisioterapia,1,3,Martes,1,Invierno,225,26,9,28,308.593,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+463,34,27,Fisioterapia,1,3,Martes,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+464,34,27,Fisioterapia,1,4,Miércoles,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+465,34,27,Fisioterapia,1,5,Jueves,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+466,34,27,Fisioterapia,1,6,Viernes,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+467,14,28,"Consulta dental",2,5,Jueves,1,Invierno,155,12,14,34,302.585,99,0,1,"Educación secundaria",2,1,0,0,95,196,25,2
+468,20,28,"Consulta dental",2,6,Viernes,1,Invierno,260,50,11,36,302.585,99,0,1,"Educación secundaria",4,1,0,0,65,168,23,2
+469,28,28,"Consulta dental",2,2,Lunes,1,Invierno,225,26,9,28,302.585,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+470,28,23,"Consulta médica",2,3,Martes,1,Invierno,225,26,9,28,302.585,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+471,19,28,"Consulta dental",3,3,Martes,2,Primavera,291,50,12,32,343.253,95,0,1,"Educación secundaria",0,1,0,0,65,169,23,2
+472,28,23,"Consulta médica",3,4,Miércoles,2,Primavera,225,26,9,28,343.253,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+473,28,28,"Consulta dental",3,6,Viernes,2,Primavera,225,26,9,28,343.253,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+474,28,28,"Consulta dental",4,6,Viernes,2,Primavera,225,26,9,28,326.452,96,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+475,14,28,"Consulta dental",5,5,Jueves,2,Primavera,155,12,14,34,378.884,92,0,1,"Educación secundaria",2,1,0,0,95,196,25,2
+476,14,28,"Consulta dental",5,2,Lunes,2,Primavera,155,12,14,34,378.884,92,0,1,"Educación secundaria",2,1,0,0,95,196,25,2
+477,3,11,"Enfermedades del sistema digestivo",6,6,Viernes,3,Verano,179,51,18,38,377.55,94,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+478,32,28,"Consulta dental",6,2,Lunes,3,Verano,289,48,29,49,377.55,94,0,1,"Educación secundaria",0,0,0,2,108,172,36,2
+479,28,28,"Consulta dental",6,5,Jueves,3,Verano,225,26,9,28,377.55,94,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+480,14,25,"Examen de laboratorio",7,6,Viernes,3,Verano,155,12,14,34,275.312,98,0,1,"Educación secundaria",2,1,0,0,95,196,25,2
+481,26,14,"Enfermedades del sistema genito-urinario",8,5,Jueves,3,Verano,300,26,13,43,265.615,94,0,1,"Educación secundaria",2,1,1,1,77,175,25,2
+482,33,25,"Examen de laboratorio",8,2,Lunes,3,Verano,248,25,14,47,265.615,94,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+483,5,23,"Consulta médica",10,2,Lunes,4,Otoño,235,20,13,43,265.017,88,0,1,"Educación secundaria",1,1,0,0,106,167,38,2
+484,33,23,"Consulta médica",11,2,Lunes,4,Otoño,248,25,14,47,284.031,97,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+485,1,25,"Examen de laboratorio",11,5,Jueves,4,Otoño,235,11,14,37,284.031,97,0,3,Postgrado,1,0,0,1,88,172,29,2
+486,3,28,"Consulta dental",12,2,Lunes,1,Invierno,179,51,18,38,236.629,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+487,1,25,"Examen de laboratorio",12,5,Jueves,1,Invierno,235,11,14,37,236.629,93,0,3,Postgrado,1,0,0,1,88,172,29,2
+488,30,28,"Consulta dental",12,2,Lunes,1,Invierno,157,27,6,29,236.629,93,0,1,"Educación secundaria",0,1,1,0,75,185,22,2
+489,14,23,"Consulta médica",1,2,Lunes,1,Invierno,155,12,14,34,330.061,100,0,1,"Educación secundaria",2,1,0,0,95,196,25,2
+490,34,28,"Consulta dental",2,3,Martes,1,Invierno,118,10,10,37,251.818,96,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+491,3,27,Fisioterapia,2,2,Lunes,1,Invierno,179,51,18,38,251.818,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+492,24,23,"Consulta médica",2,3,Martes,1,Invierno,246,25,16,41,251.818,96,0,1,"Educación secundaria",0,1,0,0,67,170,23,2
+493,15,23,"Consulta médica",2,3,Martes,1,Invierno,291,31,12,40,251.818,96,0,1,"Educación secundaria",1,1,0,1,73,171,25,2
+494,24,28,"Consulta dental",3,6,Viernes,2,Primavera,246,25,16,41,244.387,98,0,1,"Educación secundaria",0,1,0,0,67,170,23,2
+495,3,28,"Consulta dental",3,2,Lunes,2,Primavera,179,51,18,38,244.387,98,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+496,36,23,"Consulta médica",3,6,Viernes,2,Primavera,118,13,18,50,244.387,98,0,1,"Educación secundaria",1,1,0,0,98,178,31,2
+497,24,28,"Consulta dental",3,3,Martes,2,Primavera,246,25,16,41,244.387,98,0,1,"Educación secundaria",0,1,0,0,67,170,23,2
+498,34,11,"Enfermedades del sistema digestivo",4,4,Miércoles,2,Primavera,118,10,10,37,239.409,98,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+499,33,23,"Consulta médica",5,4,Miércoles,2,Primavera,248,25,14,47,246.074,99,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+500,17,11,"Enfermedades del sistema digestivo",5,2,Lunes,2,Primavera,179,22,17,40,246.074,99,0,2,Graduado,2,0,1,0,63,170,22,2
+501,22,25,"Examen de laboratorio",5,2,Lunes,2,Primavera,179,26,9,30,246.074,99,0,3,Postgrado,0,0,0,0,56,171,19,2
+502,34,28,"Consulta dental",6,3,Martes,3,Verano,118,10,10,37,253.957,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+503,3,28,"Consulta dental",6,2,Lunes,3,Verano,179,51,18,38,253.957,95,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+504,28,23,"Consulta médica",6,4,Miércoles,3,Verano,225,26,9,28,253.957,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+505,36,23,"Consulta médica",6,4,Miércoles,3,Verano,118,13,18,50,253.957,95,0,1,"Educación secundaria",1,1,0,0,98,178,31,2
+506,22,21,"Factores que influyen en el estado de salud",6,4,Miércoles,3,Verano,179,26,9,30,253.957,95,0,3,Postgrado,0,0,0,0,56,171,19,2
+507,24,28,"Consulta dental",6,6,Viernes,3,Verano,246,25,16,41,253.957,95,0,1,"Educación secundaria",0,1,0,0,67,170,23,2
+508,22,23,"Consulta médica",7,5,Jueves,3,Verano,179,26,9,30,230.29,92,0,3,Postgrado,0,0,0,0,56,171,19,2
+509,24,28,"Consulta dental",7,3,Martes,3,Verano,246,25,16,41,230.29,92,0,1,"Educación secundaria",0,1,0,0,67,170,23,2
+510,7,23,"Consulta médica",7,5,Jueves,3,Verano,279,5,14,39,230.29,92,0,1,"Educación secundaria",2,1,1,0,68,168,24,2
+511,15,28,"Consulta dental",8,5,Jueves,3,Verano,291,31,12,40,249.797,93,0,1,"Educación secundaria",1,1,0,1,73,171,25,2
+512,14,23,"Consulta médica",9,3,Martes,4,Otoño,155,12,14,34,261.756,87,0,1,"Educación secundaria",2,1,0,0,95,196,25,2
+513,15,28,"Consulta dental",9,5,Jueves,4,Otoño,291,31,12,40,261.756,87,0,1,"Educación secundaria",1,1,0,1,73,171,25,2
+514,22,23,"Consulta médica",9,2,Lunes,4,Otoño,179,26,9,30,261.756,87,0,3,Postgrado,0,0,0,0,56,171,19,2
+515,15,28,"Consulta dental",10,4,Miércoles,4,Otoño,291,31,12,40,284.853,91,0,1,"Educación secundaria",1,1,0,1,73,171,25,2
+516,34,23,"Consulta médica",10,3,Martes,4,Otoño,118,10,10,37,284.853,91,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+517,32,23,"Consulta médica",10,5,Jueves,4,Otoño,289,48,29,49,284.853,91,0,1,"Educación secundaria",0,0,0,2,108,172,36,2
+518,28,23,"Consulta médica",10,3,Martes,4,Otoño,225,26,9,28,284.853,91,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+519,15,28,"Consulta dental",11,4,Miércoles,4,Otoño,291,31,12,40,268.519,93,0,1,"Educación secundaria",1,1,0,1,73,171,25,2
+520,34,13,"Enfermedades del sistema musculoesquelético",11,5,Jueves,4,Otoño,118,10,10,37,268.519,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+521,28,23,"Consulta médica",11,3,Martes,4,Otoño,225,26,9,28,268.519,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+522,28,23,"Consulta médica",11,6,Viernes,4,Otoño,225,26,9,28,268.519,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+523,10,28,"Consulta dental",11,2,Lunes,4,Otoño,361,52,3,28,268.519,93,0,1,"Educación secundaria",1,1,0,4,80,172,27,2
+524,17,18,"Síntomas y hallazgos clínicos no clasificados",12,6,Viernes,1,Invierno,179,22,17,40,280.549,98,0,2,Graduado,2,0,1,0,63,170,22,2
+525,28,23,"Consulta médica",12,3,Martes,1,Invierno,225,26,9,28,280.549,98,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+526,28,23,"Consulta médica",12,2,Lunes,1,Invierno,225,26,9,28,280.549,98,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+527,17,25,"Examen de laboratorio",1,5,Jueves,1,Invierno,179,22,17,40,313.532,96,0,2,Graduado,2,0,1,0,63,170,22,2
+528,17,25,"Examen de laboratorio",1,6,Viernes,1,Invierno,179,22,17,40,313.532,96,0,2,Graduado,2,0,1,0,63,170,22,2
+529,17,25,"Examen de laboratorio",1,4,Miércoles,1,Invierno,179,22,17,40,313.532,96,0,2,Graduado,2,0,1,0,63,170,22,2
+530,22,27,Fisioterapia,1,2,Lunes,1,Invierno,179,26,9,30,313.532,96,0,3,Postgrado,0,0,0,0,56,171,19,2
+531,22,27,Fisioterapia,1,4,Miércoles,1,Invierno,179,26,9,30,313.532,96,0,3,Postgrado,0,0,0,0,56,171,19,2
+532,3,27,Fisioterapia,1,6,Viernes,1,Invierno,179,51,18,38,313.532,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+533,3,27,Fisioterapia,2,4,Miércoles,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+534,3,27,Fisioterapia,2,5,Jueves,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+535,22,27,Fisioterapia,2,5,Jueves,1,Invierno,179,26,9,30,264.249,97,0,3,Postgrado,0,0,0,0,56,171,19,2
+536,29,28,"Consulta dental",2,6,Viernes,1,Invierno,225,15,15,41,264.249,97,0,4,"Máster o doctorado",2,1,0,2,94,182,28,2
+537,3,27,Fisioterapia,2,6,Viernes,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+538,12,19,"Lesiones y envenenamientos",2,2,Lunes,1,Invierno,233,51,1,31,264.249,97,0,2,Graduado,1,1,0,8,68,178,21,2
+539,3,27,Fisioterapia,2,2,Lunes,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+540,22,13,"Enfermedades del sistema musculoesquelético",2,5,Jueves,1,Invierno,179,26,9,30,264.249,97,0,3,Postgrado,0,0,0,0,56,171,19,2
+541,17,23,"Consulta médica",2,6,Viernes,1,Invierno,179,22,17,40,264.249,97,0,2,Graduado,2,0,1,0,63,170,22,2
+542,22,27,Fisioterapia,2,4,Miércoles,1,Invierno,179,26,9,30,264.249,97,0,3,Postgrado,0,0,0,0,56,171,19,2
+543,28,7,"Enfermedades del ojo",2,2,Lunes,1,Invierno,225,26,9,28,264.249,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+544,3,27,Fisioterapia,2,3,Martes,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+545,33,23,"Consulta médica",2,3,Martes,1,Invierno,248,25,14,47,264.249,97,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+546,28,25,"Examen de laboratorio",2,3,Martes,1,Invierno,225,26,9,28,264.249,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+547,25,25,"Examen de laboratorio",2,6,Viernes,1,Invierno,235,16,8,32,264.249,97,0,3,Postgrado,0,0,0,0,75,178,25,2
+548,3,27,Fisioterapia,3,2,Lunes,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+549,33,23,"Consulta médica",3,2,Lunes,2,Primavera,248,25,14,47,222.196,99,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+550,3,27,Fisioterapia,3,4,Miércoles,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+551,28,27,Fisioterapia,3,5,Jueves,2,Primavera,225,26,9,28,222.196,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+552,28,25,"Examen de laboratorio",3,5,Jueves,2,Primavera,225,26,9,28,222.196,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+553,22,27,Fisioterapia,3,6,Viernes,2,Primavera,179,26,9,30,222.196,99,0,3,Postgrado,0,0,0,0,56,171,19,2
+554,33,13,"Enfermedades del sistema musculoesquelético",3,2,Lunes,2,Primavera,248,25,14,47,222.196,99,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+555,3,27,Fisioterapia,3,3,Martes,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+556,9,25,"Examen de laboratorio",3,4,Miércoles,2,Primavera,228,14,16,58,222.196,99,0,1,"Educación secundaria",2,0,0,1,65,172,22,2
+557,22,23,"Consulta médica",3,6,Viernes,2,Primavera,179,26,9,30,222.196,99,0,3,Postgrado,0,0,0,0,56,171,19,2
+558,22,13,"Enfermedades del sistema musculoesquelético",3,2,Lunes,2,Primavera,179,26,9,30,222.196,99,0,3,Postgrado,0,0,0,0,56,171,19,2
+559,22,27,Fisioterapia,4,6,Viernes,2,Primavera,179,26,9,30,246.288,91,0,3,Postgrado,0,0,0,0,56,171,19,2
+560,17,16,"Afecciones del periodo perinatal",4,3,Martes,2,Primavera,179,22,17,40,246.288,91,0,2,Graduado,2,0,1,0,63,170,22,2
+561,10,23,"Consulta médica",4,3,Martes,2,Primavera,361,52,3,28,246.288,91,0,1,"Educación secundaria",1,1,0,4,80,172,27,2
+562,34,10,"Enfermedades del sistema respiratorio",4,4,Miércoles,2,Primavera,118,10,10,37,246.288,91,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+563,36,14,"Enfermedades del sistema genito-urinario",4,5,Jueves,2,Primavera,118,13,18,50,246.288,91,0,1,"Educación secundaria",1,1,0,0,98,178,31,2
+564,25,28,"Consulta dental",5,4,Miércoles,2,Primavera,235,16,8,32,237.656,99,0,3,Postgrado,0,0,0,0,75,178,25,2
+565,15,28,"Consulta dental",5,5,Jueves,2,Primavera,291,31,12,40,237.656,99,0,1,"Educación secundaria",1,1,0,1,73,171,25,2
+566,22,27,Fisioterapia,5,6,Viernes,2,Primavera,179,26,9,30,237.656,99,0,3,Postgrado,0,0,0,0,56,171,19,2
+567,36,23,"Consulta médica",5,2,Lunes,2,Primavera,118,13,18,50,237.656,99,0,1,"Educación secundaria",1,1,0,0,98,178,31,2
+568,22,27,Fisioterapia,5,4,Miércoles,2,Primavera,179,26,9,30,237.656,99,0,3,Postgrado,0,0,0,0,56,171,19,2
+569,25,23,"Consulta médica",5,5,Jueves,2,Primavera,235,16,8,32,237.656,99,0,3,Postgrado,0,0,0,0,75,178,25,2
+570,14,23,"Consulta médica",5,4,Miércoles,2,Primavera,155,12,14,34,237.656,99,0,1,"Educación secundaria",2,1,0,0,95,196,25,2
+571,22,27,Fisioterapia,6,6,Viernes,3,Verano,179,26,9,30,275.089,96,0,3,Postgrado,0,0,0,0,56,171,19,2
+572,22,13,"Enfermedades del sistema musculoesquelético",6,5,Jueves,3,Verano,179,26,9,30,275.089,96,0,3,Postgrado,0,0,0,0,56,171,19,2
+573,15,28,"Consulta dental",6,5,Jueves,3,Verano,291,31,12,40,275.089,96,0,1,"Educación secundaria",1,1,0,1,73,171,25,2
+574,34,8,"Enfermedades del oído",6,6,Viernes,3,Verano,118,10,10,37,275.089,96,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+575,12,19,"Lesiones y envenenamientos",7,6,Viernes,3,Verano,233,51,1,31,264.604,93,0,2,Graduado,1,1,0,8,68,178,21,2
+576,34,23,"Consulta médica",7,4,Miércoles,3,Verano,118,10,10,37,264.604,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+577,3,11,"Enfermedades del sistema digestivo",7,4,Miércoles,3,Verano,179,51,18,38,239.554,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+578,3,11,"Enfermedades del sistema digestivo",8,2,Lunes,3,Verano,179,51,18,38,205.917,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+579,11,23,"Consulta médica",8,3,Martes,3,Verano,289,36,13,33,205.917,92,0,1,"Educación secundaria",2,1,0,1,90,172,30,1
+580,10,23,"Consulta médica",8,2,Lunes,3,Verano,361,52,3,28,205.917,92,0,1,"Educación secundaria",1,1,0,4,80,172,27,1
+581,33,23,"Consulta médica",9,6,Viernes,4,Otoño,248,25,14,47,241.476,92,0,1,"Educación secundaria",2,0,0,1,86,165,32,1
+582,22,23,"Consulta médica",10,5,Jueves,4,Otoño,179,26,9,30,253.465,93,0,3,Postgrado,0,0,0,0,56,171,19,1
+583,10,23,"Consulta médica",10,6,Viernes,4,Otoño,361,52,3,28,253.465,93,0,1,"Educación secundaria",1,1,0,4,80,172,27,1
+584,3,23,"Consulta médica",11,5,Jueves,4,Otoño,179,51,18,38,306.345,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+585,28,23,"Consulta médica",11,4,Miércoles,4,Otoño,225,26,9,28,306.345,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+586,33,28,"Consulta dental",11,2,Lunes,4,Otoño,248,25,14,47,306.345,93,0,1,"Educación secundaria",2,0,0,1,86,165,32,1
+587,33,23,"Consulta médica",12,3,Martes,1,Invierno,248,25,14,47,261.306,97,0,1,"Educación secundaria",2,0,0,1,86,165,32,1
+588,28,23,"Consulta médica",1,4,Miércoles,1,Invierno,225,26,9,28,308.593,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+589,34,19,"Lesiones y envenenamientos",1,2,Lunes,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,1
+590,34,27,Fisioterapia,1,3,Martes,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,1
+591,28,27,Fisioterapia,1,6,Viernes,1,Invierno,225,26,9,28,308.593,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+592,28,23,"Consulta médica",1,3,Martes,1,Invierno,225,26,9,28,308.593,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+593,27,23,"Consulta médica",2,6,Viernes,1,Invierno,184,42,7,27,302.585,99,0,1,"Educación secundaria",0,0,0,0,58,167,21,1
+594,22,23,"Consulta médica",2,3,Martes,1,Invierno,179,26,9,30,302.585,99,0,3,Postgrado,0,0,0,0,56,171,19,1
+595,18,23,"Consulta médica",2,3,Martes,1,Invierno,330,16,4,28,302.585,99,0,2,Graduado,0,0,0,0,84,182,25,1
+596,28,23,"Consulta médica",2,4,Miércoles,1,Invierno,225,26,9,28,302.585,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+597,28,23,"Consulta médica",3,6,Viernes,2,Primavera,225,26,9,28,343.253,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+598,22,13,"Enfermedades del sistema musculoesquelético",3,2,Lunes,2,Primavera,179,26,9,30,343.253,95,0,3,Postgrado,0,0,0,0,56,171,19,1
+599,28,28,"Consulta dental",3,2,Lunes,2,Primavera,225,26,9,28,343.253,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+600,15,28,"Consulta dental",4,4,Miércoles,2,Primavera,291,31,12,40,326.452,96,0,1,"Educación secundaria",1,1,0,1,73,171,25,1
+601,28,23,"Consulta médica",4,4,Miércoles,2,Primavera,225,26,9,28,326.452,96,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+602,14,28,"Consulta dental",4,3,Martes,2,Primavera,155,12,14,34,326.452,96,0,1,"Educación secundaria",2,1,0,0,95,196,25,1
+603,14,23,"Consulta médica",4,5,Jueves,2,Primavera,155,12,14,34,326.452,96,0,1,"Educación secundaria",2,1,0,0,95,196,25,1
+604,36,23,"Consulta médica",4,5,Jueves,2,Primavera,118,13,18,50,326.452,96,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+605,15,28,"Consulta dental",4,6,Viernes,2,Primavera,291,31,12,40,326.452,96,0,1,"Educación secundaria",1,1,0,1,73,171,25,1
+606,14,28,"Consulta dental",5,2,Lunes,2,Primavera,155,12,14,34,378.884,92,0,1,"Educación secundaria",2,1,0,0,95,196,25,1
+607,3,12,"Enfermedades de la piel",5,3,Martes,2,Primavera,179,51,18,38,378.884,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+608,3,11,"Enfermedades del sistema digestivo",5,3,Martes,2,Primavera,179,51,18,38,378.884,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+609,36,23,"Consulta médica",6,3,Martes,3,Verano,118,13,18,50,377.55,94,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+610,11,23,"Consulta médica",8,2,Lunes,3,Verano,289,36,13,33,265.615,94,0,1,"Educación secundaria",2,1,0,1,90,172,30,1
+611,26,13,"Enfermedades del sistema musculoesquelético",8,5,Jueves,3,Verano,300,26,13,43,265.615,94,0,1,"Educación secundaria",2,1,1,1,77,175,25,1
+612,33,23,"Consulta médica",8,4,Miércoles,3,Verano,248,25,14,47,265.615,94,0,1,"Educación secundaria",2,0,0,1,86,165,32,1
+613,22,23,"Consulta médica",8,5,Jueves,3,Verano,179,26,9,30,265.615,94,0,3,Postgrado,0,0,0,0,56,171,19,1
+614,1,23,"Consulta médica",8,3,Martes,3,Verano,235,11,14,37,265.615,94,0,3,Postgrado,1,0,0,1,88,172,29,1
+615,36,23,"Consulta médica",8,5,Jueves,3,Verano,118,13,18,50,265.615,94,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+616,3,23,"Consulta médica",9,5,Jueves,4,Otoño,179,51,18,38,294.217,81,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+617,36,28,"Consulta dental",9,5,Jueves,4,Otoño,118,13,18,50,294.217,81,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+618,3,28,"Consulta dental",10,4,Miércoles,4,Otoño,179,51,18,38,265.017,88,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+619,36,28,"Consulta dental",10,3,Martes,4,Otoño,118,13,18,50,265.017,88,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+620,36,28,"Consulta dental",10,5,Jueves,4,Otoño,118,13,18,50,265.017,88,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+621,36,23,"Consulta médica",10,5,Jueves,4,Otoño,118,13,18,50,265.017,88,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+622,15,23,"Consulta médica",11,2,Lunes,4,Otoño,291,31,12,40,284.031,97,0,1,"Educación secundaria",1,1,0,1,73,171,25,1
+623,1,18,"Síntomas y hallazgos clínicos no clasificados",11,4,Miércoles,4,Otoño,235,11,14,37,284.031,97,0,3,Postgrado,1,0,0,1,88,172,29,1
+624,3,28,"Consulta dental",11,3,Martes,4,Otoño,179,51,18,38,284.031,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+625,3,23,"Consulta médica",11,5,Jueves,4,Otoño,179,51,18,38,284.031,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+626,3,28,"Consulta dental",12,2,Lunes,1,Invierno,179,51,18,38,236.629,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+627,36,28,"Consulta dental",12,3,Martes,1,Invierno,118,13,18,50,236.629,93,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+628,3,28,"Consulta dental",12,5,Jueves,1,Invierno,179,51,18,38,236.629,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+629,3,28,"Consulta dental",12,6,Viernes,1,Invierno,179,51,18,38,236.629,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+630,22,23,"Consulta médica",12,3,Martes,1,Invierno,179,26,9,30,236.629,93,0,3,Postgrado,0,0,0,0,56,171,19,1
+631,1,13,"Enfermedades del sistema musculoesquelético",1,3,Martes,1,Invierno,235,11,14,37,330.061,100,0,3,Postgrado,1,0,0,1,88,172,29,1
+632,3,28,"Consulta dental",1,4,Miércoles,1,Invierno,179,51,18,38,330.061,100,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+633,3,28,"Consulta dental",1,6,Viernes,1,Invierno,179,51,18,38,330.061,100,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+634,28,7,"Enfermedades del ojo",2,4,Miércoles,1,Invierno,225,26,9,28,251.818,96,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+635,36,23,"Consulta médica",4,2,Lunes,2,Primavera,118,13,18,50,239.409,98,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+636,10,23,"Consulta médica",5,5,Jueves,2,Primavera,361,52,3,28,246.074,99,0,1,"Educación secundaria",1,1,0,4,80,172,27,1
+637,34,28,"Consulta dental",5,2,Lunes,2,Primavera,118,10,10,37,246.074,99,0,1,"Educación secundaria",0,0,0,0,83,172,28,1
+638,18,11,"Enfermedades del sistema digestivo",6,3,Martes,3,Verano,330,16,4,28,253.957,95,0,2,Graduado,0,0,0,0,84,182,25,1
+639,2,23,"Consulta médica",7,2,Lunes,3,Verano,235,29,12,48,230.29,92,0,1,"Educación secundaria",1,0,1,5,88,163,33,1
+640,3,28,"Consulta dental",7,3,Martes,3,Verano,179,51,18,38,230.29,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+641,36,23,"Consulta médica",7,6,Viernes,3,Verano,118,13,18,50,230.29,92,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+642,15,28,"Consulta dental",7,5,Jueves,3,Verano,291,31,12,40,230.29,92,0,1,"Educación secundaria",1,1,0,1,73,171,25,1
+643,17,25,"Examen de laboratorio",8,2,Lunes,3,Verano,179,22,17,40,249.797,93,0,2,Graduado,2,0,1,0,63,170,22,1
+644,24,28,"Consulta dental",8,3,Martes,3,Verano,246,25,16,41,249.797,93,0,1,"Educación secundaria",0,1,0,0,67,170,23,1
+645,24,28,"Consulta dental",9,3,Martes,4,Otoño,246,25,16,41,261.756,87,0,1,"Educación secundaria",0,1,0,0,67,170,23,1
+646,33,23,"Consulta médica",9,6,Viernes,4,Otoño,248,25,14,47,261.756,87,0,1,"Educación secundaria",2,0,0,1,86,165,32,1
+647,28,23,"Consulta médica",9,4,Miércoles,4,Otoño,225,26,9,28,261.756,87,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+648,32,4,"Enfermedades endocrinas, nutricionales y metabólicas",10,5,Jueves,4,Otoño,289,48,29,49,284.853,91,0,1,"Educación secundaria",0,0,0,2,108,172,36,1
+649,15,23,"Consulta médica",10,6,Viernes,4,Otoño,291,31,12,40,284.853,91,0,1,"Educación secundaria",1,1,0,1,73,171,25,1
+650,9,1,"Enfermedades infecciosas y parasitarias",10,4,Miércoles,4,Otoño,228,14,16,58,284.853,91,0,1,"Educación secundaria",2,0,0,1,65,172,22,1
+651,15,23,"Consulta médica",10,4,Miércoles,4,Otoño,291,31,12,40,284.853,91,0,1,"Educación secundaria",1,1,0,1,73,171,25,1
+652,28,13,"Enfermedades del sistema musculoesquelético",10,5,Jueves,4,Otoño,225,26,9,28,284.853,91,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+653,3,21,"Factores que influyen en el estado de salud",11,3,Martes,4,Otoño,179,51,18,38,268.519,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+654,3,28,"Consulta dental",11,6,Viernes,4,Otoño,179,51,18,38,268.519,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+655,3,28,"Consulta dental",11,2,Lunes,4,Otoño,179,51,18,38,268.519,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+656,15,28,"Consulta dental",12,4,Miércoles,1,Invierno,291,31,12,40,280.549,98,0,1,"Educación secundaria",1,1,0,1,73,171,25,1
+657,22,13,"Enfermedades del sistema musculoesquelético",12,6,Viernes,1,Invierno,179,26,9,30,280.549,98,0,3,Postgrado,0,0,0,0,56,171,19,1
+658,22,13,"Enfermedades del sistema musculoesquelético",5,5,Jueves,2,Primavera,179,26,9,30,237.656,99,0,3,Postgrado,0,0,0,0,56,171,19,1
+659,34,28,"Consulta dental",5,3,Martes,2,Primavera,118,10,10,37,237.656,99,0,1,"Educación secundaria",0,0,0,0,83,172,28,1
+660,17,16,"Afecciones del periodo perinatal",5,6,Viernes,2,Primavera,179,22,17,40,237.656,99,0,2,Graduado,2,0,1,0,63,170,22,1
+661,28,11,"Enfermedades del sistema digestivo",5,2,Lunes,2,Primavera,225,26,9,28,237.656,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+662,36,0,"Sin ausencia registrada",7,3,Martes,3,Verano,118,13,18,50,239.554,97,1,1,"Educación secundaria",1,1,0,0,98,178,31,0
+663,20,0,"Sin ausencia registrada",9,2,Lunes,4,Otoño,260,50,11,36,241.476,92,1,1,"Educación secundaria",4,1,0,0,65,168,23,0
+665,11,0,"Sin ausencia registrada",9,3,Martes,4,Otoño,289,36,13,33,241.476,92,1,1,"Educación secundaria",2,1,0,1,90,172,30,0
+666,36,0,"Sin ausencia registrada",9,3,Martes,4,Otoño,118,13,18,50,241.476,92,1,1,"Educación secundaria",1,1,0,0,98,178,31,0
+667,13,0,"Sin ausencia registrada",9,4,Miércoles,4,Otoño,369,17,12,31,241.476,92,1,1,"Educación secundaria",3,1,0,0,70,169,25,0
+668,36,0,"Sin ausencia registrada",10,4,Miércoles,4,Otoño,118,13,18,50,253.465,93,1,1,"Educación secundaria",1,1,0,0,98,178,31,0
+669,34,27,Fisioterapia,1,2,Lunes,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,0
+670,2,0,"Sin ausencia registrada",4,2,Lunes,2,Primavera,235,29,12,48,326.452,96,1,1,"Educación secundaria",1,0,1,5,88,163,33,0
+671,7,0,"Sin ausencia registrada",5,4,Miércoles,2,Primavera,279,5,14,39,378.884,92,1,1,"Educación secundaria",2,1,1,0,68,168,24,0
+672,18,0,"Sin ausencia registrada",5,4,Miércoles,2,Primavera,330,16,4,28,378.884,92,1,2,Graduado,0,0,0,0,84,182,25,0
+673,23,0,"Sin ausencia registrada",5,4,Miércoles,2,Primavera,378,49,11,36,378.884,92,1,1,"Educación secundaria",2,0,1,4,65,174,21,0
+674,31,0,"Sin ausencia registrada",5,4,Miércoles,2,Primavera,388,15,9,50,378.884,92,1,1,"Educación secundaria",0,0,0,0,76,178,24,0
+675,20,0,"Sin ausencia registrada",7,5,Jueves,3,Verano,260,50,11,36,275.312,98,1,1,"Educación secundaria",4,1,0,0,65,168,23,0
+676,5,0,"Sin ausencia registrada",9,5,Jueves,4,Otoño,235,20,13,43,294.217,81,1,1,"Educación secundaria",1,1,0,0,106,167,38,0
+677,8,0,"Sin ausencia registrada",9,3,Martes,4,Otoño,231,35,14,39,294.217,81,1,1,"Educación secundaria",2,1,0,2,100,170,35,0
+678,19,0,"Sin ausencia registrada",9,3,Martes,4,Otoño,291,50,12,32,294.217,81,1,1,"Educación secundaria",0,1,0,0,65,169,23,0
+679,5,0,"Sin ausencia registrada",9,5,Jueves,4,Otoño,235,20,13,43,294.217,81,1,1,"Educación secundaria",1,1,0,0,106,167,38,0
+680,36,0,"Sin ausencia registrada",10,6,Viernes,4,Otoño,118,13,18,50,265.017,88,1,1,"Educación secundaria",1,1,0,0,98,178,31,0
+681,33,0,"Sin ausencia registrada",10,6,Viernes,4,Otoño,248,25,14,47,265.017,88,1,1,"Educación secundaria",2,0,0,1,86,165,32,0
+682,5,0,"Sin ausencia registrada",10,4,Miércoles,4,Otoño,235,20,13,43,265.017,88,1,1,"Educación secundaria",1,1,0,0,106,167,38,0
+683,5,0,"Sin ausencia registrada",10,6,Viernes,4,Otoño,235,20,13,43,265.017,88,1,1,"Educación secundaria",1,1,0,0,106,167,38,0
+684,20,0,"Sin ausencia registrada",10,3,Martes,4,Otoño,260,50,11,36,265.017,88,1,1,"Educación secundaria",4,1,0,0,65,168,23,0
+685,15,0,"Sin ausencia registrada",10,3,Martes,4,Otoño,291,31,12,40,265.017,88,1,1,"Educación secundaria",1,1,0,1,73,171,25,0
+686,30,0,"Sin ausencia registrada",10,3,Martes,4,Otoño,157,27,6,29,265.017,88,1,1,"Educación secundaria",0,1,1,0,75,185,22,0
+687,18,0,"Sin ausencia registrada",11,3,Martes,4,Otoño,330,16,4,28,284.031,97,1,2,Graduado,0,0,0,0,84,182,25,0
+688,23,0,"Sin ausencia registrada",11,6,Viernes,4,Otoño,378,49,11,36,284.031,97,1,1,"Educación secundaria",2,0,1,4,65,174,21,0
+689,7,0,"Sin ausencia registrada",11,3,Martes,4,Otoño,279,5,14,39,284.031,97,1,1,"Educación secundaria",2,1,1,0,68,168,24,0
+690,13,0,"Sin ausencia registrada",3,4,Miércoles,2,Primavera,369,17,12,31,244.387,98,1,1,"Educación secundaria",3,1,0,0,70,169,25,0
+691,1,0,"Sin ausencia registrada",3,5,Jueves,2,Primavera,235,11,14,37,244.387,98,1,3,Postgrado,1,0,0,1,88,172,29,0
+692,24,0,"Sin ausencia registrada",3,5,Jueves,2,Primavera,246,25,16,41,244.387,98,1,1,"Educación secundaria",0,1,0,0,67,170,23,0
+693,36,0,"Sin ausencia registrada",3,5,Jueves,2,Primavera,118,13,18,50,244.387,98,1,1,"Educación secundaria",1,1,0,0,98,178,31,0
+694,3,0,"Sin ausencia registrada",6,6,Viernes,3,Verano,179,51,18,38,253.957,95,1,1,"Educación secundaria",0,1,0,0,89,170,31,0
+695,28,0,"Sin ausencia registrada",10,2,Lunes,4,Otoño,225,26,9,28,284.853,91,1,1,"Educación secundaria",1,0,0,2,69,169,24,0
+696,15,0,"Sin ausencia registrada",11,3,Martes,4,Otoño,291,31,12,40,268.519,93,1,1,"Educación secundaria",1,1,0,1,73,171,25,0
+697,11,0,"Sin ausencia registrada",11,4,Miércoles,4,Otoño,289,36,13,33,268.519,93,1,1,"Educación secundaria",2,1,0,1,90,172,30,0
+698,5,0,"Sin ausencia registrada",11,5,Jueves,4,Otoño,235,20,13,43,268.519,93,1,1,"Educación secundaria",1,1,0,0,106,167,38,0
+699,36,0,"Sin ausencia registrada",5,3,Martes,2,Primavera,118,13,18,50,237.656,99,1,1,"Educación secundaria",1,1,0,0,98,178,31,0
+700,23,0,"Sin ausencia registrada",5,4,Miércoles,2,Primavera,378,49,11,36,237.656,99,1,1,"Educación secundaria",2,0,1,4,65,174,21,0
+701,2,0,"Sin ausencia registrada",6,2,Lunes,3,Verano,235,29,12,48,275.089,96,1,1,"Educación secundaria",1,0,1,5,88,163,33,0
+702,21,0,"Sin ausencia registrada",6,2,Lunes,3,Verano,268,11,8,33,275.089,96,1,2,Graduado,0,0,0,0,79,178,25,0
+703,4,0,"Sin ausencia registrada",0,3,Martes,0,"Sin mes registrado",118,14,13,40,271.219,95,0,1,"Educación secundaria",1,1,0,8,98,170,34,0
+704,8,0,"Sin ausencia registrada",0,4,Miércoles,0,"Sin mes registrado",231,35,14,39,271.219,95,0,1,"Educación secundaria",2,1,0,2,100,170,35,0
+705,35,0,"Sin ausencia registrada",0,6,Viernes,0,"Sin mes registrado",179,45,14,53,271.219,95,0,1,"Educación secundaria",1,0,0,1,77,175,25,0
+706,37,27,Fisioterapia,1,5,Jueves,1,Invierno,179,51,18,38,313.532,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+707,38,13,"Enfermedades del sistema musculoesquelético",7,2,Lunes,3,Verano,369,17,12,31,264.604,93,0,1,"Educación secundaria",3,1,0,0,70,169,25,80
+708,39,0,"Sin ausencia registrada",3,5,Jueves,2,Primavera,246,25,16,41,244.387,98,1,1,"Educación secundaria",0,1,0,0,67,170,23,0
+709,40,23,"Consulta médica",5,4,Miércoles,2,Primavera,155,12,14,34,237.656,99,0,1,"Educación secundaria",2,1,0,0,95,196,25,2
+710,41,22,"Seguimiento de paciente",4,6,Viernes,2,Primavera,235,11,14,37,246.288,91,0,3,Postgrado,1,0,0,1,88,172,29,8
+711,42,23,"Consulta médica",2,4,Miércoles,1,Invierno,225,26,9,28,302.585,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,1
+712,43,23,"Consulta médica",7,6,Viernes,3,Verano,179,51,18,38,239.554,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+713,44,22,"Seguimiento de paciente",10,6,Viernes,4,Otoño,289,36,13,33,265.017,88,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+714,45,23,"Consulta médica",4,3,Martes,2,Primavera,361,52,3,28,246.288,91,0,1,"Educación secundaria",1,1,0,4,80,172,27,2
+715,46,13,"Enfermedades del sistema musculoesquelético",6,3,Martes,3,Verano,235,11,14,37,253.957,95,0,3,Postgrado,1,0,0,1,88,172,29,8
+716,47,23,"Consulta médica",10,5,Jueves,4,Otoño,291,31,12,40,253.465,93,0,1,"Educación secundaria",1,1,0,1,73,171,25,5
+717,48,13,"Enfermedades del sistema musculoesquelético",3,2,Lunes,2,Primavera,248,25,14,47,222.196,99,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+718,49,28,"Consulta dental",6,2,Lunes,3,Verano,179,51,18,38,253.957,95,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+719,50,10,"Enfermedades del sistema respiratorio",5,2,Lunes,2,Primavera,235,16,8,32,237.656,99,0,3,Postgrado,0,0,0,0,75,178,25,8
+720,51,27,Fisioterapia,1,4,Miércoles,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+721,52,2,"Neoplasias (tumores)",11,4,Miércoles,4,Otoño,330,16,4,28,268.519,93,0,2,Graduado,0,0,0,0,84,182,25,24
+722,53,0,"Sin ausencia registrada",10,3,Martes,4,Otoño,157,27,6,29,265.017,88,1,1,"Educación secundaria",0,1,1,0,75,185,22,0
+723,54,19,"Lesiones y envenenamientos",4,5,Jueves,2,Primavera,225,26,9,28,246.288,91,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+724,55,27,Fisioterapia,2,5,Jueves,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+725,56,28,"Consulta dental",11,6,Viernes,4,Otoño,260,50,11,36,306.345,93,0,1,"Educación secundaria",4,1,0,0,65,168,23,4
+726,57,14,"Enfermedades del sistema genito-urinario",7,3,Martes,3,Verano,289,36,13,33,264.604,93,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+727,58,28,"Consulta dental",10,6,Viernes,4,Otoño,260,50,11,36,265.017,88,0,1,"Educación secundaria",4,1,0,0,65,168,23,3
+728,59,0,"Sin ausencia registrada",11,5,Jueves,4,Otoño,235,20,13,43,268.519,93,1,1,"Educación secundaria",1,1,0,0,106,167,38,0
+729,60,18,"Síntomas y hallazgos clínicos no clasificados",5,4,Miércoles,2,Primavera,228,14,16,58,246.074,99,0,1,"Educación secundaria",2,0,0,1,65,172,22,8
+730,61,26,"Ausencia injustificada",12,6,Viernes,1,Invierno,260,50,11,36,261.306,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+731,62,23,"Consulta médica",10,6,Viernes,4,Otoño,225,26,9,28,253.465,93,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+732,63,0,"Sin ausencia registrada",3,5,Jueves,2,Primavera,118,13,18,50,244.387,98,1,1,"Educación secundaria",1,1,0,0,98,178,31,0
+733,64,23,"Consulta médica",10,5,Jueves,4,Otoño,179,26,9,30,265.017,88,0,3,Postgrado,0,0,0,0,56,171,19,16
+734,65,10,"Enfermedades del sistema respiratorio",11,4,Miércoles,4,Otoño,260,50,11,36,284.031,97,0,1,"Educación secundaria",4,1,0,0,65,168,23,8
+735,66,24,"Donación de sangre",11,4,Miércoles,4,Otoño,289,36,13,33,268.519,93,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+736,67,7,"Enfermedades del ojo",2,3,Martes,1,Invierno,225,26,9,28,264.249,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,8
+737,68,26,"Ausencia injustificada",10,3,Martes,4,Otoño,369,17,12,31,284.853,91,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+738,69,13,"Enfermedades del sistema musculoesquelético",5,4,Miércoles,2,Primavera,118,13,18,50,378.884,92,0,1,"Educación secundaria",1,1,0,0,98,178,31,24
+739,70,26,"Ausencia injustificada",7,4,Miércoles,3,Verano,289,36,13,33,275.312,98,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+740,71,25,"Examen de laboratorio",3,5,Jueves,2,Primavera,225,26,9,28,222.196,99,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+741,72,27,Fisioterapia,1,5,Jueves,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+742,73,10,"Enfermedades del sistema respiratorio",5,5,Jueves,2,Primavera,330,16,4,28,237.656,99,0,2,Graduado,0,0,0,0,84,182,25,8
+743,74,27,Fisioterapia,1,3,Martes,1,Invierno,118,10,10,37,308.593,95,0,1,"Educación secundaria",0,0,0,0,83,172,28,1
+744,75,0,"Sin ausencia registrada",9,3,Martes,4,Otoño,118,13,18,50,241.476,92,1,1,"Educación secundaria",1,1,0,0,98,178,31,0
+745,76,23,"Consulta médica",9,4,Miércoles,4,Otoño,179,51,18,38,241.476,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+746,77,19,"Lesiones y envenenamientos",12,6,Viernes,1,Invierno,246,25,16,41,261.306,97,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+747,78,23,"Consulta médica",4,5,Jueves,2,Primavera,118,13,18,50,326.452,96,0,1,"Educación secundaria",1,1,0,0,98,178,31,1
+748,79,10,"Enfermedades del sistema respiratorio",11,2,Lunes,4,Otoño,155,12,14,34,306.345,93,0,1,"Educación secundaria",2,1,0,0,95,196,25,32
+749,80,18,"Síntomas y hallazgos clínicos no clasificados",8,2,Lunes,3,Verano,289,36,13,33,205.917,92,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+750,81,11,"Enfermedades del sistema digestivo",11,2,Lunes,4,Otoño,118,10,10,37,284.031,97,0,1,"Educación secundaria",0,0,0,0,83,172,28,8
+751,82,14,"Enfermedades del sistema genito-urinario",3,3,Martes,2,Primavera,118,13,18,50,244.387,98,0,1,"Educación secundaria",1,1,0,0,98,178,31,3
+752,83,22,"Seguimiento de paciente",3,6,Viernes,2,Primavera,289,36,13,33,244.387,98,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+753,84,19,"Lesiones y envenenamientos",7,2,Lunes,3,Verano,289,36,13,33,275.312,98,0,1,"Educación secundaria",2,1,0,1,90,172,30,32
+754,85,10,"Enfermedades del sistema respiratorio",2,5,Jueves,1,Invierno,179,51,18,38,251.818,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,8
+755,86,1,"Enfermedades infecciosas y parasitarias",2,3,Martes,1,Invierno,388,15,9,50,302.585,99,0,1,"Educación secundaria",0,0,0,0,76,178,24,8
+756,87,22,"Seguimiento de paciente",2,6,Viernes,1,Invierno,289,36,13,33,302.585,99,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+757,88,0,"Sin ausencia registrada",9,2,Lunes,4,Otoño,260,50,11,36,241.476,92,1,1,"Educación secundaria",4,1,0,0,65,168,23,0
+758,89,27,Fisioterapia,6,6,Viernes,3,Verano,179,26,9,30,275.089,96,0,3,Postgrado,0,0,0,0,56,171,19,2
+759,90,13,"Enfermedades del sistema musculoesquelético",3,4,Miércoles,2,Primavera,155,12,14,34,222.196,99,0,1,"Educación secundaria",2,1,0,0,95,196,25,24
+760,91,28,"Consulta dental",11,5,Jueves,4,Otoño,179,51,18,38,284.031,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+761,92,13,"Enfermedades del sistema musculoesquelético",3,4,Miércoles,2,Primavera,118,13,18,50,244.387,98,0,1,"Educación secundaria",1,1,0,0,98,178,31,8
+762,93,19,"Lesiones y envenenamientos",4,4,Miércoles,2,Primavera,378,49,11,36,326.452,96,0,1,"Educación secundaria",2,0,1,4,65,174,21,8
+763,94,28,"Consulta dental",5,5,Jueves,2,Primavera,291,31,12,40,237.656,99,0,1,"Educación secundaria",1,1,0,1,73,171,25,2
+764,95,23,"Consulta médica",9,3,Martes,4,Otoño,179,51,18,38,241.476,92,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+765,96,28,"Consulta dental",6,5,Jueves,3,Verano,225,26,9,28,377.55,94,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+766,97,23,"Consulta médica",2,3,Martes,1,Invierno,248,25,14,47,264.249,97,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+767,98,26,"Ausencia injustificada",12,4,Miércoles,1,Invierno,235,11,14,37,261.306,97,0,3,Postgrado,1,0,0,1,88,172,29,8
+768,99,12,"Enfermedades de la piel",3,3,Martes,2,Primavera,228,14,16,58,222.196,99,0,1,"Educación secundaria",2,0,0,1,65,172,22,112
+769,100,23,"Consulta médica",5,5,Jueves,2,Primavera,361,52,3,28,246.074,99,0,1,"Educación secundaria",1,1,0,4,80,172,27,1
+770,101,23,"Consulta médica",2,3,Martes,1,Invierno,225,26,9,28,264.249,97,0,1,"Educación secundaria",1,0,0,2,69,169,24,3
+771,102,28,"Consulta dental",4,2,Lunes,2,Primavera,179,51,18,38,239.409,98,0,1,"Educación secundaria",0,1,0,0,89,170,31,4
+772,103,23,"Consulta médica",8,3,Martes,3,Verano,289,36,13,33,265.615,94,0,1,"Educación secundaria",2,1,0,1,90,172,30,4
+773,104,23,"Consulta médica",12,3,Martes,1,Invierno,225,26,9,28,280.549,98,0,1,"Educación secundaria",1,0,0,2,69,169,24,2
+774,105,18,"Síntomas y hallazgos clínicos no clasificados",12,2,Lunes,1,Invierno,233,51,1,31,280.549,98,0,2,Graduado,1,1,0,8,68,178,21,8
+775,106,13,"Enfermedades del sistema musculoesquelético",12,3,Martes,1,Invierno,235,20,13,43,236.629,93,0,1,"Educación secundaria",1,1,0,0,106,167,38,8
+776,107,22,"Seguimiento de paciente",6,5,Jueves,3,Verano,378,49,11,36,275.089,96,0,1,"Educación secundaria",2,0,1,4,65,174,21,8
+777,108,27,Fisioterapia,2,6,Viernes,1,Invierno,179,51,18,38,251.818,96,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+778,109,19,"Lesiones y envenenamientos",5,4,Miércoles,2,Primavera,225,15,15,41,237.656,99,0,4,"Máster o doctorado",2,1,0,2,94,182,28,3
+779,110,27,Fisioterapia,2,4,Miércoles,1,Invierno,179,51,18,38,264.249,97,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+780,111,28,"Consulta dental",6,2,Lunes,3,Verano,179,51,18,38,253.957,95,0,1,"Educación secundaria",0,1,0,0,89,170,31,2
+781,112,26,"Ausencia injustificada",8,3,Martes,3,Verano,289,36,13,33,249.797,93,0,1,"Educación secundaria",2,1,0,1,90,172,30,8
+782,113,27,Fisioterapia,4,6,Viernes,2,Primavera,179,26,9,30,246.288,91,0,3,Postgrado,0,0,0,0,56,171,19,2
+783,114,23,"Consulta médica",6,5,Jueves,3,Verano,291,31,12,40,377.55,94,0,1,"Educación secundaria",1,1,0,1,73,171,25,4
+784,115,18,"Síntomas y hallazgos clínicos no clasificados",7,5,Jueves,3,Verano,179,26,9,30,275.312,98,0,3,Postgrado,0,0,0,0,56,171,19,8
+785,116,23,"Consulta médica",9,2,Lunes,4,Otoño,118,10,10,37,241.476,92,0,1,"Educación secundaria",0,0,0,0,83,172,28,3
+786,117,27,Fisioterapia,3,5,Jueves,2,Primavera,179,51,18,38,222.196,99,0,1,"Educación secundaria",0,1,0,0,89,170,31,3
+787,118,27,Fisioterapia,12,6,Viernes,1,Invierno,118,10,10,37,261.306,97,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+788,119,10,"Enfermedades del sistema respiratorio",6,2,Lunes,3,Verano,246,25,16,41,377.55,94,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+789,120,27,Fisioterapia,4,6,Viernes,2,Primavera,179,26,9,30,246.288,91,0,3,Postgrado,0,0,0,0,56,171,19,2
+790,121,19,"Lesiones y envenenamientos",6,2,Lunes,3,Verano,246,25,16,41,377.55,94,0,1,"Educación secundaria",0,1,0,0,67,170,23,8
+791,122,23,"Consulta médica",7,4,Miércoles,3,Verano,118,10,10,37,264.604,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,2
+792,123,27,Fisioterapia,2,5,Jueves,1,Invierno,179,26,9,30,264.249,97,0,3,Postgrado,0,0,0,0,56,171,19,2
+793,124,28,"Consulta dental",12,2,Lunes,1,Invierno,157,27,6,29,236.629,93,0,1,"Educación secundaria",0,1,1,0,75,185,22,2
+794,125,25,"Examen de laboratorio",8,2,Lunes,3,Verano,248,25,14,47,265.615,94,0,1,"Educación secundaria",2,0,0,1,86,165,32,2
+795,126,16,"Afecciones del periodo perinatal",5,6,Viernes,2,Primavera,179,22,17,40,237.656,99,0,2,Graduado,2,0,1,0,63,170,22,1
+796,127,28,"Consulta dental",11,6,Viernes,4,Otoño,179,51,18,38,268.519,93,0,1,"Educación secundaria",0,1,0,0,89,170,31,1
+797,128,28,"Consulta dental",8,4,Miércoles,3,Verano,157,27,6,29,205.917,92,0,1,"Educación secundaria",0,1,1,0,75,185,22,4
+798,129,28,"Consulta dental",7,2,Lunes,3,Verano,118,10,10,37,264.604,93,0,1,"Educación secundaria",0,0,0,0,83,172,28,4
+799,130,11,"Enfermedades del sistema digestivo",3,4,Miércoles,2,Primavera,225,26,9,28,343.253,95,0,1,"Educación secundaria",1,0,0,2,69,169,24,16
+800,131,10,"Enfermedades del sistema respiratorio",10,6,Viernes,4,Otoño,369,17,12,31,284.853,91,0,1,"Educación secundaria",3,1,0,0,70,169,25,8
+801,132,0,"Sin ausencia registrada",5,4,Miércoles,2,Primavera,378,49,11,36,237.656,99,1,1,"Educación secundaria",2,0,1,4,65,174,21,0
+802,133,25,"Examen de laboratorio",3,2,Lunes,2,Primavera,235,16,8,32,222.196,99,0,3,Postgrado,0,0,0,0,75,178,25,3
+803,134,23,"Consulta médica",12,4,Miércoles,1,Invierno,118,13,18,50,261.306,97,0,1,"Educación secundaria",1,1,0,0,98,178,31,2
+804,135,21,"Factores que influyen en el estado de salud",11,4,Miércoles,4,Otoño,179,22,17,40,306.345,93,0,2,Graduado,2,0,1,0,63,170,22,8
+805,136,7,"Enfermedades del ojo",10,4,Miércoles,4,Otoño,179,26,9,30,265.017,88,0,3,Postgrado,0,0,0,0,56,171,19,5

@@ -1,0 +1,129 @@
+<div style="display:flex;flex-direction:column;gap:24px;">
+
+  <div style="font-size:12px;color:var(--text-muted);">Página 1</div>
+  <div style="background:#f7f7f8;border-radius:12px;overflow:hidden;aspect-ratio:16/9;display:flex;flex-direction:column;">
+    <div style="display:flex;align-items:center;justify-content:space-between;padding:20px 32px 12px;">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <div style="width:3px;height:26px;background:#1c3d52;border-radius:2px;"></div>
+        <div style="font-size:22px;color:#1c3d52;font-weight:500;">Operaciones &amp; inventario</div>
+      </div>
+      <div style="text-align:center;">
+        <i class="ti ti-home-2" style="font-size:22px;color:#1c3d52;" aria-hidden="true"></i>
+        <div style="font-size:9px;font-weight:500;color:#1c3d52;">StaySpain</div>
+      </div>
+    </div>
+
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:center;padding:0 40px;">
+      <div style="font-size:13px;color:#6b6b6b;margin-bottom:6px;">Pregunta de negocio</div>
+      <div style="font-size:20px;color:#1c3d52;font-weight:500;margin-bottom:24px;">¿Camas, habitaciones y baños afectan la ocupación?</div>
+
+      <div style="display:flex;gap:36px;align-items:center;">
+        <div style="text-align:center;min-width:150px;">
+          <i class="ti ti-bed" style="font-size:36px;color:#1c3d52;" aria-hidden="true"></i>
+          <div style="font-size:36px;font-weight:500;color:#1c3d52;margin-top:6px;">-7,65 días</div>
+          <div style="font-size:12px;color:#6b6b6b;margin-top:2px;">por cada cama de más</div>
+        </div>
+        <div style="flex:1;position:relative;height:170px;">
+          <canvas id="chart1b" role="img" aria-label="Efecto de habitaciones, baños y camas sobre la ocupación anual. Camas -7.7 dias, significativo. Baños +3.3, no significativo. Habitaciones +3.4, no significativo.">Camas -7,7 días (significativo); baños y habitaciones sin efecto claro</canvas>
+        </div>
+      </div>
+    </div>
+
+    <div style="height:14px;background:#f5c343;"></div>
+  </div>
+
+  <div style="font-size:12px;color:var(--text-muted);">Página 2</div>
+  <div style="background:#f7f7f8;border-radius:12px;overflow:hidden;aspect-ratio:16/9;display:flex;flex-direction:column;">
+    <div style="display:flex;align-items:center;justify-content:space-between;padding:20px 32px 12px;">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <div style="width:3px;height:26px;background:#1c3d52;border-radius:2px;"></div>
+        <div style="font-size:22px;color:#1c3d52;font-weight:500;">Operaciones &amp; inventario</div>
+      </div>
+      <div style="text-align:center;">
+        <i class="ti ti-home-2" style="font-size:22px;color:#1c3d52;" aria-hidden="true"></i>
+        <div style="font-size:9px;font-weight:500;color:#1c3d52;">StaySpain</div>
+      </div>
+    </div>
+
+    <div style="flex:1;display:flex;flex-direction:column;justify-content:center;padding:0 40px;">
+      <div style="font-size:13px;color:#6b6b6b;margin-bottom:6px;">¿Y varía según la ciudad?</div>
+      <div style="font-size:20px;color:#1c3d52;font-weight:500;margin-bottom:20px;">En Barcelona, sí. En el resto, no.</div>
+
+      <div style="display:flex;gap:36px;">
+        <div style="flex:1.1;display:flex;flex-direction:column;justify-content:center;">
+          <div style="display:grid;grid-template-columns:100px repeat(3,1fr);gap:5px;font-size:12px;">
+            <div></div>
+            <div style="text-align:center;color:#6b6b6b;">1-2 camas</div>
+            <div style="text-align:center;color:#6b6b6b;">3-4 camas</div>
+            <div style="text-align:center;color:#6b6b6b;">5+ camas</div>
+
+            <div style="color:#1c3d52;font-weight:500;display:flex;align-items:center;">Barcelona</div>
+            <div style="background:#f5c343;color:#5c4308;border-radius:6px;padding:9px 0;text-align:center;font-weight:500;">202</div>
+            <div style="background:#f0a93b;color:#5c4308;border-radius:6px;padding:9px 0;text-align:center;font-weight:500;">142</div>
+            <div style="background:#d9812c;color:#fff7e6;border-radius:6px;padding:9px 0;text-align:center;font-weight:500;">121</div>
+
+            <div style="color:#1c3d52;font-weight:500;display:flex;align-items:center;">Resto ciudades</div>
+            <div style="background:#1c3d52;color:#e8eef2;border-radius:6px;padding:9px 0;text-align:center;font-weight:500;">178</div>
+            <div style="background:#1c3d52;color:#e8eef2;border-radius:6px;padding:9px 0;text-align:center;font-weight:500;">172</div>
+            <div style="background:#1c3d52;color:#e8eef2;border-radius:6px;padding:9px 0;text-align:center;font-weight:500;">169</div>
+          </div>
+          <div style="font-size:12px;color:#6b6b6b;margin-top:8px;">Ocupación media anual (días)</div>
+        </div>
+
+        <div style="flex:1;display:flex;flex-direction:column;gap:10px;justify-content:center;">
+          <div style="font-size:11px;color:#6b6b6b;text-transform:uppercase;letter-spacing:.03em;">Hallazgos y propuestas</div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <i class="ti ti-tag" style="font-size:20px;color:#1c3d52;flex-shrink:0;margin-top:1px;" aria-hidden="true"></i>
+            <div>
+              <div style="font-weight:500;font-size:13px;color:#1c3d52;">Revisar precio en Barcelona</div>
+              <div style="font-size:12px;color:#6b6b6b;">Alojamientos grandes ocupan menos días</div>
+            </div>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <i class="ti ti-map-pin" style="font-size:20px;color:#1c3d52;flex-shrink:0;margin-top:1px;" aria-hidden="true"></i>
+            <div>
+              <div style="font-weight:500;font-size:13px;color:#1c3d52;">No generalizar al resto</div>
+              <div style="font-size:12px;color:#6b6b6b;">El patrón es propio de Barcelona</div>
+            </div>
+          </div>
+          <div style="display:flex;gap:10px;align-items:flex-start;">
+            <i class="ti ti-arrow-right" style="font-size:20px;color:#1c3d52;flex-shrink:0;margin-top:1px;" aria-hidden="true"></i>
+            <div>
+              <div style="font-weight:500;font-size:13px;color:#1c3d52;">Próximo paso</div>
+              <div style="font-size:12px;color:#6b6b6b;">Añadir el precio por cama al análisis</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div style="height:14px;background:#f5c343;"></div>
+  </div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+new Chart(document.getElementById('chart1b'), {
+  type: 'bar',
+  data: {
+    labels: ['Camas', 'Baños', 'Habitaciones'],
+    datasets: [{
+      data: [-7.7, 3.3, 3.4],
+      backgroundColor: ['#1c3d52', '#c9c9c9', '#c9c9c9'],
+      borderRadius: 4,
+      barThickness: 26
+    }]
+  },
+  options: {
+    indexAxis: 'y',
+    responsive: true,
+    maintainAspectRatio: false,
+    plugins: { legend: { display: false } },
+    scales: {
+      x: { grid: { display: false }, ticks: { display: false } },
+      y: { grid: { display: false }, ticks: { font: { size: 12 }, color: '#1c3d52' } }
+    }
+  }
+});
+</script>

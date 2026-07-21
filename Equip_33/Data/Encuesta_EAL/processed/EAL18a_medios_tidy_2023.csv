@@ -1,0 +1,161 @@
+﻿anio,tipo_cruce,valor_cruce,medio,porcentaje
+2023,Total,Total,Cursos propios,33.51
+2023,Total,Total,Cursos externos,72.12
+2023,Total,Total,Formación en el puesto,58.49
+2023,Total,Total,Rotación / intercambios,26.92
+2023,Total,Total,Conferencias / seminarios,34.06
+2023,Tamaño,De 5 a 9 trabajadores,Cursos propios,27.45
+2023,Tamaño,De 5 a 9 trabajadores,Cursos externos,66.5
+2023,Tamaño,De 5 a 9 trabajadores,Formación en el puesto,54.6
+2023,Tamaño,De 5 a 9 trabajadores,Rotación / intercambios,26.27
+2023,Tamaño,De 5 a 9 trabajadores,Conferencias / seminarios,31.31
+2023,Tamaño,De 10 a 49 trabajadores,Cursos propios,33.33
+2023,Tamaño,De 10 a 49 trabajadores,Cursos externos,74.87
+2023,Tamaño,De 10 a 49 trabajadores,Formación en el puesto,59.68
+2023,Tamaño,De 10 a 49 trabajadores,Rotación / intercambios,25.12
+2023,Tamaño,De 10 a 49 trabajadores,Conferencias / seminarios,32.66
+2023,Tamaño,De 50 a 249 trabajadores,Cursos propios,58.12
+2023,Tamaño,De 50 a 249 trabajadores,Cursos externos,85.3
+2023,Tamaño,De 50 a 249 trabajadores,Formación en el puesto,69.11
+2023,Tamaño,De 50 a 249 trabajadores,Rotación / intercambios,36.58
+2023,Tamaño,De 50 a 249 trabajadores,Conferencias / seminarios,51.01
+2023,Tamaño,De 250 a 499 trabajadores,Cursos propios,77.13
+2023,Tamaño,De 250 a 499 trabajadores,Cursos externos,84.65
+2023,Tamaño,De 250 a 499 trabajadores,Formación en el puesto,76.93
+2023,Tamaño,De 250 a 499 trabajadores,Rotación / intercambios,42.02
+2023,Tamaño,De 250 a 499 trabajadores,Conferencias / seminarios,60.96
+2023,Tamaño,Más de 499 trabajadores,Cursos propios,85.89
+2023,Tamaño,Más de 499 trabajadores,Cursos externos,85.07
+2023,Tamaño,Más de 499 trabajadores,Formación en el puesto,82.36
+2023,Tamaño,Más de 499 trabajadores,Rotación / intercambios,50.87
+2023,Tamaño,Más de 499 trabajadores,Conferencias / seminarios,66.0
+2023,Sector,Industria,Cursos propios,35.34
+2023,Sector,Industria,Cursos externos,72.39
+2023,Sector,Industria,Formación en el puesto,61.64
+2023,Sector,Industria,Rotación / intercambios,33.15
+2023,Sector,Industria,Conferencias / seminarios,30.58
+2023,Sector,Construcción,Cursos propios,25.61
+2023,Sector,Construcción,Cursos externos,78.55
+2023,Sector,Construcción,Formación en el puesto,63.26
+2023,Sector,Construcción,Rotación / intercambios,22.89
+2023,Sector,Construcción,Conferencias / seminarios,21.93
+2023,Sector,Comercio y reparación de vehículos,Cursos propios,34.42
+2023,Sector,Comercio y reparación de vehículos,Cursos externos,72.65
+2023,Sector,Comercio y reparación de vehículos,Formación en el puesto,58.6
+2023,Sector,Comercio y reparación de vehículos,Rotación / intercambios,28.88
+2023,Sector,Comercio y reparación de vehículos,Conferencias / seminarios,40.05
+2023,Sector,Transporte y almacenamiento,Cursos propios,29.93
+2023,Sector,Transporte y almacenamiento,Cursos externos,78.44
+2023,Sector,Transporte y almacenamiento,Formación en el puesto,53.05
+2023,Sector,Transporte y almacenamiento,Rotación / intercambios,20.15
+2023,Sector,Transporte y almacenamiento,Conferencias / seminarios,17.31
+2023,Sector,Hostelería,Cursos propios,23.46
+2023,Sector,Hostelería,Cursos externos,63.71
+2023,Sector,Hostelería,Formación en el puesto,58.23
+2023,Sector,Hostelería,Rotación / intercambios,24.86
+2023,Sector,Hostelería,Conferencias / seminarios,17.4
+2023,Sector,"Información, comunicaciones, actividades financieras, de seguros e inmobiliarias",Cursos propios,47.99
+2023,Sector,"Información, comunicaciones, actividades financieras, de seguros e inmobiliarias",Cursos externos,69.17
+2023,Sector,"Información, comunicaciones, actividades financieras, de seguros e inmobiliarias",Formación en el puesto,56.43
+2023,Sector,"Información, comunicaciones, actividades financieras, de seguros e inmobiliarias",Rotación / intercambios,29.58
+2023,Sector,"Información, comunicaciones, actividades financieras, de seguros e inmobiliarias",Conferencias / seminarios,54.29
+2023,Sector,"Actividades profesionales, científicas y técnicas",Cursos propios,44.9
+2023,Sector,"Actividades profesionales, científicas y técnicas",Cursos externos,73.32
+2023,Sector,"Actividades profesionales, científicas y técnicas",Formación en el puesto,56.03
+2023,Sector,"Actividades profesionales, científicas y técnicas",Rotación / intercambios,24.59
+2023,Sector,"Actividades profesionales, científicas y técnicas",Conferencias / seminarios,61.26
+2023,Sector,Actividades administrativas y servicios auxiliares,Cursos propios,36.89
+2023,Sector,Actividades administrativas y servicios auxiliares,Cursos externos,76.65
+2023,Sector,Actividades administrativas y servicios auxiliares,Formación en el puesto,56.93
+2023,Sector,Actividades administrativas y servicios auxiliares,Rotación / intercambios,25.15
+2023,Sector,Actividades administrativas y servicios auxiliares,Conferencias / seminarios,34.38
+2023,Sector,"Actividades artísticas, recreativas y de entretenimiento y otros servicios",Cursos propios,37.5
+2023,Sector,"Actividades artísticas, recreativas y de entretenimiento y otros servicios",Cursos externos,65.14
+2023,Sector,"Actividades artísticas, recreativas y de entretenimiento y otros servicios",Formación en el puesto,51.77
+2023,Sector,"Actividades artísticas, recreativas y de entretenimiento y otros servicios",Rotación / intercambios,26.25
+2023,Sector,"Actividades artísticas, recreativas y de entretenimiento y otros servicios",Conferencias / seminarios,46.65
+2023,CCAA,Andalucía,Cursos propios,26.8
+2023,CCAA,Andalucía,Cursos externos,73.87
+2023,CCAA,Andalucía,Formación en el puesto,55.2
+2023,CCAA,Andalucía,Rotación / intercambios,24.94
+2023,CCAA,Andalucía,Conferencias / seminarios,28.04
+2023,CCAA,Aragón,Cursos propios,31.88
+2023,CCAA,Aragón,Cursos externos,73.13
+2023,CCAA,Aragón,Formación en el puesto,58.83
+2023,CCAA,Aragón,Rotación / intercambios,29.19
+2023,CCAA,Aragón,Conferencias / seminarios,33.93
+2023,CCAA,Asturias (Principado de),Cursos propios,30.74
+2023,CCAA,Asturias (Principado de),Cursos externos,71.62
+2023,CCAA,Asturias (Principado de),Formación en el puesto,51.72
+2023,CCAA,Asturias (Principado de),Rotación / intercambios,18.69
+2023,CCAA,Asturias (Principado de),Conferencias / seminarios,30.61
+2023,CCAA,Balears (Illes),Cursos propios,36.24
+2023,CCAA,Balears (Illes),Cursos externos,65.2
+2023,CCAA,Balears (Illes),Formación en el puesto,63.49
+2023,CCAA,Balears (Illes),Rotación / intercambios,31.58
+2023,CCAA,Balears (Illes),Conferencias / seminarios,34.69
+2023,CCAA,Canarias,Cursos propios,35.81
+2023,CCAA,Canarias,Cursos externos,77.13
+2023,CCAA,Canarias,Formación en el puesto,56.96
+2023,CCAA,Canarias,Rotación / intercambios,26.24
+2023,CCAA,Canarias,Conferencias / seminarios,28.98
+2023,CCAA,Cantabria,Cursos propios,31.8
+2023,CCAA,Cantabria,Cursos externos,75.46
+2023,CCAA,Cantabria,Formación en el puesto,58.61
+2023,CCAA,Cantabria,Rotación / intercambios,19.86
+2023,CCAA,Cantabria,Conferencias / seminarios,26.85
+2023,CCAA,Castilla-La Mancha,Cursos propios,32.31
+2023,CCAA,Castilla-La Mancha,Cursos externos,73.62
+2023,CCAA,Castilla-La Mancha,Formación en el puesto,59.92
+2023,CCAA,Castilla-La Mancha,Rotación / intercambios,22.67
+2023,CCAA,Castilla-La Mancha,Conferencias / seminarios,28.12
+2023,CCAA,Castilla y León,Cursos propios,31.78
+2023,CCAA,Castilla y León,Cursos externos,71.78
+2023,CCAA,Castilla y León,Formación en el puesto,56.99
+2023,CCAA,Castilla y León,Rotación / intercambios,27.18
+2023,CCAA,Castilla y León,Conferencias / seminarios,27.65
+2023,CCAA,Cataluña,Cursos propios,35.73
+2023,CCAA,Cataluña,Cursos externos,71.75
+2023,CCAA,Cataluña,Formación en el puesto,59.73
+2023,CCAA,Cataluña,Rotación / intercambios,26.98
+2023,CCAA,Cataluña,Conferencias / seminarios,40.83
+2023,CCAA,Comunitat Valenciana,Cursos propios,29.91
+2023,CCAA,Comunitat Valenciana,Cursos externos,67.69
+2023,CCAA,Comunitat Valenciana,Formación en el puesto,60.56
+2023,CCAA,Comunitat Valenciana,Rotación / intercambios,28.96
+2023,CCAA,Comunitat Valenciana,Conferencias / seminarios,32.16
+2023,CCAA,Extremadura,Cursos propios,29.71
+2023,CCAA,Extremadura,Cursos externos,74.61
+2023,CCAA,Extremadura,Formación en el puesto,52.61
+2023,CCAA,Extremadura,Rotación / intercambios,23.5
+2023,CCAA,Extremadura,Conferencias / seminarios,30.8
+2023,CCAA,Galicia,Cursos propios,30.26
+2023,CCAA,Galicia,Cursos externos,74.33
+2023,CCAA,Galicia,Formación en el puesto,52.91
+2023,CCAA,Galicia,Rotación / intercambios,27.83
+2023,CCAA,Galicia,Conferencias / seminarios,36.93
+2023,CCAA,Madrid (Comunidad de),Cursos propios,41.93
+2023,CCAA,Madrid (Comunidad de),Cursos externos,71.07
+2023,CCAA,Madrid (Comunidad de),Formación en el puesto,63.0
+2023,CCAA,Madrid (Comunidad de),Rotación / intercambios,28.93
+2023,CCAA,Madrid (Comunidad de),Conferencias / seminarios,38.81
+2023,CCAA,Murcia (Región de),Cursos propios,30.56
+2023,CCAA,Murcia (Región de),Cursos externos,68.66
+2023,CCAA,Murcia (Región de),Formación en el puesto,60.05
+2023,CCAA,Murcia (Región de),Rotación / intercambios,27.97
+2023,CCAA,Murcia (Región de),Conferencias / seminarios,30.07
+2023,CCAA,Navarra (Comunidad Foral de),Cursos propios,34.98
+2023,CCAA,Navarra (Comunidad Foral de),Cursos externos,74.09
+2023,CCAA,Navarra (Comunidad Foral de),Formación en el puesto,55.39
+2023,CCAA,Navarra (Comunidad Foral de),Rotación / intercambios,34.66
+2023,CCAA,Navarra (Comunidad Foral de),Conferencias / seminarios,40.85
+2023,CCAA,País Vasco,Cursos propios,37.06
+2023,CCAA,País Vasco,Cursos externos,78.49
+2023,CCAA,País Vasco,Formación en el puesto,54.33
+2023,CCAA,País Vasco,Rotación / intercambios,23.55
+2023,CCAA,País Vasco,Conferencias / seminarios,33.14
+2023,CCAA,"Rioja, La",Cursos propios,32.82
+2023,CCAA,"Rioja, La",Cursos externos,67.45
+2023,CCAA,"Rioja, La",Formación en el puesto,60.63
+2023,CCAA,"Rioja, La",Rotación / intercambios,25.79
+2023,CCAA,"Rioja, La",Conferencias / seminarios,30.9

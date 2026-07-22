@@ -1,0 +1,973 @@
+﻿anio,tema,tipo_corte,corte,competencia_id,competencia,indicador,porcentaje,unidad,universo,archivo_origen,hoja_origen
+2022,formacion_ofrecida,sector,Construcción,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,11.004458756502354,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,3.409090909090909,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,0.5542482041119643,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Construcción,direccion,Dirección,formacion_ofrecida,10.951820658905127,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,1.238543472875898,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Construcción,otras,Otras,formacion_ofrecida,24.01845429774585,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Construcción,resolucion_problemas,Resolución de problemas,formacion_ofrecida,7.750185781520932,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,62.23680951201387,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Construcción,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,7.675873173148378,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,2.8579390636611346,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Construcción,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,14.559078523656181,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,12.29549226756593,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,7.33198092578444,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,0.7455805253312959,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,direccion,Dirección,formacion_ofrecida,9.668835787865216,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,9.829543957636272,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,otras,Otras,formacion_ofrecida,20.860447348315198,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,resolucion_problemas,Resolución de problemas,formacion_ofrecida,13.307163369075532,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,61.632900387280344,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,10.475011196880681,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,4.080933688120768,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Industria,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,19.561609189345837,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,17.280769920497338,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,31.00962400621675,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,1.9977284954271026,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,direccion,Dirección,formacion_ofrecida,14.900472233845418,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,10.159603084464104,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,otras,Otras,formacion_ofrecida,18.458365712236237,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,resolucion_problemas,Resolución de problemas,formacion_ofrecida,12.085599856536554,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,33.12570984517903,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,13.186681810030485,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,6.321358120628848,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,sector,Servicios,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,27.229362185426506,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,15.630854203238993,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,23.473644771683443,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,1.6013942738788345,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,direccion,Dirección,formacion_ofrecida,13.528077021844465,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,8.89438964734806,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,otras,Otras,formacion_ofrecida,19.5981359164446,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,resolucion_problemas,Resolución de problemas,formacion_ofrecida,11.690935956858338,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,41.63877697932585,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,12.004142407900884,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,5.492479256387265,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,formacion_ofrecida,total,Total,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,24.281498507638617,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2022.xlsx,EAL-21
+2022,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,bastante,45.779,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,mucho,24.143,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,nada,6.943,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,poco,23.135,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,bastante,41.936,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,mucho,20.143,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,nada,10.813,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,poco,27.109,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,30.085,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,6.537,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,20.904,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,42.473,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,direccion,Dirección,bastante,46.305,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,direccion,Dirección,mucho,26.447,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,direccion,Dirección,nada,8.706,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,direccion,Dirección,poco,18.541,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,bastante,13.168,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,mucho,3.501,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,nada,34.991,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,poco,48.34,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,bastante,48.436,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,mucho,32.533,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,nada,4.272,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,poco,14.759,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,44.854,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,30.473,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,5.528,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,19.144,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,bastante,42.463,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,mucho,11.175,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,nada,12.786,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,poco,33.576,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,bastante,21.843,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,mucho,6.045,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,nada,21.736,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,poco,50.376,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,bastante,53.961,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,mucho,37.798,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,nada,2.294,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,poco,5.947,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,bastante,48.055,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,mucho,23.626,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,nada,4.557,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,poco,23.763,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,bastante,44.358,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,mucho,28.356,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,nada,6.353,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,poco,20.932,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,35.332,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,9.625,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,15.835,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,39.209,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,direccion,Dirección,bastante,44.371,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,direccion,Dirección,mucho,30.067,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,direccion,Dirección,nada,6.771,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,direccion,Dirección,poco,18.792,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,bastante,29.738,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,mucho,11.101,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,nada,18.043,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,poco,41.118,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,bastante,49.331,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,mucho,34.256,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,nada,3.119,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,poco,13.293,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,47.435,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,33.863,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,4.854,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,13.849,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,bastante,49.634,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,mucho,15.55,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,nada,7.222,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,poco,27.594,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,bastante,33.988,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,mucho,9.221,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,nada,15.303,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,poco,41.488,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,bastante,52.843,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,mucho,39.035,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,nada,2.115,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,poco,6.007,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,bastante,42.398,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,mucho,23.893,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,nada,8.798,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,poco,24.911,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,bastante,38.709,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,mucho,47.58,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,nada,2.76,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,poco,10.952,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,33.791,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,11.056,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,17.4,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,37.753,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,direccion,Dirección,bastante,41.712,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,direccion,Dirección,mucho,28.567,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,direccion,Dirección,nada,9.324,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,direccion,Dirección,poco,20.397,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,bastante,28.618,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,mucho,16.258,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,nada,15.751,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,poco,39.373,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,bastante,48.288,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,mucho,32.215,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,nada,4.737,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,poco,14.76,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,33.088,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,17.576,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,19.651,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,29.685,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,bastante,43.632,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,mucho,17.75,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,nada,10.527,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,poco,28.09,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,bastante,25.742,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,mucho,11.281,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,nada,23.009,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,poco,39.968,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,bastante,47.177,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,mucho,43.962,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,nada,2.417,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,poco,6.444,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,bastante,43.145,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,mucho,23.748,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,nada,8.317,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,poco,24.79,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,bastante,40.028,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,mucho,41.24,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,nada,4.364,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,poco,14.368,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,32.724,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,10.03,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,18.356,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,38.89,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,bastante,42.503,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,mucho,27.575,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,nada,9.329,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,poco,20.593,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,bastante,26.212,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,mucho,13.315,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,nada,19.052,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,poco,41.421,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,bastante,48.435,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,mucho,32.104,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,nada,4.612,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,poco,14.849,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,36.367,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,21.168,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,16.055,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,26.41,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,bastante,43.803,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,mucho,15.876,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,nada,10.853,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,poco,29.468,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,bastante,25.686,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,mucho,9.544,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,nada,22.556,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,poco,42.214,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,bastante,49.238,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,mucho,41.801,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,nada,2.472,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,poco,6.489,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,bastante,50.668,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,mucho,25.854,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,nada,2.74,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,poco,20.738,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,bastante,39.323,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,mucho,39.218,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,nada,4.207,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,poco,17.251,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,43.654,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,12.873,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,8.354,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,35.119,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,bastante,45.193,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,mucho,40.441,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,nada,2.866,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,poco,11.5,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,bastante,34.262,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,mucho,20.133,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,nada,12.618,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,poco,32.988,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,bastante,48.905,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,mucho,38.386,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,nada,2.143,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,poco,10.565,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,42.593,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,28.736,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,9.405,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,19.266,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,bastante,52.309,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,mucho,24.65,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,nada,3.456,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,poco,19.585,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,bastante,36.721,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,mucho,19.139,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,nada,10.551,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,poco,33.589,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,bastante,45.124,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,mucho,49.83,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,nada,0.893,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,poco,4.153,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,bastante,52.651,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,mucho,22.261,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,nada,1.828,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,poco,23.259,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,bastante,43.319,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,mucho,40.606,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,nada,2.505,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,poco,13.57,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,49.702,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,16.452,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,4.834,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,29.013,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,bastante,46.978,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,mucho,42.535,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,nada,1.714,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,poco,8.773,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,bastante,38.298,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,mucho,23.275,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,nada,8.469,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,poco,29.958,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,bastante,48.775,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,mucho,39.955,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,nada,1.236,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,poco,10.034,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,41.027,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,33.63,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,6.771,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,18.571,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,bastante,50.314,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,mucho,34.257,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,nada,1.674,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,poco,13.755,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,bastante,42.536,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,mucho,27.731,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,nada,5.784,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,poco,23.95,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,bastante,42.374,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,mucho,53.924,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,nada,0.504,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,poco,3.198,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,bastante,43.707,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,mucho,23.883,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,nada,7.903,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,poco,24.507,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,bastante,39.998,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,mucho,41.099,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,nada,4.344,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,poco,14.56,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,33.558,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,10.258,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,17.603,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,38.581,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,direccion,Dirección,bastante,42.71,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,direccion,Dirección,mucho,28.53,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,direccion,Dirección,nada,8.849,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,direccion,Dirección,poco,19.912,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,bastante,26.824,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,mucho,13.832,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,nada,18.558,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,poco,40.786,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,bastante,48.469,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,mucho,32.573,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,nada,4.426,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,poco,14.532,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,36.815,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,21.749,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,15.553,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,25.882,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,bastante,44.416,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,mucho,16.571,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,nada,10.301,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,poco,28.712,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,bastante,26.527,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,mucho,10.294,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,nada,21.65,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,poco,41.529,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,bastante,48.921,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,mucho,42.412,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,nada,2.354,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2022,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,poco,6.313,porcentaje,Total de empresas de la categoría,Tablas_EAL_2022.xlsx,EAL-16
+2023,formacion_ofrecida,sector,Construcción,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,11.117386270578601,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,5.017931268178352,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,1.0504616948578205,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Construcción,direccion,Dirección,formacion_ofrecida,13.238076412616836,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,2.535791940812696,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Construcción,otras,Otras,formacion_ofrecida,21.480812131138283,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Construcción,resolucion_problemas,Resolución de problemas,formacion_ofrecida,5.224070256685398,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,60.44955242425098,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Construcción,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,10.657103323638212,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,2.134809250840087,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Construcción,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,21.187134668059752,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,14.693308996589654,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,9.733896921081705,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,1.191219559056631,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,direccion,Dirección,formacion_ofrecida,10.913108218454296,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,9.109467313511695,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,otras,Otras,formacion_ofrecida,19.981747442240263,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,resolucion_problemas,Resolución de problemas,formacion_ofrecida,10.387146356693405,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,56.88793890196455,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,11.383832076468611,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,4.063595753878668,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Industria,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,19.03309476920121,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,16.43423353851046,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,27.663706362005133,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,2.2582733322733777,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,direccion,Dirección,formacion_ofrecida,11.605946351102732,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,9.121675335589524,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,otras,Otras,formacion_ofrecida,18.12183432893452,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,resolucion_problemas,Resolución de problemas,formacion_ofrecida,13.872169350625752,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,33.40109478274695,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,12.771708269925274,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,7.41533604379131,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,sector,Servicios,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,27.32357417039544,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,15.40415312116101,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,21.546537946507925,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,1.9142120169537722,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,direccion,Dirección,formacion_ofrecida,11.720302260634622,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,8.198404954988762,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,otras,Otras,formacion_ofrecida,18.897609802535165,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,resolucion_problemas,Resolución de problemas,formacion_ofrecida,12.089240358825876,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,41.047325988805454,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,12.247243827002002,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,6.125399452517983,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,formacion_ofrecida,total,Total,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,25.101615980470772,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2023.xlsx,EAL-21
+2023,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,bastante,47.059,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,mucho,28.155,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,nada,6.321,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,poco,18.465,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,bastante,41.318,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,mucho,25.162,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,nada,7.952,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,poco,25.569,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,33.626,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,8.831,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,21.143,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,36.4,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,direccion,Dirección,bastante,42.947,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,direccion,Dirección,mucho,31.218,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,direccion,Dirección,nada,8.62,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,direccion,Dirección,poco,17.215,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,bastante,16.907,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,mucho,4.924,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,nada,31.214,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,poco,46.956,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,bastante,48.542,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,mucho,37.123,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,nada,4.776,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,poco,9.559,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,45.672,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,32.802,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,6.445,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,15.081,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,bastante,45.086,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,mucho,13.638,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,nada,12.926,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,poco,28.351,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,bastante,28.503,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,mucho,8.005,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,nada,23.079,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,poco,40.413,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,bastante,49.574,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,mucho,41.997,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,nada,2.185,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,poco,6.243,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,bastante,44.886,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,mucho,25.661,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,nada,5.167,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,poco,24.286,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,bastante,42.979,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,mucho,29.377,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,nada,6.253,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,poco,21.392,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,36.24,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,9.582,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,13.779,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,40.399,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,direccion,Dirección,bastante,41.366,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,direccion,Dirección,mucho,32.082,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,direccion,Dirección,nada,6.651,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,direccion,Dirección,poco,19.9,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,bastante,29.342,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,mucho,9.223,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,nada,19.481,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,poco,41.954,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,bastante,49.817,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,mucho,34.412,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,nada,3.09,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,poco,12.681,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,50.445,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,29.316,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,4.848,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,15.391,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,bastante,51.12,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,mucho,16.399,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,nada,7.945,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,poco,24.537,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,bastante,29.115,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,mucho,10.97,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,nada,16.713,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,poco,43.201,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,bastante,50.538,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,mucho,42.139,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,nada,1.444,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,poco,5.879,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,bastante,40.863,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,mucho,24.594,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,nada,7.957,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,poco,26.586,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,bastante,39.21,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,mucho,48.087,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,nada,2.386,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,poco,10.317,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,35.147,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,12.756,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,15.896,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,36.201,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,direccion,Dirección,bastante,40.664,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,direccion,Dirección,mucho,30.301,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,direccion,Dirección,nada,8.968,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,direccion,Dirección,poco,20.067,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,bastante,31.605,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,mucho,14.744,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,nada,13.819,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,poco,39.831,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,bastante,47.849,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,mucho,35.486,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,nada,3.736,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,poco,12.929,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,35.785,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,18.061,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,18.191,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,27.963,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,bastante,44.608,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,mucho,18.068,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,nada,8.827,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,poco,28.497,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,bastante,27.027,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,mucho,11.418,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,nada,21.769,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,poco,39.786,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,bastante,47.733,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,mucho,44.824,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,nada,1.843,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,poco,5.6,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,bastante,41.573,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,mucho,25.064,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,nada,7.743,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,poco,25.621,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,bastante,39.905,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,mucho,42.476,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,nada,3.76,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,poco,13.859,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,34.122,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,11.664,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,17.0,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,37.214,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,bastante,40.796,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,mucho,29.681,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,nada,9.106,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,poco,20.418,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,bastante,28.86,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,mucho,12.091,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,nada,17.314,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,poco,41.735,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,bastante,48.182,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,mucho,35.18,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,nada,3.953,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,poco,12.685,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,39.165,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,20.948,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,15.099,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,24.788,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,bastante,45.073,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,mucho,16.486,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,nada,9.664,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,poco,28.776,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,bastante,26.69,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,mucho,10.212,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,nada,22.08,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,poco,41.018,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,bastante,48.836,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,mucho,43.347,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,nada,1.912,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,poco,5.905,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,bastante,50.819,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,mucho,27.301,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,nada,2.186,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,poco,19.693,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,bastante,42.062,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,mucho,39.629,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,nada,2.92,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,poco,15.389,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,47.046,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,12.71,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,7.303,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,32.94,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,bastante,44.107,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,mucho,43.022,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,nada,2.001,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,poco,10.87,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,bastante,35.436,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,mucho,18.938,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,nada,12.42,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,poco,33.206,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,bastante,48.931,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,mucho,39.86,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,nada,1.558,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,poco,9.651,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,40.882,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,30.359,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,9.24,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,19.519,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,bastante,52.952,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,mucho,26.054,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,nada,3.967,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,poco,17.026,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,bastante,37.612,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,mucho,18.8,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,nada,10.406,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,poco,33.182,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,bastante,43.175,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,mucho,52.486,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,nada,0.782,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,poco,3.557,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,bastante,51.792,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,mucho,24.28,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,nada,1.36,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,poco,22.569,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,bastante,40.34,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,mucho,42.127,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,nada,2.309,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,poco,15.224,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,51.009,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,16.811,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,3.272,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,28.908,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,bastante,47.594,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,mucho,43.887,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,nada,1.683,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,poco,6.837,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,bastante,37.9,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,mucho,24.102,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,nada,8.274,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,poco,29.724,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,bastante,49.069,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,mucho,39.74,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,nada,1.235,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,poco,9.956,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,41.874,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,34.152,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,5.963,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,18.012,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,bastante,52.756,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,mucho,32.381,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,nada,1.152,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,poco,13.711,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,bastante,41.633,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,mucho,27.85,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,nada,3.932,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,poco,26.585,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,bastante,41.401,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,mucho,54.846,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,nada,0.563,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,poco,3.19,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,bastante,42.275,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,mucho,25.215,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,nada,7.32,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,poco,25.19,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,bastante,40.058,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,mucho,42.276,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,nada,3.693,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,poco,13.973,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,35.119,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,11.766,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,16.246,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,36.869,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,direccion,Dirección,bastante,41.065,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,direccion,Dirección,mucho,30.692,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,direccion,Dirección,nada,8.568,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,direccion,Dirección,poco,19.675,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,bastante,29.37,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,mucho,12.636,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,nada,16.922,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,poco,41.072,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,bastante,48.239,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,mucho,35.532,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,nada,3.77,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,poco,12.458,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,39.3,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,21.679,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,14.639,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,24.382,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,bastante,45.666,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,mucho,17.243,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,nada,9.219,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,poco,27.872,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,bastante,27.537,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,mucho,10.91,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,nada,21.163,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,poco,40.39,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,bastante,48.399,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,mucho,44.05,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,nada,1.826,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2023,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,poco,5.726,porcentaje,Total de empresas de la categoría,Tablas_EAL_2023.xlsx,EAL-16
+2024,formacion_ofrecida,sector,Construcción,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,14.684754300105892,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,5.801207750207492,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,1.247817749921296,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Construcción,direccion,Dirección,formacion_ofrecida,15.70361466472053,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,1.5454623508199536,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Construcción,otras,Otras,formacion_ofrecida,17.400761283306146,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Construcción,resolucion_problemas,Resolución de problemas,formacion_ofrecida,10.912681377178673,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,66.28888698091068,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Construcción,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,7.395323545405112,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,2.5385650095875905,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Construcción,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,24.630090724363928,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,19.208171157993903,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,9.157845154572724,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,1.2098073728834569,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,direccion,Dirección,formacion_ofrecida,16.486104569006123,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,9.058680615811786,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,otras,Otras,formacion_ofrecida,13.359942484567519,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,resolucion_problemas,Resolución de problemas,formacion_ofrecida,12.928576740957434,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,64.15449835138955,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,11.874953516622456,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,5.44661229144458,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Industria,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,24.620075860872152,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,16.99453314349683,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,31.456161897205707,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,1.2661804823441185,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,direccion,Dirección,formacion_ofrecida,16.439152691584518,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,8.258974665521851,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,otras,Otras,formacion_ofrecida,13.40194980925779,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,resolucion_problemas,Resolución de problemas,formacion_ofrecida,10.889695573259138,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,44.985816604897344,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,13.84158071493006,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,5.807584040691672,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,sector,Servicios,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,30.078035844319576,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,administrativas_oficina,Administrativas de oficina,formacion_ofrecida,17.027644082438602,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,atencion_clientes,Atención al público / trato a clientes,formacion_ofrecida,24.5302665679378,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,formacion_ofrecida,1.2549364432926078,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,direccion,Dirección,formacion_ofrecida,16.34734049117611,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,lenguas_extranjeras,Lenguas extranjeras,formacion_ofrecida,7.478711588300629,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,otras,Otras,formacion_ofrecida,13.934268172281872,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,resolucion_problemas,Resolución de problemas,formacion_ofrecida,11.20996853017401,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,formacion_ofrecida,50.83880970011107,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,tic_generales,Generales de tecnologías de la información,formacion_ofrecida,12.666990620757744,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,tic_profesionales,Profesionales de tecnologías de la información,formacion_ofrecida,5.3109187955078365,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,formacion_ofrecida,total,Total,trabajo_equipo,Trabajo en equipo,formacion_ofrecida,28.49484758731334,porcentaje,Empresas formadoras de la categoría,Tablas_EAL_2024.xlsx,EAL-21
+2024,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,bastante,38.818,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,mucho,28.52,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,nada,10.25,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,administrativas_oficina,Administrativas de oficina,poco,22.411,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,bastante,38.024,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,mucho,24.848,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,nada,10.004,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,atencion_clientes,Atención al público / trato a clientes,poco,27.124,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,28.081,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,7.415,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,24.034,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,40.47,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,direccion,Dirección,bastante,42.284,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,direccion,Dirección,mucho,29.546,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,direccion,Dirección,nada,9.038,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,direccion,Dirección,poco,19.132,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,bastante,13.307,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,mucho,4.13,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,nada,37.183,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,lenguas_extranjeras,Lenguas extranjeras,poco,45.38,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,bastante,43.967,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,mucho,38.748,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,nada,4.291,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,resolucion_problemas,Resolución de problemas,poco,12.994,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,40.56,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,43.51,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,6.518,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,9.411,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,bastante,38.295,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,mucho,13.05,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,nada,15.576,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tic_generales,Generales de tecnologías de la información,poco,33.079,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,bastante,22.826,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,mucho,5.884,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,nada,28.493,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,tic_profesionales,Profesionales de tecnologías de la información,poco,42.797,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,bastante,48.771,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,mucho,43.926,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,nada,1.799,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Construcción,trabajo_equipo,Trabajo en equipo,poco,5.505,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,bastante,45.127,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,mucho,26.46,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,nada,7.854,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,administrativas_oficina,Administrativas de oficina,poco,20.558,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,bastante,42.025,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,mucho,31.005,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,nada,7.136,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,atencion_clientes,Atención al público / trato a clientes,poco,19.834,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,32.408,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,9.638,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,19.333,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,38.621,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,direccion,Dirección,bastante,41.698,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,direccion,Dirección,mucho,32.801,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,direccion,Dirección,nada,8.197,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,direccion,Dirección,poco,17.305,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,bastante,23.916,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,mucho,9.544,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,nada,26.05,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,lenguas_extranjeras,Lenguas extranjeras,poco,40.489,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,bastante,46.745,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,mucho,34.453,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,nada,5.355,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,resolucion_problemas,Resolución de problemas,poco,13.448,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,43.003,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,40.867,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,5.024,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,11.106,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,bastante,44.776,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,mucho,16.735,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,nada,10.605,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tic_generales,Generales de tecnologías de la información,poco,27.884,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,bastante,27.74,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,mucho,10.59,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,nada,20.694,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,tic_profesionales,Profesionales de tecnologías de la información,poco,40.976,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,bastante,50.076,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,mucho,40.393,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,nada,2.753,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Industria,trabajo_equipo,Trabajo en equipo,poco,6.778,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,bastante,36.084,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,mucho,25.159,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,nada,11.946,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,administrativas_oficina,Administrativas de oficina,poco,26.811,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,bastante,35.976,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,mucho,50.538,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,nada,3.851,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,atencion_clientes,Atención al público / trato a clientes,poco,9.635,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,29.419,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,12.056,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,23.147,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,35.378,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,direccion,Dirección,bastante,39.637,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,direccion,Dirección,mucho,30.169,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,direccion,Dirección,nada,11.117,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,direccion,Dirección,poco,19.077,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,bastante,26.688,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,mucho,13.971,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,nada,19.897,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,lenguas_extranjeras,Lenguas extranjeras,poco,39.443,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,bastante,43.524,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,mucho,33.473,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,nada,6.288,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,resolucion_problemas,Resolución de problemas,poco,16.716,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,34.43,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,27.059,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,16.375,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,22.136,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,bastante,38.165,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,mucho,18.98,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,nada,13.863,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tic_generales,Generales de tecnologías de la información,poco,28.992,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,bastante,24.113,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,mucho,11.909,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,nada,27.918,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,tic_profesionales,Profesionales de tecnologías de la información,poco,36.061,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,bastante,43.455,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,mucho,48.677,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,nada,2.189,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,sector,Servicios,trabajo_equipo,Trabajo en equipo,poco,5.68,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,bastante,36.989,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,mucho,25.545,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,nada,11.815,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,administrativas_oficina,Administrativas de oficina,poco,25.651,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,bastante,36.884,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,mucho,44.764,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,nada,5.2,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,atencion_clientes,Atención al público / trato a clientes,poco,13.151,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,28.759,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,10.733,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,23.741,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,36.767,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,bastante,39.991,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,mucho,29.345,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,nada,11.075,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,direccion,Dirección,poco,19.589,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,bastante,23.986,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,mucho,11.519,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,nada,23.741,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,lenguas_extranjeras,Lenguas extranjeras,poco,40.753,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,bastante,43.592,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,mucho,34.104,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,nada,6.161,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,resolucion_problemas,Resolución de problemas,poco,16.142,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,36.312,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,30.638,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,13.89,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,19.16,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,bastante,38.53,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,mucho,16.983,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,nada,14.343,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_generales,Generales de tecnologías de la información,poco,30.144,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,bastante,23.711,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,mucho,10.034,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,nada,28.16,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,poco,38.095,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,bastante,45.426,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,mucho,46.277,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,nada,2.321,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,5 a 49 trabajadores,trabajo_equipo,Trabajo en equipo,poco,5.976,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,bastante,47.295,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,mucho,28.866,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,nada,2.678,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,administrativas_oficina,Administrativas de oficina,poco,21.162,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,bastante,40.501,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,mucho,38.782,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,nada,4.355,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,poco,16.362,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,40.67,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,15.208,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,10.332,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,33.79,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,bastante,43.903,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,mucho,44.026,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,nada,2.498,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,direccion,Dirección,poco,9.573,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,bastante,31.244,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,mucho,18.217,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,nada,14.822,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,poco,35.718,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,bastante,49.81,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,mucho,36.493,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,nada,2.76,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,resolucion_problemas,Resolución de problemas,poco,10.937,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,38.807,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,38.263,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,7.808,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,15.121,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,bastante,46.86,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,mucho,28.343,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,nada,4.697,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_generales,Generales de tecnologías de la información,poco,20.101,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,bastante,33.533,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,mucho,21.409,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,nada,12.16,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,poco,32.897,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,bastante,41.538,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,mucho,53.297,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,nada,1.103,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,50 a 499 trabajadores,trabajo_equipo,Trabajo en equipo,poco,4.062,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,bastante,49.752,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,mucho,26.166,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,nada,2.211,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,administrativas_oficina,Administrativas de oficina,poco,21.871,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,bastante,37.806,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,mucho,43.472,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,nada,2.959,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,atencion_clientes,Atención al público / trato a clientes,poco,15.763,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,45.866,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,20.057,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,4.952,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,29.125,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,bastante,42.912,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,mucho,47.628,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,nada,1.219,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,direccion,Dirección,poco,8.24,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,bastante,36.148,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,mucho,22.384,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,nada,8.034,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,lenguas_extranjeras,Lenguas extranjeras,poco,33.434,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,bastante,49.421,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,mucho,37.427,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,nada,1.237,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,resolucion_problemas,Resolución de problemas,poco,11.915,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,37.88,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,39.435,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,6.08,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,16.604,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,bastante,48.346,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,mucho,35.022,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,nada,2.056,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_generales,Generales de tecnologías de la información,poco,14.576,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,bastante,39.324,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,mucho,28.758,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,nada,6.458,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,tic_profesionales,Profesionales de tecnologías de la información,poco,25.46,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,bastante,40.67,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,mucho,56.333,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,nada,0.35,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,tamano_empresa,Más de 499 trabajadores,trabajo_equipo,Trabajo en equipo,poco,2.647,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,bastante,37.788,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,mucho,25.782,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,nada,11.117,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,administrativas_oficina,Administrativas de oficina,poco,25.313,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,bastante,37.144,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,mucho,44.336,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,nada,5.128,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,atencion_clientes,Atención al público / trato a clientes,poco,13.392,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,bastante,29.697,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,mucho,11.102,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,nada,22.688,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,basicas_calculo_comunicacion,Básicas de cálculo y/o comunicación oral o escrita,poco,36.513,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,direccion,Dirección,bastante,40.283,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,direccion,Dirección,mucho,30.484,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,direccion,Dirección,nada,10.414,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,direccion,Dirección,poco,18.818,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,bastante,24.568,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,mucho,12.054,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,nada,23.022,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,lenguas_extranjeras,Lenguas extranjeras,poco,40.356,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,bastante,44.063,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,mucho,34.292,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,nada,5.893,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,resolucion_problemas,Resolución de problemas,poco,15.752,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,bastante,36.496,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,mucho,31.226,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,nada,13.417,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tecnicas_puesto,Competencias técnicas del puesto de trabajo,poco,18.861,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,bastante,39.173,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,mucho,17.888,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,nada,13.593,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tic_generales,Generales de tecnologías de la información,poco,29.346,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,bastante,24.493,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,mucho,10.944,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,nada,26.908,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,tic_profesionales,Profesionales de tecnologías de la información,poco,37.656,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,bastante,45.125,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,mucho,46.829,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,nada,2.224,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16
+2024,importancia_futura,total,Total,trabajo_equipo,Trabajo en equipo,poco,5.822,porcentaje,Total de empresas de la categoría,Tablas_EAL_2024.xlsx,EAL-16

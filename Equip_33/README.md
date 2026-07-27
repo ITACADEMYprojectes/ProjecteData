@@ -118,9 +118,9 @@ flowchart TB
 ```
 
 | Bloque | Hallazgo principal |
-|---|:---:|---|
-| Competencias | | Técnicas del puesto (45%), atención al cliente (31,5%) y trabajo en equipo (30,1%) lideran la oferta formativa 2024 |
-| Medios | | Cursos externos (79,7%) y formación en el puesto (52%) dominan sobre conferencias/rotación |
+|---|---|
+| Competencias | Técnicas del puesto (45%), atención al cliente (31,5%) y trabajo en equipo (30,1%) lideran la oferta formativa 2024 |
+| Medios | Cursos externos (79,7%) y formación en el puesto (52%) dominan sobre conferencias/rotación |
 | **Barreras** | **Carga de trabajo/falta de tiempo (55%)** y **percepción de nivel ya adecuado (53%)** — únicas barreras >50%. Test Z por tramos (2022→23, 2023→24): **6 de 16 cambios año a año son fiables**; solo la falta de oferta formativa muestra tendencia creciente sostenida |
 
 ---

@@ -1,8 +1,7 @@
 <div align="center">
 
-# 📊 People Analytics — Simulador empresarial (Equip 33)
+# 📊 People Analytics
 
-### IT Academy · Barcelona Activa — Bootcamp de Data Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
@@ -98,9 +97,7 @@ Project/ProjecteData/Equip_33/
 - Regresión logística ordinal (4 niveles): los antecedentes disciplinarios **multiplican por 5,5** la probabilidad de absentismo elevado; el nivel "Severo" concentra el **67% de las jornadas perdidas**
 - KPI de desempeño compuesto (8 indicadores): la **carga de trabajo** es el único predictor robusto y negativo, consistente en los 8 KPIs (Spearman −0,10 a −0,13)
 
----
-
-## 📚 Sprint 4 · Tendencias formativas del sector
+### 📚 Sprint 4 · Tendencias formativas del sector
 
 **Pregunta de negocio:** ¿Cómo ajustar las políticas de formación para alinearlas con las tendencias del sector — competencias clave, medios utilizados y barreras más comunes — y aumentar el impacto del desarrollo profesional?
 
@@ -120,7 +117,7 @@ flowchart TB
     style P fill:#2E7D46,color:#fff
 ```
 
-| Bloque | Autor | Hallazgo principal |
+| Bloque | Hallazgo principal |
 |---|:---:|---|
 | Competencias | | Técnicas del puesto (45%), atención al cliente (31,5%) y trabajo en equipo (30,1%) lideran la oferta formativa 2024 |
 | Medios | | Cursos externos (79,7%) y formación en el puesto (52%) dominan sobre conferencias/rotación |
